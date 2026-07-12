@@ -100,4 +100,6 @@
 <tr><td>Spin Master</td><td>Project Coordinator</td><td>Ontario</td><td>2026-07-12</td></tr>
 <tr><td>Universal Music Group</td><td>Coordinator, Release Planning</td><td>Santa Monica</td><td>2026-07-12</td></tr>
 <tr><td>Banklife</td><td>Wealth Management Administrative Associate (csc Or Csc In Progress)</td><td>Montreal</td><td>2026-07-12</td></tr>
+<tr><td>Canadiantirecarrieres</td><td>Analyst, Ecomm Fraud Strategy</td><td>Canada</td><td>2026-07-12</td></tr>
+<tr><td>Canadiantirecareers</td><td>Credit Risk Strategist</td><td>Canada</td><td>2026-07-12</td></tr>
 </table>
