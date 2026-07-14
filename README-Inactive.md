@@ -234,4 +234,60 @@
 <tr><td>Jobs Ups</td><td>Admin Assistant</td><td>Calgary</td><td>2026-07-13</td></tr>
 <tr><td>Universal Music</td><td>Coordinator, Release Planning</td><td>Santa Monica</td><td>2026-07-13</td></tr>
 <tr><td>Levis Media</td><td>Levi's® Part Time Supervisor - Yorkdale</td><td>Toronto</td><td>2026-07-13</td></tr>
+<tr><td>100</td><td>Shell Assessed Internship Programme (september 2026) / Programme De Stages Évalués De Shell (septembre 2026) - Canada</td><td>Edmonton</td><td>2026-07-14</td></tr>
+<tr><td>Overwaitea Food Group Ltd Partnership</td><td>Pharmacy Intern</td><td>Vernon</td><td>2026-07-14</td></tr>
+<tr><td>Agropur</td><td>Intern - Fixed Schedule</td><td>Canada</td><td>2026-07-14</td></tr>
+<tr><td>Dana</td><td>Eng_co-op/intern/trainee</td><td>Montreal</td><td>2026-07-14</td></tr>
+<tr><td>Aviva Insurance Direct</td><td>Actuarial Analyst</td><td>Canada</td><td>2026-07-14</td></tr>
+<tr><td>Alberta Motor Association</td><td>Risk Analyst</td><td>Canada</td><td>2026-07-14</td></tr>
+<tr><td>AVEVA Group plc</td><td>Business Analyst -financial Reporting & Analytics</td><td>Calgary</td><td>2026-07-14</td></tr>
+<tr><td>Sun Life</td><td>Bilingual Investigative Analyst - Fraud Risk Management</td><td>Canada</td><td>2026-07-14</td></tr>
+<tr><td>AVEVA Solutions Ltd</td><td>Business Analyst -financial Reporting & Analytics</td><td>Calgary</td><td>2026-07-14</td></tr>
+<tr><td>Co-op 2</td><td>Full-time Pharmacist</td><td>North Battleford</td><td>2026-07-14</td></tr>
+<tr><td>Co-op 2</td><td>Part-time Pharmacist</td><td>North Battleford</td><td>2026-07-14</td></tr>
+<tr><td>Centre of Genomics and Policy</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-07-14</td></tr>
+<tr><td>Ricoh 2</td><td>Field Service Technician</td><td>Toronto</td><td>2026-07-14</td></tr>
+<tr><td>Ricoh</td><td>Field Service Technician</td><td>Toronto</td><td>2026-07-14</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Technical Service Specialist</td><td>Toronto</td><td>2026-07-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vans: Sales Associate - Park Royal Shopping Centre</td><td>Canada</td><td>2026-07-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vans: Seasonal Sales Associate - Vaughn Mills</td><td>Canada</td><td>2026-07-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vans: Seasonal Sales Associate - Rideau Centre</td><td>Canada</td><td>2026-07-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vans: Seasonal Sales Associate - Mapleview</td><td>Canada</td><td>2026-07-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vans: Seasonal Sales Associate - Southgate Centre</td><td>Southgate Centre</td><td>2026-07-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vans: Seasonal Sales Associate - South Edmonton Commons</td><td>South Edmonton Commons</td><td>2026-07-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vans: Seasonal Sales Associate - West Edmonton Mall</td><td>West Edmonton Mall</td><td>2026-07-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vans: Seasonal Sales Associate - Crossiron Mills</td><td>Canada</td><td>2026-07-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vans: Seasonal Sales Associate - Metropolis At Metrotown</td><td>Metropolis</td><td>2026-07-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>Vans: Seasonal Sales Associate - Park Royal Shopping Centre</td><td>Canada</td><td>2026-07-14</td></tr>
+<tr><td>The North Face</td><td>The North Face: Seasonal Sales Associate - The Outlet Collection At Niagara</td><td>Toronto</td><td>2026-07-14</td></tr>
+<tr><td>The North Face</td><td>The North Face: Seasonal Sales Associate - Granville</td><td>Granville</td><td>2026-07-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>The North Face: Sales Associate - Chinook Centre</td><td>Canada</td><td>2026-07-14</td></tr>
+<tr><td>The North Face</td><td>The North Face: Associé Aux Ventes saisonnier - Montreal</td><td>Montreal</td><td>2026-07-14</td></tr>
+<tr><td>Sustainabilityleads</td><td>Timberland: Sales Associate - Toronto Premium Outlets</td><td>Toronto</td><td>2026-07-14</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Part Time</td><td>Kelowna</td><td>2026-07-14</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate</td><td>Fort Mcmurray</td><td>2026-07-14</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Kentville</td><td>Kentville</td><td>2026-07-14</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - St Margarets Bay</td><td>Upper Tantallon</td><td>2026-07-14</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - St Margarets Bay</td><td>Upper Tantallon</td><td>2026-07-14</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Centropolis, Laval (full-time, 37.5h/week)</td><td>Montreal</td><td>2026-07-14</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Centropolis, Laval (full-time, 37.5h/week)</td><td>Montreal</td><td>2026-07-14</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Sales Associate-print&services</td><td>Edmonton</td><td>2026-07-14</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Sales Associate</td><td>Edmonton</td><td>2026-07-14</td></tr>
+<tr><td>W Brisbane</td><td>Guest Service Expert</td><td>Toronto</td><td>2026-07-14</td></tr>
+<tr><td>Aloyoga Inc</td><td>Sales Associate (part-time) - Sherway Gardens</td><td>Toronto</td><td>2026-07-14</td></tr>
+<tr><td>VF Corporation</td><td>The North Face: Sales Associate - West Edmonton</td><td>West Edmonton</td><td>2026-07-14</td></tr>
+<tr><td>Reformation</td><td>Sales Associate, Part-time - Eaton Centre, Toronto</td><td>Toronto</td><td>2026-07-14</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Mandarin And/or Cantonese And/or Korean Language Skills An Asset</td><td>Vancouver</td><td>2026-07-14</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Mandarin And/or Korean Language Skills An Asset</td><td>Vancouver</td><td>2026-07-14</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Mandarin And/or Korean Language Skills An Asset</td><td>Vancouver</td><td>2026-07-14</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Mandarin And/or Cantonese And/or Korean Language Skills An Asset</td><td>Vancouver</td><td>2026-07-14</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Summerside - Future Opportunities</td><td>Edmonton</td><td>2026-07-14</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Summerside - Future Opportunities</td><td>Edmonton</td><td>2026-07-14</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Toronto Central - Future Opportunities</td><td>Toronto</td><td>2026-07-14</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Toronto Central - Future Opportunities</td><td>Toronto</td><td>2026-07-14</td></tr>
+<tr><td>Jobgether</td><td>Community Relations Specialist</td><td>Canada</td><td>2026-07-14</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant (mandarin And Cantonese Speaking)</td><td>Toronto</td><td>2026-07-14</td></tr>
+<tr><td>Thales</td><td>Adjoint(e) Administratif(ve)</td><td>Montreal</td><td>2026-07-14</td></tr>
+<tr><td>Welcomematservices</td><td>Executive Assistant</td><td>Santa Clara</td><td>2026-07-14</td></tr>
+<tr><td>944game Inc</td><td>Executive Assistant</td><td>Santa Clara</td><td>2026-07-14</td></tr>
 </table>
