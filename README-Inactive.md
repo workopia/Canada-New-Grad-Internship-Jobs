@@ -290,4 +290,33 @@
 <tr><td>Thales</td><td>Adjoint(e) Administratif(ve)</td><td>Montreal</td><td>2026-07-14</td></tr>
 <tr><td>Welcomematservices</td><td>Executive Assistant</td><td>Santa Clara</td><td>2026-07-14</td></tr>
 <tr><td>944game Inc</td><td>Executive Assistant</td><td>Santa Clara</td><td>2026-07-14</td></tr>
+<tr><td>Investment Management Corporation of Ontario</td><td>Intern, Tax</td><td>Toronto</td><td>2026-07-15</td></tr>
+<tr><td>iamsothere.ca</td><td>Stage D'observation (étudiant(e) En Asurance)</td><td>Canada</td><td>2026-07-15</td></tr>
+<tr><td>e11even.ca</td><td>Finance Intern</td><td>Toronto</td><td>2026-07-15</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, International Tax Services (fall 2026) Toronto - Bay St</td><td>Toronto</td><td>2026-07-15</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, International Tax Services (fall 2026) Vancouver</td><td>Vancouver</td><td>2026-07-15</td></tr>
+<tr><td>CAE Australia</td><td>It Security Analyst</td><td>Canada</td><td>2026-07-15</td></tr>
+<tr><td>Smartcop</td><td>Spécialiste En Configuration Logiciel / Software Configuration Specialist</td><td>Montreal</td><td>2026-07-15</td></tr>
+<tr><td>Manulife</td><td>Support Analyst</td><td>Ontario</td><td>2026-07-15</td></tr>
+<tr><td>Intact Financial Corporation</td><td>It User Support I</td><td>Canada</td><td>2026-07-15</td></tr>
+<tr><td>Intact Insurance</td><td>It User Support I</td><td>Canada</td><td>2026-07-15</td></tr>
+<tr><td>Halfspace ApS</td><td>Technical Support Analyst</td><td>San Jose</td><td>2026-07-15</td></tr>
+<tr><td>Medhost</td><td>Spécialiste En Configuration Logiciel / Software Configuration Specialist</td><td>Montreal</td><td>2026-07-15</td></tr>
+<tr><td>Halfspace ApS</td><td>Partners In Performance - Performance Strategy Business Analyst</td><td>Canada</td><td>2026-07-15</td></tr>
+<tr><td>Aveva Group</td><td>Business Analyst -financial Reporting & Analytics</td><td>Calgary</td><td>2026-07-15</td></tr>
+<tr><td>Extendicare Inc</td><td>Casual Hca</td><td>Canada</td><td>2026-07-15</td></tr>
+<tr><td>Virtual Care Provider</td><td>Casual Hca</td><td>Canada</td><td>2026-07-15</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Community Mental Health Nurse</td><td>Ile</td><td>2026-07-15</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Public Health Nurse</td><td>Biggar</td><td>2026-07-15</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Maintenance Technician I</td><td>Montreal</td><td>2026-07-15</td></tr>
+<tr><td>Chartwell Retirement Residences</td><td>Maintenance Aide</td><td>Edmonton</td><td>2026-07-15</td></tr>
+<tr><td>Sunriseatwolfchase</td><td>Insurance And Wealth Associate, Prospr By Sun Life</td><td>Toronto</td><td>2026-07-15</td></tr>
+<tr><td>SunLife</td><td>Insurance And Wealth Associate, Prospr By Sun Life</td><td>Toronto</td><td>2026-07-15</td></tr>
+<tr><td>Intact Financial</td><td>Associate, Sales & Customer Service</td><td>Toronto</td><td>2026-07-15</td></tr>
+<tr><td>Best Buy Canada</td><td>Full-time Warehouse Associate</td><td>Toronto</td><td>2026-07-15</td></tr>
+<tr><td>dentalcorp.ca</td><td>Administrative Assistant - Orijin Dental</td><td>Calgary</td><td>2026-07-15</td></tr>
+<tr><td>Jobgether</td><td>Case Coordinator</td><td>Canada</td><td>2026-07-15</td></tr>
+<tr><td>Wells Fargo</td><td>Branch Operations Coordinator Westside District</td><td>Santa Monica +6</td><td>2026-07-15</td></tr>
+<tr><td>dentalcorp.ca</td><td>Administrative Assistant - Discovery Dental</td><td>Canada</td><td>2026-07-15</td></tr>
+<tr><td>Trimac Dental Centre</td><td>Administrative Assistant - Trimac Dental Centre - Dr. Scott Maclean</td><td>Canada</td><td>2026-07-15</td></tr>
 </table>

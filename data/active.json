@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-14",
- "count": 679,
+ "asOf": "2026-07-15",
+ "count": 681,
  "jobs": {
   "784051": {
    "id": "784051",
@@ -13,6 +13,36 @@
    "company": "HP",
    "role": "College Intern",
    "location": "Toronto"
+  },
+  "4313670": {
+   "id": "4313670",
+   "company": "COGIR Real Estate",
+   "role": "Care Partner",
+   "location": "North Bay"
+  },
+  "934e45a44604fc3b84e84dc80f9274ab": {
+   "id": "934e45a44604fc3b84e84dc80f9274ab",
+   "company": "Watermancanyonpa",
+   "role": "Fall 2026 Music·team Internship",
+   "location": "Los Angeles +5"
+  },
+  "6ac131bd97cf5bf8ea337da1f33092f9": {
+   "id": "6ac131bd97cf5bf8ea337da1f33092f9",
+   "company": "Watermancanyonpa",
+   "role": "Fall 2026 Internship - Golf Talent",
+   "location": "Toronto"
+  },
+  "ae84a11441ffc9f3c9af91df539c1cdd": {
+   "id": "ae84a11441ffc9f3c9af91df539c1cdd",
+   "company": "PCL Constructors Westcoast Inc.",
+   "role": "Virtual Construction Student",
+   "location": "Vancouver"
+  },
+  "0029a7515af081a2a80df7605b20a86e": {
+   "id": "0029a7515af081a2a80df7605b20a86e",
+   "company": "Vidéotron",
+   "role": "Stagiaire Informatique",
+   "location": "Montreal"
   },
   "be9c760b265c059729027e7138a55ae5": {
    "id": "be9c760b265c059729027e7138a55ae5",
@@ -254,6 +284,12 @@
    "role": "Pain Portfolio Marketing Intern (12-month Internship)",
    "location": "Toronto"
   },
+  "ec7c5bef6417c198ee33058c165ecd3d": {
+   "id": "ec7c5bef6417c198ee33058c165ecd3d",
+   "company": "Connor, Clark & Lunn Financial Group (CC&L)",
+   "role": "Intern, Investment Analytics Engagement",
+   "location": "Vancouver"
+  },
   "ac5d23c18c670ab1e7bac5c64d13d298": {
    "id": "ac5d23c18c670ab1e7bac5c64d13d298",
    "company": "Valsoft Corporation",
@@ -458,35 +494,11 @@
    "role": "Intern, Digital Marketing ( Fan Services)",
    "location": "Toronto"
   },
-  "345fccad718de190f8cbdf86f0f9e78c": {
-   "id": "345fccad718de190f8cbdf86f0f9e78c",
-   "company": "Investment Management Corporation of Ontario",
-   "role": "Intern, Tax",
-   "location": "Toronto"
-  },
-  "f89ebb8326bc232d6b526f62a0c043a8": {
-   "id": "f89ebb8326bc232d6b526f62a0c043a8",
-   "company": "iamsothere.ca",
-   "role": "Stage D'observation (étudiant(e) En Asurance)",
-   "location": "Canada"
-  },
-  "001e83575c7688e10aeef5319cec027e": {
-   "id": "001e83575c7688e10aeef5319cec027e",
-   "company": "e11even.ca",
-   "role": "Finance Intern",
-   "location": "Toronto"
-  },
-  "52de9dc45c005446a44ad792fb4259b0": {
-   "id": "52de9dc45c005446a44ad792fb4259b0",
-   "company": "BDO",
-   "role": "Co-op Or Intern, International Tax Services (fall 2026) Toronto - Bay St",
-   "location": "Toronto"
-  },
-  "0f9528bfce0c88e4bf3e769bebb94e5d": {
-   "id": "0f9528bfce0c88e4bf3e769bebb94e5d",
-   "company": "BDO",
-   "role": "Co-op Or Intern, International Tax Services (fall 2026) Vancouver",
-   "location": "Vancouver"
+  "9e4b1a7a328377ef38be1b09f6140a62": {
+   "id": "9e4b1a7a328377ef38be1b09f6140a62",
+   "company": "Drweng",
+   "role": "Software Developer Intern",
+   "location": "Montreal"
   },
   "9cd8069919b5bc34896747a1904c5790": {
    "id": "9cd8069919b5bc34896747a1904c5790",
@@ -715,6 +727,42 @@
    "company": "AVEVA Group plc",
    "role": "Cloud Operations & Infrastructure Graduate - Canada",
    "location": "Calgary"
+  },
+  "441c00d57ce06b3ad43b968fe7fed1de": {
+   "id": "441c00d57ce06b3ad43b968fe7fed1de",
+   "company": "Jobgether",
+   "role": "Software Engineer Ii, Backend (ml Training & Serving)",
+   "location": "Canada"
+  },
+  "37985f662eace3aa11054c880dabcac1": {
+   "id": "37985f662eace3aa11054c880dabcac1",
+   "company": "DoorDash USA",
+   "role": "Software Engineer I, Entry-level (graduation Date: Fall 2025-summer 2026)",
+   "location": "New York +4"
+  },
+  "08a37992bfea877ba3b815a8fc80977b": {
+   "id": "08a37992bfea877ba3b815a8fc80977b",
+   "company": "Jobgether",
+   "role": "Staff Software Engineer - Ai Marketing",
+   "location": "Canada"
+  },
+  "1cd5963c69c9a78620bff4d43ab4d831": {
+   "id": "1cd5963c69c9a78620bff4d43ab4d831",
+   "company": "Jobgether",
+   "role": "Backend Infrastructure Engineer",
+   "location": "Canada"
+  },
+  "427ad3c9acf9b7b5d33037e5f19a2221": {
+   "id": "427ad3c9acf9b7b5d33037e5f19a2221",
+   "company": "Jobgether",
+   "role": "Growth Engineer, Support Engineering",
+   "location": "Canada"
+  },
+  "8bc4b73a627ac9adc1d1f1a359b0e122": {
+   "id": "8bc4b73a627ac9adc1d1f1a359b0e122",
+   "company": "GFT Technologies Canada Inc",
+   "role": "Desarrollador/a Java Microservicios",
+   "location": "B"
   },
   "b5ab38c6562ae73b1b126664bcd5c9e7": {
    "id": "b5ab38c6562ae73b1b126664bcd5c9e7",
@@ -950,6 +998,12 @@
    "role": "Software Engineer Ii - Android",
    "location": "Toronto"
   },
+  "0a9c4cce4247e3ad12fb9da54569e419": {
+   "id": "0a9c4cce4247e3ad12fb9da54569e419",
+   "company": "Welltower Inc.",
+   "role": "It Support Analyst - Toronto (onsite)",
+   "location": "Toronto"
+  },
   "fa47c8bb07dadcf569f0c39b75ec813f": {
    "id": "fa47c8bb07dadcf569f0c39b75ec813f",
    "company": "HelloFresh",
@@ -1154,48 +1208,6 @@
    "role": "Support Analyst",
    "location": "Ontario"
   },
-  "889a6b71223abf0b4281926a2929517d": {
-   "id": "889a6b71223abf0b4281926a2929517d",
-   "company": "CAE Australia",
-   "role": "It Security Analyst",
-   "location": "Canada"
-  },
-  "8c4297967b92629e1737dae8f042494d": {
-   "id": "8c4297967b92629e1737dae8f042494d",
-   "company": "Smartcop",
-   "role": "Spécialiste En Configuration Logiciel / Software Configuration Specialist",
-   "location": "Montreal"
-  },
-  "17369a725cf04cd196165272e7478dd6": {
-   "id": "17369a725cf04cd196165272e7478dd6",
-   "company": "Manulife",
-   "role": "Support Analyst",
-   "location": "Ontario"
-  },
-  "10e984fc71b4bf5aacc015e7521e1c90": {
-   "id": "10e984fc71b4bf5aacc015e7521e1c90",
-   "company": "Intact Financial Corporation",
-   "role": "It User Support I",
-   "location": "Canada"
-  },
-  "ca90f2025e410bee0cbb7e9402c8c6b0": {
-   "id": "ca90f2025e410bee0cbb7e9402c8c6b0",
-   "company": "Intact Insurance",
-   "role": "It User Support I",
-   "location": "Canada"
-  },
-  "a56c46388883dc1d23e6b0215f22f7be": {
-   "id": "a56c46388883dc1d23e6b0215f22f7be",
-   "company": "Halfspace ApS",
-   "role": "Technical Support Analyst",
-   "location": "San Jose"
-  },
-  "3c1da1ec545ef4114d553741ad2dfdc8": {
-   "id": "3c1da1ec545ef4114d553741ad2dfdc8",
-   "company": "Medhost",
-   "role": "Spécialiste En Configuration Logiciel / Software Configuration Specialist",
-   "location": "Montreal"
-  },
   "45f0c98d97cea7b401aecd43bc29811c": {
    "id": "45f0c98d97cea7b401aecd43bc29811c",
    "company": "Bombardier",
@@ -1333,6 +1345,12 @@
    "company": "298",
    "role": "C-it-105 Data Analyst Intern",
    "location": "Montreal"
+  },
+  "ac465dff60f0cdc2ae4dce3673c372d1": {
+   "id": "ac465dff60f0cdc2ae4dce3673c372d1",
+   "company": "Fccfac",
+   "role": "Data Product Analyst, Customer Management Solutions",
+   "location": "Canada"
   },
   "413042ca7e8727690c58eb692461e3f0": {
    "id": "413042ca7e8727690c58eb692461e3f0",
@@ -1676,6 +1694,12 @@
    "role": "Mercer / Actuarial Analyst – Retirement & Health Benefits – Toronto - 2026 New Grad",
    "location": "Toronto"
   },
+  "4fdcbf3ccaf939fe9000cd07257be93f": {
+   "id": "4fdcbf3ccaf939fe9000cd07257be93f",
+   "company": "Dollarama Inc",
+   "role": "Conseiller, Conformité Consommateurs",
+   "location": "Mont"
+  },
   "96122f91b349bd268120c1d1e2c26115": {
    "id": "96122f91b349bd268120c1d1e2c26115",
    "company": "City of Toronto",
@@ -1692,6 +1716,12 @@
    "id": "2fb05bfeb0a25da77a2d010a640bec65",
    "company": "City of Toronto",
    "role": "Business Analyst Finance & Treasury Services (policies & Procedures)",
+   "location": "Toronto"
+  },
+  "6ca5cb42c282b57b267d6a004fc5e734": {
+   "id": "6ca5cb42c282b57b267d6a004fc5e734",
+   "company": "Retirement World",
+   "role": "Analyst, Mid-market Mergers & Acquisitions",
    "location": "Toronto"
   },
   "60c83947bbba2a7249ed0f90dc54cf4e": {
@@ -2144,17 +2174,23 @@
    "role": "Technical Business Analyst",
    "location": "Calgary"
   },
-  "03dc4f5f58abfa88ae814d35fa944f73": {
-   "id": "03dc4f5f58abfa88ae814d35fa944f73",
-   "company": "Halfspace ApS",
-   "role": "Partners In Performance - Performance Strategy Business Analyst",
-   "location": "Canada"
+  "7e2f72caa6393be4aaf983ec7a1690ea": {
+   "id": "7e2f72caa6393be4aaf983ec7a1690ea",
+   "company": "isc.ubc.ca",
+   "role": "Research Assistant, Digital Emergency Medicine",
+   "location": "Vancouver"
   },
-  "af490557ccc861d3bd78aa3982582731": {
-   "id": "af490557ccc861d3bd78aa3982582731",
-   "company": "Aveva Group",
-   "role": "Business Analyst -financial Reporting & Analytics",
-   "location": "Calgary"
+  "8e43b8d5de54669c8a9f452ed2163469": {
+   "id": "8e43b8d5de54669c8a9f452ed2163469",
+   "company": "Shnfoundation",
+   "role": "Pharmacy Technician - Pharmacy (talent Pool, 2026)",
+   "location": "Scarborough"
+  },
+  "f5cd633693ca8b76af56802232c52b91": {
+   "id": "f5cd633693ca8b76af56802232c52b91",
+   "company": "The Salvation Army Canada and Bermuda",
+   "role": "Registered Nurse (part Time Position)",
+   "location": "Canada"
   },
   "f0e4cbfa23c46dfd8a276de2b25540e7": {
    "id": "f0e4cbfa23c46dfd8a276de2b25540e7",
@@ -2612,35 +2648,29 @@
    "role": "Part Time Rpn- 4pm-9pm",
    "location": "Canada"
   },
-  "e69fd2901bddaf2f74a06c3ecd6404d1": {
-   "id": "e69fd2901bddaf2f74a06c3ecd6404d1",
-   "company": "Extendicare Inc",
-   "role": "Casual Hca",
-   "location": "Canada"
-  },
-  "6dc793af76d8cac6855ad9f81f063dd7": {
-   "id": "6dc793af76d8cac6855ad9f81f063dd7",
-   "company": "Virtual Care Provider",
-   "role": "Casual Hca",
-   "location": "Canada"
-  },
-  "f8ada06df23a4959e52e4ddb293949f1": {
-   "id": "f8ada06df23a4959e52e4ddb293949f1",
-   "company": "HealthCareers SK 2",
-   "role": "Nurse B - Community Mental Health Nurse",
-   "location": "Ile"
-  },
-  "8f42837398916bb79a0aa9810803c2f1": {
-   "id": "8f42837398916bb79a0aa9810803c2f1",
-   "company": "HealthCareers SK 2",
-   "role": "Nurse B - Public Health Nurse",
-   "location": "Biggar"
+  "693b1d976f0cca8bb583b704b29788f4": {
+   "id": "693b1d976f0cca8bb583b704b29788f4",
+   "company": "Aliaxis",
+   "role": "Electromécanicien",
+   "location": "Montreal"
   },
   "771b70abc97c6b35185e5a84d9dd7413": {
    "id": "771b70abc97c6b35185e5a84d9dd7413",
    "company": "NORS, S.A",
    "role": "Technicien De Chantier",
    "location": "Montreal"
+  },
+  "dbf9bc8c7881784f3f0c413de965772c": {
+   "id": "dbf9bc8c7881784f3f0c413de965772c",
+   "company": "Nestle SA",
+   "role": "Mechanic",
+   "location": "Toronto"
+  },
+  "f9bb00c5cb5f8ebe7a4dffc42969378b": {
+   "id": "f9bb00c5cb5f8ebe7a4dffc42969378b",
+   "company": "Vail Resorts Inc",
+   "role": "Fleet Maintenance",
+   "location": "Whistler"
   },
   "e3eaea1d378f0d29a26802a55abca59f": {
    "id": "e3eaea1d378f0d29a26802a55abca59f",
@@ -3008,12 +3038,6 @@
    "role": "Maintenance Technician I",
    "location": "Edmonton"
   },
-  "693b1d976f0cca8bb583b704b29788f4": {
-   "id": "693b1d976f0cca8bb583b704b29788f4",
-   "company": "Aliaxis",
-   "role": "Electromécanicien",
-   "location": "Montreal"
-  },
   "853d62b35fbbd309d614717856a24d9a": {
    "id": "853d62b35fbbd309d614717856a24d9a",
    "company": "TRUMPF SE + Co. KG",
@@ -3104,17 +3128,23 @@
    "role": "Maintenance Technician I",
    "location": "Montreal"
   },
-  "5c60493eb7b23a274d1af6bfe2cc9c31": {
-   "id": "5c60493eb7b23a274d1af6bfe2cc9c31",
-   "company": "St. Regis Hotels & Resorts",
-   "role": "Maintenance Technician I",
+  "570abad1a75846a3aeb4182ace28ef0d": {
+   "id": "570abad1a75846a3aeb4182ace28ef0d",
+   "company": "Breitling SA",
+   "role": "Sales Associate Montreal",
    "location": "Montreal"
   },
-  "18fa5f1eb1c01f67827945843bd40309": {
-   "id": "18fa5f1eb1c01f67827945843bd40309",
-   "company": "Chartwell Retirement Residences",
-   "role": "Maintenance Aide",
-   "location": "Edmonton"
+  "23ebd72b7969525f0cb48b36fb18cd75": {
+   "id": "23ebd72b7969525f0cb48b36fb18cd75",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Retail Sales Associate (seasonal) - Fairmont Banff Springs",
+   "location": "Banff"
+  },
+  "9c7588aad8fd2edd2f4272ca2419ac41": {
+   "id": "9c7588aad8fd2edd2f4272ca2419ac41",
+   "company": "Smcp",
+   "role": "Retail Sales Associate, Sandro/maje, Toronto Eaton Centre",
+   "location": "Toronto"
   },
   "8e645db2ab6f22e83ee377f7c22dfa36": {
    "id": "8e645db2ab6f22e83ee377f7c22dfa36",
@@ -3356,6 +3386,12 @@
    "role": "Customer Experience Associate - Ubc Branch, Vancouver, Bc (15 Hours/week)",
    "location": "Vancouver"
   },
+  "93730e29ac459008219d9e9e46669ef7": {
+   "id": "93730e29ac459008219d9e9e46669ef7",
+   "company": "BAILEY NELSON",
+   "role": "Part-time Sales Associate/eyewear Stylist - Orchard Park",
+   "location": "Kelowna"
+  },
   "9615601e356761b1bc2cc21a6c0b8fd5": {
    "id": "9615601e356761b1bc2cc21a6c0b8fd5",
    "company": "BCE Inc",
@@ -3572,29 +3608,29 @@
    "role": "Evening Warehouse Associate",
    "location": "Toronto"
   },
-  "83d3bb2719da12a0347671e3071e2e8c": {
-   "id": "83d3bb2719da12a0347671e3071e2e8c",
-   "company": "Sunriseatwolfchase",
-   "role": "Insurance And Wealth Associate, Prospr By Sun Life",
-   "location": "Toronto"
+  "7e3464172ee0bd71a3b2c032ea9b4721": {
+   "id": "7e3464172ee0bd71a3b2c032ea9b4721",
+   "company": "Brock University",
+   "role": "Administrative Assistant, Faculty Of Humanities",
+   "location": "St Catharines"
   },
-  "38217b4017c8c4756670d7e9e23033d2": {
-   "id": "38217b4017c8c4756670d7e9e23033d2",
-   "company": "SunLife",
-   "role": "Insurance And Wealth Associate, Prospr By Sun Life",
-   "location": "Toronto"
+  "151c5e11a299cd3fe456724ef10d49e0": {
+   "id": "151c5e11a299cd3fe456724ef10d49e0",
+   "company": "ACCIONA Energia",
+   "role": "Quality Coordinator",
+   "location": "Canada"
   },
-  "20228033aae7db9c96981a6f83dfe635": {
-   "id": "20228033aae7db9c96981a6f83dfe635",
-   "company": "Intact Financial",
-   "role": "Associate, Sales & Customer Service",
-   "location": "Toronto"
+  "d46ad6144a0c73ff6d38d755ac7a6243": {
+   "id": "d46ad6144a0c73ff6d38d755ac7a6243",
+   "company": "PCL Constructors Inc",
+   "role": "Payroll Coordinator (bilingual)",
+   "location": "Quebec"
   },
-  "f948efc8d94bec58f560108c5e45005e": {
-   "id": "f948efc8d94bec58f560108c5e45005e",
-   "company": "Best Buy Canada",
-   "role": "Full-time Warehouse Associate",
-   "location": "Toronto"
+  "7e1fbb4753cdb7c7c423edb7befd46f1": {
+   "id": "7e1fbb4753cdb7c7c423edb7befd46f1",
+   "company": "PCL Constructors Inc.",
+   "role": "Payroll Coordinator",
+   "location": "Edmonton"
   },
   "1eb59913d3c3688b3dd56279a1049812": {
    "id": "1eb59913d3c3688b3dd56279a1049812",
@@ -3607,6 +3643,12 @@
    "company": "City of Toronto",
    "role": "Administrative Assistant 2",
    "location": "Toronto"
+  },
+  "434d704ffcb1ac59a399396571ef167f": {
+   "id": "434d704ffcb1ac59a399396571ef167f",
+   "company": "The Salvation Army Canada and Bermuda",
+   "role": "Admin Assistant Temporary Fixed Term",
+   "location": "Canada"
   },
   "1742cb44f9d15d6e2627cf5f876e11ec": {
    "id": "1742cb44f9d15d6e2627cf5f876e11ec",
@@ -4045,36 +4087,6 @@
    "company": "WPP Media Australia & New Zealand",
    "role": "Programmatic Coordinator",
    "location": "Montreal"
-  },
-  "82c749ab17c7547603c55e41cf142e8c": {
-   "id": "82c749ab17c7547603c55e41cf142e8c",
-   "company": "dentalcorp.ca",
-   "role": "Administrative Assistant - Orijin Dental",
-   "location": "Calgary"
-  },
-  "3598dc8864e622366446596d083b11a5": {
-   "id": "3598dc8864e622366446596d083b11a5",
-   "company": "Jobgether",
-   "role": "Case Coordinator",
-   "location": "Canada"
-  },
-  "fd433f54ace936063b348e0d1720a9b3": {
-   "id": "fd433f54ace936063b348e0d1720a9b3",
-   "company": "Wells Fargo",
-   "role": "Branch Operations Coordinator Westside District",
-   "location": "Santa Monica +6"
-  },
-  "ab2af395ae446a3865db70c194fe03ac": {
-   "id": "ab2af395ae446a3865db70c194fe03ac",
-   "company": "dentalcorp.ca",
-   "role": "Administrative Assistant - Discovery Dental",
-   "location": "Canada"
-  },
-  "5a0564b08442b00630bec9acadcf63f9": {
-   "id": "5a0564b08442b00630bec9acadcf63f9",
-   "company": "Trimac Dental Centre",
-   "role": "Administrative Assistant - Trimac Dental Centre - Dr. Scott Maclean",
-   "location": "Canada"
   }
  }
 }
