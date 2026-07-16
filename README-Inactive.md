@@ -319,4 +319,69 @@
 <tr><td>Wells Fargo</td><td>Branch Operations Coordinator Westside District</td><td>Santa Monica +6</td><td>2026-07-15</td></tr>
 <tr><td>dentalcorp.ca</td><td>Administrative Assistant - Discovery Dental</td><td>Canada</td><td>2026-07-15</td></tr>
 <tr><td>Trimac Dental Centre</td><td>Administrative Assistant - Trimac Dental Centre - Dr. Scott Maclean</td><td>Canada</td><td>2026-07-15</td></tr>
+<tr><td>COGIR Real Estate</td><td>Care Partner</td><td>North Bay</td><td>2026-07-16</td></tr>
+<tr><td>Maple Leaf Sports & Entertainment Partnership</td><td>Content Intern</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>Maple Leaf Sports & Entertainment Partnership</td><td>Intern, Digital Marketing ( Fan Services)</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>Unity</td><td>Développeuse Ou Développeur Logiciel, Quality / Software Engineer</td><td>Montreal</td><td>2026-07-16</td></tr>
+<tr><td>Unity Technologies</td><td>Développeuse Ou Développeur Logiciel, Quality / Software Engineer</td><td>Montreal</td><td>2026-07-16</td></tr>
+<tr><td>Sturm Foods</td><td>It Desktop Support Analyst</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>Lumentum Holdings Inc</td><td>Embedded Software Devsecops Co-op</td><td>Ottawa</td><td>2026-07-16</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Back End Software Engineer</td><td>Canada</td><td>2026-07-16</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Support Analyst</td><td>Ontario</td><td>2026-07-16</td></tr>
+<tr><td>Retirement World</td><td>Actuarial Analyst - Individual Pricing</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>Intact Financial</td><td>Actuarial Analyst</td><td>Canada</td><td>2026-07-16</td></tr>
+<tr><td>Canadian Natural Resources</td><td>Technical Business Analyst</td><td>Calgary</td><td>2026-07-16</td></tr>
+<tr><td>Canadian Natural Resources Campus</td><td>Technical Business Analyst</td><td>Calgary</td><td>2026-07-16</td></tr>
+<tr><td>Unionpostacute</td><td>Rn Noc Shift</td><td>Petaluma</td><td>2026-07-16</td></tr>
+<tr><td>Redlandshealthcarecenter</td><td>Rn On Call Noc Shift</td><td>Petaluma</td><td>2026-07-16</td></tr>
+<tr><td>Valhallapa</td><td>Rn On Call Noc Shift</td><td>Petaluma</td><td>2026-07-16</td></tr>
+<tr><td>Ungerparkpa</td><td>Rn On Call Noc Shift</td><td>Petaluma</td><td>2026-07-16</td></tr>
+<tr><td>Sanjoaquinnrc</td><td>Rn On Call Noc Shift</td><td>Petaluma</td><td>2026-07-16</td></tr>
+<tr><td>Cherrywoodpa</td><td>Rn Noc Shift</td><td>Petaluma</td><td>2026-07-16</td></tr>
+<tr><td>Cherrywoodpa</td><td>Rn On Call Noc Shift</td><td>Petaluma</td><td>2026-07-16</td></tr>
+<tr><td>Pikespeakpulse</td><td>Rn Noc Shift</td><td>Petaluma</td><td>2026-07-16</td></tr>
+<tr><td>Veterinaryemergencygroupst</td><td>Emergency Registered Veterinary Technician (part Time) - Etobicoke, On</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>Veterinaryemergencygroupst</td><td>Emergency Registered Veterinary Technician - Etobicoke, On</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>Extendicare Inc</td><td>Registered Nurse-temporary Full Time- Extendicare Athabasca</td><td>Athabasca</td><td>2026-07-16</td></tr>
+<tr><td>Virtual Care Provider</td><td>Registered Nurse-temporary Full Time- Extendicare Athabasca</td><td>Athabasca</td><td>2026-07-16</td></tr>
+<tr><td>Extendicare</td><td>Registered Nurse-temporary Full Time- Extendicare Athabasca</td><td>Athabasca</td><td>2026-07-16</td></tr>
+<tr><td>CHEO</td><td>Registered Practical Nurse, Ent, Ambulatory Care – Temporary Full-time (1.0) (until April, 2028)</td><td>Ottawa</td><td>2026-07-16</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Asst/tech 2 - Nephrology</td><td>Vancouver</td><td>2026-07-16</td></tr>
+<tr><td>Centre of Genomics and Policy</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-07-16</td></tr>
+<tr><td>McGill University</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-07-16</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-07-16</td></tr>
+<tr><td>Scarborough Jobs</td><td>Registered Practical Nurse - 9w Medicine (cen) (external)</td><td>Scarborough</td><td>2026-07-16</td></tr>
+<tr><td>techaroundworld Canada</td><td>Part Time Rpn- 4pm-9pm</td><td>Canada</td><td>2026-07-16</td></tr>
+<tr><td>cogirseniorliving.ca</td><td>Part Time Rpn- 4pm-9pm</td><td>Canada</td><td>2026-07-16</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Building And Grounds Maintenance Worker</td><td>Montreal</td><td>2026-07-16</td></tr>
+<tr><td>HugeDomains</td><td>Maintenance Technician, Systems Management (t & I) (on-site)</td><td>Montreal</td><td>2026-07-16</td></tr>
+<tr><td>Siemens Healthineers</td><td>Représentant Du Service Sur Le Terrain/field Service Representative</td><td>Montreal</td><td>2026-07-16</td></tr>
+<tr><td>Marriott International</td><td>Maintenance-technician I</td><td>Montreal</td><td>2026-07-16</td></tr>
+<tr><td>Best Buy Canada</td><td>Non-licensed Maintenance Mechanic</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>Maple Leaf Foods</td><td>Service Technician Level 2 - Food Processing (6m Contract ) Country Canada Location Edmonton, Ab Date Posted 06-16-2026</td><td>Edmonton</td><td>2026-07-16</td></tr>
+<tr><td>Waterville TG</td><td>Electrotechnicien</td><td>Waterville</td><td>2026-07-16</td></tr>
+<tr><td>Humanify</td><td>Electrotechnicien</td><td>Waterville</td><td>2026-07-16</td></tr>
+<tr><td>DJ Industrial</td><td>Shop Technician</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Maintenance Technician I</td><td>Montreal</td><td>2026-07-16</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Regent Mall</td><td>Fredericton</td><td>2026-07-16</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Oakville Place</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Bramalea City Centre</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Fixed Term Contract</td><td>Calgary</td><td>2026-07-16</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis For Future Opportunities In Mississauga</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis For Future Opportunities In Mississauga</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Mandarin Or Cantonese Language Skills An Asset</td><td>Vancouver</td><td>2026-07-16</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Mandarin Or Cantonese Language Skills An Asset</td><td>Vancouver</td><td>2026-07-16</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Soir</td><td>Montreal</td><td>2026-07-16</td></tr>
+<tr><td>Wolseley Canada</td><td>Associé(e) Aux Ventes - Comptoir</td><td>Canada</td><td>2026-07-16</td></tr>
+<tr><td>BAILEY NELSON</td><td>Part-time Sales Associate/eyewear Stylist - Rbc Plaza</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>HCM Portal (UPS)</td><td>Warehouse Associate Ii - Mhe</td><td>Canada</td><td>2026-07-16</td></tr>
+<tr><td>Dogpawz</td><td>Warehouse Associate Ii - Mhe</td><td>Canada</td><td>2026-07-16</td></tr>
+<tr><td>HCM Portal (UPS)</td><td>Evening Warehouse Associate</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>Dogpawz</td><td>Evening Warehouse Associate</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>Ripple</td><td>It Support Specialist</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>Saittrojans</td><td>Administrative Assistant Ii</td><td>Calgary</td><td>2026-07-16</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Admin Assistant</td><td>Saskatoon</td><td>2026-07-16</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-07-16</td></tr>
+<tr><td>Urban Systems Ltd</td><td>Administrative Assistant</td><td>Victoria</td><td>2026-07-16</td></tr>
+<tr><td>WPP Media Australia & New Zealand</td><td>Programmatic Coordinator</td><td>Montreal</td><td>2026-07-16</td></tr>
 </table>
