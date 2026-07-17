@@ -384,4 +384,124 @@
 <tr><td>CIBC Capital Markets</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-07-16</td></tr>
 <tr><td>Urban Systems Ltd</td><td>Administrative Assistant</td><td>Victoria</td><td>2026-07-16</td></tr>
 <tr><td>WPP Media Australia & New Zealand</td><td>Programmatic Coordinator</td><td>Montreal</td><td>2026-07-16</td></tr>
+<tr><td>Maple Leaf Sports & Entertainment Partnership</td><td>Finance Intern</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Maple Leaf Sports & Entertainment Partnership</td><td>Live Entertainment & Venue Marketing Intern</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Maple Leaf Sports & Entertainment Partnership</td><td>Basketball & Franchise Operations Intern</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Maple Leaf Sports & Entertainment Partnership</td><td>Business Operations Intern, Toronto Fc & Toronto Argonauts</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>TD Bank</td><td>Associate Software Engineer</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Harrisgbs</td><td>Spécialiste En Configuration Logiciel / Software Configuration Specialist</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>Capco</td><td>Jr. Back-end Developer, Android Dev, Azure, Flutter (contractor)</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Dialpad</td><td>Software Engineer (growth)</td><td>Vancouver</td><td>2026-07-17</td></tr>
+<tr><td>Jobgether</td><td>Tier 2 Technical Support Agent</td><td>Canada</td><td>2026-07-17</td></tr>
+<tr><td>Aviva Insurance Direct</td><td>Data Scientist</td><td>Canada</td><td>2026-07-17</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Analyste - Financement Commercial Et Immobilier</td><td>Bas-Saint-Laurent</td><td>2026-07-17</td></tr>
+<tr><td>Circle K</td><td>Analyste Comptable, Conciliations (temporaire 1 An)</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>Atkinsrealis</td><td>Analyste Junior, Planification Financière Et Analyse</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>CIBC</td><td>Analyst, Technology & Innovation Investment Banking</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>CIBC</td><td>Analyst – Mid-market Mergers & Acquisitions – Bilingual</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>OMERS Administration Corporation Inc</td><td>Analyst, Total Plan Risk Management</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>LifeWorks</td><td>Benefit Analyst - Fixed Term</td><td>Canada</td><td>2026-07-17</td></tr>
+<tr><td>Retirement World</td><td>Actuarial Analyst</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Practical Nurse, Medicine Level 6, Temporary Full Time</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Nurse- Integrated Stroke Unit (isu)</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Practical Nurse - Medicine Level 6</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Nurse- Post Partum</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Pharmacist, Full Time</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Pharmacy Technician - Temporary Full Time</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Pharmacy Technician - Full Time</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Pharmacy Technician, Oncology - Full Time</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Pharmacy Technician - Temporary Part Time</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Extendicare</td><td>Registered Nurse (rn) - Part Time - Northridge Ltc</td><td>Northridge</td><td>2026-07-17</td></tr>
+<tr><td>Extendicarelongfieldsmanor</td><td>Registered Nurse Causal Elginwood Tlc</td><td>Elginwood</td><td>2026-07-17</td></tr>
+<tr><td>Extendicaremississauga</td><td>Registered Nurse Causal Elginwood Tlc</td><td>Canada</td><td>2026-07-17</td></tr>
+<tr><td>Extendicare West Oak Village</td><td>Registered Nurse Causal Elginwood Tlc</td><td>Elginwood</td><td>2026-07-17</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse Registered Psych Nurse</td><td>Leoville</td><td>2026-07-17</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>Lampman</td><td>2026-07-17</td></tr>
+<tr><td>Chartwell Retirement Residences</td><td>Guest Attendant</td><td>On</td><td>2026-07-17</td></tr>
+<tr><td>Chartwell Retirement Residences</td><td>Health Care Aide</td><td>Canada</td><td>2026-07-17</td></tr>
+<tr><td>Linwoodmeadows</td><td>Activities Assistant Part-time</td><td>Visalia</td><td>2026-07-17</td></tr>
+<tr><td>Bridgecrestpa</td><td>Activities Assistant Part-time</td><td>Visalia</td><td>2026-07-17</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Student Assistant</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Indian Ocean World Centre Research Assistant 1</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>McGill University</td><td>Indian Ocean World Centre Research Assistant 1</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>mcgillcampusstore.ca</td><td>Indian Ocean World Centre Research Assistant 1</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>Extendicareyork</td><td>Personal Support Worker (psw) - Casual - Medex</td><td>Canada</td><td>2026-07-17</td></tr>
+<tr><td>Virtual Care Provider</td><td>Personal Support Worker (psw) - Casual - Medex</td><td>Canada</td><td>2026-07-17</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse General Duty Nurse</td><td>Herbert</td><td>2026-07-17</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Full Time - Cvh Birthing Suite</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Part Time - Cvh Birthing Suite</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Casual - Cvh Birthing Suite</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Residential Care Worker - Casual</td><td>Canada</td><td>2026-07-17</td></tr>
+<tr><td>Vineyardpostacute</td><td>Rn Noc Shift</td><td>Petaluma</td><td>2026-07-17</td></tr>
+<tr><td>Andritz Oy</td><td>Field Service Technician</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>HelloFresh</td><td>Maintenance Technician I</td><td>Edmonton</td><td>2026-07-17</td></tr>
+<tr><td>TRUMPF SE + Co. KG</td><td>Field Service Technician</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>STANLEY Access Technologies</td><td>Technicien De Service/automatic Door Service Technician</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>Rite-Hite</td><td>Service Tech 1 - Can</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Westclermonthealthplex</td><td>Mmf - Mécanicien De Machine Fixe Class 2b/2a – Opérateur Centrale</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>Suburbannissanoffarmingtonhills</td><td>Représentant Du Service Sur Le Terrain/field Service Representative</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Rockland Branch,mont Royal Qc (30h/week)</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate (part-time) - Toronto East Central District</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Northern Avenue & Highway 17, On (18.75 Hours/week)</td><td>Sault Ste Marie</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Whitehorse, Yukon, Territory (30 Hours/week)</td><td>Whitehorse</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - highway 7 & Valleymede (part-time)</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Major Mackenzie & 404 (30 Hours/week)</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Calgary, Ab (11.25 Hours/week)</td><td>Calgary</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - North Battleford, Sk (18.75 Hours/week)</td><td>North Battleford</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate, Part-time - Terra Losa Centre, Edmonton, Ab (30 Hrs/week)</td><td>Edmonton</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Mission Village, Kelowna, Bc (22.5 Hours/week)</td><td>Kelowna</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Petawawa, On - 18.75 Hours/week</td><td>Petawawa</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Kitimat Branch, Kitimat, Bc (22.50 Hours/week)</td><td>Kitimat</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Bathurst & Dupont, On (15 Hours/week)</td><td>North York</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Thompson Plaza Branch, Mb (contract- 12 Months, 30 Hours/week)</td><td>Vancouver</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - York Plaza Branch (22.50 Hours/week)</td><td>North York</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Goulds, Nl - 18.75 Hours/week</td><td>Goulds</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - plaza Langelier, Montreal Qc (18,75h/week)</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associé(e) À L'expérience Client - Plaza Langelier, Montréal Qc (18,75 H/semaine)</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associé.e, Expérience Client - Dollard-des-ormeaux, Montreal, Qc - 22,5 Hres/semaine</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Dollard-des-ormeaux, Montreal, Qc - 22.5 Hrs/week</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Vancouver Main Branch, Vancouver, Bc (37.5 Hours/week)</td><td>Vancouver</td><td>2026-07-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Ubc Branch, Vancouver, Bc (15 Hours/week)</td><td>Vancouver</td><td>2026-07-17</td></tr>
+<tr><td>BAILEY NELSON</td><td>Part-time Sales Associate/eyewear Stylist - Orchard Park</td><td>Kelowna</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Promenades Du Cuivre</td><td>Rouyn-Noranda</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Lloydminster</td><td>Lloydminster</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Carrefour Frontenac</td><td>Thetford Mines</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Gander</td><td>Gander</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Rivière-du-loup</td><td>RivièRe-Du-Loup</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Future Opportunities, Le Carrefour Rimouski</td><td>Saint-Georges</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Le Carrefour Rimouski</td><td>Rimouski</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Alpine Village Mall, Future Opportunities</td><td>Revelstoke</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Val D'or</td><td>Val-D'Or</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Banff</td><td>Banff</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Upper Canada Mall</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate</td><td>Smithers</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Future Opportunities, Rivière-du-loup</td><td>RivièRe-Du-Loup</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Highland Sq Mall</td><td>New Glasgow</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Chilkoot Centre</td><td>Whitehorse</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Exploilts Valley Mall</td><td>Grand Falls-Windsor</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Bridgeview Plaza</td><td>Miramichi</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, 362 2nd Ave</td><td>Fernie</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Les Galeries Montagnaises</td><td>Sept-ÎLes</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Charlottetown Mall</td><td>Charlottetown</td><td>2026-07-17</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Tamarack Centre</td><td>Cranbrook</td><td>2026-07-17</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Office Administrative Assistant</td><td>Maidstone</td><td>2026-07-17</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Administrative Assistant</td><td>Canada</td><td>2026-07-17</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Auxiliary Administrative Support</td><td>Kelowna</td><td>2026-07-17</td></tr>
+<tr><td>med.ubc.ca</td><td>Auxiliary Administrative Support</td><td>Kelowna</td><td>2026-07-17</td></tr>
+<tr><td>Retirement World</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Malvern Panalytical Inc</td><td>Spécialiste Soutien Technique / Customer Support Specialist</td><td>Quebec</td><td>2026-07-17</td></tr>
+<tr><td>Brock University</td><td>Administrative Assistant, Faculty Of Education (burlington Campus)</td><td>Guelph</td><td>2026-07-17</td></tr>
+<tr><td>BMO</td><td>Private Wealth Administrative Assistant - Waterloo, Fall 2026 (co-op/internship) - 4 Months</td><td>Kitchener</td><td>2026-07-17</td></tr>
+<tr><td>Bank of Montreal</td><td>Private Wealth Administrative Assistant - Waterloo, Fall 2026 (co-op/internship) - 4 Months</td><td>Kitchener</td><td>2026-07-17</td></tr>
+<tr><td>isc.ubc.ca</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-07-17</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-07-17</td></tr>
+<tr><td>isc.ubc.ca</td><td>Mgh Program Coordinator</td><td>Vancouver</td><td>2026-07-17</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Mgh Program Coordinator</td><td>Vancouver</td><td>2026-07-17</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Graduate Programs Coordinator</td><td>Vancouver</td><td>2026-07-17</td></tr>
+<tr><td>ACCIONA Energia</td><td>Environmental Coordinator</td><td>Canada</td><td>2026-07-17</td></tr>
+<tr><td>stv</td><td>Project Coordinator - Healthcare Sector</td><td>Los Angeles</td><td>2026-07-17</td></tr>
+<tr><td>OzMRS</td><td>Executive Assistant</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>OMERS Administration Corporation Inc</td><td>Executive Assistant</td><td>Toronto</td><td>2026-07-17</td></tr>
+<tr><td>Collge Boral</td><td>Travailleuse Ou Travailleur, Soutien Administratif Et Gestion Des Médias Sociaux</td><td>Brantford</td><td>2026-07-17</td></tr>
+<tr><td>Cdmexperiences</td><td>Operations Assistant Gta & Qc (3-month Contract)/adjoint(e) Aux Opérations Gta & Qc (contrat De 3 Mois)</td><td>Montreal</td><td>2026-07-17</td></tr>
 </table>
