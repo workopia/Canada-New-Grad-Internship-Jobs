@@ -504,4 +504,83 @@
 <tr><td>OMERS Administration Corporation Inc</td><td>Executive Assistant</td><td>Toronto</td><td>2026-07-17</td></tr>
 <tr><td>Collge Boral</td><td>Travailleuse Ou Travailleur, Soutien Administratif Et Gestion Des Médias Sociaux</td><td>Brantford</td><td>2026-07-17</td></tr>
 <tr><td>Cdmexperiences</td><td>Operations Assistant Gta & Qc (3-month Contract)/adjoint(e) Aux Opérations Gta & Qc (contrat De 3 Mois)</td><td>Montreal</td><td>2026-07-17</td></tr>
+<tr><td>J&J FAMILY OF COMPANIES</td><td>International Recruitment And Development Program_internship 2026_canada</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>Fox Corporation</td><td>Fall 2026 Fox Corporation Internship Program - Business And Legal Affairs</td><td>Los Angeles</td><td>2026-07-18</td></tr>
+<tr><td>Fox Corporation</td><td>Fall 2026 Fox Corporation Internship Program - Los Angeles, Ca</td><td>Los Angeles</td><td>2026-07-18</td></tr>
+<tr><td>120</td><td>Alberta Pharmacy Interns</td><td>Alberta</td><td>2026-07-18</td></tr>
+<tr><td>Atkinsrealis</td><td>Indigenous Training Internship Program</td><td>Kincardine</td><td>2026-07-18</td></tr>
+<tr><td>BMO Global Asset Management</td><td>Database Analyst, Fall 2026 (co-op/internship) - 4 Months</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>Wells Fargo</td><td>2027 Global Payments & Liquidity Internship – Early Careers</td><td>New York +3</td><td>2026-07-18</td></tr>
+<tr><td>Bloom Energy</td><td>Control Center Operations Specialist</td><td>San Jose</td><td>2026-07-18</td></tr>
+<tr><td>KRAFTON Montreal Studio Inc</td><td>Tools Programmer / Programmeur-euse Outils</td><td>Montreal</td><td>2026-07-18</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, Ordering</td><td>Vancouver</td><td>2026-07-18</td></tr>
+<tr><td>Intact Financial</td><td>It User Support I</td><td>Canada</td><td>2026-07-18</td></tr>
+<tr><td>Jobgether</td><td>Backend Crypto Engineer - L1</td><td>Canada</td><td>2026-07-18</td></tr>
+<tr><td>First American (FCT)</td><td>Analyst, Information Security</td><td>Canada</td><td>2026-07-18</td></tr>
+<tr><td>KRAFT HEINZ</td><td>Ecommerce & Business Analyst</td><td>Vancouver</td><td>2026-07-18</td></tr>
+<tr><td>agropurcareers.us</td><td>Financial Analyst – Raw Material Performance & Payment</td><td>Canada</td><td>2026-07-18</td></tr>
+<tr><td>TD Bank Group</td><td>Financial Crime Risk Investigative Analyst</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>TD Bank Group</td><td>Compliance Business Oversight Analyst I (5072)</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>TD Bank Group</td><td>It Operations Analyst Ii-batch Operations</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>TD Bank Group</td><td>It Operations Analyst Ii - Host Operations</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>Agropur</td><td>Financial Analyst – Raw Material Performance & Payment</td><td>Canada</td><td>2026-07-18</td></tr>
+<tr><td>TD Ameritrade</td><td>It Operations Analyst Ii</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Conseiller Ou Conseillère, Contrôle Et Suivi Des Risques Non Financiers</td><td>Canada</td><td>2026-07-18</td></tr>
+<tr><td>Capital District Health Authority</td><td>Graduate Nurse 2025-2026</td><td>Nova Scotia</td><td>2026-07-18</td></tr>
+<tr><td>Capital District Health Authority</td><td>Pharmacist - Seeking Experienced Candidates</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-07-18</td></tr>
+<tr><td>Hennick Humber Hospital</td><td>Registered Nurse, Emergency Department</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>Hennick Humber Hospital</td><td>Registered Nurse Paediatrics</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>Health Science North</td><td>Nursing Graduate Guarantee Opportunities For Registered Nurses</td><td>Sudbury</td><td>2026-07-18</td></tr>
+<tr><td>Health Science North</td><td>Registered Nurse - New Liskeard</td><td>New Liskeard</td><td>2026-07-18</td></tr>
+<tr><td>Health Science North</td><td>Pharmacy Technician (tech Iii)</td><td>Canada</td><td>2026-07-18</td></tr>
+<tr><td>Health Science North</td><td>Pharmacy Technician (tech Iii) X5</td><td>Canada</td><td>2026-07-18</td></tr>
+<tr><td>Health Science North</td><td>Registered Nurse - Various Opportunities</td><td>Sudbury</td><td>2026-07-18</td></tr>
+<tr><td>Health Science North</td><td>Registered Nurse - Kapuskasing</td><td>Kapuskasing</td><td>2026-07-18</td></tr>
+<tr><td>Oak Valley Health</td><td>Registered Nurse, Rehabilitation And Integrated Stroke - Full Time Temporary (until Approx Nov 2026) - Markham Stouffville Hospital</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>CHEO</td><td>Registered Nurse, Perioperative Services – Permanent Full-time (1.0)</td><td>Ottawa</td><td>2026-07-18</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Assistant/tech 2 - Participant Recruiter (vec)-1</td><td>Vancouver</td><td>2026-07-18</td></tr>
+<tr><td>mcgillcampusstore.ca</td><td>Student Research Assistant</td><td>Montreal</td><td>2026-07-18</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Student Research Assistant</td><td>Montreal</td><td>2026-07-18</td></tr>
+<tr><td>McGill University</td><td>Student Research Assistant</td><td>Montreal</td><td>2026-07-18</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Practical Nurse- Clinical Resource Team</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Practical Nurse - Adult Mental Health</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>Careers Philips</td><td>Biomedical Equipment Services Employee (onsite: Richmond Hill/vaughan, On)</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>TreeHouse Foods Inc</td><td>Master Maintenance Technician</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>Whirlpool</td><td>Appliance Technician (apprentice)</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>Pledgr</td><td>Technicien De Service Sur Le Terrain - Montréal/field Service Technician - Montréal</td><td>Montreal</td><td>2026-07-18</td></tr>
+<tr><td>Marriott International</td><td>Maintenance Attendant</td><td>Montreal</td><td>2026-07-18</td></tr>
+<tr><td>Valmet</td><td>Field Service Engineer - Automation</td><td>Montreal</td><td>2026-07-18</td></tr>
+<tr><td>JDI</td><td>Plumbing/electrical Associate</td><td>Nl</td><td>2026-07-18</td></tr>
+<tr><td>Leafsdevelopment</td><td>Warehouse (part Time Permanent)</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>e11even.ca</td><td>Warehouse (part Time Permanent)</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>Maple Leaf Sports & Entertainment Partnership</td><td>Warehouse (part Time Permanent)</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (part Time) - Square One</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>JDI</td><td>Plumbing Associate</td><td>Stellarton</td><td>2026-07-18</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Plumbing Associate</td><td>Stellarton</td><td>2026-07-18</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Associé Des Ventes</td><td>Canada</td><td>2026-07-18</td></tr>
+<tr><td>JDI</td><td>Shipping Associate</td><td>Stellarton</td><td>2026-07-18</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Shipping Associate</td><td>Stellarton</td><td>2026-07-18</td></tr>
+<tr><td>Dollar Tree Canada</td><td>Customer Service Associate I</td><td>Essex</td><td>2026-07-18</td></tr>
+<tr><td>M&xF6lnlycke Health Care</td><td>Sales Associate - British Columbia</td><td>Vancouver</td><td>2026-07-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Client Service Associate St John's</td><td>St John'S</td><td>2026-07-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Port Hawkesbury (26.25 Hours / Week)</td><td>Port Hawkesbury</td><td>2026-07-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Strathmore, Ab (26.25 Hours/week)</td><td>Calgary</td><td>2026-07-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Cobden, On - 30 Hours/week - 12 Months Contract</td><td>Cobden</td><td>2026-07-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Springdale, Nfld - 26.25 Hours/week</td><td>Springdale</td><td>2026-07-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Canmore, Ab (22.5 Hours/week)</td><td>Canmore</td><td>2026-07-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Contract Customer Experience Associate - Goderich (15 Hours/week)</td><td>Goderich</td><td>2026-07-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associé(e) À L'expérience Client - St. Laurent & Prince Arthur, Montréal, Qc (22,5 H/semaine)</td><td>Montreal</td><td>2026-07-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associé(e) À L'expérience Client - Succursale De Rockland, Mont Royal (qc) (30 H/semaine)</td><td>Montreal</td><td>2026-07-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - St. Laurent & Prince Arthur, Montreal, Qc (22,5h/week)</td><td>Montreal</td><td>2026-07-18</td></tr>
+<tr><td>SNC Lavalin</td><td>Adjoint(e) Administratif(ive)</td><td>Canada</td><td>2026-07-18</td></tr>
+<tr><td>SILHRMS</td><td>Adjoint(e) Administratif(ive)</td><td>Quebec</td><td>2026-07-18</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Assistant Ou Assistante, Gestion De Patrimoine</td><td>Canada</td><td>2026-07-18</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Corporate Responsibility Specialist - 18 Month Contract</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>GFL Environmental</td><td>Co-op Project Coordinator</td><td>Canada</td><td>2026-07-18</td></tr>
+<tr><td>Co-op 2</td><td>Administrative Assistant</td><td>Rimbey</td><td>2026-07-18</td></tr>
+<tr><td>SGS Australia Pty Ltd</td><td>Coordonnateur Architecture Et Bâtiment - Mandat Hydro Quebec</td><td>Ste-Julienne</td><td>2026-07-18</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant - Cibc Wood Gundy</td><td>Edmonton</td><td>2026-07-18</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant - Cibc Wood Gundy</td><td>Edmonton</td><td>2026-07-18</td></tr>
+<tr><td>Shipfusion</td><td>Fall 2026 Marketing Coordinator Co-op</td><td>Toronto</td><td>2026-07-18</td></tr>
+<tr><td>FortisBC Inc</td><td>Operations Support Assistant</td><td>Kelowna +1</td><td>2026-07-18</td></tr>
 </table>
