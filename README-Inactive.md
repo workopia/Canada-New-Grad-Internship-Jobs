@@ -735,4 +735,64 @@
 <tr><td>Molson Coors</td><td>Inventory Coordinator - Temporary</td><td>Stayner</td><td>2026-07-19</td></tr>
 <tr><td>191</td><td>Service Appointment Coordinator - 1 Year Contract</td><td>Toronto</td><td>2026-07-19</td></tr>
 <tr><td>American Airlines Group</td><td>Administrative Assistant, Toronto Yyz</td><td>Toronto</td><td>2026-07-19</td></tr>
+<tr><td>RTX (Raytheon Technologies)</td><td>Stage Automne 2026 - Analyse Des Affaires Et Stratégies De Tarification / Internship Fall 2026 - Business Analysis & Pricing Strategy</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>RTX (Raytheon Technologies)</td><td>Stage Automne 2026 - Analyste Des Opérations Numériques Du Commerce International / Internship Fall 2026 - Global Trade Digital Operations Analyst Intern</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>RTX (Raytheon Technologies)</td><td>Stagiaire En Logistique D'entreposage</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>Dana</td><td>Electro-magnetic Intern</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>Alterastg</td><td>(remote) Software Engineer</td><td>Canada</td><td>2026-07-20</td></tr>
+<tr><td>TD Bank</td><td>Financial Crime Risk Investigation Support Officer Ii</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Analyste En Actuariat, Actuariat Corporatif, Réserves</td><td>Canada</td><td>2026-07-20</td></tr>
+<tr><td>Franmarbuscompany</td><td>Transformational Business Analyst – Canada Benefits Data & Integrations</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>gmpdc.ca</td><td>Transformational Business Analyst – Canada Benefits Data & Integrations</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>General Motors Australia & New Zealand</td><td>Transformational Business Analyst – Canada Benefits Data & Integrations</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Cvh Nicu</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Part Time - Cvh High Risk Clinic</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse-m Cardiology</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>Centre of Genomics and Policy</td><td>Student Research Assistant</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>Centre of Genomics and Policy</td><td>Research Assistant - Prof. Saunders</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Research Assistant - Prof. Saunders</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>McKesson</td><td>Staff Pharmacist - Specialty Pharmacy</td><td>Canada</td><td>2026-07-20</td></tr>
+<tr><td>William Osler Health System</td><td>Pharmacy Technician</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>Westgategardenscarecenter</td><td>Rn - Part Time</td><td>San Francisco</td><td>2026-07-20</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse / Infirmier.ère Autorisé.e - Repost</td><td>Notre Dame De Lourdes</td><td>2026-07-20</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Intensive Care Cardiac Sciences (iccs)</td><td>Winnipeg</td><td>2026-07-20</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Services Worker</td><td>Maidstone</td><td>2026-07-20</td></tr>
+<tr><td>Cantire</td><td>Maintenance Mechanic</td><td>Canada</td><td>2026-07-20</td></tr>
+<tr><td>The North Face</td><td>The North Face - Seasonal Sales Associate - Toronto Premium Outlets</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Mandarin And/or Korean Language Skills An Asset</td><td>Vancouver</td><td>2026-07-20</td></tr>
+<tr><td>Wolseley Canada</td><td>Associé(e) D'entrepôt</td><td>Canada</td><td>2026-07-20</td></tr>
+<tr><td>Wolseley UK</td><td>Associé(e) D'entrepôt</td><td>Canada</td><td>2026-07-20</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Sales Associate (part Time)</td><td>Courtenay</td><td>2026-07-20</td></tr>
+<tr><td>Best Buy Canada</td><td>Computer Sales Associate (seasonal)</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>Burlington Stores</td><td>376 Retail Sales Associate - Part Time Jobs</td><td>Spartanburg +9</td><td>2026-07-20</td></tr>
+<tr><td>e11even.ca</td><td>Sales Associate, Premium Sales (music & Live Events)</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>Maple Leaf Sports & Entertainment Partnership</td><td>Sales Associate, Premium Sales (music & Live Events)</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>LKQ Corporation</td><td>Shipping & Receiving</td><td>Canada</td><td>2026-07-20</td></tr>
+<tr><td>LKQ</td><td>Shipping & Receiving</td><td>Canada</td><td>2026-07-20</td></tr>
+<tr><td>Likewize</td><td>Warehouse Associate</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>Staples Inc.</td><td>Sales Associate</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>JDI</td><td>Customer Service Associate</td><td>Grand Falls</td><td>2026-07-20</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Overnight Guest Service Attendant (summer Seasonal)</td><td>Whistler</td><td>2026-07-20</td></tr>
+<tr><td>Seasonsaviara</td><td>Overnight Guest Service Attendant (summer Seasonal)</td><td>Whistler</td><td>2026-07-20</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Full Time Sales Floor Associate</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Retail Store Associate Part Time, Marshalls</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>VFC Corporation</td><td>Icebreaker: Associé Aux Ventes - Touchlab Montréal</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Calgary</td><td>2026-07-20</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Chateauguay (part-time, 15h/week)</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>Aecon U.S.</td><td>Coordinator, Project</td><td>Scarborough</td><td>2026-07-20</td></tr>
+<tr><td>wcb</td><td>Administrative Assistant</td><td>Halifax</td><td>2026-07-20</td></tr>
+<tr><td>Regional Municipality of Wood Buffalo</td><td>Executive Liaison</td><td>Fort McMurray</td><td>2026-07-20</td></tr>
+<tr><td>Bombardier</td><td>Analyst, Quality Assurance Coordinator</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>Bombardier</td><td>Executive Assistant, Corporate Legal Affairs</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>Bombardier</td><td>Data And Ai Literacy Program Coordinator</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>Bombardier</td><td>Coordinator, Program / Project Control</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Iia Administrative Associate, Scotiamcleod</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - Sault Ste. Marie</td><td>Sault Ste Marie</td><td>2026-07-20</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - Brandon Branch</td><td>Brandon</td><td>2026-07-20</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - Montreal (qc)</td><td>Montreal</td><td>2026-07-20</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - Toronto Plaza</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Support Assistant - Temporary Sudbury</td><td>Sudbury</td><td>2026-07-20</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Executive Assistant - 4 Months Contract</td><td>Toronto</td><td>2026-07-20</td></tr>
 </table>
