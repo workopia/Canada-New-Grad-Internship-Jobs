@@ -795,4 +795,46 @@
 <tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - Toronto Plaza</td><td>Toronto</td><td>2026-07-20</td></tr>
 <tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Support Assistant - Temporary Sudbury</td><td>Sudbury</td><td>2026-07-20</td></tr>
 <tr><td>The Bank of Nova Scotia</td><td>Executive Assistant - 4 Months Contract</td><td>Toronto</td><td>2026-07-20</td></tr>
+<tr><td>TD Bank Group</td><td>Software Engineer I (mobile Backend Development)</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>TD Bank Group</td><td>It Support Analyst, Td Securities</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Engineering Productivity</td><td>Canada</td><td>2026-07-21</td></tr>
+<tr><td>Pret A Manger</td><td>Help Desk Support</td><td>Coronado +1</td><td>2026-07-21</td></tr>
+<tr><td>Jobgether</td><td>Agent De Support Technique / Technical Support Agent</td><td>Canada</td><td>2026-07-21</td></tr>
+<tr><td>Medhost</td><td>Technicien·ne Support Technique Junior</td><td>Canada</td><td>2026-07-21</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>It Product Support Specialist</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>TD</td><td>Financial Crime Risk Investigation Support Officer Ii</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>Virtual Care Provider</td><td>Registered Nurse (rn) - Temporary Part Time (pt) - Tuxedo Villa</td><td>Canada</td><td>2026-07-21</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Nurse - Part Time (pt) - Tuxedo Villa</td><td>Canada</td><td>2026-07-21</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Nurse (rn) - Temporary Part Time (pt) - Tuxedo Villa</td><td>Canada</td><td>2026-07-21</td></tr>
+<tr><td>Amica Senior Lifestyles</td><td>Registered Practical Nurse</td><td>London</td><td>2026-07-21</td></tr>
+<tr><td>isc.ubc.ca</td><td>Research Assistant, Digital Emergency Medicine</td><td>Vancouver</td><td>2026-07-21</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Assistant/technician 3</td><td>Vancouver</td><td>2026-07-21</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Assistant, Digital Emergency Medicine</td><td>Vancouver</td><td>2026-07-21</td></tr>
+<tr><td>Shnfoundation</td><td>Pharmacy Technician - Pharmacy (talent Pool, 2026)</td><td>Scarborough</td><td>2026-07-21</td></tr>
+<tr><td>Extendicare New Orchard Lodge Inc</td><td>Registered Nurse (rn) - Casual - Limestone Ridge</td><td>Kingston</td><td>2026-07-21</td></tr>
+<tr><td>Extendicare West Oak Village</td><td>Registered Nurse (rn) - Casual - Limestone Ridge</td><td>Kingston</td><td>2026-07-21</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse -cvh 2c General Medicine</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse (full Time)</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Maintenance Attendant</td><td>Montreal</td><td>2026-07-21</td></tr>
+<tr><td>RTX (Raytheon Technologies)</td><td>Mécanicien D'entretien Industriel</td><td>Montreal</td><td>2026-07-21</td></tr>
+<tr><td>RTX (Raytheon Technologies)</td><td>Technicien Contrôle Et Accessoires Électronique</td><td>Montreal</td><td>2026-07-21</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Part Time</td><td>Edmonton</td><td>2026-07-21</td></tr>
+<tr><td>United Parcel Service</td><td>Warehouse Associate - Preloader</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>HCM Portal (UPS)</td><td>Warehouse Associate - Preloader</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>United Parcel Service</td><td>Warehouse Associate Ii - Mhe</td><td>Hannon</td><td>2026-07-21</td></tr>
+<tr><td>HCM Portal (UPS)</td><td>Warehouse Associate Ii - Mhe</td><td>Hannon</td><td>2026-07-21</td></tr>
+<tr><td>Dogpawz</td><td>Warehouse Associate Ii - Mhe</td><td>Hannon</td><td>2026-07-21</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Donation Associate</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>Fidelity National Information Services</td><td>Securities Operations Associate Iii (canada Ops)</td><td>Canada</td><td>2026-07-21</td></tr>
+<tr><td>Worldpay (FIS)</td><td>Securities Operations Associate Iii (canada Ops)</td><td>Canada</td><td>2026-07-21</td></tr>
+<tr><td>Bunzl</td><td>Warehouse Order Selector</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>Hubdmv</td><td>Personal Insurance Associate</td><td>Winnipeg</td><td>2026-07-21</td></tr>
+<tr><td>insurewisenow.info</td><td>Personal Insurance Associate</td><td>Winnipeg</td><td>2026-07-21</td></tr>
+<tr><td>Jobsinhearst</td><td>Part-time Sales Associate</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>Emploisahearst</td><td>Part-time Sales Associate</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - St Margarets Bay</td><td>Upper Tantallon</td><td>2026-07-21</td></tr>
+<tr><td>City of Toronto</td><td>Administrative Assistant 2</td><td>Toronto</td><td>2026-07-21</td></tr>
+<tr><td>Unknown Construction 1</td><td>(asd-w) Casual School Administrative Assistant I- Fredericton/oromocto And Surrounding Areas</td><td>Fredericton</td><td>2026-07-21</td></tr>
+<tr><td>Unknown Construction 1</td><td>(asd-w) Casual School Administrative Assistant I - Woodstock And The Upper River Valley</td><td>Kitchener</td><td>2026-07-21</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Admin Assistant Temporary Fixed Term</td><td>Canada</td><td>2026-07-21</td></tr>
 </table>
