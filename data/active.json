@@ -1,5 +1,5 @@
 {
- "asOf": "2026-07-21",
+ "asOf": "2026-07-22",
  "count": 702,
  "jobs": {
   "784051": {
@@ -1820,11 +1820,23 @@
    "role": "Mercer / Actuarial Analyst – Retirement & Health Benefits – Toronto - 2026 New Grad",
    "location": "Toronto"
   },
+  "57d1eae4c2fd610819498de4cb745c3f": {
+   "id": "57d1eae4c2fd610819498de4cb745c3f",
+   "company": "Aecon U.S.",
+   "role": "Business Analyst, Co-op",
+   "location": "Toronto"
+  },
   "6561beda385c696a604a484d2a9fc224": {
    "id": "6561beda385c696a604a484d2a9fc224",
    "company": "Jobgether",
    "role": "Insurance Accounting Business Analyst",
    "location": "Canada"
+  },
+  "67eaaca7813c707ac9f46153c9aa3450": {
+   "id": "67eaaca7813c707ac9f46153c9aa3450",
+   "company": "Willis Towers Watson",
+   "role": "Actuarial Analyst",
+   "location": "Montreal"
   },
   "d8fd74ce9b21fbdfebb01659df6a1205": {
    "id": "d8fd74ce9b21fbdfebb01659df6a1205",
@@ -2288,18 +2300,6 @@
    "role": "Accountant",
    "location": "Canada"
   },
-  "9239d03d3884e80fda3085ba3668d646": {
-   "id": "9239d03d3884e80fda3085ba3668d646",
-   "company": "Jobgether",
-   "role": "Credit Risk Strategy And Analytics",
-   "location": "Canada"
-  },
-  "4b90509ca63008a662449c7362964d5d": {
-   "id": "4b90509ca63008a662449c7362964d5d",
-   "company": "TD",
-   "role": "Financial Crime Risk Investigative Analyst",
-   "location": "Toronto"
-  },
   "f7d54b619976cd67760501748e0097af": {
    "id": "f7d54b619976cd67760501748e0097af",
    "company": "Winnipeg Regional Health Authority",
@@ -2329,6 +2329,36 @@
    "company": "Capital District Health Authority",
    "role": "Care Team Assistant - Medical/surgical Unit",
    "location": "Northern Zone"
+  },
+  "c1f14d4d1a64cc2f4c7ad08fe40f816f": {
+   "id": "c1f14d4d1a64cc2f4c7ad08fe40f816f",
+   "company": "HealthCareers SK 2",
+   "role": "Nurse A - Registered Nurse Registered Psych Nurse",
+   "location": "Lloydminster"
+  },
+  "0985a1f7a519508eae80cd77e1d3ec71": {
+   "id": "0985a1f7a519508eae80cd77e1d3ec71",
+   "company": "HealthCareers SK 2",
+   "role": "Nurse A - Registered Nurse General Duty Nurse",
+   "location": "Yorkton"
+  },
+  "4ccc1ef2097287a407d87645da0568e3": {
+   "id": "4ccc1ef2097287a407d87645da0568e3",
+   "company": "HealthCareers SK 2",
+   "role": "Nurse C - Primary Care Nurse",
+   "location": "Buffalo Narrows"
+  },
+  "6be611fb21d1446edb1f6e732cfe9a35": {
+   "id": "6be611fb21d1446edb1f6e732cfe9a35",
+   "company": "HealthCareers SK 2",
+   "role": "Nurse B - Public Health Nurse",
+   "location": "Kindersley"
+  },
+  "e504036931e0570d3972d0a05eb864a5": {
+   "id": "e504036931e0570d3972d0a05eb864a5",
+   "company": "HealthCareers SK 2",
+   "role": "Pharmacy Technician",
+   "location": "Melfort"
   },
   "dde329eff8c072f4982be1c4ecde222d": {
    "id": "dde329eff8c072f4982be1c4ecde222d",
@@ -2533,24 +2563,6 @@
    "company": "Extendicare",
    "role": "Registered Nurse (rn) - Part Time - Cobourg",
    "location": "Peterborough"
-  },
-  "e6ba2b472bcd89ab45cbfdcc7bc29349": {
-   "id": "e6ba2b472bcd89ab45cbfdcc7bc29349",
-   "company": "HealthCareers SK 2",
-   "role": "Nurse A - Registered Nurse General Duty Nurse",
-   "location": "Prince Albert"
-  },
-  "65f90716d3c72daf9cc7bfd4740951f3": {
-   "id": "65f90716d3c72daf9cc7bfd4740951f3",
-   "company": "HealthCareers SK 2",
-   "role": "Nurse A - Registered Nurse Registered Psych Nurse",
-   "location": "Midale"
-  },
-  "9f38528a56dc4c4f689cedc0f4fec6c3": {
-   "id": "9f38528a56dc4c4f689cedc0f4fec6c3",
-   "company": "HealthCareers SK 2",
-   "role": "Nurse B - Public Health Nurse",
-   "location": "Lloydminster"
   },
   "513ab43c30e495ca3b7b5e1e06d0d129": {
    "id": "513ab43c30e495ca3b7b5e1e06d0d129",
@@ -2768,18 +2780,6 @@
    "role": "Healthcare Aide/nursing Assistant",
    "location": "San Francisco"
   },
-  "f9476e1d96b3e9ec12f8eaf0c2281e7f": {
-   "id": "f9476e1d96b3e9ec12f8eaf0c2281e7f",
-   "company": "Evanterracepa",
-   "role": "Healthcare Aide/nursing Assistant",
-   "location": "San Francisco"
-  },
-  "bd257c63be065a19f2c8895abee54437": {
-   "id": "bd257c63be065a19f2c8895abee54437",
-   "company": "William Osler Health System",
-   "role": "Registered Practical Nurse - Clinical Resource Team",
-   "location": "Toronto"
-  },
   "b6e2a5e65d1c816b244dde3c27cf6abe": {
    "id": "b6e2a5e65d1c816b244dde3c27cf6abe",
    "company": "Excelitas Technologies Corporation",
@@ -2797,6 +2797,18 @@
    "company": "ALSTOM TRANSPORT SA",
    "role": "Track & Ocs Technician",
    "location": "Finch"
+  },
+  "6a8d4e987024a768ee36e0bee8051dba": {
+   "id": "6a8d4e987024a768ee36e0bee8051dba",
+   "company": "HealthCareers SK 2",
+   "role": "Maintenance Services Worker",
+   "location": "Coronach"
+  },
+  "c7e77eeaf77a9c591c647440c5421b64": {
+   "id": "c7e77eeaf77a9c591c647440c5421b64",
+   "company": "A49 2",
+   "role": "Field Services Technician",
+   "location": "Toronto"
   },
   "f70c50c347799422cdab52e271eb0202": {
    "id": "f70c50c347799422cdab52e271eb0202",
@@ -2875,12 +2887,6 @@
    "company": "Kingston Resorts",
    "role": "Maintenance",
    "location": "SunOutdoors Marathon"
-  },
-  "711adc8ddf2a7fbb9818ba02b7fcac33": {
-   "id": "711adc8ddf2a7fbb9818ba02b7fcac33",
-   "company": "HealthCareers SK 2",
-   "role": "Maintenance Services Worker",
-   "location": "Lanigan"
   },
   "877cabebfa8df61d8760e045dcbdf24e": {
    "id": "877cabebfa8df61d8760e045dcbdf24e",
@@ -3254,10 +3260,10 @@
    "role": "Maintenance Technician - Fresno, Ca",
    "location": "Fresno"
   },
-  "2da19aa714e93ca5d0b36d7a24c8dba3": {
-   "id": "2da19aa714e93ca5d0b36d7a24c8dba3",
-   "company": "Hilton Worldwide",
-   "role": "Shift Mechanic",
+  "c7a1531a779439f8972572d9bb7a5159": {
+   "id": "c7a1531a779439f8972572d9bb7a5159",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "H&m Sales Advisor",
    "location": "Toronto"
   },
   "d9325169a668b3fbfcbb2f4c3f708b5d": {
@@ -3301,6 +3307,36 @@
    "company": "Manulife Financial Inc",
    "role": "Financial Sales Associate",
    "location": "Canada"
+  },
+  "e613df162d181c1d47acea2a1810bc16": {
+   "id": "e613df162d181c1d47acea2a1810bc16",
+   "company": "JDI",
+   "role": "Seasonal Sales",
+   "location": "Tracadie"
+  },
+  "0d2b34085bf1699bf07b10124a27e4c3": {
+   "id": "0d2b34085bf1699bf07b10124a27e4c3",
+   "company": "JDI / Midland Transport",
+   "role": "Seasonal Sales",
+   "location": "Tracadie"
+  },
+  "2ea794dda3dfef952e0419718caf6131": {
+   "id": "2ea794dda3dfef952e0419718caf6131",
+   "company": "QE Home / Quilts Etc",
+   "role": "Sales Associate",
+   "location": "Toronto"
+  },
+  "bc0fe173385e1604bf368149589a5f66": {
+   "id": "bc0fe173385e1604bf368149589a5f66",
+   "company": "JDI",
+   "role": "Yard Associate",
+   "location": "Bloomfield Station"
+  },
+  "7b020f126957398b8f0901259c90d524": {
+   "id": "7b020f126957398b8f0901259c90d524",
+   "company": "JDI / Midland Transport",
+   "role": "Yard Associate",
+   "location": "Bloomfield Station"
   },
   "97c531b7098476da2023af694afaa8cf": {
    "id": "97c531b7098476da2023af694afaa8cf",
@@ -3704,40 +3740,34 @@
    "role": "Warehouse Associate, Permanent Day Shift",
    "location": "Canada"
   },
-  "c2eda775ca6a3366662c76638363534b": {
-   "id": "c2eda775ca6a3366662c76638363534b",
-   "company": "Staples Inc.",
-   "role": "Sales Associate (technology)",
-   "location": "Montreal"
+  "6a2e139a488b7c56eca780661a4657bd": {
+   "id": "6a2e139a488b7c56eca780661a4657bd",
+   "company": "Aecon U.S.",
+   "role": "Project Coordinator, Co-op",
+   "location": "Scarborough"
   },
-  "adabe01d6dc1867c81a722873077bdc2": {
-   "id": "adabe01d6dc1867c81a722873077bdc2",
-   "company": "Staples Canada",
-   "role": "Sales Associate (technology)",
-   "location": "Montreal"
+  "8470f64a10f1189cd45bbe3cd7776171": {
+   "id": "8470f64a10f1189cd45bbe3cd7776171",
+   "company": "Aecon U.S.",
+   "role": "Project Coordinator- Series Training",
+   "location": "Tiverton"
   },
-  "7ef579f44f5fc5f30f565b14a9652566": {
-   "id": "7ef579f44f5fc5f30f565b14a9652566",
-   "company": "Quill (a Staples company)",
-   "role": "Sales Associate (technology)",
-   "location": "Montreal"
+  "5b39cd0fb0fc2adc01e47b583e3ad404": {
+   "id": "5b39cd0fb0fc2adc01e47b583e3ad404",
+   "company": "Aecon U.S.",
+   "role": "Co-op, Project Coordinator",
+   "location": "Ohsweken"
   },
-  "5a6ceebb10fb73e711391462df065cc9": {
-   "id": "5a6ceebb10fb73e711391462df065cc9",
-   "company": "Staples Inc.",
-   "role": "Sales Associate-print&services",
-   "location": "Toronto"
+  "00bed93a512b84d52c57c25813efa5ee": {
+   "id": "00bed93a512b84d52c57c25813efa5ee",
+   "company": "Aecon U.S.",
+   "role": "Procurement Administrator (administrative Support)",
+   "location": "Scarborough"
   },
-  "6bf0377d50bab23bd59673dac0b13ff5": {
-   "id": "6bf0377d50bab23bd59673dac0b13ff5",
-   "company": "Staples Canada",
-   "role": "Sales Associate-print&services",
-   "location": "Toronto"
-  },
-  "6109c88541112fee4ad4070899784ae0": {
-   "id": "6109c88541112fee4ad4070899784ae0",
-   "company": "Dogpawz",
-   "role": "Warehouse Associate - Preloader",
+  "d6639787fdda2c3bc218b0ebdccba3dd": {
+   "id": "d6639787fdda2c3bc218b0ebdccba3dd",
+   "company": "Aecon U.S.",
+   "role": "Project Coordinator, Co-op (kpc)",
    "location": "Toronto"
   },
   "8513cd3cbeafe004671550c0c1f2b890": {
@@ -3751,6 +3781,12 @@
    "company": "Jobgether",
    "role": "Administrative Assistant - Th-2",
    "location": "Canada"
+  },
+  "115044dc23e029cd9cbc3e89c8400c94": {
+   "id": "115044dc23e029cd9cbc3e89c8400c94",
+   "company": "HealthCareers SK 2",
+   "role": "Office Administrative Assistant",
+   "location": "North Battleford"
   },
   "643e738abcf5c4a36f3c19c2b34cd348": {
    "id": "643e738abcf5c4a36f3c19c2b34cd348",
@@ -3955,12 +3991,6 @@
    "company": "Myhines",
    "role": "Staff Assistant",
    "location": "Calgary"
-  },
-  "d231f122d68b35cd03a30b3972934db4": {
-   "id": "d231f122d68b35cd03a30b3972934db4",
-   "company": "HealthCareers SK 2",
-   "role": "Office Administrative Assistant",
-   "location": "Rosetown"
   },
   "3356264cff9922d13746eb6c2cef6d11": {
    "id": "3356264cff9922d13746eb6c2cef6d11",
@@ -4183,36 +4213,6 @@
    "company": "Richardson International",
    "role": "Administrative Assistant",
    "location": "Davidson"
-  },
-  "b75ed449c2849e62759e8979168ec920": {
-   "id": "b75ed449c2849e62759e8979168ec920",
-   "company": "Dogpawz",
-   "role": "Health & Safety Administrative Assistant",
-   "location": "Lachine"
-  },
-  "07c2f09ee2ac340aebcf06d37d127d1f": {
-   "id": "07c2f09ee2ac340aebcf06d37d127d1f",
-   "company": "HCM Portal (UPS)",
-   "role": "Health & Safety Administrative Assistant",
-   "location": "Lachine"
-  },
-  "d00280eab6f592add2f08c7894de3fd7": {
-   "id": "d00280eab6f592add2f08c7894de3fd7",
-   "company": "Jobs Ups",
-   "role": "Health & Safety Administrative Assistant",
-   "location": "Lachine"
-  },
-  "400b663882e510bd3e834b053b80daff": {
-   "id": "400b663882e510bd3e834b053b80daff",
-   "company": "Nestlé",
-   "role": "Payroll Coordinator (12-months Contract)",
-   "location": "North York"
-  },
-  "1eb59913d3c3688b3dd56279a1049812": {
-   "id": "1eb59913d3c3688b3dd56279a1049812",
-   "company": "City of Toronto",
-   "role": "Administrative Assistant 1",
-   "location": "Toronto"
   }
  }
 }

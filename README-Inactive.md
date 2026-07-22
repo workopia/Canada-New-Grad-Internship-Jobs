@@ -837,4 +837,25 @@
 <tr><td>Unknown Construction 1</td><td>(asd-w) Casual School Administrative Assistant I- Fredericton/oromocto And Surrounding Areas</td><td>Fredericton</td><td>2026-07-21</td></tr>
 <tr><td>Unknown Construction 1</td><td>(asd-w) Casual School Administrative Assistant I - Woodstock And The Upper River Valley</td><td>Kitchener</td><td>2026-07-21</td></tr>
 <tr><td>The Salvation Army Canada and Bermuda</td><td>Admin Assistant Temporary Fixed Term</td><td>Canada</td><td>2026-07-21</td></tr>
+<tr><td>Jobgether</td><td>Credit Risk Strategy And Analytics</td><td>Canada</td><td>2026-07-22</td></tr>
+<tr><td>TD</td><td>Financial Crime Risk Investigative Analyst</td><td>Toronto</td><td>2026-07-22</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse General Duty Nurse</td><td>Prince Albert</td><td>2026-07-22</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse Registered Psych Nurse</td><td>Midale</td><td>2026-07-22</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Public Health Nurse</td><td>Lloydminster</td><td>2026-07-22</td></tr>
+<tr><td>Evanterracepa</td><td>Healthcare Aide/nursing Assistant</td><td>San Francisco</td><td>2026-07-22</td></tr>
+<tr><td>William Osler Health System</td><td>Registered Practical Nurse - Clinical Resource Team</td><td>Toronto</td><td>2026-07-22</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Services Worker</td><td>Lanigan</td><td>2026-07-22</td></tr>
+<tr><td>Hilton Worldwide</td><td>Shift Mechanic</td><td>Toronto</td><td>2026-07-22</td></tr>
+<tr><td>Staples Inc.</td><td>Sales Associate (technology)</td><td>Montreal</td><td>2026-07-22</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate (technology)</td><td>Montreal</td><td>2026-07-22</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Sales Associate (technology)</td><td>Montreal</td><td>2026-07-22</td></tr>
+<tr><td>Staples Inc.</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-07-22</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-07-22</td></tr>
+<tr><td>Dogpawz</td><td>Warehouse Associate - Preloader</td><td>Toronto</td><td>2026-07-22</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Office Administrative Assistant</td><td>Rosetown</td><td>2026-07-22</td></tr>
+<tr><td>Dogpawz</td><td>Health & Safety Administrative Assistant</td><td>Lachine</td><td>2026-07-22</td></tr>
+<tr><td>HCM Portal (UPS)</td><td>Health & Safety Administrative Assistant</td><td>Lachine</td><td>2026-07-22</td></tr>
+<tr><td>Jobs Ups</td><td>Health & Safety Administrative Assistant</td><td>Lachine</td><td>2026-07-22</td></tr>
+<tr><td>Nestlé</td><td>Payroll Coordinator (12-months Contract)</td><td>North York</td><td>2026-07-22</td></tr>
+<tr><td>City of Toronto</td><td>Administrative Assistant 1</td><td>Toronto</td><td>2026-07-22</td></tr>
 </table>
