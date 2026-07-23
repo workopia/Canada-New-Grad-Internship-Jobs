@@ -858,4 +858,51 @@
 <tr><td>Jobs Ups</td><td>Health & Safety Administrative Assistant</td><td>Lachine</td><td>2026-07-22</td></tr>
 <tr><td>Nestlé</td><td>Payroll Coordinator (12-months Contract)</td><td>North York</td><td>2026-07-22</td></tr>
 <tr><td>City of Toronto</td><td>Administrative Assistant 1</td><td>Toronto</td><td>2026-07-22</td></tr>
+<tr><td>Trustflight Ltd</td><td>Marketing Graduate - Content Marketing</td><td>Vancouver</td><td>2026-07-23</td></tr>
+<tr><td>Sonymusicentertainment</td><td>Intern, Commercial Partnerships</td><td>Toronto</td><td>2026-07-23</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Banquet Intern - Fall 2026</td><td>Toronto</td><td>2026-07-23</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Compute Infrastructure</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>Canadiantirecareers</td><td>Business Analyst (two Open Roles)</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>Jobgether</td><td>Accountant</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse Registered Psych Nurse</td><td>Lloydminster</td><td>2026-07-23</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse General Duty Nurse</td><td>Yorkton</td><td>2026-07-23</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Public Health Nurse</td><td>Kindersley</td><td>2026-07-23</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Repost</td><td>Carman</td><td>2026-07-23</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>North Battleford</td><td>2026-07-23</td></tr>
+<tr><td>mcgillcampusstore.ca</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-07-23</td></tr>
+<tr><td>Virtual Care Provider</td><td>Casual Rn</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>Extendicare The Meadows</td><td>Casual Rn</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>Virtual Care Provider</td><td>Rpn Casual Mississauga</td><td>Toronto</td><td>2026-07-23</td></tr>
+<tr><td>Bridgecrestpa</td><td>Rn (noc) Part Time - Arlington Gardens</td><td>Riverside</td><td>2026-07-23</td></tr>
+<tr><td>William Osler Health System</td><td>Registered Nurse - Brampton - Labour And Delivery</td><td>Toronto</td><td>2026-07-23</td></tr>
+<tr><td>Loblaw Companies</td><td>Pharmacist</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>Bridgecrestpa</td><td>Healthcare Aide/nursing Assistant</td><td>San Francisco</td><td>2026-07-23</td></tr>
+<tr><td>Hanfordpa</td><td>Healthcare Aide/nursing Assistant</td><td>San Francisco</td><td>2026-07-23</td></tr>
+<tr><td>Amentum Pr</td><td>General Maintenance Technician Ii-3</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>heidelbergmaterials.pl</td><td>Millwright</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Maintenance</td><td>Edmonton</td><td>2026-07-23</td></tr>
+<tr><td>The Wasatch Group</td><td>Maintenance Technician - Fresno, Ca</td><td>Fresno</td><td>2026-07-23</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Full Time</td><td>Edmonton</td><td>2026-07-23</td></tr>
+<tr><td>Giant Tiger</td><td>Warehouse Associate</td><td>Johnstown</td><td>2026-07-23</td></tr>
+<tr><td>Bigtimberfasteners</td><td>Warehouse Associate</td><td>Johnstown</td><td>2026-07-23</td></tr>
+<tr><td>Jobgether</td><td>Customer Success Associate</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Au Service À La Clientèle -act</td><td>St-Apollinaire</td><td>2026-07-23</td></tr>
+<tr><td>Wolseley UK</td><td>Warehouse Associate</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>Wolseley Canada</td><td>Warehouse Associate</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>Wolseley Canada</td><td>Warehouse Associate, Permanent Day Shift</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>Wolseley UK</td><td>Warehouse Associate, Permanent Day Shift</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Clinical Coordinator</td><td>Prince Albert</td><td>2026-07-23</td></tr>
+<tr><td>Molson Canada</td><td>Inventory Coordinator - Temporary</td><td>Stayner</td><td>2026-07-23</td></tr>
+<tr><td>Circle K</td><td>Assistant-gérant</td><td>St-Augustin</td><td>2026-07-23</td></tr>
+<tr><td>Circle K</td><td>Assistant-gérant -act</td><td>Chicoutimi</td><td>2026-07-23</td></tr>
+<tr><td>Gilead Sciences</td><td>Administrative Coordinator</td><td>Foster City</td><td>2026-07-23</td></tr>
+<tr><td>Retirement World</td><td>Executive Assistant</td><td>Toronto</td><td>2026-07-23</td></tr>
+<tr><td>Oerlikon</td><td>* Quality Coordinator *</td><td>Edmonton</td><td>2026-07-23</td></tr>
+<tr><td>Brock University</td><td>Administrative Assistant, Faculty Of Humanities</td><td>St Catharines</td><td>2026-07-23</td></tr>
+<tr><td>ACCIONA Energia</td><td>Quality Coordinator</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>164</td><td>Quality Coordinator</td><td>Canada</td><td>2026-07-23</td></tr>
+<tr><td>PCL Constructors Inc</td><td>Payroll Coordinator (bilingual)</td><td>Quebec</td><td>2026-07-23</td></tr>
+<tr><td>PCL Constructors Inc.</td><td>Payroll Coordinator</td><td>Edmonton</td><td>2026-07-23</td></tr>
+<tr><td>Green Infrastructure Partners</td><td>Administrative Assistant</td><td>Timmins</td><td>2026-07-23</td></tr>
+<tr><td>Richardson International</td><td>Administrative Assistant</td><td>Davidson</td><td>2026-07-23</td></tr>
 </table>
