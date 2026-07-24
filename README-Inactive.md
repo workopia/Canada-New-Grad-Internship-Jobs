@@ -905,4 +905,87 @@
 <tr><td>PCL Constructors Inc.</td><td>Payroll Coordinator</td><td>Edmonton</td><td>2026-07-23</td></tr>
 <tr><td>Green Infrastructure Partners</td><td>Administrative Assistant</td><td>Timmins</td><td>2026-07-23</td></tr>
 <tr><td>Richardson International</td><td>Administrative Assistant</td><td>Davidson</td><td>2026-07-23</td></tr>
+<tr><td>HP</td><td>College Intern</td><td>Toronto</td><td>2026-07-24</td></tr>
+<tr><td>Appdirect</td><td>Stagiaire, Avantages Sociaux Et Paie (6 Mois)</td><td>Montreal</td><td>2026-07-24</td></tr>
+<tr><td>Valsoft Corporation</td><td>Stagiaire En F&a / M&a Internship (automne/fall)</td><td>Montreal</td><td>2026-07-24</td></tr>
+<tr><td>Cineplex</td><td>Administrative Intern - Marketing & Sales, Cineplex Pictures (3-month Contract)</td><td>Toronto</td><td>2026-07-24</td></tr>
+<tr><td>CAE Australia</td><td>C-mo-420 Manufacturing Operations Management Intern</td><td>Montreal</td><td>2026-07-24</td></tr>
+<tr><td>Jobgether</td><td>Staff Backend Software Engineer</td><td>Canada</td><td>2026-07-24</td></tr>
+<tr><td>Jobgether</td><td>Staff Software Engineer — Identity & Access Management</td><td>Canada</td><td>2026-07-24</td></tr>
+<tr><td>Jobgether</td><td>Full Stack Engineer, Link</td><td>Canada</td><td>2026-07-24</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer Ii / Mid-level Software Engineer</td><td>Canada</td><td>2026-07-24</td></tr>
+<tr><td>Pure Storage</td><td>Business Analyst, Product Analytics</td><td>Santa Clara</td><td>2026-07-24</td></tr>
+<tr><td>High Liner Foods</td><td>Financial Analyst, Commercial Fp&a</td><td>Toronto</td><td>2026-07-24</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>Kerrobert</td><td>2026-07-24</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse General Duty Nurse</td><td>Wadena</td><td>2026-07-24</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Pharmacy Technician</td><td>Melfort</td><td>2026-07-24</td></tr>
+<tr><td>Halton Region</td><td>Registered Practical Nurse (casual)</td><td>Guelph</td><td>2026-07-24</td></tr>
+<tr><td>Halton Region</td><td>Registered Nurse (casual)</td><td>Guelph</td><td>2026-07-24</td></tr>
+<tr><td>Extendicareriversideplace</td><td>Registered Nurse (rn)-casual-mayerthorpe</td><td>Mayerthorpe</td><td>2026-07-24</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Registered Nurse (rn)-casual-mayerthorpe</td><td>Mayerthorpe</td><td>2026-07-24</td></tr>
+<tr><td>Virtual Care Provider</td><td>Registered Nurse (rn)-casual-mayerthorpe</td><td>Mayerthorpe</td><td>2026-07-24</td></tr>
+<tr><td>Extendicare Mayerthorpe</td><td>Casual Health Care Aide / Care Aide - Extendicare Mayerthorpe</td><td>Mayerthorpe</td><td>2026-07-24</td></tr>
+<tr><td>Whcrecruit</td><td>Registered Nurse - Medicine (gmch) #2026-158</td><td>Guelph</td><td>2026-07-24</td></tr>
+<tr><td>Whcrecruit</td><td>Registered Nurse - Medicine (gmch) #2026-157</td><td>Guelph</td><td>2026-07-24</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse -cvh Ip Oncology</td><td>Toronto</td><td>2026-07-24</td></tr>
+<tr><td>Centre of Genomics and Policy</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-07-24</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Services Worker</td><td>Coronach</td><td>2026-07-24</td></tr>
+<tr><td>Agropurcareers</td><td>Electrical Maintenance Technician</td><td>Canada</td><td>2026-07-24</td></tr>
+<tr><td>Whirlpool</td><td>Appliance Technician - All Regions</td><td>Toronto</td><td>2026-07-24</td></tr>
+<tr><td>Arbutus Properties</td><td>Maintenance Technician</td><td>Edmonton</td><td>2026-07-24</td></tr>
+<tr><td>Owens-Illinois</td><td>Électrotechnicien</td><td>Montreal</td><td>2026-07-24</td></tr>
+<tr><td>O-I</td><td>Électrotechnicien</td><td>Montreal</td><td>2026-07-24</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Mecanicien De Machines Fixes</td><td>Canada</td><td>2026-07-24</td></tr>
+<tr><td>JDI</td><td>Yard Associate</td><td>Bloomfield Station</td><td>2026-07-24</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Yard Associate</td><td>Bloomfield Station</td><td>2026-07-24</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Part Time</td><td>Toronto</td><td>2026-07-24</td></tr>
+<tr><td>EssilorLuxottica</td><td>Sales Associate</td><td>Toronto</td><td>2026-07-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - St. Jacques Branch Montreal Qc (22.5h/week)</td><td>Montreal</td><td>2026-07-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Port Dover</td><td>Port Dover</td><td>2026-07-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Nashwaaksis, Fredericton, Nb (30 Hours / Week)</td><td>Fredericton</td><td>2026-07-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate, Part-time - Whitecourt, Ab (26.25 Hours/week)</td><td>Whitecourt</td><td>2026-07-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Brooks, Ab (26.25 Hours/week)</td><td>Brooks</td><td>2026-07-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Oakridge Centre Branch, Vancouver, Bc (30 Hours/week)</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Bancroft Branch (15 Hours/week)</td><td>Bancroft</td><td>2026-07-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Garden City Square, Winnipeg, Mb (22.5 Hours/week)</td><td>Winnipeg</td><td>2026-07-24</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Fixed Term Contract</td><td>Sault Ste Marie</td><td>2026-07-24</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Fixed Term Contract</td><td>Sault Ste Marie</td><td>2026-07-24</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Jean Talon</td><td>Montreal</td><td>2026-07-24</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Duvernay, Laval (part-time, 15h/week)</td><td>Montreal</td><td>2026-07-24</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Jean Talon</td><td>Montreal</td><td>2026-07-24</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Duvernay, Laval (part-time, 15h/week)</td><td>Montreal</td><td>2026-07-24</td></tr>
+<tr><td>Chartwell Investment Partners</td><td>Part-time Client Service Associate (irvine, Ca)</td><td>Irvine</td><td>2026-07-24</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Antigonish Mall</td><td>Antigonish</td><td>2026-07-24</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Medicine Hat Mall</td><td>Medicine Hat</td><td>2026-07-24</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Regent Mall</td><td>Fredericton</td><td>2026-07-24</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Bayers Lake</td><td>Antigonish</td><td>2026-07-24</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Sales Associate-print&services</td><td>Edmonton</td><td>2026-07-24</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>Careersatcardinalhealth</td><td>Student Warehouse Associate</td><td>Toronto</td><td>2026-07-24</td></tr>
+<tr><td>Masco</td><td>Pro Sales Associate - Pointe-claire</td><td>Pointe</td><td>2026-07-24</td></tr>
+<tr><td>VFC Corporation</td><td>The North Face - Seasonal Sales Associate - Toronto Premium Outlets</td><td>Toronto</td><td>2026-07-24</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Truro</td><td>Truro</td><td>2026-07-24</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Truro</td><td>Truro</td><td>2026-07-24</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- Korean Language Skills Are Considered An Asset.</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- Tigrinya Language Skills Are Considered An Asset</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate- Tigrinya Language Skills Are Considered An Asset</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate- Korean Language Skills Are Considered An Asset.</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Sales Associate</td><td>Montreal</td><td>2026-07-24</td></tr>
+<tr><td>McArthurGlen Group</td><td>Guest Experience Advisor</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Office Administrative Assistant</td><td>North Battleford</td><td>2026-07-24</td></tr>
+<tr><td>FCC</td><td>Customer Service Centre Specialist</td><td>Canada</td><td>2026-07-24</td></tr>
+<tr><td>BGIS</td><td>Property Services Coordinator</td><td>Kelowna</td><td>2026-07-24</td></tr>
+<tr><td>Meridian Credit Union</td><td>Broker Channel Administrative Assistant</td><td>Canada</td><td>2026-07-24</td></tr>
+<tr><td>Intelcom Group</td><td>Operations Coordinator</td><td>Canada</td><td>2026-07-24</td></tr>
+<tr><td>dentalcorp.ca</td><td>Administrative Assistant - Cityplace Dental Group</td><td>Winnipeg</td><td>2026-07-24</td></tr>
+<tr><td>UBC</td><td>Research Coordinator</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>UBC</td><td>Administrative Coordinator</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>UBC</td><td>Research Coordinator, Cedrn & Spsn</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>UBC</td><td>Administrative Assistant & Office Coordinator</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Administrative Coordinator</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Coordinator</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Administrative Assistant & Office Coordinator</td><td>Vancouver</td><td>2026-07-24</td></tr>
+<tr><td>dragonflyshipping.ca</td><td>Operations Coordinator - (pm)</td><td>Canada</td><td>2026-07-24</td></tr>
+<tr><td>Hatch Ltd</td><td>Construction Management Coop, Fall 2026, Water Bu</td><td>Toronto</td><td>2026-07-24</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Adjoint Administratif Ou Adjointe Administrative</td><td>Charlevoix</td><td>2026-07-24</td></tr>
 </table>
