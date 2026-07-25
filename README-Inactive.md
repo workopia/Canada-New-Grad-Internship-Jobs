@@ -988,4 +988,100 @@
 <tr><td>dragonflyshipping.ca</td><td>Operations Coordinator - (pm)</td><td>Canada</td><td>2026-07-24</td></tr>
 <tr><td>Hatch Ltd</td><td>Construction Management Coop, Fall 2026, Water Bu</td><td>Toronto</td><td>2026-07-24</td></tr>
 <tr><td>Desjardins General Insurance</td><td>Adjoint Administratif Ou Adjointe Administrative</td><td>Charlevoix</td><td>2026-07-24</td></tr>
+<tr><td>Ericsson</td><td>Analytics Solution Designer</td><td>Montreal</td><td>2026-07-25</td></tr>
+<tr><td>Jayhawksatkey</td><td>Pain Portfolio Marketing Intern (12-month Internship)</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Len Viral</td><td>Pain Portfolio Marketing Intern (12-month Internship)</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Connor, Clark & Lunn Financial Group (CC&L)</td><td>Intern, Investment Analytics Engagement</td><td>Vancouver</td><td>2026-07-25</td></tr>
+<tr><td>Jobgether</td><td>Technical Support Representative (seasonal)</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Missions Software</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>Jobgether</td><td>Security Analyst</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>KBR Inc</td><td>Help Desk Support</td><td>Coronado +1</td><td>2026-07-25</td></tr>
+<tr><td>CIBC</td><td>Software Engineer Ii - Android</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Welltower Inc.</td><td>It Support Analyst - Toronto (onsite)</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>HelloFresh</td><td>Frontend Engineer, Consumer</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Data Platform Risk And Operations Analyst</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Aecon Group</td><td>Business Analyst, Co-op</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Wawanesa Mutual Insurance</td><td>Actuarial Expert - Pricing Modeling</td><td>Montreal</td><td>2026-07-25</td></tr>
+<tr><td>Domtar</td><td>Business Analyst, It Operations Liaison</td><td>Montreal</td><td>2026-07-25</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Analyste En Financement - Marché Commercial Et Industriel</td><td>Montreal</td><td>2026-07-25</td></tr>
+<tr><td>Lcbowarehousejobs</td><td>Auditor (acting/contract)</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>MUFG Oceania</td><td>Analyst, Treasury</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>944game Inc</td><td>Business Analyst, Hr Technology</td><td>Santa Clara</td><td>2026-07-25</td></tr>
+<tr><td>Chartwell Retirement Residences</td><td>Guest Attendant</td><td>Dundas</td><td>2026-07-25</td></tr>
+<tr><td>Extendicare West Oak Village</td><td>Registered Nurse (rn) - Part Time - Cobourg</td><td>Peterborough</td><td>2026-07-25</td></tr>
+<tr><td>Extendicare</td><td>Registered Nurse (rn) - Part Time - Cobourg</td><td>Peterborough</td><td>2026-07-25</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Relief Residential Counsellor, Community Supported Independent Living</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Registered Nurse</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>Extendicareriversideplace</td><td>Registered Nurse</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>Extendicarecolumbiaforest</td><td>Registered Nurse</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>My Medical Sales Jobs</td><td>Clinical Trial Nurse - Per Diem Walnut Creek, Ca</td><td>Walnut Creek</td><td>2026-07-25</td></tr>
+<tr><td>Cytiva</td><td>Cell Biology R&d Co-op</td><td>Vancouver</td><td>2026-07-25</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Assistant</td><td>Vancouver</td><td>2026-07-25</td></tr>
+<tr><td>UBC</td><td>Research Assistant</td><td>Vancouver</td><td>2026-07-25</td></tr>
+<tr><td>UBC</td><td>Moraes Lab - Research Assistant Technician 4</td><td>Vancouver</td><td>2026-07-25</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Moraes Lab - Research Assistant Technician 4</td><td>Vancouver</td><td>2026-07-25</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Nurse (rn) - Cicu Sponsorship (pt Committed)</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Nurse (rn) - Cicu - Sponsorship - Ft</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Hennick Humber Hospital</td><td>Registered Nurse, 10 East &amp; West Inpatient Surgery</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Hennick Humber Hospital</td><td>Registered Nurse, 11 East &amp; West Inpatient Surgery</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>KION</td><td>Resident Maintenance Technician</td><td>Montreal</td><td>2026-07-25</td></tr>
+<tr><td>Carrier Global</td><td>Maintenance Mechanic</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>Canadian Broadcasting Corporation</td><td>General Maintenance Technician (t & I) (on-site)</td><td>Montreal</td><td>2026-07-25</td></tr>
+<tr><td>Shaw Communications</td><td>Reliability Tech C</td><td>Dalton</td><td>2026-07-25</td></tr>
+<tr><td>Shaw Communications</td><td>Reliability Tech D - Night Shift</td><td>Dalton</td><td>2026-07-25</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Calgary</td><td>2026-07-25</td></tr>
+<tr><td>Printful</td><td>Fulfillment Associate- Monday To Friday, Days</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>JDI</td><td>Appliance Sales Specialist Opportunity</td><td>Bathurst</td><td>2026-07-25</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Appliance Sales Specialist Opportunity</td><td>Edmundston</td><td>2026-07-25</td></tr>
+<tr><td>Lush</td><td>Casual Sales Ambassador - Square One</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>The North Face</td><td>The North Face: Seasonal Sales Associate - Toronto Eaton Centre</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>H&m Sales Advisor</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Carrefour Laval - Future Opportunities</td><td>Montreal</td><td>2026-07-25</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate</td><td>Edmonton</td><td>2026-07-25</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Upper Canada Mall</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Desigual</td><td>Sales Associate (m/f/d) Premium Outlets Montréal / Mirabel - Part Time</td><td>Montreal</td><td>2026-07-25</td></tr>
+<tr><td>Desigual</td><td>Conseiller (m/f/d) De Vente - Premium Outlets Mirabel - Temps Partiel (15 H)</td><td>Montreal</td><td>2026-07-25</td></tr>
+<tr><td>Jobgether</td><td>Associate - Credit Service Group</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Retail Store Associate Full Time Winners – Bathurst And Lawrence</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Financial Sales Associate</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>JDI</td><td>Seasonal Sales</td><td>Tracadie</td><td>2026-07-25</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Seasonal Sales</td><td>Tracadie</td><td>2026-07-25</td></tr>
+<tr><td>Staples Retail</td><td>Sales Associate - Pt</td><td>Slave Lake</td><td>2026-07-25</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate - Pt</td><td>Slave Lake</td><td>2026-07-25</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate - Pt</td><td>Slave Lake</td><td>2026-07-25</td></tr>
+<tr><td>QE Home / Quilts Etc</td><td>Sales Associate</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Greenwood Mall</td><td>Greenwood</td><td>2026-07-25</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Tamarack Centre</td><td>Cranbrook</td><td>2026-07-25</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle Stage -act</td><td>Vaudreuil</td><td>2026-07-25</td></tr>
+<tr><td>Ottobock Group</td><td>Warehouse Associate</td><td>Guelph</td><td>2026-07-25</td></tr>
+<tr><td>The North Face</td><td>The North Face - Seasonal Sales Associate - Toronto Premium Outlets</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Guest Service Agent (part Time)</td><td>Edmonton</td><td>2026-07-25</td></tr>
+<tr><td>JYSK Canada</td><td>Sales Colleague</td><td>Edmonton</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Yorkton Main Branch, Sk (contract- 6 Months, 22.5 Hours/week)</td><td>Yorkton</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Jane & Major Mackenzie (30 Hours/week)</td><td>Maple</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Nobleton Branch (18.75 Hours/week)</td><td>Nobleton</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate (canada)</td><td>Whitehorse</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Oshawa Main (22.5 Hours/week)</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Capstan Branch, Richmond, Bc (15 Hours/week)</td><td>Vancouver</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Insurance Sales Associate, Scotia Wealth Management - Vancouver</td><td>Vancouver</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Grand Falls-windsor - 18.75 Hours/week</td><td>Grand Falls-Windsor</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Burnaby Main Branch, Burnaby Bc (15hrs/week)</td><td>Vancouver</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Dufferin & Major Mackenzie (18.75 Hours/week)</td><td>Maple</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Bovaird & Highway 10 Branch (15 Hours/week)</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Bayview Village Centre, North York (15 Hours/week)</td><td>North York</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Glen Abbey Branch (15 Hours/week)</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - dundas & Appleby Line Branch (18.75 Hours/week)</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Orchard Place, Kelowna, Bc (15 Hours/week)</td><td>Kelowna</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Prince Rupert Branch, Prince Rupert, Bc (7.50 Hours/week)</td><td>Prince Rupert</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Kapuskasing, On (11.25 Hours/week)</td><td>Kapuskasing</td><td>2026-07-25</td></tr>
+<tr><td>Aecon U.S.</td><td>Project Coordinator (stouffville)</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Jobgether</td><td>Renewals Specialist (personal Lines Insurance)</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>Jobgether</td><td>Ai Operations Coordinator (claude)</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>Myhines</td><td>Staff Assistant</td><td>Calgary</td><td>2026-07-25</td></tr>
+<tr><td>Pawllywood</td><td>Assistant(e) Gérant(e) De Boutique - Temps Plein</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>Sunriseatwolfchase</td><td>Workflow Coordinator</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>SunLife</td><td>Workflow Coordinator</td><td>Canada</td><td>2026-07-25</td></tr>
+<tr><td>students.ubc.ca</td><td>Research Coordinator</td><td>Vancouver</td><td>2026-07-25</td></tr>
+<tr><td>Retirement World</td><td>Recruitment Coordinator, Early Talent</td><td>Toronto</td><td>2026-07-25</td></tr>
+<tr><td>Fccfac</td><td>Customer Service Centre Specialist</td><td>Canada</td><td>2026-07-25</td></tr>
 </table>
