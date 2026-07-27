@@ -1236,4 +1236,56 @@
 <tr><td>Construction Benefits</td><td>Recruitment Coordinator</td><td>Calgary</td><td>2026-07-26</td></tr>
 <tr><td>Construction Benefits</td><td>Administrative Assistant - Corporate Services</td><td>Calgary</td><td>2026-07-26</td></tr>
 <tr><td>Aecon U.S.</td><td>Coordinator, Project (solar)</td><td>Toronto</td><td>2026-07-26</td></tr>
+<tr><td>McKesson</td><td>Operational Excellence Intern - Fall 2026</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>AVEVA Group</td><td>Cloud Operations & Infrastructure Graduate - Canada</td><td>Calgary</td><td>2026-07-27</td></tr>
+<tr><td>AVEVA Solutions Ltd</td><td>Cloud Operations & Infrastructure Graduate - Canada</td><td>Calgary</td><td>2026-07-27</td></tr>
+<tr><td>AVEVA Group plc</td><td>Cloud Operations & Infrastructure Graduate - Canada</td><td>Calgary</td><td>2026-07-27</td></tr>
+<tr><td>Jobgether</td><td>C# Engineer</td><td>Canada</td><td>2026-07-27</td></tr>
+<tr><td>The Cigna Group</td><td>It Service Desk Analyst - Express Scripts Canada</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Automne 2026 - Analyste De Données, Services De Pièces De Rechange / Internship - Fall 2026 - Data Analyst, Spare Parts Services</td><td>Montreal</td><td>2026-07-27</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Automne 2026 - Analytique Avancée, Projet D’évolution De L’ia / Internship - Fall 2026 - Advanced Analytics, Ai Evolution Project</td><td>Montreal</td><td>2026-07-27</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Automne 2026 - Analyste De Données, Services De Pièces De Rechange / Internship - Fall 2026 - Data Analyst, Spare Parts Services</td><td>Montreal</td><td>2026-07-27</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Automne 2026 - Analytique Avancée, Projet D’évolution De L’ia / Internship - Fall 2026 - Advanced Analytics, Ai Evolution Project</td><td>Montreal</td><td>2026-07-27</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Automne - Stagiaire En Soutien Numérique Et Intelligence D’affaires / Internship - Fall - Digital Support & Business Intelligence Intern</td><td>Montreal</td><td>2026-07-27</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Automne 2026 - Analyste D’affaires Et De Données / Internship - Fall 2026 - Business & Data Analyst</td><td>Montreal</td><td>2026-07-27</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Business Intelligence Internship 2026 Jul - Dec</td><td>Canada</td><td>2026-07-27</td></tr>
+<tr><td>325</td><td>C-it-105 Data Analyst Intern</td><td>Montreal</td><td>2026-07-27</td></tr>
+<tr><td>CAE Australia</td><td>C-it-105 Data Analyst Intern</td><td>Montreal</td><td>2026-07-27</td></tr>
+<tr><td>298</td><td>C-it-105 Data Analyst Intern</td><td>Montreal</td><td>2026-07-27</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Analyst, Insurance & Risk Management</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Medicine - Repost</td><td>Winnipeg</td><td>2026-07-27</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Emergency - Repost</td><td>Winnipeg</td><td>2026-07-27</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Resident Assistant-repost</td><td>Carman</td><td>2026-07-27</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Nurse (rn) - Cvicu Sponsorship - Tft</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>Hennick Humber Hospital</td><td>Registered Nurse Mother Baby Unit</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Rpn</td><td>Canada</td><td>2026-07-27</td></tr>
+<tr><td>Extendicareriversideplace</td><td>Registered Nurse (rn) - Part Time/casual - Haliburton</td><td>Haliburton</td><td>2026-07-27</td></tr>
+<tr><td>HCM Portal (UPS)</td><td>Warehouse Associate - Preloader</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>UPS</td><td>Early Morning Warehouse Associate</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>UPS</td><td>Warehouse Associate - Preloader</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>HCM Portal (UPS)</td><td>Early Morning Warehouse Associate</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>JDI</td><td>Plumbing Associate</td><td>St Stephen</td><td>2026-07-27</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Plumbing Associate</td><td>St Stephen</td><td>2026-07-27</td></tr>
+<tr><td>JDI</td><td>Flooring Associate</td><td>Grand Falls</td><td>2026-07-27</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Flooring Associate</td><td>Grand Falls</td><td>2026-07-27</td></tr>
+<tr><td>Staples Retail</td><td>Sales Associate</td><td>Edmonton</td><td>2026-07-27</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Edmonton</td><td>2026-07-27</td></tr>
+<tr><td>Breitling SA</td><td>Sales Associate Montreal</td><td>Montreal</td><td>2026-07-27</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Full Time Retail Associate (optical): Sherwood Park, Ab</td><td>Edmonton</td><td>2026-07-27</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Richmond Hill, On</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Brampton, On</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Full-time Retail Associate: Etobicoke, On</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Etobicoke, On</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Edmonton, Ab</td><td>Edmonton</td><td>2026-07-27</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Retail Sales Associate (seasonal) - Fairmont Chateau Lake Louise</td><td>Lake Louise</td><td>2026-07-27</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Retail Sales Associate (seasonal) - Fairmont Chateau Lake Louise</td><td>Lake Louise</td><td>2026-07-27</td></tr>
+<tr><td>Global Industrial</td><td>Warehouse Associate/generalist</td><td>Scarborough</td><td>2026-07-27</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>H&m Associé.e Aux Ventes - Les Rivières, Qc</td><td>Trois</td><td>2026-07-27</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant Cibc Wood Gundy</td><td>Regina</td><td>2026-07-27</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant (mandarin Speaking) 12 Month Contract</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant (mandarin Speaking) 12 Month Contract</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>Knix</td><td>It Support Specialist</td><td>Toronto</td><td>2026-07-27</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Student Engagement & Program Coordinator</td><td>Vancouver</td><td>2026-07-27</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Frontline Operations & Program Coordinator</td><td>Vancouver</td><td>2026-07-27</td></tr>
+<tr><td>UBC</td><td>Frontline Operations & Program Coordinator</td><td>Vancouver</td><td>2026-07-27</td></tr>
 </table>
