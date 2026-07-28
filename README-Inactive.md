@@ -1288,4 +1288,27 @@
 <tr><td>ubctoday.ubc.ca</td><td>Student Engagement & Program Coordinator</td><td>Vancouver</td><td>2026-07-27</td></tr>
 <tr><td>ubctoday.ubc.ca</td><td>Frontline Operations & Program Coordinator</td><td>Vancouver</td><td>2026-07-27</td></tr>
 <tr><td>UBC</td><td>Frontline Operations & Program Coordinator</td><td>Vancouver</td><td>2026-07-27</td></tr>
+<tr><td>McKesson</td><td>Stagiaire, Excellence Corporative – Automne 2026 / Specialist, Corporate Excellence Intern – Fall 2026</td><td>Montreal</td><td>2026-07-28</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Automne 2026 - Analytique Avancée, Projet D’évolution De L’ia / Internship - Fall 2026 - Advanced Analytics, Ai Evolution Project</td><td>Montreal</td><td>2026-07-28</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Automne 2026 - Analyste D’affaires Et De Données / Internship - Fall 2026 - Business & Data Analyst</td><td>Montreal</td><td>2026-07-28</td></tr>
+<tr><td>RTX (Raytheon Technologies)</td><td>Stage - Automne - Stagiaire En Soutien Numérique Et Intelligence D’affaires / Internship - Fall - Digital Support & Business Intelligence Intern</td><td>Montreal</td><td>2026-07-28</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Renal Resource Team - Repost</td><td>Winnipeg</td><td>2026-07-28</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant - Long Term Care</td><td>Eastern Zone</td><td>2026-07-28</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant - Medical/surgical Unit</td><td>Northern Zone</td><td>2026-07-28</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse C - Primary Care Nurse</td><td>Buffalo Narrows</td><td>2026-07-28</td></tr>
+<tr><td>Marriott International</td><td>Maintenance</td><td>Charlottetown</td><td>2026-07-28</td></tr>
+<tr><td>W Brisbane</td><td>Maintenance</td><td>Charlottetown</td><td>2026-07-28</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Maintenance</td><td>Charlottetown</td><td>2026-07-28</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - St. Bruno (part-time, 15h/week)</td><td>Montreal</td><td>2026-07-28</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis - Future Opportunities</td><td>Vancouver</td><td>2026-07-28</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis - Future Opportunities</td><td>Vancouver</td><td>2026-07-28</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Queen Mary</td><td>Montreal</td><td>2026-07-28</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Queen Mary</td><td>Montreal</td><td>2026-07-28</td></tr>
+<tr><td>Match Retail</td><td>Part-time Sales Associate</td><td>Toronto</td><td>2026-07-28</td></tr>
+<tr><td>Masco</td><td>Pro Sales Associate - Beaubien Ouest</td><td>Mont</td><td>2026-07-28</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service Clientèle Stage -act</td><td>Anjou</td><td>2026-07-28</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit -act</td><td>Montreal</td><td>2026-07-28</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Sainte-Anne Beaupré</td><td>2026-07-28</td></tr>
+<tr><td>WSP</td><td>Administrative Assistant (part-time)</td><td>Vancouver</td><td>2026-07-28</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant Cibc Wood Gundy</td><td>Regina</td><td>2026-07-28</td></tr>
 </table>
