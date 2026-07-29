@@ -1311,4 +1311,50 @@
 <tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Sainte-Anne Beaupré</td><td>2026-07-28</td></tr>
 <tr><td>WSP</td><td>Administrative Assistant (part-time)</td><td>Vancouver</td><td>2026-07-28</td></tr>
 <tr><td>CIBC</td><td>Administrative Assistant Cibc Wood Gundy</td><td>Regina</td><td>2026-07-28</td></tr>
+<tr><td>McKesson Corporation</td><td>Stagiaire En Design Graphique – Automne 2026 / Graphic Design Intern - Fall 2026</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>McKesson Corporation</td><td>Stagiaire, Excellence Corporative – Automne 2026 / Specialist, Corporate Excellence Intern – Fall 2026</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Automne 2026 - Étudiant En Génie Des Matériaux (8 Mois) / Internship - Fall 2026 - Materials Engineering Student (8 Months)</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Automne 2026 - Membre De L’équipe Transmission De Puissance Par Engrenages / Internship - Fall 2026 - Gear Team Member</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Support Technique A L’introduction De Nouveaux Equipements Au Service Fiabilite Maintenance</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, AWS Amazon Connect - AI Voice Applications</td><td>Vancouver</td><td>2026-07-29</td></tr>
+<tr><td>Amazon</td><td>Software Engineer, SCOT-Fulfillment Optimization, Outbound Optimization</td><td>Vancouver</td><td>2026-07-29</td></tr>
+<tr><td>Amazon</td><td>Software Engineer, SCOT-Fulfillment Optimization</td><td>Vancouver</td><td>2026-07-29</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer , Amazon Customer Service</td><td>Vancouver</td><td>2026-07-29</td></tr>
+<tr><td>Valtech</td><td>Ingénieur(e) Forward Deployed, Google Cloud, Expert(e) En Ia</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>Valtech</td><td>Forward Deployed Engineer, Google Cloud, Ai Expert</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Automne 2026 - Analyste D’affaires Et De Données / Internship - Fall 2026 - Business & Data Analyst</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>Intelcom</td><td>Operations Analyst Intern</td><td>Canada</td><td>2026-07-29</td></tr>
+<tr><td>Rsmcanada</td><td>Business Tax Services Associate - Fall 2026</td><td>Canada</td><td>2026-07-29</td></tr>
+<tr><td>Metrolinx</td><td>Business Analyst, Payroll</td><td>Canada</td><td>2026-07-29</td></tr>
+<tr><td>Virtual Care Provider</td><td>Analyst, Insurance & Risk Management</td><td>Toronto</td><td>2026-07-29</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Direct Support Worker I - U</td><td>Canada</td><td>2026-07-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Infirmier Ère Autorisé E - Repost</td><td>Notre Dame De Lourdes</td><td>2026-07-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - As6 Medicine Clinical Teaching Unit</td><td>Winnipeg</td><td>2026-07-29</td></tr>
+<tr><td>RTX Corporation</td><td>Électrotechnicien</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>RTX Corporation</td><td>Mécanicien D'entretien Industriel</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>RTX Corporation</td><td>Technicien Contrôle Et Accessoires Électronique</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-07-29</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Warehouse Associate Ii - Ptoc</td><td>Canada</td><td>2026-07-29</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- Future Opportunities Trail, Bc</td><td>Trail</td><td>2026-07-29</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- Future Opportunities Penticton, Bc</td><td>Penticton</td><td>2026-07-29</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate- Future Opportunities Trail, Bc</td><td>Trail</td><td>2026-07-29</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate- Future Opportunities Penticton, Bc</td><td>Penticton</td><td>2026-07-29</td></tr>
+<tr><td>TD Bank</td><td>Private Trust Client Service Associate</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>TD Bank</td><td>Personl Banking Associate - Marcel-laurin, Ville St-laurent Branch</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - St. Bruno (part-time, 15h/week)</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Des Sources</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>TD</td><td>Private Trust Client Service Associate</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>TD</td><td>Personl Banking Associate - Marcel-laurin, Ville St-laurent Branch</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Des Sources</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>Capital District Health Authority</td><td>Administrative Professionals - Seeking New And Experienced Candidates</td><td>Nova Scotia</td><td>2026-07-29</td></tr>
+<tr><td>Parsons</td><td>Construction Technical Coordinator</td><td>Sacramento</td><td>2026-07-29</td></tr>
+<tr><td>Aecon U.S.</td><td>Project Coordinator, Co-op</td><td>Scarborough</td><td>2026-07-29</td></tr>
+<tr><td>Aecon U.S.</td><td>Project Coordinator- Series Training</td><td>Tiverton</td><td>2026-07-29</td></tr>
+<tr><td>Aecon U.S.</td><td>Co-op, Project Coordinator</td><td>Ohsweken</td><td>2026-07-29</td></tr>
+<tr><td>Jobgether</td><td>Revenue Operations Coordinator</td><td>Canada</td><td>2026-07-29</td></tr>
+<tr><td>Manulife</td><td>High Net Worth New Business Case Coordinator</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>Manulife</td><td>High Net Worth Inforce Case Coordinator</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>Manulife Financial Inc</td><td>High Net Worth Inforce Case Coordinator</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>Manulife Financial Inc</td><td>High Net Worth New Business Case Coordinator</td><td>Montreal</td><td>2026-07-29</td></tr>
+<tr><td>A49 2</td><td>Administrative Assistant (part-time)</td><td>Vancouver</td><td>2026-07-29</td></tr>
 </table>
