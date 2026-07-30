@@ -1357,4 +1357,39 @@
 <tr><td>Manulife Financial Inc</td><td>High Net Worth Inforce Case Coordinator</td><td>Montreal</td><td>2026-07-29</td></tr>
 <tr><td>Manulife Financial Inc</td><td>High Net Worth New Business Case Coordinator</td><td>Montreal</td><td>2026-07-29</td></tr>
 <tr><td>A49 2</td><td>Administrative Assistant (part-time)</td><td>Vancouver</td><td>2026-07-29</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Automne 2026 - Spécialiste En Ingénierie Du Support Technique Aux Ateliers Mro / Internship - Fall 2026 - Specialist, Mro Engineering Overhaul Support Services</td><td>Montreal</td><td>2026-07-30</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Automne 2026 - Turbosoufflantes Et Ingénierie Du Service À La Clientèle De L'aviation D'affaires / Internship - Fall 2026 -turbofan Business Aviation Engineering Aftermarket Support</td><td>Montreal</td><td>2026-07-30</td></tr>
+<tr><td>CAE</td><td>C-it-105 Data Analyst Intern</td><td>Montreal</td><td>2026-07-30</td></tr>
+<tr><td>Jobgether</td><td>Trade Compliance Advisor</td><td>Canada</td><td>2026-07-30</td></tr>
+<tr><td>RSM UK</td><td>Business Tax Services Associate - Fall 2026</td><td>Canada</td><td>2026-07-30</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>Whitewood</td><td>2026-07-30</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Health Care Aide (casual) Poseidon Care Centre</td><td>Canada</td><td>2026-07-30</td></tr>
+<tr><td>mcgillcampusstore.ca</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-07-30</td></tr>
+<tr><td>Lamesahealthcare</td><td>Rn Part-time Am And Noc Shift</td><td>Visalia</td><td>2026-07-30</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse</td><td>Prince Albert</td><td>2026-07-30</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Registered Nurse – Nurse A</td><td>Fort Qu’Appelle</td><td>2026-07-30</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse -rcc React C Ctr 6b</td><td>York</td><td>2026-07-30</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Complex Continuing Care (part-time)</td><td>Toronto</td><td>2026-07-30</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Public Health Nurse</td><td>Sandy Bay</td><td>2026-07-30</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Services Worker</td><td>Lucky Lake</td><td>2026-07-30</td></tr>
+<tr><td>Bunge North America</td><td>Temporary Maintenance Helper</td><td>Edmonton</td><td>2026-07-30</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Campbellton, Nb (30 Hours / Week)</td><td>Campbellton</td><td>2026-07-30</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Scarborough Town Centre</td><td>Scarborough</td><td>2026-07-30</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Scarborough Town Centre</td><td>Scarborough</td><td>2026-07-30</td></tr>
+<tr><td>JDI</td><td>Freight Flow Associate</td><td>Clarenville</td><td>2026-07-30</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Freight Flow Associate</td><td>Clarenville</td><td>2026-07-30</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (part Time) - Penn Island Plaza</td><td>Toronto</td><td>2026-07-30</td></tr>
+<tr><td>Dogpawz</td><td>Night Warehouse Associate</td><td>Toronto</td><td>2026-07-30</td></tr>
+<tr><td>HCM Portal (UPS)</td><td>Night Warehouse Associate</td><td>Toronto</td><td>2026-07-30</td></tr>
+<tr><td>Ibstock</td><td>Night Warehouse Associate</td><td>Toronto</td><td>2026-07-30</td></tr>
+<tr><td>UPS</td><td>Night Warehouse Associate</td><td>Toronto</td><td>2026-07-30</td></tr>
+<tr><td>Jobs Ups</td><td>Night Warehouse Associate</td><td>Toronto</td><td>2026-07-30</td></tr>
+<tr><td>usccareers.usc.edu</td><td>Research Coordinator I</td><td>Los Angeles</td><td>2026-07-30</td></tr>
+<tr><td>Bell Canada</td><td>Inventory Coordinator, Bell Mobility</td><td>Toronto</td><td>2026-07-30</td></tr>
+<tr><td>Halliburton</td><td>Material Coordinator (i - Iii) - Artificial Lift</td><td>Edmonton</td><td>2026-07-30</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Bilingual Annuity Service Specialist</td><td>Quebec</td><td>2026-07-30</td></tr>
+<tr><td>Manulife</td><td>Bilingual Annuity Service Specialist</td><td>Quebec</td><td>2026-07-30</td></tr>
+<tr><td>iA Financial Group</td><td>Administrator, Settlements Team</td><td>Quebec</td><td>2026-07-30</td></tr>
+<tr><td>RioCan Management Inc</td><td>Executive Assistant To Svp, General Counsel, Esg & Corporate Secretary</td><td>Toronto</td><td>2026-07-30</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Adjoint Administratif Ou Adjointe Administrative, Administration</td><td>Canada</td><td>2026-07-30</td></tr>
 </table>
