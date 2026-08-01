@@ -1501,4 +1501,155 @@
 <tr><td>Brock University</td><td>Administrative Assistant, Placement</td><td>St Catharines</td><td>2026-07-31</td></tr>
 <tr><td>City of Toronto</td><td>Administrative Assistant 2</td><td>Toronto</td><td>2026-07-31</td></tr>
 <tr><td>Scu</td><td>Administrative Associate</td><td>Berkeley +1</td><td>2026-07-31</td></tr>
+<tr><td>Estée Lauder</td><td>Beauty Advisor/artist Sales Associate, Part Time - Mac Sherway, Etobicoke</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - Alberta</td><td>Banff</td><td>2026-08-01</td></tr>
+<tr><td>Coty</td><td>Operational Trade Marketing Intern</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Coty</td><td>Marketing Intern</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>TD</td><td>Intern/ Co-op Fall 2026</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Industrialisation - Automne 2026</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>RTX Corporation</td><td>Stage- Planificateur De Production (automne 2026) / Internship – Production Planner (fall 2026)</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>RTX Corporation</td><td>Stage- Automne 2026-transformation Numerique / Internship – Fall 2026 – Digital Transformation</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>RTX (Raytheon Technologies)</td><td>Stage -automne 2026- Gestion Des Processus D'affaires, Opérations / Internship-fall 2026- Business Process Management, Global Operations</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer P2p</td><td>Canada</td><td>2026-08-01</td></tr>
+<tr><td>TD Ameritrade</td><td>Associate Software Engineer</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer (ruby), Ai Engineering: Agent Observability</td><td>Canada</td><td>2026-08-01</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>It Product Support Specialist</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Alterastg</td><td>Infrastructure Support Analyst</td><td>Canada</td><td>2026-08-01</td></tr>
+<tr><td>Workforcity</td><td>Banking - Corporate Banking Corporates, Full Time Analyst, Toronto - Can, 2027</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>MX Career Site</td><td>Business Analyst, Payroll</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Tenstorrent</td><td>Trade Compliance Specialist</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Axis Capital</td><td>Operations Analyst</td><td>Princeton +5</td><td>2026-08-01</td></tr>
+<tr><td>TD</td><td>Analyst, Tdam</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>TD Bank</td><td>Analyst, Tdam</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>TD</td><td>Analyst, Prime Services (5148)</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>TD Bank</td><td>Analyst, Prime Services (5148)</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>304</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>Shellbrook</td><td>2026-08-01</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse Registered Psych Nurse</td><td>North Battleford</td><td>2026-08-01</td></tr>
+<tr><td>Medcan</td><td>Clinic Nurse (rn)</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Scarborough Jobs</td><td>Registered Nurse - Orthopaedic Clinic (gen)</td><td>Scarborough</td><td>2026-08-01</td></tr>
+<tr><td>Scarborough Jobs</td><td>Registered Nurse, Bir Sexual Assault Care Clinic</td><td>Scarborough</td><td>2026-08-01</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Specialty Resource Team - Repost</td><td>Winnipeg</td><td>2026-08-01</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Cardiac Surgery Inpatient Unit - Repost</td><td>Winnipeg</td><td>2026-08-01</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Obstetrics, Gynecology And Neonatology Resource Team - Repost</td><td>Winnipeg</td><td>2026-08-01</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Pharmacist</td><td>Winkler</td><td>2026-08-01</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Health Care Aide-repost</td><td>Winnipeg</td><td>2026-08-01</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Assistant/technician 3</td><td>Vancouver</td><td>2026-08-01</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Software And Ai Research Coordinator</td><td>Vancouver</td><td>2026-08-01</td></tr>
+<tr><td>CHEO</td><td>Registered Nurse (new Graduate Guarantee), Float Team, Temporary Full-time (1.0)</td><td>Ottawa</td><td>2026-08-01</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Nurse</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Pharmacy Technician - Temporary Full Time</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Pharmacy Technician - Full Time</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Pharmacy Technician - Temporary Part Time</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Nurses - Critical Care</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-08-01</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Nurse - Seeking Experienced Candidates</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-08-01</td></tr>
+<tr><td>Capital District Health Authority</td><td>Graduate Nurse 2025-2026</td><td>Nova Scotia</td><td>2026-08-01</td></tr>
+<tr><td>Capital District Health Authority</td><td>Pharmacist - Seeking Experienced Candidates</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-08-01</td></tr>
+<tr><td>Capital District Health Authority</td><td>Pharmacist - 2025-2026 Graduates</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-08-01</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Pharmacy Technician - 2025-2026 Graduates</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-08-01</td></tr>
+<tr><td>Whcrecruit</td><td>Registered Nurse - Medicine (gmch) #2026-166</td><td>Guelph</td><td>2026-08-01</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>McGill University</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>Encore Global</td><td>Technical Services Representative, Metro Toronto Convention Centre (union)</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Cupar & District Nursing Home Inc.</td><td>Maintenance Services Worker</td><td>Cupar</td><td>2026-08-01</td></tr>
+<tr><td>Z Modular</td><td>Industrial Mechanic/millwright</td><td>Harrow</td><td>2026-08-01</td></tr>
+<tr><td>Sun Gro Horticulture</td><td>Industrial Mechanic/millwright</td><td>Burnt Ridge</td><td>2026-08-01</td></tr>
+<tr><td>Fairmont Chateau Lake Louise</td><td>Maintenance Technician</td><td>Lake Louise</td><td>2026-08-01</td></tr>
+<tr><td>Solventum Corporation</td><td>Field Service Representative I, Mississauga, On, Canada</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>P&G</td><td>Field Service Representative I, Mississauga, On, Canada</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Ambiententerprises</td><td>Service Technician - Early Careers</td><td>Vancouver</td><td>2026-08-01</td></tr>
+<tr><td>Henry Schein</td><td>Equipment Service Technician</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Aliaxis</td><td>Electromécanicien</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>Likewize</td><td>Device Repair Technician</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Likewize</td><td>Mobile Repair Technician — Toronto, Ontario</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Staples Inc.</td><td>Sales Associate</td><td>Edmonton</td><td>2026-08-01</td></tr>
+<tr><td>Staples Inc.</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Staples Retail</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Staples Retail</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Distribution & Recycling Associate</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>The North Face</td><td>The North Face: Seasonal Sales Associate - Toronto Eaton Center</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Job Fair - Sales Associate - Ottawa - July 31st 2026</td><td>Ottawa</td><td>2026-08-01</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Oshawa Centre</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Guillevin</td><td>Vendeur Au Comptoir / Counter Salesperson</td><td>Valleyfield</td><td>2026-08-01</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Conseiller(ère) Aux Ventes</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>SunLife</td><td>Associée En Assurance Et Gestion Du Patrimoine / Insurance And Wealth Associate, Prospr By Sun Life</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>Sunriseatwolfchase</td><td>Associée En Assurance Et Gestion Du Patrimoine / Insurance And Wealth Associate, Prospr By Sun Life</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Associate</td><td>Edmonton</td><td>2026-08-01</td></tr>
+<tr><td>Giant Tiger</td><td>Store Associate (part-time/temporary)</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Bigtimberfasteners</td><td>Container Associate (days)</td><td>Johnstown</td><td>2026-08-01</td></tr>
+<tr><td>Giant Tiger</td><td>Container Associate (days)</td><td>Johnstown</td><td>2026-08-01</td></tr>
+<tr><td>Canadian Linen</td><td>Production Inventory Associate</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Parry Sound</td><td>2026-08-01</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Project Sales Associate</td><td>Clarenville</td><td>2026-08-01</td></tr>
+<tr><td>JDI</td><td>Project Sales Associate</td><td>Port Hawkesbury</td><td>2026-08-01</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Hertz Global Holdings</td><td>Customer Service And Sales Associate</td><td>Banff</td><td>2026-08-01</td></tr>
+<tr><td>Hertz</td><td>Customer Service And Sales Associate</td><td>Banff</td><td>2026-08-01</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Guest Service Expert</td><td>Vancouver</td><td>2026-08-01</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Highland Sq Mall</td><td>New Glasgow</td><td>2026-08-01</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Gander Mall</td><td>Gander</td><td>2026-08-01</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Carrefour Angrignon</td><td>LaSalle</td><td>2026-08-01</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Dryden</td><td>Dryden</td><td>2026-08-01</td></tr>
+<tr><td>Cardinal Health</td><td>Warehouse Associate</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Associate</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Conseiller.ère Mode (temps Partiel) - Promenade St-martin</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>The Allstate Corporation</td><td>Allstate Sales Agent Trainee (cambridge)</td><td>Canadian Head Office</td><td>2026-08-01</td></tr>
+<tr><td>The Allstate Corp</td><td>Allstate Sales Agent Trainee (cambridge)</td><td>Canadian Head Office</td><td>2026-08-01</td></tr>
+<tr><td>Staples Retail</td><td>Associé Des Ventes</td><td>Saint</td><td>2026-08-01</td></tr>
+<tr><td>Staples Canada</td><td>Associé Des Ventes</td><td>Saint</td><td>2026-08-01</td></tr>
+<tr><td>Staples Business</td><td>Associé Des Ventes</td><td>Saint</td><td>2026-08-01</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Associé Des Ventes</td><td>Saint</td><td>2026-08-01</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>The North Face</td><td>The North Face: Sales Associate - Park Royal Shopping Centre</td><td>Canada</td><td>2026-08-01</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Mandarin Or Cantonese Language Skills An Asset</td><td>Vancouver</td><td>2026-08-01</td></tr>
+<tr><td>SANDVIK</td><td>Technicien(ne) D’entrepôt</td><td>Val-D’Or</td><td>2026-08-01</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Rivière-du-loup</td><td>RivièRe-Du-Loup</td><td>2026-08-01</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate,bridgewater</td><td>Bridgewater</td><td>2026-08-01</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Sales Associate Lenscrafters</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Sales Associate</td><td>Edmonton</td><td>2026-08-01</td></tr>
+<tr><td>Masco</td><td>Pro Sales Associate - Pointe-claire</td><td>Pointe</td><td>2026-08-01</td></tr>
+<tr><td>VFC Corporation</td><td>The North Face: Sales Associate - Park Royal Shopping Centre</td><td>Canada</td><td>2026-08-01</td></tr>
+<tr><td>VFC Corporation</td><td>Icebreaker: Sales Associate - Vaughan Mills</td><td>Vaughan Mills</td><td>2026-08-01</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Campbellton</td><td>Campbellton</td><td>2026-08-01</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - St Laurent, Place-vertu</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis</td><td>Winnipeg</td><td>2026-08-01</td></tr>
+<tr><td>Emploisahearst</td><td>Sales Associate</td><td>Edmonton</td><td>2026-08-01</td></tr>
+<tr><td>Ibstock</td><td>Warehouse Associate</td><td>Guelph</td><td>2026-08-01</td></tr>
+<tr><td>AccorHotels</td><td>Guest Service Agent (full Time)</td><td>Edmonton</td><td>2026-08-01</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Guest Service Agent (full Time)</td><td>Edmonton</td><td>2026-08-01</td></tr>
+<tr><td>Premier Truck Group</td><td>Parts Warehouse Associate</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Sundial Growers Inc.</td><td>Store Associate Liquor</td><td>Calgary</td><td>2026-08-01</td></tr>
+<tr><td>Wolseley UK</td><td>Yard/warehouse Associate - Waterworks</td><td>Canada</td><td>2026-08-01</td></tr>
+<tr><td>Wolseley Canada</td><td>Yard/warehouse Associate - Waterworks</td><td>Canada</td><td>2026-08-01</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Office Administrative Assistant</td><td>Montmartre</td><td>2026-08-01</td></tr>
+<tr><td>Informa PLC</td><td>Digital Marketing Coordinator</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Uottawa</td><td>Social Sciences And Humanities Research Coordinator</td><td>Ottawa</td><td>2026-08-01</td></tr>
+<tr><td>University of Ottawa</td><td>Social Sciences And Humanities Research Coordinator</td><td>Ottawa</td><td>2026-08-01</td></tr>
+<tr><td>American Airlines Group</td><td>Administrative Assistant, Toronto Yyz</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>Capital District Health Authority</td><td>Administrative Assistant Ii, Travelling Clinics</td><td>Halifax</td><td>2026-08-01</td></tr>
+<tr><td>Capital District Health Authority</td><td>Administrative Assistant Ii, Rehabilitation Services</td><td>Halifax</td><td>2026-08-01</td></tr>
+<tr><td>Capital District Health Authority</td><td>Administrative Assistant Ii, Clinical Intake, Provincial Preschool Autism Services</td><td>Halifax</td><td>2026-08-01</td></tr>
+<tr><td>Jobgether</td><td>Project Coordinator - Clinical Research</td><td>Canada</td><td>2026-08-01</td></tr>
+<tr><td>Waterlinecareers</td><td>Administrative Coordinator</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>191</td><td>Merchandising Administrator</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>agropurcareers.us</td><td>Training Specialist</td><td>Canada</td><td>2026-08-01</td></tr>
+<tr><td>Teck Resources Ltd</td><td>Procurement Coordinator (temporary 18 Months)</td><td>Trail</td><td>2026-08-01</td></tr>
+<tr><td>Teck Resources Ltd</td><td>Administrative Accounting Assistant</td><td>Vancouver</td><td>2026-08-01</td></tr>
+<tr><td>Teck Resources Ltd</td><td>Production Coordinator</td><td>Trail</td><td>2026-08-01</td></tr>
+<tr><td>Bombardier</td><td>Analyst, Quality Assurance Coordinator</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>Bombardier</td><td>Executive Assistant, Corporate Legal Affairs</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>Bombardier</td><td>Data And Ai Literacy Program Coordinator</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>Bombardier</td><td>Coordinator, Program / Project Control</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Executive Assistant - 4 Months Contract</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - Ottawa</td><td>Ottawa</td><td>2026-08-01</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Administrative Assistant - Gta West & Greater Mississauga District (12-month Contract)</td><td>Toronto</td><td>2026-08-01</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - Quebec City</td><td>Quebec</td><td>2026-08-01</td></tr>
+<tr><td>Aecon Group</td><td>Project Coordinator, Co-op</td><td>Scarborough</td><td>2026-08-01</td></tr>
+<tr><td>Aecon Group</td><td>Co-op, Project Coordinator</td><td>Ohsweken</td><td>2026-08-01</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Administrative Coordinator</td><td>Montreal</td><td>2026-08-01</td></tr>
+<tr><td>Airi Quideer</td><td>Administrative Coordinator</td><td>Montreal</td><td>2026-08-01</td></tr>
 </table>
