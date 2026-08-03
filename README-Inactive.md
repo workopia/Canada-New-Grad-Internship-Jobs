@@ -1793,4 +1793,54 @@
 <tr><td>Haag, a Salas O'Brien Company</td><td>Project Associate – Building Science</td><td>Toronto</td><td>2026-08-02</td></tr>
 <tr><td>Retirement World</td><td>Digital Marketing Coordinator - Everyday Credit Cards</td><td>Toronto</td><td>2026-08-02</td></tr>
 <tr><td>Retirement World</td><td>Administrative Coordinator</td><td>Calgary</td><td>2026-08-02</td></tr>
+<tr><td>Retirement World</td><td>Staff Software Engineer</td><td>Calgary</td><td>2026-08-03</td></tr>
+<tr><td>Jobgether</td><td>Emergency Call Handling Ng911 Support Specialist</td><td>Canada</td><td>2026-08-03</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer Ii, Backend (ml Training & Serving)</td><td>Canada</td><td>2026-08-03</td></tr>
+<tr><td>Jobgether</td><td>Data Visualization Specialist ( Part - Time)</td><td>Canada</td><td>2026-08-03</td></tr>
+<tr><td>Fiera Capital</td><td>Ai Developer</td><td>Montreal</td><td>2026-08-03</td></tr>
+<tr><td>Sia Partners</td><td>Conseiller(ère) En Data Science</td><td>Montreal</td><td>2026-08-03</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Bovaird & Mountainash, Brampton, On</td><td>Toronto</td><td>2026-08-03</td></tr>
+<tr><td>agropurcareers.us</td><td>Analyste Financier</td><td>Canada</td><td>2026-08-03</td></tr>
+<tr><td>MX Career Site</td><td>Contract Compliance Officer</td><td>Toronto</td><td>2026-08-03</td></tr>
+<tr><td>Metrolinx</td><td>Contract Compliance Officer</td><td>Canada</td><td>2026-08-03</td></tr>
+<tr><td>Connor, Clark & Lunn Financial Group (CC&L)</td><td>Analyst, Retail Portfolio Operations</td><td>Toronto</td><td>2026-08-03</td></tr>
+<tr><td>Extendicare</td><td>Guest Attendant (part Time) - Trillium Court Retirement</td><td>Trillium Court</td><td>2026-08-03</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse General Duty Nurse</td><td>Herbert</td><td>2026-08-03</td></tr>
+<tr><td>Chartwell Retirement Residences</td><td>Health Care Aide</td><td>Kelowna</td><td>2026-08-03</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Nurse (rn) - Temporary Part Time (pt) - Hillcrest Place</td><td>930</td><td>2026-08-03</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Nurse (rn) - Casual - Hillcrest Place</td><td>930</td><td>2026-08-03</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Nurse (rn) - Temporary Full Time (ft) - Hillcrest Place</td><td>930</td><td>2026-08-03</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Nurse (rn) - Casual Nights - Red River Place</td><td>Manchester</td><td>2026-08-03</td></tr>
+<tr><td>Ardagh Group</td><td>Onderhoudsmonteur Chemie En Randapparatuur</td><td>Oss</td><td>2026-08-03</td></tr>
+<tr><td>Kingston Resorts</td><td>Maintenance</td><td>SunOutdoors Marathon</td><td>2026-08-03</td></tr>
+<tr><td>NAV Canada</td><td>Aircraft Maintenance Engineer (ame) – 2 Positions</td><td>Canada</td><td>2026-08-03</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-03</td></tr>
+<tr><td>Loblaw Companies</td><td>Beauty Merchandiser</td><td>Toronto</td><td>2026-08-03</td></tr>
+<tr><td>Jobsinhearst</td><td>Part Time Sales Associate (store#3235 - West Henday)</td><td>Edmonton</td><td>2026-08-03</td></tr>
+<tr><td>Emploisahearst</td><td>Part Time Sales Associate (store#3235 - West Henday)</td><td>Edmonton</td><td>2026-08-03</td></tr>
+<tr><td>Nobu Hotel Toronto</td><td>Guest Experience Specialist</td><td>Toronto</td><td>2026-08-03</td></tr>
+<tr><td>Wolseley UK</td><td>Warehouse Associate</td><td>Balzac</td><td>2026-08-03</td></tr>
+<tr><td>Wolseley Canada</td><td>Warehouse Associate</td><td>Balzac</td><td>2026-08-03</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>H&m Sales Advisor</td><td>Nisku</td><td>2026-08-03</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate I</td><td>Toronto</td><td>2026-08-03</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Support Associate Iii</td><td>Toronto</td><td>2026-08-03</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate Ii</td><td>Toronto</td><td>2026-08-03</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Sales Associate (seasonal)</td><td>Timmins</td><td>2026-08-03</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Sales Associate (part Time)</td><td>Toronto</td><td>2026-08-03</td></tr>
+<tr><td>Giant Tiger</td><td>Softgoods Associate (part-time)</td><td>Edmonton</td><td>2026-08-03</td></tr>
+<tr><td>Bigtimberfasteners</td><td>Store Associate (part-time)</td><td>Edmonton</td><td>2026-08-03</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Upper Canada Mall</td><td>Toronto</td><td>2026-08-03</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-03</td></tr>
+<tr><td>Jobgether</td><td>Customer Onboarding Support Specialist</td><td>Canada</td><td>2026-08-03</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Kincardine</td><td>2026-08-03</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate</td><td>Edmonton</td><td>2026-08-03</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Cantonese Language Skill An Asset</td><td>Vancouver</td><td>2026-08-03</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Cantonese Language Skill An Asset</td><td>Vancouver</td><td>2026-08-03</td></tr>
+<tr><td>Jll Com Au</td><td>Adjoint(e) Administratif(ve) / Administrative Assistant</td><td>Montreal</td><td>2026-08-03</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Clinical Coordinator</td><td>Lanigan</td><td>2026-08-03</td></tr>
+<tr><td>Egon Zehnder</td><td>Executive Assistant</td><td>Montreal</td><td>2026-08-03</td></tr>
+<tr><td>BMO</td><td>Private Wealth Administrative Assistant - Fall 2026 (co-op/internship) - 4 Months</td><td>Fredericton</td><td>2026-08-03</td></tr>
+<tr><td>StackAdapt Inc</td><td>Sales Specialist (mobile)</td><td>Canada</td><td>2026-08-03</td></tr>
+<tr><td>House of Commons of Canada Chambre des communes du Canada</td><td>Community Outreach Coordinator</td><td>Horseshoe Bay</td><td>2026-08-03</td></tr>
+<tr><td>Jobgether</td><td>Content Coordinator</td><td>Canada</td><td>2026-08-03</td></tr>
 </table>
