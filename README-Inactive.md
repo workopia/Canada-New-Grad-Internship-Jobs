@@ -1843,4 +1843,43 @@
 <tr><td>StackAdapt Inc</td><td>Sales Specialist (mobile)</td><td>Canada</td><td>2026-08-03</td></tr>
 <tr><td>House of Commons of Canada Chambre des communes du Canada</td><td>Community Outreach Coordinator</td><td>Horseshoe Bay</td><td>2026-08-03</td></tr>
 <tr><td>Jobgether</td><td>Content Coordinator</td><td>Canada</td><td>2026-08-03</td></tr>
+<tr><td>Bombardier</td><td>Intern, Research And Technology, Aircraft System Architecture (fall 2026)</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>RTX Corporation</td><td>Stage Automne 2026 - Supervision Proactive De La Performance Des Moteurs, Dphm Proactive / Internship Fall 2026 - Proactive Engine Performance Monitoring, Proactive Dphm</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>RTX Corporation</td><td>Stage Automne 2026 - Génie Manufacturier / Internship Fall 2026 - Manufacturing Engineering</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Automne 2026 - Ingénieur Client Et Nouveau Programme Moteur /internship - Fall 2026 - Customer Engineering & New Engine Program</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Automne 2026 - Ingénierie De Client / Internship - Fall 2026 - Customer Engineering</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>RTX Corporation</td><td>Stagiaire En Hygiene Industrielle Et Ergonomie / Internship In Industrial Hygiene And Ergonomics</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>Vantage Data Centers</td><td>Critical Facility Operation Intern, Na</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage- Automne 2026- Stagiaire En Industrialisation Avancée / Internship - Fall 2026 - Advanced Industrialization Intern</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>Jobgether</td><td>Security Analyst – Information Technology</td><td>Canada</td><td>2026-08-04</td></tr>
+<tr><td>Hitachi Rail Canada Inc.</td><td>Alm Scripting & Reporting Intern</td><td>Toronto</td><td>2026-08-04</td></tr>
+<tr><td>Retirement World</td><td>Analyst, Data Sourcing</td><td>Toronto</td><td>2026-08-04</td></tr>
+<tr><td>Retirement World</td><td>Data Analyst - Client Data Analytics-1</td><td>Toronto</td><td>2026-08-04</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Technical Business Analyst</td><td>Toronto</td><td>2026-08-04</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Analyst (gwo)</td><td>Toronto</td><td>2026-08-04</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Nurse (rn) - Cath Lab - Tft</td><td>Newmarket ON</td><td>2026-08-04</td></tr>
+<tr><td>Extendicaremedex</td><td>Guest Attendant (part Time) - Trillium Court Retirement</td><td>Trillium Court</td><td>2026-08-04</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Guest Attendant (part Time) - Trillium Court Retirement</td><td>Trillium Court</td><td>2026-08-04</td></tr>
+<tr><td>Ontario Power Generation Inc</td><td>Mechanical Technician- Small Modular Reactor (smr)</td><td>Toronto</td><td>2026-08-04</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate Iii</td><td>Edmonton</td><td>2026-08-04</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Regent Mall</td><td>Fredericton</td><td>2026-08-04</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>North York</td><td>2026-08-04</td></tr>
+<tr><td>Ryder</td><td>Customer Service Associate</td><td>Toronto</td><td>2026-08-04</td></tr>
+<tr><td>Giant Tiger</td><td>Store Associate (full-time)</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>Budget Stay</td><td>Rental Sales Agent - Part Time</td><td>Calgary</td><td>2026-08-04</td></tr>
+<tr><td>Avisbudgetgroup</td><td>Rental Sales Agent - Part Time</td><td>Calgary</td><td>2026-08-04</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit -act</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle Pour Service Alimentaire</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle -act</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate (pt) - #110 Signal Hill</td><td>Calgary</td><td>2026-08-04</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Sales Associate (pt) - #110 Signal Hill</td><td>Calgary</td><td>2026-08-04</td></tr>
+<tr><td>Tiffany & Co</td><td>Client Advisor, Part-time, West Edmonton Mall (contract)</td><td>Edmonton</td><td>2026-08-04</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-08-04</td></tr>
+<tr><td>JDI</td><td>Yard Associate</td><td>Sydney</td><td>2026-08-04</td></tr>
+<tr><td>Uline</td><td>Warehouse Associate</td><td>Guelph</td><td>2026-08-04</td></tr>
+<tr><td>Uline</td><td>Warehouse Associate - Nights</td><td>Guelph</td><td>2026-08-04</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>H&m Associé.e Aux Ventes - Carrefour Angrignon, Qc</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>Retirement World</td><td>Business Development Associate</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>JLL</td><td>Adjoint(e) Administratif(ve) / Administrative Assistant</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>Jll Com Sg</td><td>Adjoint(e) Administratif(ve) / Administrative Assistant</td><td>Montreal</td><td>2026-08-04</td></tr>
 </table>
