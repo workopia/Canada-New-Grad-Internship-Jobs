@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-04",
- "count": 723,
+ "asOf": "2026-08-05",
+ "count": 724,
  "jobs": {
   "785038": {
    "id": "785038",
@@ -19,6 +19,18 @@
    "company": "Ericsson",
    "role": "Stagiaire En Communication",
    "location": "Montreal"
+  },
+  "14774e00b9a02fdfd7e236998f0fd8ba": {
+   "id": "14774e00b9a02fdfd7e236998f0fd8ba",
+   "company": "Coty Inc.",
+   "role": "Intern Merchandising",
+   "location": "Amsterdam"
+  },
+  "2f239d94585263874569712dcf90bb30": {
+   "id": "2f239d94585263874569712dcf90bb30",
+   "company": "Coty Inc.",
+   "role": "Marketing Intern; Covergirl & Rimmel London",
+   "location": "Toronto"
   },
   "77a0bcd698f19f18b631fefe8796b52b": {
    "id": "77a0bcd698f19f18b631fefe8796b52b",
@@ -482,16 +494,10 @@
    "role": "Intern, Cyber Security (fall 2026)",
    "location": "Montreal"
   },
-  "1788021503f249e96a052e852948fb27": {
-   "id": "1788021503f249e96a052e852948fb27",
-   "company": "Bombardier",
-   "role": "Intern, Data Management Analyst (fall 2026)",
-   "location": "Montreal"
-  },
-  "4b1197a59f49939680174dfe744cab46": {
-   "id": "4b1197a59f49939680174dfe744cab46",
-   "company": "Bombardier",
-   "role": "Intern, Product Strategy (fall 2026)",
+  "2fae8abb678cb186344b4689d8862e2e": {
+   "id": "2fae8abb678cb186344b4689d8862e2e",
+   "company": "Quebecor",
+   "role": "Stagiaire Ingénierie - Radio Fréquences",
    "location": "Montreal"
   },
   "0c28543ed33e6762b27f7740e314d3ef": {
@@ -2498,6 +2504,12 @@
    "role": "Registered Practical Nurse (rpn) - Part Time - Limestone Ridge",
    "location": "Axm"
   },
+  "e8e2d4a1a11dda85520fef610075796a": {
+   "id": "e8e2d4a1a11dda85520fef610075796a",
+   "company": "Virtual Care Provider",
+   "role": "Registered Practical Nurse (rpn) - Part Time - Limestone Ridge",
+   "location": "Axm"
+  },
   "581b9f1929ffcb278d6b211b741675e9": {
    "id": "581b9f1929ffcb278d6b211b741675e9",
    "company": "Bruyere",
@@ -2894,11 +2906,17 @@
    "role": "Research Assistant 1",
    "location": "Montreal"
   },
-  "494cb19856176455d644d84fdb5b247f": {
-   "id": "494cb19856176455d644d84fdb5b247f",
-   "company": "Capital District Health Authority",
-   "role": "Pharmacist - Clinical Pharmacy Services",
-   "location": "Northern Zone"
+  "03960c0a8681a835530560c5a6400b87": {
+   "id": "03960c0a8681a835530560c5a6400b87",
+   "company": "Miele X B.V.",
+   "role": "Field Service Technician-professional",
+   "location": "Toronto"
+  },
+  "17b1e9c6bad691a7e8f43ce4057fa8f5": {
+   "id": "17b1e9c6bad691a7e8f43ce4057fa8f5",
+   "company": "Jdch",
+   "role": "Ingénieur(e) De Service Terrain Associé(e) (contrat À Durée Déterminée)",
+   "location": "Montreal"
   },
   "931c646bee65bc4b67c35291559a3aa3": {
    "id": "931c646bee65bc4b67c35291559a3aa3",
@@ -3368,17 +3386,59 @@
    "role": "Maintenance Mechanic Facilities Ops",
    "location": "Toronto"
   },
-  "10bdb095f06e2d87c26269a17b2a1f67": {
-   "id": "10bdb095f06e2d87c26269a17b2a1f67",
-   "company": "The Timken Company",
-   "role": "Field Service Technician - Qc",
+  "29bad56a9ae74941968cde25795cc434": {
+   "id": "29bad56a9ae74941968cde25795cc434",
+   "company": "EssilorLuxottica SA",
+   "role": "Sales Associate",
+   "location": "Toronto"
+  },
+  "904e94c59301fb4a497b89fe70d36461": {
+   "id": "904e94c59301fb4a497b89fe70d36461",
+   "company": "Carter's, Inc.",
+   "role": "Sales Associate",
+   "location": "Edmonton"
+  },
+  "3ec589f9fad3546bf3c72b9c20d59244": {
+   "id": "3ec589f9fad3546bf3c72b9c20d59244",
+   "company": "Levis Media",
+   "role": "Seasonal Store Sales Associate, Levi's®, Scarborough Town Centre, Scarborough, On",
+   "location": "Scarborough"
+  },
+  "6c202602d0e3c5cc1d167b6c173c59ee": {
+   "id": "6c202602d0e3c5cc1d167b6c173c59ee",
+   "company": "Levis Media",
+   "role": "Seasonal Store Sales Associate, Levi's®, Park Royal, West Vancouver, Bc",
+   "location": "Park Royal"
+  },
+  "a469e09e6e2f86801516be7627083637": {
+   "id": "a469e09e6e2f86801516be7627083637",
+   "company": "Levis Media",
+   "role": "Seasonal Store Sales Associate, Levi's®, Yorkdale Shopping Centre, Toronto, On",
+   "location": "Toronto"
+  },
+  "e220ea730ec9599dea296cc0fb88b9bd": {
+   "id": "e220ea730ec9599dea296cc0fb88b9bd",
+   "company": "adidas AG",
+   "role": "Seasonal Sales Associate - Adidas Outlet Store South Edmonton Common (#2012)",
+   "location": "South Edmonton Common"
+  },
+  "1944aafbfd1c7c3a28cedbf06af84ab0": {
+   "id": "1944aafbfd1c7c3a28cedbf06af84ab0",
+   "company": "Circle K",
+   "role": "Préposé(e) Au Service À La Clientèle -act",
+   "location": "St-Apollinaire"
+  },
+  "0d2a1818eee183ad8243927f9343e23c": {
+   "id": "0d2a1818eee183ad8243927f9343e23c",
+   "company": "Circle K",
+   "role": "Préposé Service À La Clientèle De Nuit",
    "location": "Montreal"
   },
-  "055ff7d6514bb0e50a0681f6a163a0e9": {
-   "id": "055ff7d6514bb0e50a0681f6a163a0e9",
-   "company": "Province of Nova Scotia",
-   "role": "Aircraft Maintenance Engineer 2-3",
-   "location": "Shubenacadie"
+  "cbc480234bdb6388728752e7a4ed5714": {
+   "id": "cbc480234bdb6388728752e7a4ed5714",
+   "company": "Circle K",
+   "role": "Préposé(e) Service À La Clientèle -act",
+   "location": "Montreal"
   },
   "48b9171e671bf222c9bd53894a9dd29d": {
    "id": "48b9171e671bf222c9bd53894a9dd29d",
@@ -3391,6 +3451,24 @@
    "company": "BCE Inc",
    "role": "Retail Sales Associate, Regent Mall",
    "location": "Fredericton"
+  },
+  "6bbc12c48e44be24590044000a566074": {
+   "id": "6bbc12c48e44be24590044000a566074",
+   "company": "JDI",
+   "role": "Paint Associate",
+   "location": "Corner Brook"
+  },
+  "e2c8db14600fc86f630df2cb08be06a0": {
+   "id": "e2c8db14600fc86f630df2cb08be06a0",
+   "company": "Pottery Barn",
+   "role": "Holiday Seasonal Associate, Yorkdale- Williams Sonoma",
+   "location": "Toronto"
+  },
+  "22d646885a3395754c50438926d7a7c1": {
+   "id": "22d646885a3395754c50438926d7a7c1",
+   "company": "Pottery Barn",
+   "role": "Holiday Seasonal Associate, Sherway- Williams Sonoma",
+   "location": "Toronto"
   },
   "e18e3c62e974530f748e350b23095899": {
    "id": "e18e3c62e974530f748e350b23095899",
@@ -3409,18 +3487,6 @@
    "company": "RCL - Reitmans Canada Ltd/Ltée",
    "role": "Merchandising Associate (part Time) - Cf Toronto Eaton Centre",
    "location": "Toronto"
-  },
-  "c0f959469d7539f3fc9b196cd7f2cff6": {
-   "id": "c0f959469d7539f3fc9b196cd7f2cff6",
-   "company": "Carter's, Inc.",
-   "role": "Sales Associate",
-   "location": "Toronto"
-  },
-  "2e5014052e3940c6d85b094a72574d1f": {
-   "id": "2e5014052e3940c6d85b094a72574d1f",
-   "company": "Circle K",
-   "role": "Préposé Service À La Clientèle De Nuit",
-   "location": "Montreal"
   },
   "570abad1a75846a3aeb4182ace28ef0d": {
    "id": "570abad1a75846a3aeb4182ace28ef0d",
@@ -3800,65 +3866,29 @@
    "role": "Customer Experience Associate- Future Opportunities Revelstoke, Bc",
    "location": "Revelstoke"
   },
-  "d4e7c1472f40eda5b06a6f144a643e70": {
-   "id": "d4e7c1472f40eda5b06a6f144a643e70",
-   "company": "TD",
-   "role": "Customer Experience Associate- French Language Skills Are Considered An Asset.",
-   "location": "Whitehorse"
+  "3b32c4069581b3fc2876acb3c75a6991": {
+   "id": "3b32c4069581b3fc2876acb3c75a6991",
+   "company": "Border Paving Ltd",
+   "role": "Project Coordinator - Stony Plain",
+   "location": "Onoway"
   },
-  "f9c702dc489f6e8027c699f3f7775050": {
-   "id": "f9c702dc489f6e8027c699f3f7775050",
-   "company": "TD",
-   "role": "Customer Experience Associate- Future Opportunities Revelstoke, Bc",
-   "location": "Revelstoke"
+  "7caaff57133a9d1e3802c6b6b9907f29": {
+   "id": "7caaff57133a9d1e3802c6b6b9907f29",
+   "company": "Border Paving Ltd",
+   "role": "Project Coordinator - Hinton",
+   "location": "Hinton"
   },
-  "1481ea3afc745757e666ad37a864cfc2": {
-   "id": "1481ea3afc745757e666ad37a864cfc2",
-   "company": "TD Bank",
-   "role": "Customer Experience Associate - Cantonese And/or Mandarin Language Skills An Asset",
-   "location": "Vancouver"
+  "4856fb4f47022725fd3490fe60e28a6d": {
+   "id": "4856fb4f47022725fd3490fe60e28a6d",
+   "company": "Circle K",
+   "role": "Assistant-gérant",
+   "location": "Montreal"
   },
-  "e22fbbc385a66918e58e865671be960d": {
-   "id": "e22fbbc385a66918e58e865671be960d",
-   "company": "TD Bank",
-   "role": "Customer Experience Associate - Mandarin And/or Japanese And/or Korean Language Skills An Asset",
-   "location": "Vancouver"
-  },
-  "8be3bd2bfc26cb29d06d803ec62184ff": {
-   "id": "8be3bd2bfc26cb29d06d803ec62184ff",
-   "company": "TD Bank",
-   "role": "Customer Experience Associate - Mandarin Language Skills An Asset",
-   "location": "Vancouver"
-  },
-  "04fa2744ab9522183fd04fdd1ae2d2fc": {
-   "id": "04fa2744ab9522183fd04fdd1ae2d2fc",
-   "company": "TD Bank Group",
-   "role": "Customer Experience Associate - Mandarin And/or Japanese And/or Korean Language Skills An Asset",
-   "location": "Vancouver"
-  },
-  "674b5005341cbed1b8aa9527c93a9455": {
-   "id": "674b5005341cbed1b8aa9527c93a9455",
-   "company": "TD Bank Group",
-   "role": "Customer Experience Associate - Cantonese And/or Mandarin Language Skills An Asset",
-   "location": "Vancouver"
-  },
-  "72b0e9430db8808315cf9f1a0548a9f1": {
-   "id": "72b0e9430db8808315cf9f1a0548a9f1",
-   "company": "TD Bank Group",
-   "role": "Customer Experience Associate - Mandarin Language Skills An Asset",
-   "location": "Vancouver"
-  },
-  "c4d5678261ef510864fd5036ffa4e9e1": {
-   "id": "c4d5678261ef510864fd5036ffa4e9e1",
-   "company": "TD",
-   "role": "Customer Experience Associate - Mandarin And/or Japanese And/or Korean Language Skills An Asset",
-   "location": "Vancouver"
-  },
-  "11d89e911751424c3e54b6737f49e086": {
-   "id": "11d89e911751424c3e54b6737f49e086",
-   "company": "TD",
-   "role": "Customer Experience Associate - Cantonese And/or Mandarin Language Skills An Asset",
-   "location": "Vancouver"
+  "07eab828490fc1c64844fda4065910ad": {
+   "id": "07eab828490fc1c64844fda4065910ad",
+   "company": "Quebecor",
+   "role": "Coordonnateur·rice Marketing",
+   "location": "Montreal"
   },
   "8e0cda7c6fb4a7875cb51b7baa7c0247": {
    "id": "8e0cda7c6fb4a7875cb51b7baa7c0247",
@@ -3871,6 +3901,12 @@
    "company": "Regional Municipality of Wood Buffalo",
    "role": "Recreation Coordinator",
    "location": "Fort Chipewyan"
+  },
+  "9f9fbed9201c235b": {
+   "id": "9f9fbed9201c235b",
+   "company": "WANG LAI BUILDING & CONSTRUCTION",
+   "role": "ADMIN ASSISTANT",
+   "location": "Kitchener"
   },
   "fe63657959d476baa7acd9707d07580a": {
    "id": "fe63657959d476baa7acd9707d07580a",
@@ -4172,12 +4208,6 @@
    "role": "Software Verification & Qa Specialist",
    "location": "Canada"
   },
-  "e7a0d1eeeecf004ff40e56dd962a8489": {
-   "id": "e7a0d1eeeecf004ff40e56dd962a8489",
-   "company": "Circle K",
-   "role": "Assistant-gérant",
-   "location": "Montreal"
-  },
   "9788b98b472d3aaa1ff1653967d42392": {
    "id": "9788b98b472d3aaa1ff1653967d42392",
    "company": "GPC Tools & Equipment Sydney",
@@ -4314,30 +4344,6 @@
    "id": "65d9e8b813b3f62532a7ac854d1ecd46",
    "company": "Capital District Health Authority",
    "role": "Administrative Assistant Ii, Children's Intensive Services",
-   "location": "Halifax"
-  },
-  "afaa9be164d673ae94f0b41438538a9f": {
-   "id": "afaa9be164d673ae94f0b41438538a9f",
-   "company": "Capital District Health Authority",
-   "role": "Administrative Professionals - Seeking New And Experienced Candidates",
-   "location": "Nova Scotia"
-  },
-  "45c71df603a446a5071eead48a822e7b": {
-   "id": "45c71df603a446a5071eead48a822e7b",
-   "company": "801",
-   "role": "Altagas - E&i Maintenance Coordinator, Reef",
-   "location": "Prince Rupert"
-  },
-  "61ae2bc27b9c549da35c163e8339fa01": {
-   "id": "61ae2bc27b9c549da35c163e8339fa01",
-   "company": "Bankalgonquin",
-   "role": "Full-time Administrative Assistant To The Dean, School Of Wellness, Public Safety And Community Studies",
-   "location": "Ottawa"
-  },
-  "3599feb95d119a49785aadc253642fc0": {
-   "id": "3599feb95d119a49785aadc253642fc0",
-   "company": "Province of Nova Scotia",
-   "role": "Administrative Assistant 2 (court And Sheriff Services)",
    "location": "Halifax"
   }
  }

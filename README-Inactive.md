@@ -1882,4 +1882,26 @@
 <tr><td>Retirement World</td><td>Business Development Associate</td><td>Montreal</td><td>2026-08-04</td></tr>
 <tr><td>JLL</td><td>Adjoint(e) Administratif(ve) / Administrative Assistant</td><td>Montreal</td><td>2026-08-04</td></tr>
 <tr><td>Jll Com Sg</td><td>Adjoint(e) Administratif(ve) / Administrative Assistant</td><td>Montreal</td><td>2026-08-04</td></tr>
+<tr><td>Bombardier</td><td>Intern, Data Management Analyst (fall 2026)</td><td>Montreal</td><td>2026-08-05</td></tr>
+<tr><td>Bombardier</td><td>Intern, Product Strategy (fall 2026)</td><td>Montreal</td><td>2026-08-05</td></tr>
+<tr><td>Capital District Health Authority</td><td>Pharmacist - Clinical Pharmacy Services</td><td>Northern Zone</td><td>2026-08-05</td></tr>
+<tr><td>The Timken Company</td><td>Field Service Technician - Qc</td><td>Montreal</td><td>2026-08-05</td></tr>
+<tr><td>Province of Nova Scotia</td><td>Aircraft Maintenance Engineer 2-3</td><td>Shubenacadie</td><td>2026-08-05</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-05</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Montreal</td><td>2026-08-05</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate- French Language Skills Are Considered An Asset.</td><td>Whitehorse</td><td>2026-08-05</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate- Future Opportunities Revelstoke, Bc</td><td>Revelstoke</td><td>2026-08-05</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Cantonese And/or Mandarin Language Skills An Asset</td><td>Vancouver</td><td>2026-08-05</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Mandarin And/or Japanese And/or Korean Language Skills An Asset</td><td>Vancouver</td><td>2026-08-05</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Mandarin Language Skills An Asset</td><td>Vancouver</td><td>2026-08-05</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Mandarin And/or Japanese And/or Korean Language Skills An Asset</td><td>Vancouver</td><td>2026-08-05</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Cantonese And/or Mandarin Language Skills An Asset</td><td>Vancouver</td><td>2026-08-05</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Mandarin Language Skills An Asset</td><td>Vancouver</td><td>2026-08-05</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Mandarin And/or Japanese And/or Korean Language Skills An Asset</td><td>Vancouver</td><td>2026-08-05</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Cantonese And/or Mandarin Language Skills An Asset</td><td>Vancouver</td><td>2026-08-05</td></tr>
+<tr><td>Circle K</td><td>Assistant-gérant</td><td>Montreal</td><td>2026-08-05</td></tr>
+<tr><td>Capital District Health Authority</td><td>Administrative Professionals - Seeking New And Experienced Candidates</td><td>Nova Scotia</td><td>2026-08-05</td></tr>
+<tr><td>801</td><td>Altagas - E&i Maintenance Coordinator, Reef</td><td>Prince Rupert</td><td>2026-08-05</td></tr>
+<tr><td>Bankalgonquin</td><td>Full-time Administrative Assistant To The Dean, School Of Wellness, Public Safety And Community Studies</td><td>Ottawa</td><td>2026-08-05</td></tr>
+<tr><td>Province of Nova Scotia</td><td>Administrative Assistant 2 (court And Sheriff Services)</td><td>Halifax</td><td>2026-08-05</td></tr>
 </table>
