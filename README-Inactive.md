@@ -1904,4 +1904,49 @@
 <tr><td>801</td><td>Altagas - E&i Maintenance Coordinator, Reef</td><td>Prince Rupert</td><td>2026-08-05</td></tr>
 <tr><td>Bankalgonquin</td><td>Full-time Administrative Assistant To The Dean, School Of Wellness, Public Safety And Community Studies</td><td>Ottawa</td><td>2026-08-05</td></tr>
 <tr><td>Province of Nova Scotia</td><td>Administrative Assistant 2 (court And Sheriff Services)</td><td>Halifax</td><td>2026-08-05</td></tr>
+<tr><td>Bombardier</td><td>Intern, Project Engineering - Global 8000 (fall 2026)</td><td>Montreal</td><td>2026-08-06</td></tr>
+<tr><td>Bombardier</td><td>Intern, Events And Immersive Experiences, Strategic Partnerships (fall 2026)</td><td>Montreal</td><td>2026-08-06</td></tr>
+<tr><td>Bombardier</td><td>Intern, Cyber Security (fall 2026)</td><td>Montreal</td><td>2026-08-06</td></tr>
+<tr><td>Bombardier</td><td>Business Process Analyst</td><td>Montreal</td><td>2026-08-06</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor Prince Albert - Sk</td><td>Prince Albert</td><td>2026-08-06</td></tr>
+<tr><td>Extendicare Inc</td><td>Health Care Aide (hca) - Casual - Poseidon Care Centre</td><td>Manitoba</td><td>2026-08-06</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Repost</td><td>Morris</td><td>2026-08-06</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Rn/lpn/rpn - Provincial Travel Nurse Team</td><td>Winnipeg</td><td>2026-08-06</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Surgical Day Care - Repost</td><td>Winnipeg</td><td>2026-08-06</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Pharmacist - Repost</td><td>Winkler</td><td>2026-08-06</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Clinical Research Assistant</td><td>Vancouver</td><td>2026-08-06</td></tr>
+<tr><td>UBC</td><td>Clinical Research Assistant</td><td>Vancouver</td><td>2026-08-06</td></tr>
+<tr><td>McGill University</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-08-06</td></tr>
+<tr><td>Amey (Ferrovial)</td><td>Webber - Road Technician - Infrastructure Management</td><td>Fraserville</td><td>2026-08-06</td></tr>
+<tr><td>TC Energy</td><td>Warehouse Technician</td><td>Edmonton</td><td>2026-08-06</td></tr>
+<tr><td>City of Toronto</td><td>Maintenance Mechanic Facilities Ops</td><td>Toronto</td><td>2026-08-06</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate Iii</td><td>Toronto</td><td>2026-08-06</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Waneta Plaza</td><td>Trail</td><td>2026-08-06</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Carrefour Angrignon</td><td>LaSalle</td><td>2026-08-06</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Scarborough Town Centre</td><td>Scarborough</td><td>2026-08-06</td></tr>
+<tr><td>Monex USA</td><td>Business Development Associate</td><td>Vancouver</td><td>2026-08-06</td></tr>
+<tr><td>Monexeurope</td><td>Business Development Associate</td><td>Vancouver</td><td>2026-08-06</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (part Time) - Reitmans</td><td>Edmonton</td><td>2026-08-06</td></tr>
+<tr><td>Bass Pro</td><td>Part Time Firearms Sales</td><td>Toronto</td><td>2026-08-06</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - 12 Month Sta</td><td>Madoc</td><td>2026-08-06</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - 12 Month Sta</td><td>Madoc</td><td>2026-08-06</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - 12 Month Sta</td><td>Madoc</td><td>2026-08-06</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Pte-claire, Colonnades</td><td>Montreal</td><td>2026-08-06</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Atateken</td><td>Montreal</td><td>2026-08-06</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Atateken</td><td>Montreal</td><td>2026-08-06</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Pte-claire, Colonnades</td><td>Montreal</td><td>2026-08-06</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Pte-claire, Colonnades</td><td>Montreal</td><td>2026-08-06</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Atateken</td><td>Montreal</td><td>2026-08-06</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Squamish, British Columbia (french, Ukrainian And/or Russian Language Skills An Asset)</td><td>Vancouver</td><td>2026-08-06</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Squamish, British Columbia (french, Ukrainian And/or Russian Language Skills An Asset)</td><td>Vancouver</td><td>2026-08-06</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Squamish, British Columbia (french, Ukrainian And/or Russian Language Skills An Asset)</td><td>Vancouver</td><td>2026-08-06</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- French Language Skills Are Considered An Asset.</td><td>Whitehorse</td><td>2026-08-06</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- Future Opportunities Revelstoke, Bc</td><td>Revelstoke</td><td>2026-08-06</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate- French Language Skills Are Considered An Asset.</td><td>Whitehorse</td><td>2026-08-06</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate- Future Opportunities Revelstoke, Bc</td><td>Revelstoke</td><td>2026-08-06</td></tr>
+<tr><td>CHEO</td><td>Administrative Assistant, Safety & Family Partnership, Permanent Part-time (0.5)</td><td>Ottawa</td><td>2026-08-06</td></tr>
+<tr><td>CHEO</td><td>Administrative Assistant, Outpatient Mental Health Services – Temporary Part-time (0.6) (until June 2027)</td><td>Ottawa</td><td>2026-08-06</td></tr>
+<tr><td>Canadian Derivatives Clearing Corporation</td><td>Technical Project Coordinator Intern</td><td>Toronto</td><td>2026-08-06</td></tr>
+<tr><td>fm1047.ca</td><td>Technical Project Coordinator Intern</td><td>Toronto</td><td>2026-08-06</td></tr>
+<tr><td>TMX Group of Companies</td><td>Technical Project Coordinator Intern</td><td>Toronto</td><td>2026-08-06</td></tr>
 </table>
