@@ -1949,4 +1949,48 @@
 <tr><td>Canadian Derivatives Clearing Corporation</td><td>Technical Project Coordinator Intern</td><td>Toronto</td><td>2026-08-06</td></tr>
 <tr><td>fm1047.ca</td><td>Technical Project Coordinator Intern</td><td>Toronto</td><td>2026-08-06</td></tr>
 <tr><td>TMX Group of Companies</td><td>Technical Project Coordinator Intern</td><td>Toronto</td><td>2026-08-06</td></tr>
+<tr><td>TV SD</td><td>Intern</td><td>Ontario</td><td>2026-08-07</td></tr>
+<tr><td>Bombardier</td><td>Intern, Design Engineering (fall 2026)</td><td>Montreal</td><td>2026-08-07</td></tr>
+<tr><td>Bombardier</td><td>Intern, Project Management (fall 2026)</td><td>Montreal</td><td>2026-08-07</td></tr>
+<tr><td>Capital One Financial Corporation</td><td>Associate, Software Engineer, New Grad Card Expansion</td><td>Toronto</td><td>2026-08-07</td></tr>
+<tr><td>Tenstorrent</td><td>Software Engineer, Tt-distributed</td><td>Toronto</td><td>2026-08-07</td></tr>
+<tr><td>Retirement World</td><td>Data Scientist, Global Aml Transaction Monitoring</td><td>Toronto</td><td>2026-08-07</td></tr>
+<tr><td>Jobgether</td><td>Insurance Accounting Business Analyst</td><td>Canada</td><td>2026-08-07</td></tr>
+<tr><td>Willis Towers Watson</td><td>Actuarial Analyst</td><td>Montreal</td><td>2026-08-07</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Nurse (rn) , Extendicare Lakefield (part-time)</td><td>Lakefield</td><td>2026-08-07</td></tr>
+<tr><td>Extendicare Inc</td><td>Registered Nurse (rn) , Extendicare Lakefield (part-time)</td><td>Lakefield</td><td>2026-08-07</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Health Care Aide (hca) - Casual - Poseidon Care Centre</td><td>Manitoba</td><td>2026-08-07</td></tr>
+<tr><td>Summit Place LTC</td><td>Health Care Aide (hca) - Casual - Poseidon Care Centre</td><td>Manitoba</td><td>2026-08-07</td></tr>
+<tr><td>A49 2</td><td>Field Services Technician</td><td>Toronto</td><td>2026-08-07</td></tr>
+<tr><td>WSP</td><td>Field Services Technician</td><td>Toronto</td><td>2026-08-07</td></tr>
+<tr><td>Danfoss AS</td><td>Field Service Engineer</td><td>Montreal</td><td>2026-08-07</td></tr>
+<tr><td>Gategroup</td><td>Maintenance Technician</td><td>Canada</td><td>2026-08-07</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Edmonton</td><td>2026-08-07</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Montreal</td><td>2026-08-07</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle -act</td><td>Montreal</td><td>2026-08-07</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Centre Régional Manicouagan</td><td>Baie-Comeau</td><td>2026-08-07</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Banff</td><td>Banff</td><td>2026-08-07</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Promenades Du Cuivre</td><td>Rouyn-Noranda</td><td>2026-08-07</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Rivière-du-loup</td><td>RivièRe-Du-Loup</td><td>2026-08-07</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Future Opportunities, Le Carrefour Rimouski</td><td>Saint-Georges</td><td>2026-08-07</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Le Carrefour Rimouski</td><td>Rimouski</td><td>2026-08-07</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Chilkoot Centre</td><td>Whitehorse</td><td>2026-08-07</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Tamarack Centre</td><td>Cranbrook</td><td>2026-08-07</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Erin Mills Town Centre</td><td>Toronto</td><td>2026-08-07</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Future Opportunities, Rivière-du-loup</td><td>RivièRe-Du-Loup</td><td>2026-08-07</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Gander Mall</td><td>Gander</td><td>2026-08-07</td></tr>
+<tr><td>Motionsolutions</td><td>Account Specialist</td><td>Brantford</td><td>2026-08-07</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Office Administrative Assistant</td><td>Indian Head</td><td>2026-08-07</td></tr>
+<tr><td>Corporation Of The County Of Wellington</td><td>Programme Accounting Coordinator</td><td>Guelph</td><td>2026-08-07</td></tr>
+<tr><td>Ibstock</td><td>Automotive General Office Assistant</td><td>Toronto</td><td>2026-08-07</td></tr>
+<tr><td>CIBC</td><td>Business Assistant, Institutional Asset Management</td><td>Toronto</td><td>2026-08-07</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Business Assistant, Institutional Asset Management</td><td>Toronto</td><td>2026-08-07</td></tr>
+<tr><td>PCL Constructors Inc.</td><td>Payroll Coordinator</td><td>Edmonton</td><td>2026-08-07</td></tr>
+<tr><td>Cision</td><td>Customer Content Specialist</td><td>Montreal</td><td>2026-08-07</td></tr>
+<tr><td>Canadiantirecarrieres</td><td>Development Coordinator</td><td>Toronto</td><td>2026-08-07</td></tr>
+<tr><td>Park Square Dental</td><td>Administrative Assistant - Park Square Dental</td><td>Edmonton</td><td>2026-08-07</td></tr>
+<tr><td>UBC</td><td>Communications Specialist, Stone Centre On Wealth And Income Inequality</td><td>Vancouver</td><td>2026-08-07</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Communications Specialist, Stone Centre On Wealth And Income Inequality</td><td>Vancouver</td><td>2026-08-07</td></tr>
+<tr><td>UBC</td><td>Program Coordinator, Mother Tree</td><td>Vancouver</td><td>2026-08-07</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Program Coordinator, Mother Tree</td><td>Vancouver</td><td>2026-08-07</td></tr>
 </table>
