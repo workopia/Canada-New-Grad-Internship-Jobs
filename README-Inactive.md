@@ -1993,4 +1993,108 @@
 <tr><td>ubctoday.ubc.ca</td><td>Communications Specialist, Stone Centre On Wealth And Income Inequality</td><td>Vancouver</td><td>2026-08-07</td></tr>
 <tr><td>UBC</td><td>Program Coordinator, Mother Tree</td><td>Vancouver</td><td>2026-08-07</td></tr>
 <tr><td>ubctoday.ubc.ca</td><td>Program Coordinator, Mother Tree</td><td>Vancouver</td><td>2026-08-07</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - Ontario</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Thales Group</td><td>Stagiaire En Développement Outils & Processus Outillé</td><td>Montreal</td><td>2026-08-08</td></tr>
+<tr><td>McKesson Corporation</td><td>Stagiaire, Qualité Post-commercialisation – Marques Privées - Automne 2026 / Quality Private Label Intern - Fall 2026</td><td>Montreal</td><td>2026-08-08</td></tr>
+<tr><td>McKesson</td><td>Stagiaire, Qualité Post-commercialisation – Marques Privées - Automne 2026 / Quality Private Label Intern - Fall 2026</td><td>Montreal</td><td>2026-08-08</td></tr>
+<tr><td>Watermancanyonpa</td><td>Fall 2026 Music·team Internship</td><td>Los Angeles +5</td><td>2026-08-08</td></tr>
+<tr><td>Watermancanyonpa</td><td>Fall 2026 Internship - Golf Talent</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>PCL Constructors Westcoast Inc.</td><td>Virtual Construction Student</td><td>Vancouver</td><td>2026-08-08</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Financial Lines Fall Intern/co-op (september To December 2026)</td><td>Vancouver</td><td>2026-08-08</td></tr>
+<tr><td>Capital One Canada</td><td>Associate, Software Engineer, New Grad Card Expansion</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Capital One Financial</td><td>Associate, Software Engineer, New Grad Card Expansion</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>EvenUp</td><td>Software Engineer, Docgen</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer (java)</td><td>Canada</td><td>2026-08-08</td></tr>
+<tr><td>Coveoen</td><td>It Helpdesk Specialist</td><td>Canada</td><td>2026-08-08</td></tr>
+<tr><td>CIBC</td><td>Analytics & Business Intelligence Specialist, Cam</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Sanofi</td><td>Digital Strategy Analyst</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Ontario Teachers' Pension Plan Board</td><td>Data Scientist</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Retirement World</td><td>Data Scientist, Ai Model Risk</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Vancity</td><td>Financial Accounting Accountant</td><td>Vancity Centre</td><td>2026-08-08</td></tr>
+<tr><td>Sophos</td><td>Threat Analyst 3</td><td>Canada</td><td>2026-08-08</td></tr>
+<tr><td>BMO</td><td>Model Risk Specialist</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Bank of Montreal</td><td>Model Risk Specialist</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Banklife</td><td>Actuarial Specialist</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Aecon U.S.</td><td>Business Analyst, Co-op</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Assistant</td><td>Vancouver</td><td>2026-08-08</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Registered Nurse - Casual - Heritage Lodge</td><td>Portage Ave</td><td>2026-08-08</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Nurse - Casual - Heritage Lodge</td><td>Portage Ave</td><td>2026-08-08</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Practical Nurse (rpn) - Casual - Medex</td><td>On</td><td>2026-08-08</td></tr>
+<tr><td>Extendicare The Meadows</td><td>Registered Practical Nurse (rpn) - Casual - Medex</td><td>On</td><td>2026-08-08</td></tr>
+<tr><td>Extendicare The Meadows</td><td>Registered Nurse - Casual - Heritage Lodge</td><td>Portage Ave</td><td>2026-08-08</td></tr>
+<tr><td>120</td><td>Pharmacist</td><td>Canmore</td><td>2026-08-08</td></tr>
+<tr><td>Overwaitea Food Group Ltd Partnership</td><td>Pharmacist</td><td>Canmore</td><td>2026-08-08</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse Registered Psych Nurse</td><td>Lloydminster</td><td>2026-08-08</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Public Health Nurse</td><td>Shellbrook</td><td>2026-08-08</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse C - Registered Nurse</td><td>La Ronge</td><td>2026-08-08</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>Kamsack</td><td>2026-08-08</td></tr>
+<tr><td>Yeehong</td><td>Home Support Worker (opseu)-gta (temporary Part-time Mixed Shift For 6 Months)</td><td>Scarborough Mcnicoll</td><td>2026-08-08</td></tr>
+<tr><td>Extendicare Lakefield</td><td>Registered Nurse (rn) , Extendicare Lakefield (part-time)</td><td>Lakefield</td><td>2026-08-08</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Service Technician Iii</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Ferrovial SE</td><td>Webber - Road Technician - Infrastructure Management</td><td>Fraserville</td><td>2026-08-08</td></tr>
+<tr><td>construction-benefits</td><td>Pipeliner - Iol Kearl Maintenance</td><td>Fort Mckay</td><td>2026-08-08</td></tr>
+<tr><td>SANDVIK</td><td>Warehouse Technician</td><td>Red Lake</td><td>2026-08-08</td></tr>
+<tr><td>J&J FAMILY OF COMPANIES</td><td>Associate Field Service Engineer (fixed Term)</td><td>Montreal</td><td>2026-08-08</td></tr>
+<tr><td>Johnson & Johnson Innovative Medicine</td><td>Associate Field Service Engineer (fixed Term)</td><td>Montreal</td><td>2026-08-08</td></tr>
+<tr><td>Ocadogroup</td><td>Maintenance Technician (night Shift)</td><td>Pointe</td><td>2026-08-08</td></tr>
+<tr><td>Clean Harbors</td><td>Lodging Maintenance Technician</td><td>Fort Mcmurray</td><td>2026-08-08</td></tr>
+<tr><td>Aurora Cannabis Inc</td><td>Operations And Maintenance Technician</td><td>Bradford</td><td>2026-08-08</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Track & Ocs Technician</td><td>Finch</td><td>2026-08-08</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Full Time Retail Associate (optical): Edmonton, Ab</td><td>Edmonton</td><td>2026-08-08</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Brampton, On</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Geldmarkt</td><td>Operateur Entrepot - Nuit</td><td>Baie</td><td>2026-08-08</td></tr>
+<tr><td>70</td><td>Operateur Entrepot - Nuit</td><td>Baie</td><td>2026-08-08</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Regent Mall</td><td>Fredericton</td><td>2026-08-08</td></tr>
+<tr><td>JDI</td><td>Paint Associate</td><td>Corner Brook</td><td>2026-08-08</td></tr>
+<tr><td>Staples Canada</td><td>Associé Des Ventes</td><td>L'Ile</td><td>2026-08-08</td></tr>
+<tr><td>Pottery Barn</td><td>Holiday Seasonal Associate, Yorkdale- Williams Sonoma</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate-print&services</td><td>Edmonton</td><td>2026-08-08</td></tr>
+<tr><td>Pottery Barn</td><td>Holiday Seasonal Associate, Sherway- Williams Sonoma</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>HCM Portal (UPS)</td><td>Warehouse Associate</td><td>Guelph</td><td>2026-08-08</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Part Time</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Merchandising Associate (part Time) - Cf Toronto Eaton Centre</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Breitling SA</td><td>Sales Associate Montreal</td><td>Montreal</td><td>2026-08-08</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Hertz Global Holdings</td><td>Customer Service And Sales Associate</td><td>Vancouver</td><td>2026-08-08</td></tr>
+<tr><td>Hertz</td><td>Customer Service And Sales Associate</td><td>Vancouver</td><td>2026-08-08</td></tr>
+<tr><td>Match Retail</td><td>Sales Specialist - Part Time - Mississauga</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Emploisahearst</td><td>Sales Associate</td><td>Edmonton</td><td>2026-08-08</td></tr>
+<tr><td>UBC</td><td>Sales Attendant, Concessions</td><td>Vancouver</td><td>2026-08-08</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Sales Attendant, Concessions</td><td>Vancouver</td><td>2026-08-08</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Sales & Technical Service Associate (part Time)</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>Giant Tiger</td><td>Store Associate (part-time)</td><td>Edmonton</td><td>2026-08-08</td></tr>
+<tr><td>Global Industrial</td><td>Warehouse Associate/generalist</td><td>Scarborough</td><td>2026-08-08</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate</td><td>Estevan</td><td>2026-08-08</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Fixed Term Contract</td><td>Grenfell</td><td>2026-08-08</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Canmore</td><td>2026-08-08</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Fixed Term Contract</td><td>Grenfell</td><td>2026-08-08</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Estevan</td><td>2026-08-08</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Fixed Term Contract</td><td>Grenfell</td><td>2026-08-08</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Highland Sq Mall</td><td>New Glasgow</td><td>2026-08-08</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, 362 2nd Ave</td><td>Fernie</td><td>2026-08-08</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Les Galeries Montagnaises</td><td>Sept-ÎLes</td><td>2026-08-08</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Charlottetown Mall</td><td>Charlottetown</td><td>2026-08-08</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Stanton Medical Building</td><td>Yellowknife</td><td>2026-08-08</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Orchard Park Mall</td><td>Kelowna</td><td>2026-08-08</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Elmsdale Mall</td><td>Elmsdale</td><td>2026-08-08</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Place Du Royaume</td><td>Chicoutimi</td><td>2026-08-08</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Carrefour Du Nord Ouest</td><td>Val-D'Or</td><td>2026-08-08</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Alpine Village Mall, Future Opportunities</td><td>Revelstoke</td><td>2026-08-08</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Medicine Hat Mall</td><td>Medicine Hat</td><td>2026-08-08</td></tr>
+<tr><td>Province of Nova Scotia</td><td>Administrative Assistant (secretary 1)</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant - Bilingual</td><td>Montreal</td><td>2026-08-08</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant - Bilingual</td><td>Montreal</td><td>2026-08-08</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant Cibc Wood Gundy</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant Cibc Wood Gundy</td><td>Toronto</td><td>2026-08-08</td></tr>
+<tr><td>ABB Ltd</td><td>Administration/secretarial Intern</td><td>Quebec</td><td>2026-08-08</td></tr>
+<tr><td>ABB UK</td><td>Administration/secretarial Intern</td><td>Quebec</td><td>2026-08-08</td></tr>
+<tr><td>Brex</td><td>Support Specialist I</td><td>Vancouver</td><td>2026-08-08</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Administrative Associate</td><td>Montreal</td><td>2026-08-08</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Administrateur (trice) De Service</td><td>Montreal</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Creative Executive Assistant</td><td>Canada</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Software Verification & Qa Specialist</td><td>Canada</td><td>2026-08-08</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Account Specialist</td><td>Brantford</td><td>2026-08-08</td></tr>
+<tr><td>Genpt</td><td>Account Specialist</td><td>Brantford</td><td>2026-08-08</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Account Specialist</td><td>Brantford</td><td>2026-08-08</td></tr>
 </table>
