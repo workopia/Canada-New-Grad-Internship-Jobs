@@ -2222,4 +2222,47 @@
 <tr><td>The Bank of Nova Scotia</td><td>Iia Administrative Associate, Scotiamcleod</td><td>Toronto</td><td>2026-08-09</td></tr>
 <tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Assistant</td><td>Calgary</td><td>2026-08-09</td></tr>
 <tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Support Assistant - Saskatoon</td><td>Saskatoon</td><td>2026-08-09</td></tr>
+<tr><td>Cscae</td><td>C-esg-100 Sustainable Development Intern</td><td>Montreal</td><td>2026-08-10</td></tr>
+<tr><td>Flightcrewready</td><td>C-esg-100 Sustainable Development Intern</td><td>Montreal</td><td>2026-08-10</td></tr>
+<tr><td>CAE Australia</td><td>C-esg-100 Sustainable Development Intern</td><td>Montreal</td><td>2026-08-10</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist</td><td>Canada</td><td>2026-08-10</td></tr>
+<tr><td>Air Transat</td><td>Analyste En Science Des Données Marketing</td><td>Montreal</td><td>2026-08-10</td></tr>
+<tr><td>Jobgether</td><td>Ai Engineer (remote, International)</td><td>Canada</td><td>2026-08-10</td></tr>
+<tr><td>Canadiantirecarrieres</td><td>Business Data Analyst</td><td>Toronto</td><td>2026-08-10</td></tr>
+<tr><td>BMO</td><td>Analyst, Financial Governance & Reporting</td><td>Toronto</td><td>2026-08-10</td></tr>
+<tr><td>Bombardier</td><td>Financial Analyst, Labor And Overhead Center Of Excellence</td><td>Montreal</td><td>2026-08-10</td></tr>
+<tr><td>fm1069.ca</td><td>Business Analyst</td><td>Canada</td><td>2026-08-10</td></tr>
+<tr><td>Virtual Care Provider</td><td>Registered Practical Nurse (rpn) - Part Time - Limestone Ridge</td><td>Axm</td><td>2026-08-10</td></tr>
+<tr><td>Bruyere</td><td>Registered Nurse, Complex Care</td><td>Saint</td><td>2026-08-10</td></tr>
+<tr><td>The Brenda Strafford Foundation Ltd</td><td>Registered Nurse - Bvm ( Casual 0.00 Fte)</td><td>Calgary</td><td>2026-08-10</td></tr>
+<tr><td>McGill University</td><td>Research Assistant</td><td>Montreal</td><td>2026-08-10</td></tr>
+<tr><td>304</td><td>Research Assistant</td><td>Montreal</td><td>2026-08-10</td></tr>
+<tr><td>mcgillcampusstore.ca</td><td>Research Assistant</td><td>Montreal</td><td>2026-08-10</td></tr>
+<tr><td>Extendicare Fort Macleod</td><td>Health Care Aide - Extendicare Fort Macleod</td><td>Fort Macleod</td><td>2026-08-10</td></tr>
+<tr><td>Summit Place LTC</td><td>Health Care Aide - Extendicare Fort Macleod</td><td>Fort Macleod</td><td>2026-08-10</td></tr>
+<tr><td>Extendicare West Oak Village</td><td>Health Care Aide - Extendicare Fort Macleod</td><td>Fort Macleod</td><td>2026-08-10</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Oshawa Centre</td><td>Toronto</td><td>2026-08-10</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate</td><td>Montreal</td><td>2026-08-10</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Part Time</td><td>Edmonton</td><td>2026-08-10</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-08-10</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Conseiller.ère Mode (temps Partiel) - St Bruno</td><td>Saint</td><td>2026-08-10</td></tr>
+<tr><td>Dollar Tree Canada</td><td>Customer Service Associate</td><td>Blenheim</td><td>2026-08-10</td></tr>
+<tr><td>Dollar Tree Canada</td><td>Customer Service Associate I</td><td>Grand Bend</td><td>2026-08-10</td></tr>
+<tr><td>Aloyoga Inc</td><td>Sales Associate (part-time) / Associé Ventes Et Services - Royalmount</td><td>Royalmount</td><td>2026-08-10</td></tr>
+<tr><td>Ace Liquor Discounter</td><td>Sales Associate</td><td>Edmonton</td><td>2026-08-10</td></tr>
+<tr><td>TD Bank Group</td><td>Personal Banking Associate- Future Opportunities (inviting Applicants Who Identify As First Nation (status And Non-status), Innuit, And Metis)</td><td>Tsuut'Ina</td><td>2026-08-10</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate-future Opportunities</td><td>Salmon Arm</td><td>2026-08-10</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate- Whistler, Bc Future Opportunities</td><td>Whistler</td><td>2026-08-10</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate</td><td>Campbell River</td><td>2026-08-10</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Campbellton</td><td>Campbellton</td><td>2026-08-10</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Campbellton</td><td>Campbellton</td><td>2026-08-10</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Campbellton</td><td>Campbellton</td><td>2026-08-10</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate</td><td>Woodbridge</td><td>2026-08-10</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Support Associate Iii</td><td>Toronto</td><td>2026-08-10</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate Iii</td><td>Toronto</td><td>2026-08-10</td></tr>
+<tr><td>Best Buy Canada</td><td>Computer Sales Associate (seasonal)</td><td>North London +1</td><td>2026-08-10</td></tr>
+<tr><td>Best Buy Canada</td><td>Appliance Sales Associate (seasonal)</td><td>Toronto</td><td>2026-08-10</td></tr>
+<tr><td>Giant Tiger</td><td>Store Associate (full-time)</td><td>Montreal</td><td>2026-08-10</td></tr>
+<tr><td>Jll Com Au</td><td>Facilities Coordinator</td><td>Toronto</td><td>2026-08-10</td></tr>
+<tr><td>JLL</td><td>Facilities Coordinator</td><td>Toronto</td><td>2026-08-10</td></tr>
 </table>
