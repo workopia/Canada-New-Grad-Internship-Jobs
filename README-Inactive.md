@@ -2265,4 +2265,14 @@
 <tr><td>Giant Tiger</td><td>Store Associate (full-time)</td><td>Montreal</td><td>2026-08-10</td></tr>
 <tr><td>Jll Com Au</td><td>Facilities Coordinator</td><td>Toronto</td><td>2026-08-10</td></tr>
 <tr><td>JLL</td><td>Facilities Coordinator</td><td>Toronto</td><td>2026-08-10</td></tr>
+<tr><td>12</td><td>Strategy And Management Consulting Associate - Fall 2027</td><td>Toronto</td><td>2026-08-11</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Conseiller Ou Conseillère En Actuariat, Tarification</td><td>Canada</td><td>2026-08-11</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Practical Nurse (rpn) - Part Time - Limestone Ridge</td><td>Axm</td><td>2026-08-11</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Registered Practical Nurse (rpn) - Part Time - Limestone Ridge</td><td>Axm</td><td>2026-08-11</td></tr>
+<tr><td>construction-benefits</td><td>Heavy Equipment Technician / Heavy Duty Mechanic - Iol Kearl Maintenance</td><td>Fort Mckay</td><td>2026-08-11</td></tr>
+<tr><td>construction-benefits</td><td>Instrumentation Technician Journeyperson - Cnrl Horizon Maintenance</td><td>Fort McMurray</td><td>2026-08-11</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>North York</td><td>2026-08-11</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - French Language Skills Will Be An Asset</td><td>Sudbury</td><td>2026-08-11</td></tr>
+<tr><td>TELUS Health/lifeworks</td><td>Adjointe Administrative – Ts</td><td>Montreal</td><td>2026-08-11</td></tr>
+<tr><td>JLL UK</td><td>Facilities Coordinator</td><td>Toronto</td><td>2026-08-11</td></tr>
 </table>

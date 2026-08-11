@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-10",
+ "asOf": "2026-08-11",
  "count": 729,
  "jobs": {
   "540335": {
@@ -1988,6 +1988,12 @@
    "role": "Mercer / Actuarial Analyst – Retirement & Health Benefits – Toronto - 2026 New Grad",
    "location": "Toronto"
   },
+  "ad861826b3d670497db155bc1d5bb687": {
+   "id": "ad861826b3d670497db155bc1d5bb687",
+   "company": "PwC Sweden",
+   "role": "Data And Product Analyst (contract)",
+   "location": "Toronto"
+  },
   "3fff63b495117ed284798e0836301fc5": {
    "id": "3fff63b495117ed284798e0836301fc5",
    "company": "BDO",
@@ -2057,6 +2063,12 @@
   "4ea840435efcb29446a9253e14436449": {
    "id": "4ea840435efcb29446a9253e14436449",
    "company": "TD",
+   "role": "Operations Officer Iii",
+   "location": "Toronto"
+  },
+  "ae47b4674abd0f8d48e0acb64ca19c98": {
+   "id": "ae47b4674abd0f8d48e0acb64ca19c98",
+   "company": "TD Bank",
    "role": "Operations Officer Iii",
    "location": "Toronto"
   },
@@ -2456,18 +2468,6 @@
    "role": "Business Analyst - Fidelity Wealth",
    "location": "Toronto"
   },
-  "76ed3a3ff1c797729e80819cfb2d467c": {
-   "id": "76ed3a3ff1c797729e80819cfb2d467c",
-   "company": "12",
-   "role": "Strategy And Management Consulting Associate - Fall 2027",
-   "location": "Toronto"
-  },
-  "3b37af9216c0f79106c65d1fe81c279c": {
-   "id": "3b37af9216c0f79106c65d1fe81c279c",
-   "company": "Desjardins General Insurance",
-   "role": "Conseiller Ou Conseillère En Actuariat, Tarification",
-   "location": "Canada"
-  },
   "117a0171c584717341c314097686172c": {
    "id": "117a0171c584717341c314097686172c",
    "company": "Winnipeg Regional Health Authority",
@@ -2630,6 +2630,12 @@
    "role": "Research Assistant 2",
    "location": "Montreal"
   },
+  "2ae198e2a0bfa8373d857de87877ffaa": {
+   "id": "2ae198e2a0bfa8373d857de87877ffaa",
+   "company": "McGill University",
+   "role": "Research Assistant 2",
+   "location": "Montreal"
+  },
   "83aa5e44b0eb4aa563886680bdf58afc": {
    "id": "83aa5e44b0eb4aa563886680bdf58afc",
    "company": "Overwaitea Food Group Ltd Partnership",
@@ -2669,6 +2675,12 @@
   "c6b5b6c8256282e446b0445c4447d007": {
    "id": "c6b5b6c8256282e446b0445c4447d007",
    "company": "Extendicareoshawa",
+   "role": "Registered Practical Nurse (rpn) - Part Time (pt) - Laurier Manor",
+   "location": "Laurier"
+  },
+  "85652beb005665c327ecd9d8df5710b1": {
+   "id": "85652beb005665c327ecd9d8df5710b1",
+   "company": "Virtual Care Provider",
    "role": "Registered Practical Nurse (rpn) - Part Time (pt) - Laurier Manor",
    "location": "Laurier"
   },
@@ -2936,17 +2948,11 @@
    "role": "Field & Infusion Nurse (rn) 12 Months Contract",
    "location": "Winnipeg"
   },
-  "5f3a487251811293cdd3201dc3daa4b3": {
-   "id": "5f3a487251811293cdd3201dc3daa4b3",
-   "company": "Summit Place LTC",
-   "role": "Registered Practical Nurse (rpn) - Part Time - Limestone Ridge",
-   "location": "Axm"
-  },
-  "9790a2d7b610c211eeb51d8e1d8d1e98": {
-   "id": "9790a2d7b610c211eeb51d8e1d8d1e98",
-   "company": "Extendicarevistaparklodge",
-   "role": "Registered Practical Nurse (rpn) - Part Time - Limestone Ridge",
-   "location": "Axm"
+  "d0a3a620c5bd521c666ba26714ae7c40": {
+   "id": "d0a3a620c5bd521c666ba26714ae7c40",
+   "company": "Aramark UK",
+   "role": "Light Maintenance Worker-remote Lodge, Fort Mcmurray, On",
+   "location": "Fort Mcmurray"
   },
   "246865f01427408a2fe337e54e47780e": {
    "id": "246865f01427408a2fe337e54e47780e",
@@ -2969,6 +2975,12 @@
   "93bfb68abd67e5bfd27681d186fe225e": {
    "id": "93bfb68abd67e5bfd27681d186fe225e",
    "company": "Agilent Technologies",
+   "role": "Maintenance Technician",
+   "location": "Charlottetown"
+  },
+  "10a9a77489393efb0e9482b08945c096": {
+   "id": "10a9a77489393efb0e9482b08945c096",
+   "company": "Agilent Technologies UK",
    "role": "Maintenance Technician",
    "location": "Charlottetown"
   },
@@ -3416,18 +3428,6 @@
    "role": "Vibration Technician - Cnrl Albian - Maintenance",
    "location": "Fort McMurray"
   },
-  "c4b047614c8761d256d1e058efc14e43": {
-   "id": "c4b047614c8761d256d1e058efc14e43",
-   "company": "construction-benefits",
-   "role": "Heavy Equipment Technician / Heavy Duty Mechanic - Iol Kearl Maintenance",
-   "location": "Fort Mckay"
-  },
-  "ac98a15dfea225e36a4b971859bc6192": {
-   "id": "ac98a15dfea225e36a4b971859bc6192",
-   "company": "construction-benefits",
-   "role": "Instrumentation Technician Journeyperson - Cnrl Horizon Maintenance",
-   "location": "Fort McMurray"
-  },
   "a251b547541ed7650ac5c1471b36be7d": {
    "id": "a251b547541ed7650ac5c1471b36be7d",
    "company": "Coach (Tapestry, Inc.)",
@@ -3656,6 +3656,18 @@
    "role": "Customer Experience Associate - French Language Skills Will Be An Asset",
    "location": "Kapuskasing"
   },
+  "9307ba473dffccb2b774a3a490d6206f": {
+   "id": "9307ba473dffccb2b774a3a490d6206f",
+   "company": "TD Bank",
+   "role": "Customer Experience Associate - French Language Skills Will Be An Asset",
+   "location": "Kapuskasing"
+  },
+  "fe2180954fba95459ce48f7401c6af26": {
+   "id": "fe2180954fba95459ce48f7401c6af26",
+   "company": "TD Bank",
+   "role": "Customer Experience Associate",
+   "location": "Edmonton"
+  },
   "3b045f0e13bf29399d3ef13c724d2698": {
    "id": "3b045f0e13bf29399d3ef13c724d2698",
    "company": "The TJX Companies, Inc",
@@ -3739,18 +3751,6 @@
    "company": "RCL - Reitmans Canada Ltd/Ltée",
    "role": "Fashion Associate (part Time) - W. Edmonton Mall",
    "location": "Edmonton"
-  },
-  "990fed452c1dddde9e2bc8ad9a9cd97a": {
-   "id": "990fed452c1dddde9e2bc8ad9a9cd97a",
-   "company": "TD Bank",
-   "role": "Customer Experience Associate",
-   "location": "North York"
-  },
-  "c38b9a25da41bebe2b293ab37719c14c": {
-   "id": "c38b9a25da41bebe2b293ab37719c14c",
-   "company": "TD Bank",
-   "role": "Customer Experience Associate - French Language Skills Will Be An Asset",
-   "location": "Sudbury"
   },
   "179533ad4a5b1eaa655b769d27092ef0": {
    "id": "179533ad4a5b1eaa655b769d27092ef0",
@@ -3896,6 +3896,12 @@
    "role": "Project Sales Associate",
    "location": "Tracadie"
   },
+  "b0ebb50be3143c78d74cf4ab8e2ceb0b": {
+   "id": "b0ebb50be3143c78d74cf4ab8e2ceb0b",
+   "company": "Bunge",
+   "role": "Production Support Specialist",
+   "location": "Altona"
+  },
   "2ef714b6cc10340b42eeb8e08faf5fb1": {
    "id": "2ef714b6cc10340b42eeb8e08faf5fb1",
    "company": "Liebherr Machines Bulle SA",
@@ -4001,6 +4007,12 @@
   "d6639787fdda2c3bc218b0ebdccba3dd": {
    "id": "d6639787fdda2c3bc218b0ebdccba3dd",
    "company": "Aecon U.S.",
+   "role": "Project Coordinator, Co-op (kpc)",
+   "location": "Toronto"
+  },
+  "6d92290f47ddd18c7267a768f8224a76": {
+   "id": "6d92290f47ddd18c7267a768f8224a76",
+   "company": "Aecon Group",
    "role": "Project Coordinator, Co-op (kpc)",
    "location": "Toronto"
   },
@@ -4363,18 +4375,6 @@
    "company": "LifeWorks",
    "role": "Adjointe Administrative – Ts",
    "location": "Montreal"
-  },
-  "5f129390007e303c0785defafc932b28": {
-   "id": "5f129390007e303c0785defafc932b28",
-   "company": "TELUS Health/lifeworks",
-   "role": "Adjointe Administrative – Ts",
-   "location": "Montreal"
-  },
-  "bea2e19dc8e1ffc92880ac9ca71ff309": {
-   "id": "bea2e19dc8e1ffc92880ac9ca71ff309",
-   "company": "JLL UK",
-   "role": "Facilities Coordinator",
-   "location": "Toronto"
   }
  }
 }
