@@ -1,13 +1,7 @@
 {
- "asOf": "2026-08-12",
+ "asOf": "2026-08-13",
  "count": 730,
  "jobs": {
-  "540335": {
-   "id": "540335",
-   "company": "Mountain Warehouse",
-   "role": "Can Sales Associate - Ontario",
-   "location": "Toronto"
-  },
   "558945": {
    "id": "558945",
    "company": "Mountain Warehouse",
@@ -31,6 +25,18 @@
    "company": "Ericsson",
    "role": "Stagiaire En Communication",
    "location": "Montreal"
+  },
+  "ce3ba8e83b748b6af85a7c3d21a0de01": {
+   "id": "ce3ba8e83b748b6af85a7c3d21a0de01",
+   "company": "pr.careers",
+   "role": "Stagiaire En Hygiene Industrielle Et Ergonomie / Internship In Industrial Hygiene And Ergonomics",
+   "location": "Montreal"
+  },
+  "0cf240224865e75b6ec62f7b7d110ddf": {
+   "id": "0cf240224865e75b6ec62f7b7d110ddf",
+   "company": "Whitecap",
+   "role": "Intern - Corporate",
+   "location": "Toronto"
   },
   "390d955ac15d091f672e8f6f9afb5bd0": {
    "id": "390d955ac15d091f672e8f6f9afb5bd0",
@@ -493,18 +499,6 @@
    "company": "Hitachi Energy",
    "role": "Stagiaire, Engagement Avec La Communauté",
    "location": "Montreal"
-  },
-  "889ce3c5b7156eab2e548bb200fe73d0": {
-   "id": "889ce3c5b7156eab2e548bb200fe73d0",
-   "company": "HITACHI ENERGY CANADA INC.",
-   "role": "Stagiaire, Engagement Avec La Communauté",
-   "location": "Montreal"
-  },
-  "2bb5a3ac93caa2e86d1254920e935e7d": {
-   "id": "2bb5a3ac93caa2e86d1254920e935e7d",
-   "company": "ABB Inc",
-   "role": "Environment, Health & Safety Intern – Fall 2026",
-   "location": "Canada"
   },
   "02679f6c3105b0a7ab53ec30ccb6c113": {
    "id": "02679f6c3105b0a7ab53ec30ccb6c113",
@@ -1334,6 +1328,12 @@
    "role": "Engineer I, Data Scientist - New Grad (hybrid)",
    "location": "Sunnyvale"
   },
+  "87ac3f63190f48cedccbafa5f547be01": {
+   "id": "87ac3f63190f48cedccbafa5f547be01",
+   "company": "Retirement World",
+   "role": "Ai Engineer - Full Stack Agentic Ux",
+   "location": "Toronto"
+  },
   "ae14e5f78dcb8b85decac2d8060db76a": {
    "id": "ae14e5f78dcb8b85decac2d8060db76a",
    "company": "TD Ameritrade",
@@ -1808,12 +1808,6 @@
    "role": "Ai Engineer Ll",
    "location": "Toronto"
   },
-  "6a9da90dfcd6672275c11b3ad30e6332": {
-   "id": "6a9da90dfcd6672275c11b3ad30e6332",
-   "company": "Allstatenewsroom",
-   "role": "Business Insights Analyst",
-   "location": "Toronto"
-  },
   "41f180c002e2b634c4dc0d895481e1ab": {
    "id": "41f180c002e2b634c4dc0d895481e1ab",
    "company": "Accenture Australia",
@@ -1992,6 +1986,18 @@
    "id": "ed676dafd593d1c11fe8ecfed5b1912c",
    "company": "Marsh",
    "role": "Mercer / Actuarial Analyst – Retirement & Health Benefits – Toronto - 2026 New Grad",
+   "location": "Toronto"
+  },
+  "aef232bec21fc7d834835b77cf2b126e": {
+   "id": "aef232bec21fc7d834835b77cf2b126e",
+   "company": "Aecon U.S.",
+   "role": "Analyst, Business",
+   "location": "Toronto"
+  },
+  "126682247015cfa334a09ca51776ebc2": {
+   "id": "126682247015cfa334a09ca51776ebc2",
+   "company": "Retirement World",
+   "role": "Actuarial Analyst, Group Pricing",
    "location": "Toronto"
   },
   "fa0cd07d644e955f5c271bcb76b5a3f1": {
@@ -2282,12 +2288,6 @@
    "role": "Reconciliation Analyst",
    "location": "Montreal"
   },
-  "f29f1eceb66ac2cd6c023d741aac4866": {
-   "id": "f29f1eceb66ac2cd6c023d741aac4866",
-   "company": "Retirement World",
-   "role": "Operations Analyst",
-   "location": "Toronto"
-  },
   "3166df3423245ebb892047d1526ea2b5": {
    "id": "3166df3423245ebb892047d1526ea2b5",
    "company": "Diageo PLC",
@@ -2468,11 +2468,11 @@
    "role": "Financial Analyst, R&d Finance",
    "location": "Canada"
   },
-  "536392558922e9e9685cc2d932b2c4f0": {
-   "id": "536392558922e9e9685cc2d932b2c4f0",
-   "company": "Markel Group",
-   "role": "Business Analyst",
-   "location": "Toronto"
+  "b462b22b26192b56a70579f748c42f7e": {
+   "id": "b462b22b26192b56a70579f748c42f7e",
+   "company": "cogirseniorliving.ca",
+   "role": "Part Time Rpn",
+   "location": "Westney Gardens"
   },
   "f7d54b619976cd67760501748e0097af": {
    "id": "f7d54b619976cd67760501748e0097af",
@@ -2509,6 +2509,12 @@
    "company": "Summit Place LTC",
    "role": "Personal Support Worker (psw) - Permanent Part Time (pt)- Sherwood Court (open)",
    "location": "Sherwood Court"
+  },
+  "28563280f144b8b2164671b79e58cd7e": {
+   "id": "28563280f144b8b2164671b79e58cd7e",
+   "company": "Trillium Health Partners",
+   "role": "Registered Nurse -m 2c Cardiology (temporary Full Time)",
+   "location": "Toronto"
   },
   "5431b667ddc75fe29e3275fab014199a": {
    "id": "5431b667ddc75fe29e3275fab014199a",
@@ -2941,18 +2947,6 @@
    "company": "Winnipeg Regional Health Authority",
    "role": "General Duty Nurse (n2) - Surgery-d2 Orthopedic Trauma/spine - Repost",
    "location": "Winnipeg"
-  },
-  "733f8d4558394a29cfb4690cb0a4ba5d": {
-   "id": "733f8d4558394a29cfb4690cb0a4ba5d",
-   "company": "Winnipeg Regional Health Authority",
-   "role": "General Duty Nurse (n2) - Medicine - High Observation Unit - Repost",
-   "location": "Winnipeg"
-  },
-  "d75ed94ad07b09637843be194e393076": {
-   "id": "d75ed94ad07b09637843be194e393076",
-   "company": "Capital District Health Authority",
-   "role": "Care Team Assistant - Transitional Care Unit",
-   "location": "Aberdeen Hospital"
   },
   "77562cddf32dd7d70a095bb900145d82": {
    "id": "77562cddf32dd7d70a095bb900145d82",
@@ -3434,6 +3428,54 @@
    "role": "Maintenance Technician - Canary Landing",
    "location": "Toronto"
   },
+  "35c49f6ea6adb3a2beebe2c55632ee26": {
+   "id": "35c49f6ea6adb3a2beebe2c55632ee26",
+   "company": "Carter's, Inc.",
+   "role": "Associe Aux Ventes",
+   "location": "Montreal"
+  },
+  "afd81d4f479cdb7d33bb3fc8080ef367": {
+   "id": "afd81d4f479cdb7d33bb3fc8080ef367",
+   "company": "Capri Holdings Limited",
+   "role": "Stock Associate - Pt",
+   "location": "Edmonton"
+  },
+  "f3e696e7e1b50ce8c7abbe22ccc133b2": {
+   "id": "f3e696e7e1b50ce8c7abbe22ccc133b2",
+   "company": "Circle K",
+   "role": "Préposé Service À La Clientèle De Nuit",
+   "location": "Sainte-Anne Beaupré"
+  },
+  "1944aafbfd1c7c3a28cedbf06af84ab0": {
+   "id": "1944aafbfd1c7c3a28cedbf06af84ab0",
+   "company": "Circle K",
+   "role": "Préposé(e) Au Service À La Clientèle -act",
+   "location": "St-Apollinaire"
+  },
+  "e0c99f51baa866af77c9b757d4afbf1f": {
+   "id": "e0c99f51baa866af77c9b757d4afbf1f",
+   "company": "Emploisahearst",
+   "role": "Sales Associate",
+   "location": "Toronto"
+  },
+  "0cf355cd63762f9526d1b335eaef0a74": {
+   "id": "0cf355cd63762f9526d1b335eaef0a74",
+   "company": "Wolseley Canada",
+   "role": "Associé(e) D'entrepôt",
+   "location": "St"
+  },
+  "d289ab958c153aaa488a14a7072018ad": {
+   "id": "d289ab958c153aaa488a14a7072018ad",
+   "company": "Legocareersvirginia",
+   "role": "Seasonal Retail Sales Associate - Square One, Mississauga, On",
+   "location": "Toronto"
+  },
+  "e85413fff7b231ceb024f0a29bd8b568": {
+   "id": "e85413fff7b231ceb024f0a29bd8b568",
+   "company": "LVMH Perfumes & Cosmetics",
+   "role": "Selling Specialist - Sephora/ulta: Ontario West",
+   "location": "Toronto"
+  },
   "42edddfe6a8ffc56d4864b06d3ae796e": {
    "id": "42edddfe6a8ffc56d4864b06d3ae796e",
    "company": "Rogers Communications Inc",
@@ -3740,6 +3782,18 @@
    "role": "Beauty Advisor - Part Time",
    "location": "Edmonton"
   },
+  "c3fd03d313fa8ebff68daad51fb685a9": {
+   "id": "c3fd03d313fa8ebff68daad51fb685a9",
+   "company": "Tiffany & Co",
+   "role": "Client Advisor, Part-time, Montreal Royalmount",
+   "location": "Montreal"
+  },
+  "8b4a20ba0262b8c360a23ac1e5bf5a61": {
+   "id": "8b4a20ba0262b8c360a23ac1e5bf5a61",
+   "company": "Staples Inc.",
+   "role": "Associé Des Ventes",
+   "location": "Sainte"
+  },
   "377c6c45e768a7cb214feacd3c5a4170": {
    "id": "377c6c45e768a7cb214feacd3c5a4170",
    "company": "TELUS",
@@ -3806,6 +3860,18 @@
    "role": "Sales Associate-print&services",
    "location": "Toronto"
   },
+  "ab7437f9bfc562f98380e4dee2eed068": {
+   "id": "ab7437f9bfc562f98380e4dee2eed068",
+   "company": "Staples Inc.",
+   "role": "Sales Associate",
+   "location": "Toronto"
+  },
+  "8766ffbe6965ef985ac63dcf6c351562": {
+   "id": "8766ffbe6965ef985ac63dcf6c351562",
+   "company": "Staples Inc.",
+   "role": "Sales Associate-print&services",
+   "location": "Toronto"
+  },
   "034527653c6893c4aa253cab84ed5149": {
    "id": "034527653c6893c4aa253cab84ed5149",
    "company": "Wesco",
@@ -3836,71 +3902,17 @@
    "role": "Can Winners Store 0319 -dufferin Mall Pt Associate",
    "location": "Toronto"
   },
-  "a251b547541ed7650ac5c1471b36be7d": {
-   "id": "a251b547541ed7650ac5c1471b36be7d",
-   "company": "Coach (Tapestry, Inc.)",
-   "role": "Sales Support Associate Iii",
+  "498393b7004630472e7155c1284e5fad": {
+   "id": "498393b7004630472e7155c1284e5fad",
+   "company": "Circle K",
+   "role": "Assistant(e) Gérant(e) -act",
+   "location": "Beaupré"
+  },
+  "c790c2d0bce2e8c194256323adcf6713": {
+   "id": "c790c2d0bce2e8c194256323adcf6713",
+   "company": "City of Toronto",
+   "role": "Quality Improvement Specialist",
    "location": "Toronto"
-  },
-  "64299a7a633335a4fe94fd1882ae8a70": {
-   "id": "64299a7a633335a4fe94fd1882ae8a70",
-   "company": "Kate Spade New York",
-   "role": "Temporary Associate",
-   "location": "Toronto"
-  },
-  "d50c6c3272c131933c511a4db9b19426": {
-   "id": "d50c6c3272c131933c511a4db9b19426",
-   "company": "Coach (Tapestry, Inc.)",
-   "role": "Sales Associate Ii",
-   "location": "Toronto"
-  },
-  "b662fd6b4077465b049ba1bdb1b3e992": {
-   "id": "b662fd6b4077465b049ba1bdb1b3e992",
-   "company": "Best Buy Canada",
-   "role": "Retail Sales Associate (part Time)",
-   "location": "Downsview +1"
-  },
-  "81569252df2783888f046368e0c6e3a8": {
-   "id": "81569252df2783888f046368e0c6e3a8",
-   "company": "Rogers Communications Inc",
-   "role": "Sales Associate - Oshawa Centre",
-   "location": "Toronto"
-  },
-  "219e056b4ee7729e2d49b05ed933e423": {
-   "id": "219e056b4ee7729e2d49b05ed933e423",
-   "company": "Rogers Communications Inc",
-   "role": "Sales Associate - Granby - Future Opportunities",
-   "location": "Granby +1"
-  },
-  "54eac6a180ae8ce87abb1aeb46e4bc59": {
-   "id": "54eac6a180ae8ce87abb1aeb46e4bc59",
-   "company": "BCE Inc",
-   "role": "Retail Sales Associate, Medicine Hat Mall",
-   "location": "Medicine Hat"
-  },
-  "d9d1a16bd6e90c8f15b226338f814985": {
-   "id": "d9d1a16bd6e90c8f15b226338f814985",
-   "company": "BCE Inc",
-   "role": "Retail Sales Associate, Lloydminster",
-   "location": "Lloydminster"
-  },
-  "c7a9e76b29a766b68bde93d959bc0672": {
-   "id": "c7a9e76b29a766b68bde93d959bc0672",
-   "company": "BCE Inc",
-   "role": "Retail Sales Associate, Erin Mills Town Centre",
-   "location": "Toronto"
-  },
-  "2ce72147bfc6c489932d16209432ea0d": {
-   "id": "2ce72147bfc6c489932d16209432ea0d",
-   "company": "Sephora USA Inc",
-   "role": "Beauty Advisor - Part Time",
-   "location": "Edmonton"
-  },
-  "b2ba3e229d26b8102816ef4dec1da9ff": {
-   "id": "b2ba3e229d26b8102816ef4dec1da9ff",
-   "company": "Sephora USA Inc",
-   "role": "Beauty Advisor - Full Time",
-   "location": "Edmonton"
   },
   "5db6cf8d09d2297447473f422069ed56": {
    "id": "5db6cf8d09d2297447473f422069ed56",
@@ -4021,12 +4033,6 @@
    "company": "Ernst & Young Global Ltd",
    "role": "Administrative Assistant (toronto)",
    "location": "Toronto"
-  },
-  "70c12ff7873cfcf3836c67989dda8ff7": {
-   "id": "70c12ff7873cfcf3836c67989dda8ff7",
-   "company": "Circle K",
-   "role": "Assistant(e) Gérant(e) -act",
-   "location": "Sept-ÎLes"
   },
   "d3281d3589a2850720fa02b5d8920f36": {
    "id": "d3281d3589a2850720fa02b5d8920f36",
@@ -4242,12 +4248,6 @@
    "id": "7fcdcdabf59bf8aed1a3e0500a236284",
    "company": "City of Toronto",
    "role": "Administrative Assistant 2",
-   "location": "Toronto"
-  },
-  "c790c2d0bce2e8c194256323adcf6713": {
-   "id": "c790c2d0bce2e8c194256323adcf6713",
-   "company": "City of Toronto",
-   "role": "Quality Improvement Specialist",
    "location": "Toronto"
   },
   "152f351b1dcac66bac174bfa6cae4b84": {

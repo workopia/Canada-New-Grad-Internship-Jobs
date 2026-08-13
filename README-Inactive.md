@@ -2408,4 +2408,24 @@
 <tr><td>Intact Financial</td><td>Executive Assistant – Vp/dsvp</td><td>Montreal</td><td>2026-08-12</td></tr>
 <tr><td>daxnet.me</td><td>Adjointe Administrative – Ts</td><td>Montreal</td><td>2026-08-12</td></tr>
 <tr><td>LifeWorks</td><td>Adjointe Administrative – Ts</td><td>Montreal</td><td>2026-08-12</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - Ontario</td><td>Toronto</td><td>2026-08-13</td></tr>
+<tr><td>HITACHI ENERGY CANADA INC.</td><td>Stagiaire, Engagement Avec La Communauté</td><td>Montreal</td><td>2026-08-13</td></tr>
+<tr><td>ABB Inc</td><td>Environment, Health & Safety Intern – Fall 2026</td><td>Canada</td><td>2026-08-13</td></tr>
+<tr><td>Allstatenewsroom</td><td>Business Insights Analyst</td><td>Toronto</td><td>2026-08-13</td></tr>
+<tr><td>Retirement World</td><td>Operations Analyst</td><td>Toronto</td><td>2026-08-13</td></tr>
+<tr><td>Markel Group</td><td>Business Analyst</td><td>Toronto</td><td>2026-08-13</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Medicine - High Observation Unit - Repost</td><td>Winnipeg</td><td>2026-08-13</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant - Transitional Care Unit</td><td>Aberdeen Hospital</td><td>2026-08-13</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Support Associate Iii</td><td>Toronto</td><td>2026-08-13</td></tr>
+<tr><td>Kate Spade New York</td><td>Temporary Associate</td><td>Toronto</td><td>2026-08-13</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate Ii</td><td>Toronto</td><td>2026-08-13</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Sales Associate (part Time)</td><td>Downsview +1</td><td>2026-08-13</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Oshawa Centre</td><td>Toronto</td><td>2026-08-13</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Granby - Future Opportunities</td><td>Granby +1</td><td>2026-08-13</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Medicine Hat Mall</td><td>Medicine Hat</td><td>2026-08-13</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Lloydminster</td><td>Lloydminster</td><td>2026-08-13</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Erin Mills Town Centre</td><td>Toronto</td><td>2026-08-13</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Part Time</td><td>Edmonton</td><td>2026-08-13</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Full Time</td><td>Edmonton</td><td>2026-08-13</td></tr>
+<tr><td>Circle K</td><td>Assistant(e) Gérant(e) -act</td><td>Sept-ÎLes</td><td>2026-08-13</td></tr>
 </table>
