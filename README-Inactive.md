@@ -2428,4 +2428,151 @@
 <tr><td>Sephora USA Inc</td><td>Beauty Advisor - Part Time</td><td>Edmonton</td><td>2026-08-13</td></tr>
 <tr><td>Sephora USA Inc</td><td>Beauty Advisor - Full Time</td><td>Edmonton</td><td>2026-08-13</td></tr>
 <tr><td>Circle K</td><td>Assistant(e) Gérant(e) -act</td><td>Sept-ÎLes</td><td>2026-08-13</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - Alberta</td><td>Calgary</td><td>2026-08-14</td></tr>
+<tr><td>Ericsson</td><td>5g/6g Baseband Software Developer</td><td>Ottawa</td><td>2026-08-14</td></tr>
+<tr><td>Egis in ANZ</td><td>Intern, Transportation Structures</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Project Management And Reporting [vancouver]</td><td>Vancouver</td><td>2026-08-14</td></tr>
+<tr><td>Hitachi Rail</td><td>Stagiaire, Engagement Avec La Communauté</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>Hitachi Energy</td><td>Stagiaire, Engagement Avec La Communauté</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Infrastructure</td><td>Canada</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>Specialist - Software Engineering</td><td>Canada</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Backend - Core/api & Process Automation</td><td>Canada</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Frontend</td><td>Canada</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>Staff Frontend Engineer</td><td>Canada</td><td>2026-08-14</td></tr>
+<tr><td>General Motors</td><td>Vehicle Motion Estimation Sw Developer</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>Catalog Analyst</td><td>Canada</td><td>2026-08-14</td></tr>
+<tr><td>Amazon</td><td>Business Intelligence Engineer II, SCOT - Forecasting & Labs</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>Data Analytics And Visualization Engineer</td><td>Canada</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>Ai-native Product Engineer</td><td>Canada</td><td>2026-08-14</td></tr>
+<tr><td>Amazon</td><td>Business Intelligence Engineer I, SCOT-Forecasting & Labs Analytics</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Zafin</td><td>Ai Engineer Ll</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Portfolio Analyst, Investment Solutions - Toronto</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Bloorcourt Village, Toronto, On</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Analyst, It&s Project, Finance Reporting</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Regional Opportunities (mississauga, On)</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Regional Opportunities (north York & Other Districts)</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Regional Opportunities (scarborough & Other Districts)</td><td>Scarborough</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Scotia Plaza, Toronto, On</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Churchill Park, St John's, Nfld</td><td>St John'S</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Analyst, Trade Finance Operations (service) - Toronto, On</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Jobgether</td><td>Financial Analyst, R&d Finance</td><td>Canada</td><td>2026-08-14</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>Kyle</td><td>2026-08-14</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>Health Science North</td><td>Nursing Graduate Guarantee Opportunities For Registered Nurses</td><td>Sudbury</td><td>2026-08-14</td></tr>
+<tr><td>Health Science North</td><td>Registered Nurse - Various Opportunities</td><td>Sudbury</td><td>2026-08-14</td></tr>
+<tr><td>Health Science North</td><td>Registered Nurse - Kapuskasing</td><td>Kapuskasing</td><td>2026-08-14</td></tr>
+<tr><td>Health Science North</td><td>Registered Practical Nurse</td><td>Kapuskasing</td><td>2026-08-14</td></tr>
+<tr><td>Health Science North</td><td>Registered Nurse - New Liskeard</td><td>New Liskeard</td><td>2026-08-14</td></tr>
+<tr><td>Health Science North</td><td>Pharmacy Technician (tech Iii) X6</td><td>Canada</td><td>2026-08-14</td></tr>
+<tr><td>Extendicareoshawa</td><td>Health Care Aide</td><td>Bonnyville</td><td>2026-08-14</td></tr>
+<tr><td>Extendicare West Oak Village</td><td>Health Care Aide</td><td>Bonnyville</td><td>2026-08-14</td></tr>
+<tr><td>William Osler Health System</td><td>New Graduate Guarantee Registered Nurse - Emergency</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Lake Country Co-op</td><td>Temporary Pharmacist - Marketplace Pharmacy Prince Albert</td><td>Prince Albert</td><td>2026-08-14</td></tr>
+<tr><td>Lake Country Co-op</td><td>Pharmacist - Lake Country Co-op @ Marketplace Pharmacy Prince Albert</td><td>Prince Albert</td><td>2026-08-14</td></tr>
+<tr><td>Red River Co-op</td><td>Pharmacy Assistant - Red River Co-op At Niverville Pharmacy</td><td>Niverville</td><td>2026-08-14</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Registered Practical Nurse</td><td>St Catharines</td><td>2026-08-14</td></tr>
+<tr><td>isc.ubc.ca</td><td>Research Assistant</td><td>Vancouver</td><td>2026-08-14</td></tr>
+<tr><td>Extendicare</td><td>Personal Support Worker - Unscheduled Part Time - Riverbend Retirement Home</td><td>Riverbend Place</td><td>2026-08-14</td></tr>
+<tr><td>Summit Place LTC</td><td>Personal Support Worker - Unscheduled Part Time - Riverbend Retirement Home</td><td>Riverbend Place</td><td>2026-08-14</td></tr>
+<tr><td>CHEO</td><td>Registered Nurse, Inpatient Surgery – Permanent Full-time (1.0)</td><td>Ottawa</td><td>2026-08-14</td></tr>
+<tr><td>City of Toronto</td><td>Registered Nurse Tsss</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse-repost</td><td>Carman</td><td>2026-08-14</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Critical Care Resource Team - Repost</td><td>Winnipeg</td><td>2026-08-14</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Obstetrics, Gynecology And Neonatology Resource Team</td><td>Winnipeg</td><td>2026-08-14</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Surgery-d2 Orthopedic Trauma/spine - Repost</td><td>Winnipeg</td><td>2026-08-14</td></tr>
+<tr><td>Medcan</td><td>Facilities Attendant</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>U-Haul</td><td>Facility Maintenance Landscaping, Roofing, Electrical</td><td>Edmonton</td><td>2026-08-14</td></tr>
+<tr><td>Bombardier</td><td>Technician, Mechanical Maintenance</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Technicien(ne) Éolien, Électromécanicien</td><td>Sydney</td><td>2026-08-14</td></tr>
+<tr><td>Naylor</td><td>Maintenance Mechanic (hvac)</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Services Worker</td><td>Whitewood</td><td>2026-08-14</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Maintenance Technician I</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>W Brisbane</td><td>Maintenance Technician I</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Alstom</td><td>Track & Ocs Technician</td><td>Finch</td><td>2026-08-14</td></tr>
+<tr><td>Owens-Illinois</td><td>Électrotechnicien</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>Tricon Residential</td><td>Maintenance Technician - Canary Landing</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Coach</td><td>Temporary Sales Associate</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Coach</td><td>Sales Support Associate Iii</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Sales Associate (full Time)</td><td>Prince Albert</td><td>2026-08-14</td></tr>
+<tr><td>Giant Tiger</td><td>Softgoods Associate (part-time)</td><td>Edmonton</td><td>2026-08-14</td></tr>
+<tr><td>Giant Tiger</td><td>Store Associate (full-time)</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Giant Tiger</td><td>Softgoods Associate (full-time)</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Antigonish Mall</td><td>Antigonish</td><td>2026-08-14</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Future Opportunities In Brampton</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Cantonese Language Skills An Asset</td><td>Vancouver</td><td>2026-08-14</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate</td><td>Vancouver</td><td>2026-08-14</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Mandarin Or Cantonese Language Skills An Asset</td><td>Vancouver</td><td>2026-08-14</td></tr>
+<tr><td>NAPA</td><td>Store Counter Sales</td><td>Little Canada</td><td>2026-08-14</td></tr>
+<tr><td>Repco Australia - A Division of GPC Asia Pacific</td><td>Warehouse Associate</td><td>Uapinc</td><td>2026-08-14</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Boutique Assistant (long-term Temporary Assignment) - Toronto Yorkdale</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>New Balance Australia Pty Ltd</td><td>Associes Aux Ventes Saisonnier</td><td>Canada</td><td>2026-08-14</td></tr>
+<tr><td>New Balance Australia Pty Ltd</td><td>Retail Sales Associate</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Homesense</td><td>Retail Store Associate, Part Time, Homesense -dorval</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>TJX Canada</td><td>Retail Sales Associate, Erin Mills Town Ctr. Mississauga</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Winners</td><td>Retail Store Associate Full Time Winners Cloverdale Mall</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>OTB S.p.A</td><td>Client Advisor, Vancouver - Margiela</td><td>Vancouver</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Smithers Branch, Smithers, Bc (22.50 Hours/week)</td><td>Smithers</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Prince Albert, Sk (18.75 Hours/week)</td><td>Prince Albert</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Fernie, Bc (18.75 Hours/week)</td><td>Fernie</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Sackville, Nb (18.75 Hours / Week)</td><td>Sackville</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - West Kelowna, Bc (18.75 Hours/week) Temporary</td><td>Kelowna</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Candiac, Qc - 15 Hrs/week</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associé.e, Expérience Client - Candiac, Qc - 15 Hres/semaine</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Brooks Branch, Ab (18.75 Hours/week)</td><td>Brooks</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Westlock, Ab</td><td>Westlock</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - St. Andrews, Nb (15 Hours / Week)</td><td>St Andrews</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Cobden, On - 30 Hours/week - 12 Months Contract</td><td>Cobden</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Canmore, Ab (22.5 Hours/week)</td><td>Canmore</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associé(e) À L'expérience Client - Faubourg Boisbriand, Qc (15 H/semaine)</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Sales Associate, Dynamic (montreal, Qc)</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Contract Customer Experience Associate - Goderich (15 Hours/week)</td><td>Goderich</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Campbell River Bc (18.75hrs/week)</td><td>Campbell River</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Malvern Tc (18.75 Hours/week)</td><td>Scarborough</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Eastown Plaza (part-time)</td><td>Scarborough</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Whistler Bc (18.75hrs/week)</td><td>Whistler</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Northern Avenue & Highway 17, On (18.75 Hours/week)</td><td>Sault Ste Marie</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associé Expérience Client Sénior - Pointe Aux Trembles, Qc (30h/semaine)</td><td>Pointe-Aux-Trembles</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Summerside, Pei (18.75 Hours / Week)</td><td>Edmonton</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Rockland Branch,mont Royal Qc (30h/week)</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Dufferin & Major Mackenzie (30 Hours/week)</td><td>Maple</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associé(e) À L'expérience Client - Pointe Aux Trembles, Qc (18,75 H/semaine)</td><td>Pointe-Aux-Trembles</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Kitimat Branch, Kitimat, Bc (22.50 Hours/week)</td><td>Kitimat</td><td>2026-08-14</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Vancouver Main Branch, Vancouver, Bc (37.5 Hours/week)</td><td>Vancouver</td><td>2026-08-14</td></tr>
+<tr><td>Nike</td><td>Retail Associate, Pt - Nike Marche Central</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>VFC Corporation</td><td>Icebreaker: Sales Associate - Vaughan Mills</td><td>Vaughan Mills</td><td>2026-08-14</td></tr>
+<tr><td>Sephora Canada</td><td>Beauty Advisor - Part Time</td><td>Edmonton</td><td>2026-08-14</td></tr>
+<tr><td>Tiffany & Co</td><td>Client Advisor, Part-time, Montreal Royalmount</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>Staples Inc.</td><td>Associé Des Ventes</td><td>Sainte</td><td>2026-08-14</td></tr>
+<tr><td>TELUS</td><td>Full Time Sales Representative / Pickering Town Centre</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>TD Ameritrade</td><td>Future Opportunities: Customer Experience Associate Roles In Markham And Scarborough (cantonese And/or Mandarin Speaking)</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Calvin Klein</td><td>Temporary Sales Associate - Part-time</td><td>Rocky View</td><td>2026-08-14</td></tr>
+<tr><td>TD SYNNEX</td><td>Lc Associate - Lc Associé (conv)</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Paint Associate</td><td>Port Hawkesbury</td><td>2026-08-14</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Staples Retail</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Staples Retail</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Staples Inc.</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Staples Inc.</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Wesco</td><td>Warehouse Associate-7:30-4pm (kitimat, Bc)</td><td>Kitimat</td><td>2026-08-14</td></tr>
+<tr><td>WINNERS</td><td>Retail Sales Associate Part Time Winners- Corbett Centre</td><td>Fredericton</td><td>2026-08-14</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Retail Store Associate Part Time Temporary Marshalls – Dufferin Mall</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Marshalls</td><td>Retail Store Associate Part Time Temporary Marshalls – Dufferin Mall</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>TJX Canada</td><td>Can Winners Store 0319 -dufferin Mall Pt Associate</td><td>Toronto</td><td>2026-08-14</td></tr>
+<tr><td>Trail Appliances AB/SK</td><td>Office Administrator (part-time) - North Vancouver (0826)</td><td>Vancouver</td><td>2026-08-14</td></tr>
+<tr><td>Border Paving Ltd</td><td>Project Coordinator - Stony Plain</td><td>Onoway</td><td>2026-08-14</td></tr>
+<tr><td>Border Paving Ltd</td><td>Project Coordinator - Hinton</td><td>Hinton</td><td>2026-08-14</td></tr>
+<tr><td>Circle K</td><td>Assistant-gérant</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>Quebecor</td><td>Coordonnateur·rice Marketing</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>304</td><td>Graduate Student Assistant</td><td>Mclennan Library</td><td>2026-08-14</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Graduate Student Assistant</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>McGill University</td><td>Graduate Student Assistant</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>Regional Municipality of Wood Buffalo</td><td>Recreation Coordinator</td><td>Fort Chipewyan</td><td>2026-08-14</td></tr>
+<tr><td>WANG LAI BUILDING & CONSTRUCTION</td><td>ADMIN ASSISTANT</td><td>Kitchener</td><td>2026-08-14</td></tr>
+<tr><td>Nestle SA</td><td>Customer Business Specialist</td><td>North York</td><td>2026-08-14</td></tr>
+<tr><td>dentalcorp.ca</td><td>Administrative Assistant - Westmount Dental Centre</td><td>Edmonton</td><td>2026-08-14</td></tr>
+<tr><td>Bombardier</td><td>Data And Ai Literacy Program Coordinator</td><td>Montreal</td><td>2026-08-14</td></tr>
 </table>
