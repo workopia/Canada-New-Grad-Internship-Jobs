@@ -2575,4 +2575,67 @@
 <tr><td>Nestle SA</td><td>Customer Business Specialist</td><td>North York</td><td>2026-08-14</td></tr>
 <tr><td>dentalcorp.ca</td><td>Administrative Assistant - Westmount Dental Centre</td><td>Edmonton</td><td>2026-08-14</td></tr>
 <tr><td>Bombardier</td><td>Data And Ai Literacy Program Coordinator</td><td>Montreal</td><td>2026-08-14</td></tr>
+<tr><td>Mountain Warehouse</td><td>Sales Associate</td><td>Edmonton</td><td>2026-08-15</td></tr>
+<tr><td>Bombardier</td><td>Intern, Talent Acquisition (fall 2026)</td><td>Montreal</td><td>2026-08-15</td></tr>
+<tr><td>techaroundworld Canada</td><td>Junior Ap Advisor Intern- Contract</td><td>Canada</td><td>2026-08-15</td></tr>
+<tr><td>Fivetran</td><td>Staff Software Engineer, Fullstack</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>Epic Games</td><td>Engine Programmer</td><td>Vancouver</td><td>2026-08-15</td></tr>
+<tr><td>Sophos</td><td>Threat Analyst 2</td><td>Canada</td><td>2026-08-15</td></tr>
+<tr><td>Jobgether</td><td>Full-stack Engineer</td><td>Canada</td><td>2026-08-15</td></tr>
+<tr><td>morningstar.ventures</td><td>Service Delivery And It Ops Data Analyst</td><td>Canada</td><td>2026-08-15</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Analyst, Static Data (gwo)</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scientist - Data, Global Artificial Intelligence & Ml</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>Amgen Australia Pty Ltd</td><td>Scientist – Digital Discovery: Biological Data Systems & Machine Learning</td><td>Canada</td><td>2026-08-15</td></tr>
+<tr><td>CRP Informationssysteme GmbH</td><td>Financial Analyst</td><td>Ontario</td><td>2026-08-15</td></tr>
+<tr><td>Smartcop</td><td>Financial Analyst</td><td>Ontario</td><td>2026-08-15</td></tr>
+<tr><td>TD Bank</td><td>Actuarial Analyst Iii</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>TD Ameritrade</td><td>Actuarial Analyst Iii</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>Dollarama Inc</td><td>Conseiller, Conformité Consommateurs</td><td>Tout</td><td>2026-08-15</td></tr>
+<tr><td>Jobgether</td><td>Compliance Associate</td><td>Canada</td><td>2026-08-15</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Analysis Specialist Market Risk</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Analyst, Business Initiatives - Scotia Jarislowsky Fraser - Toronto</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>William Osler Health System</td><td>Registered Practical Nurse - Clinical Resource Team</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Assistant/ Technician 2</td><td>Vancouver</td><td>2026-08-15</td></tr>
+<tr><td>mcgillcampusstore.ca</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-08-15</td></tr>
+<tr><td>mcgillcampusstore.ca</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-08-15</td></tr>
+<tr><td>McGill University</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-08-15</td></tr>
+<tr><td>Overwaitea Food Group Ltd Partnership</td><td>International Pharmacy Grads</td><td>British Columbia</td><td>2026-08-15</td></tr>
+<tr><td>120</td><td>International Pharmacy Grads</td><td>British Columbia</td><td>2026-08-15</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse</td><td>Morris</td><td>2026-08-15</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Outpatient Surgery - Repost</td><td>Winnipeg</td><td>2026-08-15</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Pharmacy Technician - Pharmacy Services</td><td>South Shore Regional Hospital</td><td>2026-08-15</td></tr>
+<tr><td>Extendicareoshawa</td><td>Registered Practical Nurse (rpn) - Part Time (pt) - Laurier Manor</td><td>Laurier</td><td>2026-08-15</td></tr>
+<tr><td>Virtual Care Provider</td><td>Registered Practical Nurse (rpn) - Part Time (pt) - Laurier Manor</td><td>Laurier</td><td>2026-08-15</td></tr>
+<tr><td>Extendicare West Oak Village</td><td>Registered Practical Nurse (rpn) - Part Time (pt) - Laurier Manor</td><td>Ottawa</td><td>2026-08-15</td></tr>
+<tr><td>Extendicare</td><td>Registered Practical Nurse (rpn) - Part Time (pt) - Laurier Manor</td><td>Ottawa</td><td>2026-08-15</td></tr>
+<tr><td>Timken</td><td>Field Service Technician - Qc</td><td>Montreal</td><td>2026-08-15</td></tr>
+<tr><td>Building Engines</td><td>Technicien(ne) En Bâtiment / Building Operator</td><td>Montreal</td><td>2026-08-15</td></tr>
+<tr><td>Jones Lang Lasalle Ip Inc</td><td>Technicien(ne) En Bâtiment / Building Operator</td><td>Montreal</td><td>2026-08-15</td></tr>
+<tr><td>QuadReal</td><td>Maintenance Technician</td><td>Edmonton</td><td>2026-08-15</td></tr>
+<tr><td>O-I</td><td>Mécanicien D’entretien De Machinerie (emballage)</td><td>Montreal</td><td>2026-08-15</td></tr>
+<tr><td>Marshalls</td><td>Seasonal Sales Associate (6am-12pm)</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>Nike</td><td>Retail Associate, Ft - Edmonton South Common</td><td>Edmonton</td><td>2026-08-15</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Retail Store Associate Full Time Winners – Bathurst And Lawrence</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>Bass Pro</td><td>Pt Men's Clothing Sales</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Warehouse Associate Ii – Part Time On Call</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>Indigo Books & Music</td><td>Customer Experience Representative-operations</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>Carter's, Inc.</td><td>Associe Aux Ventes</td><td>Montreal</td><td>2026-08-15</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Stock Associate - Pt</td><td>Edmonton</td><td>2026-08-15</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Sainte-Anne Beaupré</td><td>2026-08-15</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Au Service À La Clientèle -act</td><td>St-Apollinaire</td><td>2026-08-15</td></tr>
+<tr><td>Emploisahearst</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>Wolseley Canada</td><td>Associé(e) D'entrepôt</td><td>St</td><td>2026-08-15</td></tr>
+<tr><td>Legocareersvirginia</td><td>Seasonal Retail Sales Associate - Square One, Mississauga, On</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Conseiller.ère Mode (temps Partiel) - Place Rosemère</td><td>Montreal</td><td>2026-08-15</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate-print&services</td><td>Montreal</td><td>2026-08-15</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Yard Associate</td><td>Nl</td><td>2026-08-15</td></tr>
+<tr><td>LVMH Perfumes & Cosmetics</td><td>Selling Specialist - Sephora/ulta: Ontario West</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>H&m Sales Advisor</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>Bunge North America</td><td>Production Support Specialist</td><td>Altona</td><td>2026-08-15</td></tr>
+<tr><td>Halliburton</td><td>Material Coordinator (i - Iii) - Artificial Lift</td><td>Edmonton</td><td>2026-08-15</td></tr>
+<tr><td>Economical Insurance</td><td>Assistant, Administrative</td><td>Edmonton</td><td>2026-08-15</td></tr>
+<tr><td>Definity Financial</td><td>Assistant, Administrative</td><td>Edmonton</td><td>2026-08-15</td></tr>
+<tr><td>Sherwin-Williams</td><td>Facility Customer Service Coordinator</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>Century Group</td><td>Project Coordinator</td><td>Toronto</td><td>2026-08-15</td></tr>
+<tr><td>Les Services Frimas Inc.</td><td>Adjointe Administrative - Réception</td><td>Quebec</td><td>2026-08-15</td></tr>
 </table>

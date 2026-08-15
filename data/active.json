@@ -1,13 +1,7 @@
 {
- "asOf": "2026-08-14",
+ "asOf": "2026-08-15",
  "count": 733,
  "jobs": {
-  "557585": {
-   "id": "557585",
-   "company": "Mountain Warehouse",
-   "role": "Sales Associate",
-   "location": "Edmonton"
-  },
   "785372": {
    "id": "785372",
    "company": "Ericsson",
@@ -25,6 +19,18 @@
    "company": "Villa Providence Shediac Inc",
    "role": "Neguac - Infirmier(ère) Auxiliaire Autorisé(e) - Postes- Temps pleins, Temps Partiels Et Occasionnels Disponibles",
    "location": "Neguac"
+  },
+  "a816ae608133e1ed0be9684c229f1478": {
+   "id": "a816ae608133e1ed0be9684c229f1478",
+   "company": "McKesson Corporation",
+   "role": "Coop Intern",
+   "location": "On"
+  },
+  "0b32ce1a9bd019a75125b8c4fe9250ca": {
+   "id": "0b32ce1a9bd019a75125b8c4fe9250ca",
+   "company": "TD",
+   "role": "Financial Planning Delivery Excellence Intern/co-op (fall 2026)",
+   "location": "Toronto"
   },
   "c75c55d6314fd999919bd5eb37861211": {
    "id": "c75c55d6314fd999919bd5eb37861211",
@@ -488,18 +494,6 @@
    "role": "2027 It Intern",
    "location": "San Diego"
   },
-  "6132bf58c11f97c222010424c3ebb2d4": {
-   "id": "6132bf58c11f97c222010424c3ebb2d4",
-   "company": "Bombardier",
-   "role": "Intern, Talent Acquisition (fall 2026)",
-   "location": "Montreal"
-  },
-  "86f68de094c0ccaf8ce41a59c4c703ba": {
-   "id": "86f68de094c0ccaf8ce41a59c4c703ba",
-   "company": "techaroundworld Canada",
-   "role": "Junior Ap Advisor Intern- Contract",
-   "location": "Canada"
-  },
   "c97c7983f8356c89fc8df48d88ba4413": {
    "id": "c97c7983f8356c89fc8df48d88ba4413",
    "company": "Howmet International",
@@ -770,6 +764,18 @@
    "role": "Software Engineer Av Hil Platform And Services (early Career))",
    "location": "Sunnyvale"
   },
+  "f4a5d8fb650d140efe56aa43c9e4cd45": {
+   "id": "f4a5d8fb650d140efe56aa43c9e4cd45",
+   "company": "Smartcop",
+   "role": "(remote) Support Analyst",
+   "location": "British Columbia"
+  },
+  "76175b62b0c5333dbc7bd7b42dc84b87": {
+   "id": "76175b62b0c5333dbc7bd7b42dc84b87",
+   "company": "ESET SOFTWARE AUSTRALIA PTY",
+   "role": "Threat Research Software Engineer (m/f/n)",
+   "location": "Montreal"
+  },
   "5e6f654d40f4698ddd0f28a46fd85288": {
    "id": "5e6f654d40f4698ddd0f28a46fd85288",
    "company": "Yelp",
@@ -781,6 +787,18 @@
    "company": "HelloFresh",
    "role": "Backend Engineer, Operations Technology",
    "location": "Toronto"
+  },
+  "13cbced53063b6a9da9af97aee7881c1": {
+   "id": "13cbced53063b6a9da9af97aee7881c1",
+   "company": "Jobgether",
+   "role": "Frontend Engineer",
+   "location": "Canada"
+  },
+  "6230d495a9c48376ca8ea2ed641242a4": {
+   "id": "6230d495a9c48376ca8ea2ed641242a4",
+   "company": "Jobgether",
+   "role": ".net Core & Python Web Developer",
+   "location": "Canada"
   },
   "b261525412d040289172b36ffb467146": {
    "id": "b261525412d040289172b36ffb467146",
@@ -815,6 +833,12 @@
   "5e1b41857550987e28fb74bfa5eb9afe": {
    "id": "5e1b41857550987e28fb74bfa5eb9afe",
    "company": "TD",
+   "role": "Software Engineer Ii- Salesforce",
+   "location": "Toronto"
+  },
+  "1049b55a3ae3b9083db0999e758fe972": {
+   "id": "1049b55a3ae3b9083db0999e758fe972",
+   "company": "TD Bank",
    "role": "Software Engineer Ii- Salesforce",
    "location": "Toronto"
   },
@@ -989,12 +1013,6 @@
   "01905ab3823ce4e9a3294f56e39493bc": {
    "id": "01905ab3823ce4e9a3294f56e39493bc",
    "company": "TD Bank Group",
-   "role": "Software Engineer Ii- Salesforce",
-   "location": "Toronto"
-  },
-  "1049b55a3ae3b9083db0999e758fe972": {
-   "id": "1049b55a3ae3b9083db0999e758fe972",
-   "company": "TD Bank",
    "role": "Software Engineer Ii- Salesforce",
    "location": "Toronto"
   },
@@ -1220,30 +1238,6 @@
    "role": "Technical Support Specialist - Back Office",
    "location": "Canada"
   },
-  "451bd97e683857bbeeeda63810f1eb61": {
-   "id": "451bd97e683857bbeeeda63810f1eb61",
-   "company": "Fivetran",
-   "role": "Staff Software Engineer, Fullstack",
-   "location": "Toronto"
-  },
-  "8bb0d52005b2568201257e63b3f11a2a": {
-   "id": "8bb0d52005b2568201257e63b3f11a2a",
-   "company": "Epic Games",
-   "role": "Engine Programmer",
-   "location": "Vancouver"
-  },
-  "fb933eab290e6173c8d51882412316b2": {
-   "id": "fb933eab290e6173c8d51882412316b2",
-   "company": "Sophos",
-   "role": "Threat Analyst 2",
-   "location": "Canada"
-  },
-  "2faa6a8a7cb2dd4494452da8cf74fc79": {
-   "id": "2faa6a8a7cb2dd4494452da8cf74fc79",
-   "company": "Jobgether",
-   "role": "Full-stack Engineer",
-   "location": "Canada"
-  },
   "29af96e6f2d86febb6b104c400571b6a": {
    "id": "29af96e6f2d86febb6b104c400571b6a",
    "company": "Kinectrics",
@@ -1352,6 +1346,18 @@
    "role": "Engineer I, Data Scientist - New Grad (hybrid)",
    "location": "Sunnyvale"
   },
+  "1ca374e8fb797b33293a167d5d431732": {
+   "id": "1ca374e8fb797b33293a167d5d431732",
+   "company": "DRW",
+   "role": "Data Analyst",
+   "location": "Montreal"
+  },
+  "da2ccb3cd9800dd6a4ecd2d4d0f9e9d8": {
+   "id": "da2ccb3cd9800dd6a4ecd2d4d0f9e9d8",
+   "company": "bluecross.ca",
+   "role": "Scientifique De Données",
+   "location": "Montreal"
+  },
   "a3bf55beb05d52140d85391783632d7d": {
    "id": "a3bf55beb05d52140d85391783632d7d",
    "company": "Pelmorex",
@@ -1367,6 +1373,12 @@
   "14a61cc9d2827c53a529bc9ece05865b": {
    "id": "14a61cc9d2827c53a529bc9ece05865b",
    "company": "Activision Publishing, Inc",
+   "role": "Financial Crime Analytics Associate",
+   "location": "Toronto"
+  },
+  "65fdf18bc076e6e0eaac50a768d3aeac": {
+   "id": "65fdf18bc076e6e0eaac50a768d3aeac",
+   "company": "PwC Poland",
    "role": "Financial Crime Analytics Associate",
    "location": "Toronto"
   },
@@ -1397,6 +1409,12 @@
   "ae14e5f78dcb8b85decac2d8060db76a": {
    "id": "ae14e5f78dcb8b85decac2d8060db76a",
    "company": "TD Ameritrade",
+   "role": "Data Scientist Ii",
+   "location": "Toronto"
+  },
+  "1466e7e2266927a03d2ae6371a51a9d2": {
+   "id": "1466e7e2266927a03d2ae6371a51a9d2",
+   "company": "TD Bank",
    "role": "Data Scientist Ii",
    "location": "Toronto"
   },
@@ -1808,30 +1826,6 @@
    "role": "Data Product Analyst, Customer Management Solutions",
    "location": "Canada"
   },
-  "413042ca7e8727690c58eb692461e3f0": {
-   "id": "413042ca7e8727690c58eb692461e3f0",
-   "company": "morningstar.ventures",
-   "role": "Service Delivery And It Ops Data Analyst",
-   "location": "Canada"
-  },
-  "d1cf4b937ea9de799b2df85c3d163b00": {
-   "id": "d1cf4b937ea9de799b2df85c3d163b00",
-   "company": "The Bank of Nova Scotia",
-   "role": "Analyst, Static Data (gwo)",
-   "location": "Toronto"
-  },
-  "6da21299a814ba52baea8a951c1e9b29": {
-   "id": "6da21299a814ba52baea8a951c1e9b29",
-   "company": "The Bank of Nova Scotia",
-   "role": "Scientist - Data, Global Artificial Intelligence & Ml",
-   "location": "Toronto"
-  },
-  "7595c66a3fcd657a7ceb53ce790563c9": {
-   "id": "7595c66a3fcd657a7ceb53ce790563c9",
-   "company": "Amgen Australia Pty Ltd",
-   "role": "Scientist – Digital Discovery: Biological Data Systems & Machine Learning",
-   "location": "Canada"
-  },
   "41f180c002e2b634c4dc0d895481e1ab": {
    "id": "41f180c002e2b634c4dc0d895481e1ab",
    "company": "Accenture Australia",
@@ -2012,10 +2006,34 @@
    "role": "Mercer / Actuarial Analyst – Retirement & Health Benefits – Toronto - 2026 New Grad",
    "location": "Toronto"
   },
+  "218ba8f4b9b7d546b4f1b7a031637223": {
+   "id": "218ba8f4b9b7d546b4f1b7a031637223",
+   "company": "Techsyndicate Inc",
+   "role": "Consult Associate Partner Retail/cpg",
+   "location": "North York"
+  },
+  "c2baa910e62048b81041d270104df6a5": {
+   "id": "c2baa910e62048b81041d270104df6a5",
+   "company": "Promutuel Assurance",
+   "role": "Conseiller(ère) En Actuariat – Tarification (assurance De Dommages)",
+   "location": "Qu"
+  },
+  "1ff0b613ae3b7ba0d355282a390cd16b": {
+   "id": "1ff0b613ae3b7ba0d355282a390cd16b",
+   "company": "Promutuel Assurance",
+   "role": "Analyste D'affaires En Souscription",
+   "location": "Qu"
+  },
   "3c845c03d4ffe35390d944f341bdac41": {
    "id": "3c845c03d4ffe35390d944f341bdac41",
    "company": "Rogers Communications Inc",
    "role": "Financial Analyst",
+   "location": "Toronto"
+  },
+  "4ea840435efcb29446a9253e14436449": {
+   "id": "4ea840435efcb29446a9253e14436449",
+   "company": "TD",
+   "role": "Operations Officer Iii",
    "location": "Toronto"
   },
   "eef04f1804e00434de217e9cedf74bba": {
@@ -2030,9 +2048,21 @@
    "role": "It Operations Analyst Ii - Batch Operations",
    "location": "Toronto"
   },
+  "9dfcda498463aafd59184ae4c9b6db12": {
+   "id": "9dfcda498463aafd59184ae4c9b6db12",
+   "company": "TD",
+   "role": "It Operations Analyst Ii - Batch Operations",
+   "location": "Toronto"
+  },
   "386b92e4fbce246f5159d8ee5e7a9f98": {
    "id": "386b92e4fbce246f5159d8ee5e7a9f98",
    "company": "TD Ameritrade",
+   "role": "Financial Crime Risk Investigative Analyst",
+   "location": "Toronto"
+  },
+  "9d67e7571e12f9d443bb479fd316ea06": {
+   "id": "9d67e7571e12f9d443bb479fd316ea06",
+   "company": "TD",
    "role": "Financial Crime Risk Investigative Analyst",
    "location": "Toronto"
   },
@@ -2048,9 +2078,21 @@
    "role": "Netsuite Consulting Supervisor - Technology, Media & Telecomm (tmt)",
    "location": "Toronto"
   },
+  "a4d152d0036f419485b408c4b3b324cf": {
+   "id": "a4d152d0036f419485b408c4b3b324cf",
+   "company": "12",
+   "role": "Netsuite Consulting Supervisor - Technology, Media & Telecomm (tmt)",
+   "location": "Toronto"
+  },
   "349492cce5431250b69e9d99cd8db659": {
    "id": "349492cce5431250b69e9d99cd8db659",
    "company": "kaiserkraft.pt",
+   "role": "Analyst, Sales Finance",
+   "location": "Toronto"
+  },
+  "ca9560775d35ec525c935d1abf22bc9a": {
+   "id": "ca9560775d35ec525c935d1abf22bc9a",
+   "company": "Kraft Heinz",
    "role": "Analyst, Sales Finance",
    "location": "Toronto"
   },
@@ -2081,6 +2123,12 @@
   "efe992e1ed32169969ac1ef019e587e2": {
    "id": "efe992e1ed32169969ac1ef019e587e2",
    "company": "TD",
+   "role": "Actuarial Analyst Iii - Budget",
+   "location": "Toronto"
+  },
+  "b55711291821284d02e90417b5bf34cc": {
+   "id": "b55711291821284d02e90417b5bf34cc",
+   "company": "TD Ameritrade",
    "role": "Actuarial Analyst Iii - Budget",
    "location": "Toronto"
   },
@@ -2239,12 +2287,6 @@
    "company": "Dollarama Inc",
    "role": "Analyste D'affaires",
    "location": "Mont"
-  },
-  "4ea840435efcb29446a9253e14436449": {
-   "id": "4ea840435efcb29446a9253e14436449",
-   "company": "TD",
-   "role": "Operations Officer Iii",
-   "location": "Toronto"
   },
   "ae47b4674abd0f8d48e0acb64ca19c98": {
    "id": "ae47b4674abd0f8d48e0acb64ca19c98",
@@ -2444,53 +2486,41 @@
    "role": "Financial Analyst",
    "location": "Ontario"
   },
-  "91fb0d751be58c46b3e36ec7208b9b04": {
-   "id": "91fb0d751be58c46b3e36ec7208b9b04",
-   "company": "CRP Informationssysteme GmbH",
-   "role": "Financial Analyst",
-   "location": "Ontario"
-  },
-  "6ece8cc33ba1c86d1096f612853fc449": {
-   "id": "6ece8cc33ba1c86d1096f612853fc449",
-   "company": "Smartcop",
-   "role": "Financial Analyst",
-   "location": "Ontario"
-  },
-  "a28290ae7216df90053c5c2cc997f1c1": {
-   "id": "a28290ae7216df90053c5c2cc997f1c1",
-   "company": "TD Bank",
-   "role": "Actuarial Analyst Iii",
+  "b99028ce7e715a6258f582e600e3e3e3": {
+   "id": "b99028ce7e715a6258f582e600e3e3e3",
+   "company": "Hennick Humber Hospital",
+   "role": "Registered Nurse Nicu",
    "location": "Toronto"
   },
-  "c7ed78bd178b4a937e095ed31a744f02": {
-   "id": "c7ed78bd178b4a937e095ed31a744f02",
-   "company": "TD Ameritrade",
-   "role": "Actuarial Analyst Iii",
+  "900aa3512fdd58a064b42d8ba8565595": {
+   "id": "900aa3512fdd58a064b42d8ba8565595",
+   "company": "Hennick Humber Hospital",
+   "role": "Resource Nurse, Inpatient Cardiology",
    "location": "Toronto"
   },
-  "840c296ad0e5d296e09c00379cea4b65": {
-   "id": "840c296ad0e5d296e09c00379cea4b65",
-   "company": "Dollarama Inc",
-   "role": "Conseiller, Conformité Consommateurs",
-   "location": "Tout"
+  "b15f5ed440f982e45d4b10d9db3d2128": {
+   "id": "b15f5ed440f982e45d4b10d9db3d2128",
+   "company": "Extendicarecedarsvilla",
+   "role": "Registered Nurse (rn) Full-time Pine Meadow Nursing Home",
+   "location": "Assist"
   },
-  "b06138d9a1c37b4917e7d80c3f10a057": {
-   "id": "b06138d9a1c37b4917e7d80c3f10a057",
-   "company": "Jobgether",
-   "role": "Compliance Associate",
-   "location": "Canada"
+  "1334294edb0d6b049fd3655c2a2c83e6": {
+   "id": "1334294edb0d6b049fd3655c2a2c83e6",
+   "company": "ubctoday.ubc.ca",
+   "role": "Research Assistant/technician 1",
+   "location": "Vancouver"
   },
-  "90e8c9fab81eaa88bb5c3d8d7175ecc1": {
-   "id": "90e8c9fab81eaa88bb5c3d8d7175ecc1",
-   "company": "The Bank of Nova Scotia",
-   "role": "Business Analysis Specialist Market Risk",
-   "location": "Toronto"
+  "9dc5a81c3cc5e245e202e806a206b5f8": {
+   "id": "9dc5a81c3cc5e245e202e806a206b5f8",
+   "company": "ubctoday.ubc.ca",
+   "role": "Research Assistant - Murray Lab",
+   "location": "Vancouver"
   },
-  "fe456b6848b3efbb4ca613a5d6616739": {
-   "id": "fe456b6848b3efbb4ca613a5d6616739",
-   "company": "The Bank of Nova Scotia",
-   "role": "Business Analyst, Business Initiatives - Scotia Jarislowsky Fraser - Toronto",
-   "location": "Toronto"
+  "b2254424ca079cd961f19826b0ca0596": {
+   "id": "b2254424ca079cd961f19826b0ca0596",
+   "company": "ubctoday.ubc.ca",
+   "role": "Bioinformatics Research Assistant",
+   "location": "Vancouver"
   },
   "a64ba18398f0712ade6b2e3602e16eca": {
    "id": "a64ba18398f0712ade6b2e3602e16eca",
@@ -2522,6 +2552,30 @@
    "role": "Pharmacist",
    "location": "Toronto"
   },
+  "6e4959edbbe9f90b0a02cd0bd4c5e5eb": {
+   "id": "6e4959edbbe9f90b0a02cd0bd4c5e5eb",
+   "company": "North Wellington Health Care",
+   "role": "Registered Nurse (lmh) #2026-174",
+   "location": "Mount Forest"
+  },
+  "7a3b5421cb28c6ade19dbd43495275cd": {
+   "id": "7a3b5421cb28c6ade19dbd43495275cd",
+   "company": "Groves Memorial Community Hospital",
+   "role": "Registered Nurse - Medicine (gmch) #2026-178",
+   "location": "Guelph"
+  },
+  "24ecdac4584056ffc2ad1da6d138e037": {
+   "id": "24ecdac4584056ffc2ad1da6d138e037",
+   "company": "Groves Memorial Community Hospital",
+   "role": "Registered Nurse - Medicine (gmch) #2026-176",
+   "location": "Guelph"
+  },
+  "dd97e9e5ad76d9e1624d4f20c01d57a0": {
+   "id": "dd97e9e5ad76d9e1624d4f20c01d57a0",
+   "company": "Groves Memorial Community Hospital",
+   "role": "Registered Nurse - Obs/surgical Inpatient (gmch) #2026-175",
+   "location": "Guelph"
+  },
   "cc012b4967358798daf561c881d1be29": {
    "id": "cc012b4967358798daf561c881d1be29",
    "company": "Humber River Health",
@@ -2537,6 +2591,12 @@
   "8bd19c5fa830ed0a588dce0796f30258": {
    "id": "8bd19c5fa830ed0a588dce0796f30258",
    "company": "McGill University",
+   "role": "Retail Gen Ai Hackathon Research Assistant",
+   "location": "Montreal"
+  },
+  "0f796f6da52b48f64e5b6aa785b4e7e3": {
+   "id": "0f796f6da52b48f64e5b6aa785b4e7e3",
+   "company": "mcgillcampusstore.ca",
    "role": "Retail Gen Ai Hackathon Research Assistant",
    "location": "Montreal"
   },
@@ -2612,6 +2672,12 @@
    "role": "Student Research Assistant (digital Humanities)",
    "location": "Montreal"
   },
+  "befcf4c43b130639ab2a283bf1aaae44": {
+   "id": "befcf4c43b130639ab2a283bf1aaae44",
+   "company": "McGill University",
+   "role": "Student Research Assistant (digital Humanities)",
+   "location": "Montreal"
+  },
   "f7d54b619976cd67760501748e0097af": {
    "id": "f7d54b619976cd67760501748e0097af",
    "company": "Southern Health-Santé Sud",
@@ -2654,6 +2720,12 @@
    "role": "Registered Nurse (rn)- Casual- Timmins",
    "location": "New Timmins"
   },
+  "da34e592af585702303cab1493490aac": {
+   "id": "da34e592af585702303cab1493490aac",
+   "company": "Virtual Care Provider",
+   "role": "Registered Nurse (rn)- Casual- Timmins",
+   "location": "Timmins"
+  },
   "f4da586871d0b144d9e9c2b9f919c389": {
    "id": "f4da586871d0b144d9e9c2b9f919c389",
    "company": "Summit Place LTC",
@@ -2663,6 +2735,12 @@
   "cdf1aa595e78d05f5272f6ebaa050ffe": {
    "id": "cdf1aa595e78d05f5272f6ebaa050ffe",
    "company": "Extendicarevistaparklodge",
+   "role": "Personal Support Worker (psw) - Permanent Part Time (pt)- Sherwood Court (open)",
+   "location": "Sherwood Court"
+  },
+  "76f85a91885861aaecc5f2223859e1a6": {
+   "id": "76f85a91885861aaecc5f2223859e1a6",
+   "company": "Virtual Care Provider",
    "role": "Personal Support Worker (psw) - Permanent Part Time (pt)- Sherwood Court (open)",
    "location": "Sherwood Court"
   },
@@ -2882,89 +2960,23 @@
    "role": "Public Health Nurse (immunization Services)",
    "location": "Toronto"
   },
-  "bd257c63be065a19f2c8895abee54437": {
-   "id": "bd257c63be065a19f2c8895abee54437",
-   "company": "William Osler Health System",
-   "role": "Registered Practical Nurse - Clinical Resource Team",
+  "/careers/job/34400270373": {
+   "id": "/careers/job/34400270373",
+   "company": "Whirlpool",
+   "role": "Appliance Technician - All Regions",
    "location": "Toronto"
   },
-  "cdd501ef5d72b8fa81e6b493a9ada570": {
-   "id": "cdd501ef5d72b8fa81e6b493a9ada570",
-   "company": "ubctoday.ubc.ca",
-   "role": "Research Assistant/ Technician 2",
-   "location": "Vancouver"
-  },
-  "37fe0ec3d02b27a94848fc7514e40210": {
-   "id": "37fe0ec3d02b27a94848fc7514e40210",
-   "company": "mcgillcampusstore.ca",
-   "role": "Research Assistant 1",
+  "f1575ce15c3e380bfcb740d9b1bd6349": {
+   "id": "f1575ce15c3e380bfcb740d9b1bd6349",
+   "company": "Wasillachevrolet",
+   "role": "Technicien D'atelier - Manoeuvre",
    "location": "Montreal"
   },
-  "be89c9ec70a3289dd6c513486fb5faed": {
-   "id": "be89c9ec70a3289dd6c513486fb5faed",
-   "company": "mcgillcampusstore.ca",
-   "role": "Research Assistant 2",
-   "location": "Montreal"
-  },
-  "2ae198e2a0bfa8373d857de87877ffaa": {
-   "id": "2ae198e2a0bfa8373d857de87877ffaa",
-   "company": "McGill University",
-   "role": "Research Assistant 2",
-   "location": "Montreal"
-  },
-  "83aa5e44b0eb4aa563886680bdf58afc": {
-   "id": "83aa5e44b0eb4aa563886680bdf58afc",
-   "company": "Overwaitea Food Group Ltd Partnership",
-   "role": "International Pharmacy Grads",
-   "location": "British Columbia"
-  },
-  "f6239cc9f865374788db9ca8c102f2f4": {
-   "id": "f6239cc9f865374788db9ca8c102f2f4",
-   "company": "120",
-   "role": "International Pharmacy Grads",
-   "location": "British Columbia"
-  },
-  "4a7bcd167eca72a20f05e181ed200a3d": {
-   "id": "4a7bcd167eca72a20f05e181ed200a3d",
-   "company": "Southern Health-Santé Sud",
-   "role": "Registered Nurse",
-   "location": "Morris"
-  },
-  "a8ee07100361fd1b2cd3e3557b1f47ae": {
-   "id": "a8ee07100361fd1b2cd3e3557b1f47ae",
-   "company": "Winnipeg Regional Health Authority",
-   "role": "Registered Nurse (n2) - Outpatient Surgery - Repost",
-   "location": "Winnipeg"
-  },
-  "9953a2afd0ad11d6bdbe8da249362af2": {
-   "id": "9953a2afd0ad11d6bdbe8da249362af2",
-   "company": "Capital District Health Authority",
-   "role": "Registered Pharmacy Technician - Pharmacy Services",
-   "location": "South Shore Regional Hospital"
-  },
-  "c6b5b6c8256282e446b0445c4447d007": {
-   "id": "c6b5b6c8256282e446b0445c4447d007",
-   "company": "Extendicareoshawa",
-   "role": "Registered Practical Nurse (rpn) - Part Time (pt) - Laurier Manor",
-   "location": "Laurier"
-  },
-  "85652beb005665c327ecd9d8df5710b1": {
-   "id": "85652beb005665c327ecd9d8df5710b1",
-   "company": "Virtual Care Provider",
-   "role": "Registered Practical Nurse (rpn) - Part Time (pt) - Laurier Manor",
-   "location": "Laurier"
-  },
-  "7d0a2cfa86a54329bbea735a429fc268": {
-   "id": "7d0a2cfa86a54329bbea735a429fc268",
-   "company": "Extendicare West Oak Village",
-   "role": "Registered Practical Nurse (rpn) - Part Time (pt) - Laurier Manor",
-   "location": "Ottawa"
-  },
-  "a1ddbd63822af44a17831f02765a4a14": {
-   "id": "a1ddbd63822af44a17831f02765a4a14",
-   "company": "Extendicare",
-   "role": "Registered Practical Nurse (rpn) - Part Time (pt) - Laurier Manor",
-   "location": "Ottawa"
+  "2077ac09631bd2c61e0de2335b7e08a5": {
+   "id": "2077ac09631bd2c61e0de2335b7e08a5",
+   "company": "989",
+   "role": "Instrument & Electrical Technician",
+   "location": "Edmonton"
   },
   "12e844e951587117bd76ad25442fcb0f": {
    "id": "12e844e951587117bd76ad25442fcb0f",
@@ -3002,6 +3014,12 @@
    "role": "Journeyperson Instrumentation Technician",
    "location": "Colonsay"
   },
+  "6127f20cd40125d7418d3d16045a8617": {
+   "id": "6127f20cd40125d7418d3d16045a8617",
+   "company": "Mosaic - Louisiana",
+   "role": "Journeyperson Instrumentation Technician",
+   "location": "Colonsay"
+  },
   "d5b96ed0f0efee9ef2d543a8e404dd48": {
    "id": "d5b96ed0f0efee9ef2d543a8e404dd48",
    "company": "Ecolab Pty Ltd",
@@ -3035,6 +3053,12 @@
   "77562cddf32dd7d70a095bb900145d82": {
    "id": "77562cddf32dd7d70a095bb900145d82",
    "company": "The Timken Company",
+   "role": "Field Service Technician - Qc",
+   "location": "Montreal"
+  },
+  "f21356f1347e23551bccb32de555553e": {
+   "id": "f21356f1347e23551bccb32de555553e",
+   "company": "Timken",
    "role": "Field Service Technician - Qc",
    "location": "Montreal"
   },
@@ -3085,12 +3109,6 @@
    "company": "construction-benefits",
    "role": "Instrumentation Technician Journeyperson - Cnrl Horizon Maintenance",
    "location": "Fort McMurray"
-  },
-  "45250e31eebc98714e7bd4d8cfb21d75": {
-   "id": "45250e31eebc98714e7bd4d8cfb21d75",
-   "company": "Timken",
-   "role": "Field Service Technician - Qc",
-   "location": "Montreal"
   },
   "d0a3a620c5bd521c666ba26714ae7c40": {
    "id": "d0a3a620c5bd521c666ba26714ae7c40",
@@ -3422,29 +3440,83 @@
    "role": "Technicien(ne) En Bâtiment / Building Operator",
    "location": "Montreal"
   },
-  "846944ff19ab7d01e33a17d866b85e3c": {
-   "id": "846944ff19ab7d01e33a17d866b85e3c",
-   "company": "Building Engines",
-   "role": "Technicien(ne) En Bâtiment / Building Operator",
+  "849eea9541986bc17c04e42dc0fc81fa": {
+   "id": "849eea9541986bc17c04e42dc0fc81fa",
+   "company": "Uline",
+   "role": "Warehouse Associate",
+   "location": "Guelph"
+  },
+  "e8520c1ab9a30874d2e9bc0e5300a485": {
+   "id": "e8520c1ab9a30874d2e9bc0e5300a485",
+   "company": "uline.ca",
+   "role": "Warehouse Associate - Nights",
+   "location": "Guelph"
+  },
+  "7ed088ae1777094a4eaf3d6996c9a2bc": {
+   "id": "7ed088ae1777094a4eaf3d6996c9a2bc",
+   "company": "TOMMY HILFIGER",
+   "role": "Temporary Sales Associate - Part-time",
+   "location": "Vancouver"
+  },
+  "fe3007f1aaa734e3cd58d9e36229bdd0": {
+   "id": "fe3007f1aaa734e3cd58d9e36229bdd0",
+   "company": "Maple Leaf Sports & Entertainment Partnership",
+   "role": "Sales Associate, Sales Development Academy",
+   "location": "Toronto"
+  },
+  "3ee3127499b5b912f2ba2722f6fbb077": {
+   "id": "3ee3127499b5b912f2ba2722f6fbb077",
+   "company": "The TJX Companies, Inc",
+   "role": "Retail Associate",
+   "location": "Toronto"
+  },
+  "89c8c9729a82d899d7ff33d19d395b89": {
+   "id": "89c8c9729a82d899d7ff33d19d395b89",
+   "company": "The TJX Companies, Inc",
+   "role": "70240 Associate",
+   "location": "Toronto"
+  },
+  "28037210946fe5776ba8646d5a820769": {
+   "id": "28037210946fe5776ba8646d5a820769",
+   "company": "RCL - Reitmans Canada Ltd/Ltée",
+   "role": "Conseiller.ère Mode (temps Partiel) - Place Rosemère",
    "location": "Montreal"
   },
-  "5a7b910059d886f34fa16ca6114ae438": {
-   "id": "5a7b910059d886f34fa16ca6114ae438",
-   "company": "Jones Lang Lasalle Ip Inc",
-   "role": "Technicien(ne) En Bâtiment / Building Operator",
+  "0d2fff597b28c9874ecc301fe076b15f": {
+   "id": "0d2fff597b28c9874ecc301fe076b15f",
+   "company": "Notified",
+   "role": "Associate Support Specialist",
+   "location": "Toronto"
+  },
+  "d0211fd1f1a079409d07ddf256714028": {
+   "id": "d0211fd1f1a079409d07ddf256714028",
+   "company": "RCL - Reitmans Canada Ltd/Ltée",
+   "role": "Conseiller.ère Mode (temps Partiel) - Galeries D'anjou",
    "location": "Montreal"
   },
-  "97e482f33bc6f9017deee9e5db840b90": {
-   "id": "97e482f33bc6f9017deee9e5db840b90",
-   "company": "QuadReal",
-   "role": "Maintenance Technician",
-   "location": "Edmonton"
-  },
-  "83318f88e8429df7f3c7892e43c3d301": {
-   "id": "83318f88e8429df7f3c7892e43c3d301",
-   "company": "O-I",
-   "role": "Mécanicien D’entretien De Machinerie (emballage)",
+  "6014181780a115fdf4a4dfb8a34fa2bc": {
+   "id": "6014181780a115fdf4a4dfb8a34fa2bc",
+   "company": "Beneva",
+   "role": "Préposé Aux Ventes",
    "location": "Montreal"
+  },
+  "4de69bccf6a07d966daac5aed9bb154c": {
+   "id": "4de69bccf6a07d966daac5aed9bb154c",
+   "company": "TD",
+   "role": "Customer Experience Associate",
+   "location": "North York"
+  },
+  "015df8ae9c790879b50b7840bc5b3a8d": {
+   "id": "015df8ae9c790879b50b7840bc5b3a8d",
+   "company": "Wolseley Canada",
+   "role": "Warehouse Associate",
+   "location": "Cornwall"
+  },
+  "2dc66f16cb5f224d5f04aa005cc8a9b8": {
+   "id": "2dc66f16cb5f224d5f04aa005cc8a9b8",
+   "company": "Molson Canada",
+   "role": "Aide-livreur(euse) / Préposé(e) À L'entrepôt - Val D'or",
+   "location": "Val D'Or"
   },
   "95e834d6d465fb449a0b70b49cb4316d": {
    "id": "95e834d6d465fb449a0b70b49cb4316d",
@@ -3770,6 +3842,12 @@
    "role": "Customer Experience Associate - Fixed Term",
    "location": "Cardston"
   },
+  "c1a2ef1f43012c54cc916cef88f066fe": {
+   "id": "c1a2ef1f43012c54cc916cef88f066fe",
+   "company": "TD",
+   "role": "Customer Experience Associate - Fixed Term",
+   "location": "Cardston"
+  },
   "74d0f56268ee5e0223a21e218a84edf1": {
    "id": "74d0f56268ee5e0223a21e218a84edf1",
    "company": "TD Ameritrade",
@@ -3782,15 +3860,33 @@
    "role": "Customer Experience Associate- (fixed Term Contract)",
    "location": "Calgary"
   },
+  "cc41fe028370dcf52c1b4485691b2a1e": {
+   "id": "cc41fe028370dcf52c1b4485691b2a1e",
+   "company": "TD",
+   "role": "Customer Experience Associate- (fixed Term Contract)",
+   "location": "Calgary"
+  },
   "f2e46b53f51a98d506877715f17fa88f": {
    "id": "f2e46b53f51a98d506877715f17fa88f",
    "company": "TD Ameritrade",
    "role": "Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis For Future Opportunities In Brampton",
    "location": "Toronto"
   },
+  "f8a8abcb8961d02af92f0f5543361c99": {
+   "id": "f8a8abcb8961d02af92f0f5543361c99",
+   "company": "TD",
+   "role": "Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis For Future Opportunities In Brampton",
+   "location": "Toronto"
+  },
   "26463b3a782e63a7ac2e4626c35c283c": {
    "id": "26463b3a782e63a7ac2e4626c35c283c",
    "company": "Winners",
+   "role": "Retail Store Associate Part Time - Winners 346",
+   "location": "Edmonton"
+  },
+  "1b0075d8370cacb36faabb7ce7633a6e": {
+   "id": "1b0075d8370cacb36faabb7ce7633a6e",
+   "company": "The TJX Companies, Inc",
    "role": "Retail Store Associate Part Time - Winners 346",
    "location": "Edmonton"
   },
@@ -3812,113 +3908,59 @@
    "role": "Temporary Part-time Retail Associate - Marshalls Woodland Hills",
    "location": "Toronto"
   },
-  "80b7197b8e510fed762b7fefc42f99a1": {
-   "id": "80b7197b8e510fed762b7fefc42f99a1",
-   "company": "Marshalls",
-   "role": "Seasonal Sales Associate (6am-12pm)",
+  "bc5af11e1cdd0ff0c2b98979b580b7b4": {
+   "id": "bc5af11e1cdd0ff0c2b98979b580b7b4",
+   "company": "The TJX Companies, Inc",
+   "role": "Part Time Sales Associate Winners Heartland",
    "location": "Toronto"
   },
-  "21e68e2a9be391534625cda05b518eb7": {
-   "id": "21e68e2a9be391534625cda05b518eb7",
-   "company": "Nike",
-   "role": "Retail Associate, Ft - Edmonton South Common",
-   "location": "Edmonton"
-  },
-  "6f7d568d86ee6b2022b48af988722ea8": {
-   "id": "6f7d568d86ee6b2022b48af988722ea8",
-   "company": "TJX Winners HomeSense",
-   "role": "Retail Store Associate Full Time Winners – Bathurst And Lawrence",
+  "5d8b14513a39349333fd7b9290944d83": {
+   "id": "5d8b14513a39349333fd7b9290944d83",
+   "company": "The TJX Companies, Inc",
+   "role": "Temporary Part-time Retail Associate - Marshalls Woodland Hills",
    "location": "Toronto"
   },
-  "101a73105beb5315a880081def8f183b": {
-   "id": "101a73105beb5315a880081def8f183b",
-   "company": "Bass Pro",
-   "role": "Pt Men's Clothing Sales",
-   "location": "Toronto"
-  },
-  "a88456d8cddbbea3725621c4085c6ce5": {
-   "id": "a88456d8cddbbea3725621c4085c6ce5",
-   "company": "PPD (Thermo Fisher) UK",
-   "role": "Warehouse Associate Ii – Part Time On Call",
-   "location": "Toronto"
-  },
-  "e32e1209ff1213cd561c789598d71e39": {
-   "id": "e32e1209ff1213cd561c789598d71e39",
-   "company": "Indigo Books & Music",
-   "role": "Customer Experience Representative-operations",
-   "location": "Toronto"
-  },
-  "35c49f6ea6adb3a2beebe2c55632ee26": {
-   "id": "35c49f6ea6adb3a2beebe2c55632ee26",
-   "company": "Carter's, Inc.",
-   "role": "Associe Aux Ventes",
+  "69fb54f6cd530ebb4028c4f1242b9f26": {
+   "id": "69fb54f6cd530ebb4028c4f1242b9f26",
+   "company": "Intact Financial",
+   "role": "Executive Assistant- Vp",
    "location": "Montreal"
   },
-  "afd81d4f479cdb7d33bb3fc8080ef367": {
-   "id": "afd81d4f479cdb7d33bb3fc8080ef367",
-   "company": "Capri Holdings Limited",
-   "role": "Stock Associate - Pt",
-   "location": "Edmonton"
+  "23bbc27adfd05d2c9d23580bafb0ac97": {
+   "id": "23bbc27adfd05d2c9d23580bafb0ac97",
+   "company": "ubctoday.ubc.ca",
+   "role": "Research Coordinator",
+   "location": "Kelowna"
   },
-  "f3e696e7e1b50ce8c7abbe22ccc133b2": {
-   "id": "f3e696e7e1b50ce8c7abbe22ccc133b2",
-   "company": "Circle K",
-   "role": "Préposé Service À La Clientèle De Nuit",
-   "location": "Sainte-Anne Beaupré"
+  "9bb6e4241ed1654eee83badb49aa36a1": {
+   "id": "9bb6e4241ed1654eee83badb49aa36a1",
+   "company": "ubctoday.ubc.ca",
+   "role": "Academic Programs Coordinator",
+   "location": "Vancouver"
   },
-  "1944aafbfd1c7c3a28cedbf06af84ab0": {
-   "id": "1944aafbfd1c7c3a28cedbf06af84ab0",
-   "company": "Circle K",
-   "role": "Préposé(e) Au Service À La Clientèle -act",
-   "location": "St-Apollinaire"
-  },
-  "e0c99f51baa866af77c9b757d4afbf1f": {
-   "id": "e0c99f51baa866af77c9b757d4afbf1f",
-   "company": "Emploisahearst",
-   "role": "Sales Associate",
+  "0fc7b384baabea67c52085cccee2ee25": {
+   "id": "0fc7b384baabea67c52085cccee2ee25",
+   "company": "BLG",
+   "role": "Legal Administrative Assistant",
    "location": "Toronto"
   },
-  "0cf355cd63762f9526d1b335eaef0a74": {
-   "id": "0cf355cd63762f9526d1b335eaef0a74",
-   "company": "Wolseley Canada",
-   "role": "Associé(e) D'entrepôt",
-   "location": "St"
+  "17297bd582c684b798fa0fdffa5aaf05": {
+   "id": "17297bd582c684b798fa0fdffa5aaf05",
+   "company": "Accent Dental",
+   "role": "Administrative Assistant - Accent Dental",
+   "location": "Fort St. John"
   },
-  "d289ab958c153aaa488a14a7072018ad": {
-   "id": "d289ab958c153aaa488a14a7072018ad",
-   "company": "Legocareersvirginia",
-   "role": "Seasonal Retail Sales Associate - Square One, Mississauga, On",
-   "location": "Toronto"
+  "ae55b7478f630eee1597f0e237a166db": {
+   "id": "ae55b7478f630eee1597f0e237a166db",
+   "company": "ubctoday.ubc.ca",
+   "role": "Undergraduate Program Coordinator",
+   "location": "Vancouver"
   },
-  "cc7dfcb1f3766b07aad133a2d9f717fc": {
-   "id": "cc7dfcb1f3766b07aad133a2d9f717fc",
-   "company": "RCL - Reitmans Canada Ltd/Ltée",
-   "role": "Conseiller.ère Mode (temps Partiel) - Place Rosemère",
-   "location": "Montreal"
-  },
-  "7bf578fd7fd27b15414f902284092b29": {
-   "id": "7bf578fd7fd27b15414f902284092b29",
-   "company": "Staples Canada",
-   "role": "Sales Associate-print&services",
-   "location": "Montreal"
-  },
-  "3d6e337a343f34b87d73e6231b8416ca": {
-   "id": "3d6e337a343f34b87d73e6231b8416ca",
-   "company": "JDI / Midland Transport",
-   "role": "Yard Associate",
-   "location": "Nl"
-  },
-  "e85413fff7b231ceb024f0a29bd8b568": {
-   "id": "e85413fff7b231ceb024f0a29bd8b568",
-   "company": "LVMH Perfumes & Cosmetics",
-   "role": "Selling Specialist - Sephora/ulta: Ontario West",
-   "location": "Toronto"
-  },
-  "8f3db06a6cd9472ab5a1778c2baa19d2": {
-   "id": "8f3db06a6cd9472ab5a1778c2baa19d2",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "H&m Sales Advisor",
-   "location": "Toronto"
+  "a5e77680514b1c55f218507d311b64b4": {
+   "id": "a5e77680514b1c55f218507d311b64b4",
+   "company": "Intelcom / Dragonfly",
+   "role": "Operations Coordinator",
+   "location": "Nova Scotia"
   },
   "a0aea6185e5f8a8cdc835395b432b03a": {
    "id": "a0aea6185e5f8a8cdc835395b432b03a",
@@ -3935,6 +3977,12 @@
   "057144d19636796268cb24beb8896d61": {
    "id": "057144d19636796268cb24beb8896d61",
    "company": "SNC Lavalin",
+   "role": "Project Coordinator - Ci/bop",
+   "location": "Toronto"
+  },
+  "2916b41bc3eafb952ba14eb1f6f5cb4a": {
+   "id": "2916b41bc3eafb952ba14eb1f6f5cb4a",
+   "company": "AtkinsRéalis",
    "role": "Project Coordinator - Ci/bop",
    "location": "Toronto"
   },
@@ -4135,12 +4183,6 @@
    "company": "RCL - Reitmans Canada Ltd/Ltée",
    "role": "Coordonnateur·trice, Commerce Électronique",
    "location": "Montreal"
-  },
-  "a5e77680514b1c55f218507d311b64b4": {
-   "id": "a5e77680514b1c55f218507d311b64b4",
-   "company": "Intelcom / Dragonfly",
-   "role": "Operations Coordinator",
-   "location": "Nova Scotia"
   },
   "e6e7cc50db3e5d93fdd2a7724bc8386d": {
    "id": "e6e7cc50db3e5d93fdd2a7724bc8386d",
@@ -4357,48 +4399,6 @@
    "company": "Capital District Health Authority",
    "role": "Administrative Assistant Ii, Children's Intensive Services",
    "location": "Halifax"
-  },
-  "e127af21b546e29cf25f1f3c3541d190": {
-   "id": "e127af21b546e29cf25f1f3c3541d190",
-   "company": "Bunge North America",
-   "role": "Production Support Specialist",
-   "location": "Altona"
-  },
-  "b5bb9010425760fa9ac14f0543b2df36": {
-   "id": "b5bb9010425760fa9ac14f0543b2df36",
-   "company": "Halliburton",
-   "role": "Material Coordinator (i - Iii) - Artificial Lift",
-   "location": "Edmonton"
-  },
-  "bdc7a02221b5d98f22de5ec56a5f36e8": {
-   "id": "bdc7a02221b5d98f22de5ec56a5f36e8",
-   "company": "Economical Insurance",
-   "role": "Assistant, Administrative",
-   "location": "Edmonton"
-  },
-  "2ebdcd9279f36385fd8bece1dc7aaa43": {
-   "id": "2ebdcd9279f36385fd8bece1dc7aaa43",
-   "company": "Definity Financial",
-   "role": "Assistant, Administrative",
-   "location": "Edmonton"
-  },
-  "1b866cba4714db04f273cd881e480247": {
-   "id": "1b866cba4714db04f273cd881e480247",
-   "company": "Sherwin-Williams",
-   "role": "Facility Customer Service Coordinator",
-   "location": "Toronto"
-  },
-  "86bcf270b433070e4be851ee739d9b5d": {
-   "id": "86bcf270b433070e4be851ee739d9b5d",
-   "company": "Century Group",
-   "role": "Project Coordinator",
-   "location": "Toronto"
-  },
-  "75d0179ff81fba74e606cb0f24737407": {
-   "id": "75d0179ff81fba74e606cb0f24737407",
-   "company": "Les Services Frimas Inc.",
-   "role": "Adjointe Administrative - Réception",
-   "location": "Quebec"
   }
  }
 }
