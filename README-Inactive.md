@@ -2963,4 +2963,82 @@
 <tr><td>City of Toronto</td><td>Administrative Assistant 2</td><td>Toronto</td><td>2026-08-16</td></tr>
 <tr><td>Winnipeg Regional Health Authority</td><td>Case Coordinator - Repost</td><td>Portage La Prairie</td><td>2026-08-16</td></tr>
 <tr><td>Capital District Health Authority</td><td>Administrative Assistant Ii, Children's Intensive Services</td><td>Halifax</td><td>2026-08-16</td></tr>
+<tr><td>Ericsson</td><td>Stagiaire En Communication</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>RBC</td><td>Client Advisor Intern</td><td>Vancouver</td><td>2026-08-17</td></tr>
+<tr><td>Bombardier</td><td>Intern, Research And Technology, Program Office (fall 2026)</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>UN Women</td><td>Internship - Field Operations Intern (2 Positions)</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Credits & Incentives (fall 2026) Gta Offices</td><td>Canada</td><td>2026-08-17</td></tr>
+<tr><td>Bombardier</td><td>Intern, Sourcing / Corporate And Engineering Services (fall 2026)</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>Sophos</td><td>Threat Analyst 2</td><td>Canada</td><td>2026-08-17</td></tr>
+<tr><td>Jobgether</td><td>Full-stack Engineer</td><td>Canada</td><td>2026-08-17</td></tr>
+<tr><td>Jobgether</td><td>Specialist - Software Engineering</td><td>Canada</td><td>2026-08-17</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Frontend</td><td>Canada</td><td>2026-08-17</td></tr>
+<tr><td>Jobgether</td><td>Staff Frontend Engineer</td><td>Canada</td><td>2026-08-17</td></tr>
+<tr><td>Bombardier</td><td>Analyst, Business Intelligence</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>Sia Partners</td><td>Conseiller(ère) En Data Science</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>Dollarama Inc</td><td>Conseiller, Conformité Consommateurs</td><td>Tout</td><td>2026-08-17</td></tr>
+<tr><td>Jobgether</td><td>Compliance Associate</td><td>Canada</td><td>2026-08-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Regional Opportunities (north York & Other Districts)</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Regional Opportunities (scarborough & Other Districts)</td><td>Scarborough</td><td>2026-08-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Scotia Plaza, Toronto, On</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Churchill Park, St John's, Nfld</td><td>St John'S</td><td>2026-08-17</td></tr>
+<tr><td>Jobgether</td><td>Financial Analyst, R&d Finance</td><td>Canada</td><td>2026-08-17</td></tr>
+<tr><td>WestJet</td><td>Junior Systems Analyst</td><td>Calgary</td><td>2026-08-17</td></tr>
+<tr><td>Jobgether</td><td>Product Analyst</td><td>Canada</td><td>2026-08-17</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Conseiller Ou Conseillère En Actuariat, Tarification</td><td>Canada</td><td>2026-08-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Village Green Branch - Vernon, Bc</td><td>Vernon</td><td>2026-08-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Aurora, On</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Conseiller Ou Conseillère, Analyse Actuarielle Et Statistiques</td><td>Canada</td><td>2026-08-17</td></tr>
+<tr><td>Groves Memorial Community Hospital</td><td>Registered Nurse - Medicine (gmch) #2026-176</td><td>Guelph</td><td>2026-08-17</td></tr>
+<tr><td>Groves Memorial Community Hospital</td><td>Registered Nurse - Obs/surgical Inpatient (gmch) #2026-175</td><td>Guelph</td><td>2026-08-17</td></tr>
+<tr><td>Medcan</td><td>Facilities Attendant</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>The Timken Company</td><td>Field Service Technician - Qc</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>WSP</td><td>Field Services Technician</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>BGIS</td><td>Fire Alarm Technician</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>Encore Global</td><td>Technical Services Representative, Metro Toronto Convention Centre (union)</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>Likewize</td><td>Mobile Repair Technician — Toronto, Ontario</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>Best Buy Canada</td><td>Repair Technician (laptops/desktop/cellphones)</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>Bunge North America</td><td>Temporary Maintenance Helper</td><td>Edmonton</td><td>2026-08-17</td></tr>
+<tr><td>RTX Corporation</td><td>Technicien Contrôle Et Accessoires Électronique</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Cookstown</td><td>2026-08-17</td></tr>
+<tr><td>RBC</td><td>Service Associate</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>RBC</td><td>Bilingual Associate, Life Service - Advice Centre</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>Retirement World</td><td>Associate, Life Service - Advice Centre</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>JDI</td><td>Appliance Sales Associate</td><td>Fredericton</td><td>2026-08-17</td></tr>
+<tr><td>Staples Canada</td><td>Associé Des Ventes</td><td>Sept</td><td>2026-08-17</td></tr>
+<tr><td>JDI</td><td>Gatehouse Associate</td><td>Edmonton</td><td>2026-08-17</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Sales Associate</td><td>Weyburn</td><td>2026-08-17</td></tr>
+<tr><td>Uline</td><td>Warehouse Associate</td><td>Guelph</td><td>2026-08-17</td></tr>
+<tr><td>uline.ca</td><td>Warehouse Associate - Nights</td><td>Guelph</td><td>2026-08-17</td></tr>
+<tr><td>Uline</td><td>Warehouse Associate - Nights</td><td>Guelph</td><td>2026-08-17</td></tr>
+<tr><td>TOMMY HILFIGER</td><td>Temporary Sales Associate - Part-time</td><td>Vancouver</td><td>2026-08-17</td></tr>
+<tr><td>Maple Leaf Sports & Entertainment Partnership</td><td>Sales Associate, Sales Development Academy</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>MLSE</td><td>Sales Associate, Sales Development Academy</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Retail Associate</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>70240 Associate</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Conseiller.ère Mode (temps Partiel) - Place Rosemère</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>Notified</td><td>Associate Support Specialist</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>Pet Valu</td><td>Sales Associate</td><td>Lewisporte</td><td>2026-08-17</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Conseiller.ère Mode (temps Partiel) - Galeries D'anjou</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>Beneva</td><td>Préposé Aux Ventes</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>North York</td><td>2026-08-17</td></tr>
+<tr><td>Wolseley Canada</td><td>Warehouse Associate</td><td>Cornwall</td><td>2026-08-17</td></tr>
+<tr><td>Molson Canada</td><td>Aide-livreur(euse) / Préposé(e) À L'entrepôt - Val D'or</td><td>Val D'Or</td><td>2026-08-17</td></tr>
+<tr><td>Coach</td><td>Sales Associate I</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate Ii</td><td>Toronto</td><td>2026-08-17</td></tr>
+<tr><td>Circle K</td><td>Assistant(e) Gérant(e) -act</td><td>La Baie</td><td>2026-08-17</td></tr>
+<tr><td>Intelcom / Dragonfly</td><td>Operations Coordinator</td><td>Nova Scotia</td><td>2026-08-17</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Coordonnateur·trice, Commerce Électronique</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>Brock University</td><td>Administrative Assistant, Faculty Of Mathematics And Science</td><td>St Catharines</td><td>2026-08-17</td></tr>
+<tr><td>Videotron</td><td>Coordonnateur·rice Marketing</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>Arsenault Bros.</td><td>Project Coordinator</td><td>Cornwall</td><td>2026-08-17</td></tr>
+<tr><td>McGill University</td><td>Office Assistant- Class Scheduling Team</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>Teck Resources Ltd</td><td>Administrative Accounting Assistant</td><td>Vancouver</td><td>2026-08-17</td></tr>
+<tr><td>Saittrojans</td><td>Community Engagement Administrator</td><td>Calgary</td><td>2026-08-17</td></tr>
+<tr><td>Geotech Drilling</td><td>Professional Assistant</td><td>Prince George</td><td>2026-08-17</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant, Wood Gundy-bilingual</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant, Wood Gundy-bilingual</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>Skyline Group of Companies</td><td>Administrative Assistant, Scmi</td><td>Guelph</td><td>2026-08-17</td></tr>
+<tr><td>993</td><td>Brand Specialist - Montreal</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>Cdmexperiences</td><td>Operations Assistant Gta & Qc (6-month Contract)/adjoint(e) Aux Opérations Gta & Qc (contrat De 6 Mois)</td><td>Montreal</td><td>2026-08-17</td></tr>
 </table>
