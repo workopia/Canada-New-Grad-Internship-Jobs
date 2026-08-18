@@ -3041,4 +3041,28 @@
 <tr><td>Skyline Group of Companies</td><td>Administrative Assistant, Scmi</td><td>Guelph</td><td>2026-08-17</td></tr>
 <tr><td>993</td><td>Brand Specialist - Montreal</td><td>Montreal</td><td>2026-08-17</td></tr>
 <tr><td>Cdmexperiences</td><td>Operations Assistant Gta & Qc (6-month Contract)/adjoint(e) Aux Opérations Gta & Qc (contrat De 6 Mois)</td><td>Montreal</td><td>2026-08-17</td></tr>
+<tr><td>Generac Power Systems</td><td>Ai Productivity & Adoption, Co-op</td><td>Toronto</td><td>2026-08-18</td></tr>
+<tr><td>ecobee</td><td>Ai Productivity & Adoption, Co-op</td><td>Toronto</td><td>2026-08-18</td></tr>
+<tr><td>Power Systems Technology</td><td>Ai Productivity & Adoption, Co-op</td><td>Toronto</td><td>2026-08-18</td></tr>
+<tr><td>ABB Ltd</td><td>Emploi Étudiant - Centre De Réparation Sav</td><td>Quebec</td><td>2026-08-18</td></tr>
+<tr><td>ABB UK</td><td>Emploi Étudiant - Centre De Réparation Sav</td><td>Quebec</td><td>2026-08-18</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern - Communications And Design [montreal]</td><td>Montreal</td><td>2026-08-18</td></tr>
+<tr><td>Coty</td><td>Marketing Intern</td><td>Toronto</td><td>2026-08-18</td></tr>
+<tr><td>Coty</td><td>Operational Trade Marketing Intern</td><td>Toronto</td><td>2026-08-18</td></tr>
+<tr><td>Smartcop</td><td>Financial Analyst</td><td>Ontario</td><td>2026-08-18</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant - Complex Care</td><td>Yarmouth</td><td>2026-08-18</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>Assiniboia</td><td>2026-08-18</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Bioinformatics Research Assistant</td><td>Vancouver</td><td>2026-08-18</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Nurse - Clinical Resource Team (crt)</td><td>Toronto</td><td>2026-08-18</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant - Hospice & Long Term Care (multi-unit)</td><td>Fishermen'S Memorial Hospital</td><td>2026-08-18</td></tr>
+<tr><td>TELUS</td><td>Pharmacist</td><td>Toronto</td><td>2026-08-18</td></tr>
+<tr><td>North Wellington Health Care</td><td>Registered Nurse (lmh) #2026-174</td><td>Mount Forest</td><td>2026-08-18</td></tr>
+<tr><td>Groves Memorial Community Hospital</td><td>Registered Nurse - Medicine (gmch) #2026-178</td><td>Guelph</td><td>2026-08-18</td></tr>
+<tr><td>Breitling SA</td><td>Sales Associate Montreal</td><td>Montreal</td><td>2026-08-18</td></tr>
+<tr><td>Ottobock Health Care</td><td>Warehouse Associate</td><td>Guelph</td><td>2026-08-18</td></tr>
+<tr><td>Explore RH Careers</td><td>Client Services Associate</td><td>Toronto</td><td>2026-08-18</td></tr>
+<tr><td>Match Retail</td><td>Part-time Sales Associate - Kelowna</td><td>Kelowna</td><td>2026-08-18</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle -act</td><td>Chandler</td><td>2026-08-18</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle De Jour -act</td><td>Montreal</td><td>2026-08-18</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Administrative Assistant (toronto)</td><td>Toronto</td><td>2026-08-18</td></tr>
 </table>
