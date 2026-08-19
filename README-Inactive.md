@@ -3181,4 +3181,5 @@
 <tr><td>dragonflyshipping.ca</td><td>Operations Coordinator</td><td>British Columbia</td><td>2026-08-19</td></tr>
 <tr><td>Liebherr Machines Bulle SA</td><td>Administrateur (trice) De Service - Contrat 12 Mois</td><td>Montreal</td><td>2026-08-19</td></tr>
 <tr><td>GFL Environmental</td><td>Coordonnateur Aux Opérations (service Sanitaire)</td><td>RivièRe-Du-Loup</td><td>2026-08-19</td></tr>
+<tr><td>Staples Retail</td><td>Sales Associate</td><td>Calgary</td><td>2026-08-19</td></tr>
 </table>

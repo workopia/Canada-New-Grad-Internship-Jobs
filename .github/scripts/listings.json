@@ -12,8 +12,8 @@
   "as_of": "2026-08-19",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 16511,
-  "generated_at": "2026-08-19T01:15:34.755Z"
+  "country_live_total": 16499,
+  "generated_at": "2026-08-19T09:48:21.063Z"
  },
  "categories": [
   {
@@ -9613,23 +9613,6 @@
   },
   {
    "salary_display": "C$34k–50k*",
-   "id": "28cbf90e5d1067b1dda47da1bd5255c5",
-   "source": "Workopia",
-   "company_name": "Staples Retail",
-   "company_hi_slug": "staples-retail",
-   "title": "Sales Associate",
-   "location": "Calgary",
-   "skills": "Exceptional customer s, Sales and margin goals",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-18T00:00:00.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/28cbf90e5d1067b1dda47da1bd5255c5",
-   "category": "sales",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "C$34k–50k*",
    "id": "b4f4b5596375186409b2320da0e24676",
    "source": "Workopia",
    "company_name": "Staples Canada",
@@ -10169,6 +10152,23 @@
    "date_posted": "2026-08-15T17:21:51.552Z",
    "active": true,
    "url": "https://workopia.io/jobs/86fdd73012d1745b52379e7f89fce431",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "C$34k–50k*",
+   "id": "d552f2b6488b04c5803e2af3fcbcf963",
+   "source": "Workopia",
+   "company_name": "Luxottica Retail Australia Pty Ltd",
+   "company_hi_slug": "luxottica-retail-australia-pty-ltd",
+   "title": "Sales Associate",
+   "location": "Montreal",
+   "skills": "customer service, drive sales goals",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-15T17:20:03.464Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/d552f2b6488b04c5803e2af3fcbcf963",
    "category": "sales",
    "tier": "Entry-level"
   },
