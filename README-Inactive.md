@@ -3182,4 +3182,70 @@
 <tr><td>Liebherr Machines Bulle SA</td><td>Administrateur (trice) De Service - Contrat 12 Mois</td><td>Montreal</td><td>2026-08-19</td></tr>
 <tr><td>GFL Environmental</td><td>Coordonnateur Aux Opérations (service Sanitaire)</td><td>RivièRe-Du-Loup</td><td>2026-08-19</td></tr>
 <tr><td>Staples Retail</td><td>Sales Associate</td><td>Calgary</td><td>2026-08-19</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - British Columbia</td><td>Kelowna</td><td>2026-08-20</td></tr>
+<tr><td>CIBC Capital Markets</td><td>First Nations, Inuit, Or Métis Students - Winter 2027 Co-op And Internship Opportunities</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>CIBC</td><td>First Nations, Inuit, Or Métis Students - Winter 2027 Co-op And Internship Opportunities</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>Harris Chronic Care</td><td>Stagiaire En Architecture Technologique — Socle Ia Corporatif</td><td>Rimouski</td><td>2026-08-20</td></tr>
+<tr><td>TMX Group of Companies</td><td>Human Resources Intern</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>TMX Group</td><td>Human Resources Intern</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>OzMRS</td><td>Student, Investments (summer 2027, 4 Months)</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>OMERS Administration Corporation Inc</td><td>Student, Investments (summer 2027, 4 Months)</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>Coty</td><td>Marketing Intern; Covergirl & Rimmel London</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>TÜV SÜD</td><td>Intern</td><td>Ontario</td><td>2026-08-20</td></tr>
+<tr><td>Capital One Financial Corporation</td><td>Intern, Strategy Analyst - Summer 2027</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>Capital One Canada</td><td>Intern, Strategy Analyst - Summer 2027</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>Capital One Financial</td><td>Intern, Strategy Analyst - Summer 2027</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>Gameloft</td><td>Stagiaire En Ressources Humaines - Human Resources Intern</td><td>Montreal</td><td>2026-08-20</td></tr>
+<tr><td>Capitalonecareers</td><td>Fall Intern, Financial Analyst - January 2027 (4 Month)</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>Sturm Foods</td><td>It Desktop Support Analyst</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>Jobgether</td><td>Backend Software Engineer (infrastructure-focused)</td><td>Canada</td><td>2026-08-20</td></tr>
+<tr><td>Jobgether</td><td>Technical Support Specialist - Financials</td><td>Canada</td><td>2026-08-20</td></tr>
+<tr><td>Jobgether</td><td>Technical Support Specialist - Back Office</td><td>Canada</td><td>2026-08-20</td></tr>
+<tr><td>TD Ameritrade</td><td>Data Scientist Ii</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>BMO</td><td>Analyst/ Associate, Investment Banking - Montreal</td><td>Montreal</td><td>2026-08-20</td></tr>
+<tr><td>Beneva</td><td>Analyste D'affaires</td><td>Quebec</td><td>2026-08-20</td></tr>
+<tr><td>Computershare UK</td><td>Reconciliation Analyst</td><td>Montreal</td><td>2026-08-20</td></tr>
+<tr><td>B2Gold</td><td>Inventory Analyst</td><td>Nunavut</td><td>2026-08-20</td></tr>
+<tr><td>Circle K</td><td>Analyste, Comptabilité Magasin</td><td>Montreal</td><td>2026-08-20</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Emergency - Repost</td><td>Winnipeg</td><td>2026-08-20</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Emergency - Repost</td><td>Winkler</td><td>2026-08-20</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - A7 West Surgery - Repost</td><td>Winnipeg</td><td>2026-08-20</td></tr>
+<tr><td>Shared Health</td><td>General Duty Nurse (n2) - Manitoba Spine Clinic</td><td>Winnipeg</td><td>2026-08-20</td></tr>
+<tr><td>Shared Health</td><td>Nursing Assistant - Adult Support Float Pool</td><td>Winnipeg</td><td>2026-08-20</td></tr>
+<tr><td>Shared Health</td><td>Nursing Assistant - Adult Support Float Pool - Repost</td><td>Winnipeg</td><td>2026-08-20</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nursing Assistant -gd2 Orthopedic Surgery Trauma/spine</td><td>Winnipeg</td><td>2026-08-20</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Pharmacist-pharmacien.ne</td><td>Notre Dame De Lourdes</td><td>2026-08-20</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Cancer Care</td><td>Portage La Prairie</td><td>2026-08-20</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Home Care Attendant-aide - Soins À Domicile</td><td>Niverville</td><td>2026-08-20</td></tr>
+<tr><td>Nova Scotia Health</td><td>Registered Pharmacy Technician - 2025-2026 Graduates</td><td>Various Sites</td><td>2026-08-20</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Nurses - Critical Care</td><td>Various Sites And Community-Based Locations</td><td>2026-08-20</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Nurse - Emergency Department</td><td>Various Sites</td><td>2026-08-20</td></tr>
+<tr><td>Nova Scotia Health</td><td>Registered Nurse - Seeking Experienced Candidates</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-08-20</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Pharmacy Technician - Pharmacy Services</td><td>Bridgewater</td><td>2026-08-20</td></tr>
+<tr><td>Nova Scotia Health</td><td>Graduate Nurse 2025-2026</td><td>All Locations</td><td>2026-08-20</td></tr>
+<tr><td>W Brisbane</td><td>Maintenance Technician I</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>Owens-Illinois</td><td>Électrotechnicien</td><td>Montreal</td><td>2026-08-20</td></tr>
+<tr><td>The Beer Store</td><td>Field Service Representative</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Calgary</td><td>2026-08-20</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Part Time</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>On</td><td>2026-08-20</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Sales Associate-print&services</td><td>Montreal</td><td>2026-08-20</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate-print&services</td><td>Montreal</td><td>2026-08-20</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Sales Associate</td><td>Melfort</td><td>2026-08-20</td></tr>
+<tr><td>Nilfisk</td><td>Warehouse Associate</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate</td><td>New Minas</td><td>2026-08-20</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Carrefour Laval - Future Opportunities</td><td>Montreal</td><td>2026-08-20</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - South Shore - Futures Opportunities</td><td>Montreal</td><td>2026-08-20</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Oshawa Centre</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Retail Store Associate Part Time Seasonal Winners/homesense – Yorkville</td><td>Toronto</td><td>2026-08-20</td></tr>
+<tr><td>Dollar Tree Canada</td><td>Customer Service Associate</td><td>Winnipeg</td><td>2026-08-20</td></tr>
+<tr><td>Pet Valu</td><td>Sales Associate</td><td>Corner Brook</td><td>2026-08-20</td></tr>
+<tr><td>Pet Valu</td><td>Full Time Sales Associate (store#1416 Truro)</td><td>Truro</td><td>2026-08-20</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Sales Associate</td><td>Montreal</td><td>2026-08-20</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Associé(e) À L'administration - Montréal, Qc</td><td>Montreal</td><td>2026-08-20</td></tr>
+<tr><td>ScotiaMcLeod</td><td>Scotiamcleod Administrative Associate - Montreal (qc)</td><td>Montreal</td><td>2026-08-20</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - Owen Sound (contract)</td><td>Owen Sound</td><td>2026-08-20</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Recreation Coordinator</td><td>Eston</td><td>2026-08-20</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant Cibc Wood Gundy</td><td>Regina</td><td>2026-08-20</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant Cibc Wood Gundy</td><td>Regina</td><td>2026-08-20</td></tr>
 </table>
