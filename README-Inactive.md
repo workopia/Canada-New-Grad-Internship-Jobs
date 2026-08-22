@@ -3371,4 +3371,114 @@
 <tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Support Assistant - Saskatoon</td><td>Saskatoon</td><td>2026-08-21</td></tr>
 <tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Support Assistant - Temporary Sudbury</td><td>Sudbury</td><td>2026-08-21</td></tr>
 <tr><td>The Bank of Nova Scotia</td><td>Service Support Officer/administrative Assistant</td><td>Vancouver</td><td>2026-08-21</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - Ontario</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Canadian Tax Services (winter 2027) Calgary</td><td>Calgary</td><td>2026-08-22</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Canadian Tax Services (winter 2027) Toronto Bay Street</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Canadian Tax Services (pgt) - Winter 2027</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Canadian Tax Services (winter 2027) Vancouver</td><td>Vancouver</td><td>2026-08-22</td></tr>
+<tr><td>Canadian Natural</td><td>Mineral Land Negotiations Student</td><td>Calgary</td><td>2026-08-22</td></tr>
+<tr><td>Canadian Natural</td><td>Mineral Land Administration Student</td><td>Calgary</td><td>2026-08-22</td></tr>
+<tr><td>Canadian Natural</td><td>Corporate Travel Student</td><td>Calgary</td><td>2026-08-22</td></tr>
+<tr><td>Canadian Natural Resources Campus</td><td>Corporate Travel Student</td><td>Calgary</td><td>2026-08-22</td></tr>
+<tr><td>Canadian Natural Resources Campus</td><td>Mineral Land Negotiations Student</td><td>Calgary</td><td>2026-08-22</td></tr>
+<tr><td>Canadian Natural Resources Campus</td><td>Mineral Land Administration Student</td><td>Calgary</td><td>2026-08-22</td></tr>
+<tr><td>Canadian Natural Resources</td><td>Mineral Land Negotiations Student</td><td>Calgary</td><td>2026-08-22</td></tr>
+<tr><td>Canadian Natural Resources</td><td>Mineral Land Administration Student</td><td>Calgary</td><td>2026-08-22</td></tr>
+<tr><td>Canadian Natural Resources</td><td>Corporate Travel Student</td><td>Calgary</td><td>2026-08-22</td></tr>
+<tr><td>Health Science North</td><td>Event Fundraising Intern</td><td>Sudbury</td><td>2026-08-22</td></tr>
+<tr><td>WSP</td><td>Intern, Human Resources</td><td>Montreal</td><td>2026-08-22</td></tr>
+<tr><td>RBC</td><td>Client Advisor Intern</td><td>Nelson</td><td>2026-08-22</td></tr>
+<tr><td>RBC</td><td>Banking Advisor Intern</td><td>Vancouver</td><td>2026-08-22</td></tr>
+<tr><td>PCL Constructors Inc</td><td>Marketing Communications Student</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Stagiaire En Gestion Des Exigences (automne 2026)</td><td>St-Bruno</td><td>2026-08-22</td></tr>
+<tr><td>Ontario Energy Board</td><td>Co-op Student, Boost</td><td>Canada</td><td>2026-08-22</td></tr>
+<tr><td>Live Nation Entertainment</td><td>Brand Partnerships Intern (fall 2026)</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Staples Business</td><td>Coop Placement</td><td>Montreal</td><td>2026-08-22</td></tr>
+<tr><td>BDO</td><td>Indigenous Student Program – Multiple Locations – Summer 2027</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Bank of Canada</td><td>Phd Internship</td><td>Ottawa</td><td>2026-08-22</td></tr>
+<tr><td>Coty Inc</td><td>Merchandising Intern</td><td>Amsterdam</td><td>2026-08-22</td></tr>
+<tr><td>ESAB Corporation</td><td>Co Op Intern</td><td>Ontario</td><td>2026-08-22</td></tr>
+<tr><td>TD Bank</td><td>Financial Planning Delivery Excellence Intern/co-op (fall 2026)</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>TD Ameritrade</td><td>Financial Planning Delivery Excellence Intern/co-op (fall 2026)</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>McKesson Corporation</td><td>Coop Intern</td><td>On</td><td>2026-08-22</td></tr>
+<tr><td>McKesson</td><td>Coop Intern</td><td>Ontario</td><td>2026-08-22</td></tr>
+<tr><td>Vancity</td><td>Data Support Intern (4-month Contract)</td><td>Vancity Centre</td><td>2026-08-22</td></tr>
+<tr><td>Vancity</td><td>Ai Solutions Intern (4-month Contract)</td><td>Vancity Centre</td><td>2026-08-22</td></tr>
+<tr><td>Nokia</td><td>Jr. Nsp Technical Care Specialist</td><td>Canada</td><td>2026-08-22</td></tr>
+<tr><td>TD</td><td>Data Scientist Ii</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>RSM Canada</td><td>Netsuite Consulting Supervisor - Technology, Media & Telecomm (tmt)</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>kaiserkraft.pt</td><td>Analyst, Sales Finance</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Kraft Heinz</td><td>Analyst, Sales Finance</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Aecon U.S.</td><td>Analyst, Business</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Retirement World</td><td>Actuarial Analyst, Group Pricing</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Liberty Utilities Co</td><td>Accountant Ii</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>MedChart Inc</td><td>Accountant</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>TD</td><td>Actuarial Analyst Iii - Budget</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>TD Ameritrade</td><td>Actuarial Analyst Iii - Budget</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Heartland Town Centre, Mississauga, On</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Queensway & Islington, Etobicoke, On</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Registered Nurse</td><td>Weyburn</td><td>2026-08-22</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>Kelvington</td><td>2026-08-22</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Resident Assistant-repost</td><td>Carman</td><td>2026-08-22</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant - Complex Care</td><td>Yarmouth</td><td>2026-08-22</td></tr>
+<tr><td>CAMH</td><td>Registered Nurse - Slaight Centre Early Intervention Service</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse General Duty Nurse</td><td>Cabri</td><td>2026-08-22</td></tr>
+<tr><td>Health Science North</td><td>Registered Nurse - Various Opportunities</td><td>Sudbury</td><td>2026-08-22</td></tr>
+<tr><td>Health Science North</td><td>Pharmacist (necc And Hsnrx Retail)</td><td>Canada</td><td>2026-08-22</td></tr>
+<tr><td>Health Science North</td><td>Pharmacy Technician (tech Iii) X6</td><td>Canada</td><td>2026-08-22</td></tr>
+<tr><td>Health Science North</td><td>Personal Support Worker</td><td>Canada</td><td>2026-08-22</td></tr>
+<tr><td>Nutrien Ltd</td><td>Occupational Health Nurse (temporary)</td><td>Rocanville</td><td>2026-08-22</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Assistant - Brotto Lab</td><td>Vancouver</td><td>2026-08-22</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - A4 South Urology Vascular - Repost</td><td>Winnipeg</td><td>2026-08-22</td></tr>
+<tr><td>Shared Health</td><td>General Duty Nurse (n2) - Women's Health Labour & Delivery - Repost</td><td>Winnipeg</td><td>2026-08-22</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nursing Assistant - Repost</td><td>Winnipeg</td><td>2026-08-22</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Repost</td><td>Carman</td><td>2026-08-22</td></tr>
+<tr><td>St. Boniface Hospital</td><td>Registered Nurse (n2) - Renal Resource Team - Repost</td><td>Winnipeg</td><td>2026-08-22</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Infirmier Ère Autorisé E - Repost</td><td>Notre Dame De Lourdes</td><td>2026-08-22</td></tr>
+<tr><td>St. Boniface Hospital</td><td>Registered Nurse (n2) - Specialty Resource Team - Repost</td><td>Winnipeg</td><td>2026-08-22</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Intensive Care Med/surg - Repost</td><td>Winnipeg</td><td>2026-08-22</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Home Care Attendant</td><td>St. Malo</td><td>2026-08-22</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Surgical/obstetrics - Repost</td><td>Portage La Prairie</td><td>2026-08-22</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Infirmier Ère Autorisé E</td><td>Notre Dame De Lourdes</td><td>2026-08-22</td></tr>
+<tr><td>St. Boniface Hospital</td><td>Registered Nurse (n2) - Critical Care Resource Team - Repost</td><td>Winnipeg</td><td>2026-08-22</td></tr>
+<tr><td>St. Boniface Hospital</td><td>Registered Nurse (n2) - Obstetrics, Gynecology And Neonatology Resource Team -nicu Specific - Repost</td><td>Winnipeg</td><td>2026-08-22</td></tr>
+<tr><td>Shared Health</td><td>General Duty Nurse (n2) - Medicine Ctu - Repost</td><td>Winnipeg</td><td>2026-08-22</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Pharmacist</td><td>Winkler</td><td>2026-08-22</td></tr>
+<tr><td>Capital District Health Authority</td><td>Industrial Mechanic - Maintenance And Operations</td><td>Cape Breton Regional Hospital</td><td>2026-08-22</td></tr>
+<tr><td>Lineage</td><td>Technicien Équipement De Manutention (mhe)</td><td>Montreal</td><td>2026-08-22</td></tr>
+<tr><td>Lineage</td><td>Material Handling Equipment (mhe) Technician</td><td>Montreal</td><td>2026-08-22</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Maintenance Technician I</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Aritzia</td><td>Retail Associate - Square One</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Aritzia</td><td>Retail Associate - Kingsway Mall</td><td>Edmonton</td><td>2026-08-22</td></tr>
+<tr><td>Aritzia</td><td>Retail Associate - Markville</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Aritzia</td><td>Retail Associate - Babaton Square One</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Aritzia</td><td>Retail Associate - Hillcrest</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Aritzia</td><td>Retail Associate - Fairview</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Aritzia</td><td>Retail Associate - Don Mills</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Aritzia</td><td>Retail Associate - Bramalea</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Aritzia</td><td>Retail Associate - Bloor Street</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Aritzia</td><td>Retail Associate - Babaton Yorkdale</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Edmonton, Ab</td><td>Edmonton</td><td>2026-08-22</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Richmond Hill, On</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Summerside, Pe</td><td>Edmonton</td><td>2026-08-22</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Brampton, On</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Pickering, On</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Full Time Retail Associate (optical): Spruce Grove, Ab</td><td>Edmonton</td><td>2026-08-22</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Full Time Retail Associate (optical): Sherwood Park, Ab</td><td>Edmonton</td><td>2026-08-22</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Edmonton, Alberta</td><td>Edmonton</td><td>2026-08-22</td></tr>
+<tr><td>Mackenzie Investments</td><td>District Sales Associate</td><td>Calgary</td><td>2026-08-22</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Montreal</td><td>2026-08-22</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Soir 6000362</td><td>Montreal</td><td>2026-08-22</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant</td><td>Regina</td><td>2026-08-22</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Undergraduate Program Coordinator</td><td>Vancouver</td><td>2026-08-22</td></tr>
+<tr><td>IWK Health</td><td>Research Coordinator</td><td>Halifax</td><td>2026-08-22</td></tr>
+<tr><td>City of Ottawa</td><td>Administrative Assistant, Workplace Safety, Prevention & Compliance</td><td>Ottawa</td><td>2026-08-22</td></tr>
+<tr><td>SNC Lavalin</td><td>Project Coordinator - Ci/bop</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>AtkinsRéalis</td><td>Project Coordinator - Ci/bop</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Project Coordinator - Ci/bop</td><td>Toronto</td><td>2026-08-22</td></tr>
+<tr><td>Aecon Group</td><td>Coordinator, Project</td><td>Dresden</td><td>2026-08-22</td></tr>
+<tr><td>Aecon Group</td><td>Jr. Project Coordinator- Series Training</td><td>Kincardine</td><td>2026-08-22</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Facilities Coordinator</td><td>Client Site</td><td>2026-08-22</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Recreation Coordinator</td><td>London</td><td>2026-08-22</td></tr>
+<tr><td>Onni Group</td><td>Digital Marketing Coordinator</td><td>Vancouver</td><td>2026-08-22</td></tr>
 </table>
