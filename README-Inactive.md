@@ -3639,4 +3639,51 @@
 <tr><td>isc.ubc.ca</td><td>Academic Programs Coordinator</td><td>Vancouver</td><td>2026-08-23</td></tr>
 <tr><td>BLG</td><td>Legal Administrative Assistant</td><td>Toronto</td><td>2026-08-23</td></tr>
 <tr><td>Accent Dental</td><td>Administrative Assistant - Accent Dental</td><td>Fort St. John</td><td>2026-08-23</td></tr>
+<tr><td>Retirement World</td><td>Client Advisor Intern</td><td>West Kelowna</td><td>2026-08-23</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Credits & Incentives (winter 2027) Gta Office</td><td>Toronto</td><td>2026-08-23</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, M&a And Capital Markets - January 2027</td><td>Toronto</td><td>2026-08-23</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, International Tax Services (summer 2027) Vancouver</td><td>Vancouver</td><td>2026-08-23</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Assurance (winter 2027) Greater Vancouver Area</td><td>Vancouver</td><td>2026-08-23</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Hiver 2027 - Spécialiste En Amélioration Des Procédés, Leasco / Internship - Winter 2027 - Process Improvement Specialist, Leasco</td><td>Montreal</td><td>2026-08-23</td></tr>
+<tr><td>Polyai</td><td>Support Engineer</td><td>Canada</td><td>2026-08-23</td></tr>
+<tr><td>PCL Constructors Inc</td><td>Software Developer Student</td><td>Nisku +1</td><td>2026-08-23</td></tr>
+<tr><td>UAP Inc.</td><td>Comptable</td><td>Montreal</td><td>2026-08-23</td></tr>
+<tr><td>Jobgether</td><td>Clinical User Experience Analyst (ba2)</td><td>Canada</td><td>2026-08-23</td></tr>
+<tr><td>RBC</td><td>Analyst, Due Diligence</td><td>Toronto</td><td>2026-08-23</td></tr>
+<tr><td>Gategroup</td><td>Asg Analyst</td><td>Toronto</td><td>2026-08-23</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Registered Nurse- Casual - Extendicare Athabasca</td><td>Athabasca</td><td>2026-08-23</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Nurse- Casual - Extendicare Athabasca</td><td>Athabasca</td><td>2026-08-23</td></tr>
+<tr><td>Extendicarecedarsvilla</td><td>Registered Nurse- Casual - Extendicare Athabasca</td><td>Athabasca</td><td>2026-08-23</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Diagnostic Imaging (part-time)</td><td>Toronto</td><td>2026-08-23</td></tr>
+<tr><td>Scarborough Jobs</td><td>Registered Nurse - Cp3 Ortho (gen) (talent Pool, 2026)</td><td>Scarborough</td><td>2026-08-23</td></tr>
+<tr><td>Scarborough Jobs</td><td>Registered Nurse - 3 Central Surgical (gen) (talent Pool, 2026)</td><td>Scarborough</td><td>2026-08-23</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Registered Nurse-casual-village On The Ridge</td><td>Village On The Ridge</td><td>2026-08-23</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Nurse-casual-village On The Ridge</td><td>Village On The Ridge</td><td>2026-08-23</td></tr>
+<tr><td>Canadian Tire</td><td>Mobile Equipment Technician</td><td>Toronto</td><td>2026-08-23</td></tr>
+<tr><td>Legocareersvirginia</td><td>Retail Seasonal Sales Associate (part Time) - Markham On</td><td>Toronto</td><td>2026-08-23</td></tr>
+<tr><td>Wolseley Canada</td><td>Warehouse Administrator, Balzac</td><td>Balzac</td><td>2026-08-23</td></tr>
+<tr><td>Wolseley UK</td><td>Warehouse Administrator, Balzac</td><td>Balzac</td><td>2026-08-23</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Seasonal Retail Store Associate Part Time Winners - Queen & Portland</td><td>Toronto</td><td>2026-08-23</td></tr>
+<tr><td>Winners At TJX Canada</td><td>Seasonal Retail Store Associate Part Time Winners - Queen & Portland</td><td>Toronto</td><td>2026-08-23</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Retail Store Associate Part Time Winners- Camrose Commons</td><td>Edmonton</td><td>2026-08-23</td></tr>
+<tr><td>Winners</td><td>Retail Store Associate Part Time Winners- Camrose Commons</td><td>Edmonton</td><td>2026-08-23</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Regent Mall</td><td>Fredericton</td><td>2026-08-23</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Grand Prairie</td><td>Grande Prairie</td><td>2026-08-23</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Peter Pond Shopping Centre</td><td>Fort McMurray</td><td>2026-08-23</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Sales Associate, Carrefour Angrignon</td><td>LaSalle</td><td>2026-08-23</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Bridgewater</td><td>2026-08-23</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Bridgewater</td><td>2026-08-23</td></tr>
+<tr><td>Hertz Global Holdings</td><td>Customer Service & Sales Associate</td><td>Calgary</td><td>2026-08-23</td></tr>
+<tr><td>Hertz</td><td>Customer Service & Sales Associate</td><td>Calgary</td><td>2026-08-23</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-08-23</td></tr>
+<tr><td>Resideo</td><td>Merchandise Shipping/receiving Associate</td><td>Toronto</td><td>2026-08-23</td></tr>
+<tr><td>Marriott International</td><td>Administrative Assistant - Banquets (1 Year Contract)</td><td>Ottawa</td><td>2026-08-23</td></tr>
+<tr><td>PwC Sweden</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-08-23</td></tr>
+<tr><td>PwC Belgium Tax News</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-08-23</td></tr>
+<tr><td>Aecon U.S.</td><td>Coordinator, Project</td><td>Dresden</td><td>2026-08-23</td></tr>
+<tr><td>Aecon U.S.</td><td>Jr. Project Coordinator- Series Training</td><td>Kincardine</td><td>2026-08-23</td></tr>
+<tr><td>Aecon U.S.</td><td>Project Coordinator, Co-op</td><td>Scarborough</td><td>2026-08-23</td></tr>
+<tr><td>Aecon U.S.</td><td>Project Coordinator- Series Training</td><td>Tiverton</td><td>2026-08-23</td></tr>
+<tr><td>Aecon U.S.</td><td>Co-op, Project Coordinator</td><td>Ohsweken</td><td>2026-08-23</td></tr>
+<tr><td>Aecon U.S.</td><td>Project Coordinator, Co-op (kpc)</td><td>Toronto</td><td>2026-08-23</td></tr>
 </table>
