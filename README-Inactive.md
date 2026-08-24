@@ -3686,4 +3686,70 @@
 <tr><td>Aecon U.S.</td><td>Project Coordinator- Series Training</td><td>Tiverton</td><td>2026-08-23</td></tr>
 <tr><td>Aecon U.S.</td><td>Co-op, Project Coordinator</td><td>Ohsweken</td><td>2026-08-23</td></tr>
 <tr><td>Aecon U.S.</td><td>Project Coordinator, Co-op (kpc)</td><td>Toronto</td><td>2026-08-23</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - British Columbia</td><td>Vancouver</td><td>2026-08-24</td></tr>
+<tr><td>Roche Holding AG</td><td>Health Data Strategy Operations Intern</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>Roche Holding AG</td><td>Cmc Regulatory Affairs Intern</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>Roche Holding AG</td><td>Global Clinical Operations Intern</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>Roche Holding AG</td><td>Enterprise Operations Intern</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>healthsciencejobs.ch</td><td>Pharma Technical Regulatory Submission Intern</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>healthsciencejobs.ch</td><td>Enterprise Operations Intern</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Grm, Operational Risk And Regulatory Management Intern (4 Months)</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Financial Reporting & Insights (bc Interior Offices) Winter 2027</td><td>Kelowna</td><td>2026-08-24</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Personal Debt Solutions - Edmonton & Calgary - January 2027</td><td>Edmonton</td><td>2026-08-24</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Canadian Tax Services (winter 2027) Ottawa</td><td>Ottawa</td><td>2026-08-24</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Valuations & Modelling - Toronto - January 2027</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern - Risk Advisory Services - Toronto - January 2027</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Expatriate Tax Services (winter 2027) Toronto</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, International Tax Services (summer 2027) Toronto - Bay St</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>Cadence Design Systems</td><td>Software Engineer (circuit Analysis, Eda Frameworks, Ai Agents)</td><td>Burnaby 01</td><td>2026-08-24</td></tr>
+<tr><td>BETA CAE Systems International AG</td><td>Software Engineer (circuit Analysis, Eda Frameworks, Ai Agents)</td><td>Burnaby 01</td><td>2026-08-24</td></tr>
+<tr><td>UAP Inc.</td><td>Compliance Accountant</td><td>Montreal</td><td>2026-08-24</td></tr>
+<tr><td>TD Bank</td><td>It Support Analyst Iv</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>TD Ameritrade</td><td>It Support Analyst Iv</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>TD</td><td>It Support Analyst Iv</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>UAP Inc.</td><td>Accountant</td><td>Montreal</td><td>2026-08-24</td></tr>
+<tr><td>Whcrecruit</td><td>Registered Nurse - Er (gmch) #2026-184</td><td>Guelph</td><td>2026-08-24</td></tr>
+<tr><td>Whcrecruit</td><td>Registered Nurse - Medicine (gmch) #2026-185</td><td>Guelph</td><td>2026-08-24</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Community Mental Health Nurse</td><td>Biggar</td><td>2026-08-24</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Communicable Disease Control Public Health Nurse</td><td>La Ronge</td><td>2026-08-24</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Nurse (rn) - Casual - Extendicare Scarborough</td><td>Scarborough</td><td>2026-08-24</td></tr>
+<tr><td>Summit Place LTC</td><td>Rpn</td><td>Assist</td><td>2026-08-24</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Rpn</td><td>Assist</td><td>2026-08-24</td></tr>
+<tr><td>Extendicare Scarborough</td><td>Registered Nurse (rn) - Casual - Extendicare Scarborough</td><td>Scarborough</td><td>2026-08-24</td></tr>
+<tr><td>McGill University</td><td>Research Assistant (sustainable Management)</td><td>Montreal</td><td>2026-08-24</td></tr>
+<tr><td>mcgillcampusstore.ca</td><td>Research Assistant (sustainable Management)</td><td>Montreal</td><td>2026-08-24</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Research Assistant (sustainable Management)</td><td>Montreal</td><td>2026-08-24</td></tr>
+<tr><td>Hennick Humber Hospital</td><td>Registered Nurse, 10 East &amp; West Inpatient Surgery</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>Nutrien Ltd</td><td>Warehouse Support</td><td>Vermilion</td><td>2026-08-24</td></tr>
+<tr><td>Tjhcareers</td><td>Sales Floor Associate</td><td>Bathurst</td><td>2026-08-24</td></tr>
+<tr><td>Marshalls At TJX Canada</td><td>Sales Floor Associate</td><td>Bathurst</td><td>2026-08-24</td></tr>
+<tr><td>Winners</td><td>Associé / Associée De Magasin Temps Partiel Winners – Méga Centre Vaudreuil</td><td>Montreal</td><td>2026-08-24</td></tr>
+<tr><td>Tjhcareers</td><td>Retail Sales Associate</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Retail Sales Associate</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>New Balance Australia Pty Ltd</td><td>Retail Sales Associate</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (permanent Part Time) - Markville Mall</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>QE Home / Quilts Etc</td><td>Sales Associate</td><td>Vernon</td><td>2026-08-24</td></tr>
+<tr><td>BAILEY NELSON</td><td>Part-time Sales Associate/eyewear Stylist - Market Mall</td><td>Calgary</td><td>2026-08-24</td></tr>
+<tr><td>Staples Inc.</td><td>Associé Des Ventes</td><td>Saint</td><td>2026-08-24</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Associé Des Ventes</td><td>Saint</td><td>2026-08-24</td></tr>
+<tr><td>Hertz Global Holdings</td><td>Customer Service And Sales Associate</td><td>Calgary</td><td>2026-08-24</td></tr>
+<tr><td>Hertz</td><td>Customer Service And Sales Associate</td><td>Calgary</td><td>2026-08-24</td></tr>
+<tr><td>Bass Pro</td><td>Seasonal Home & Gift</td><td>Edmonton North</td><td>2026-08-24</td></tr>
+<tr><td>Bass Pro</td><td>Part Time Archery Sales</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>Careersatcardinalhealth</td><td>Warehouse Associate</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>H&M</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- Fixed Term Contract</td><td>Kamloops</td><td>2026-08-24</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate- Fixed Term Contract</td><td>Kamloops</td><td>2026-08-24</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (part Time) - Southpark</td><td>Edmonton</td><td>2026-08-24</td></tr>
+<tr><td>Giant Tiger</td><td>Hardgoods Associate (full-time)</td><td>Montreal</td><td>2026-08-24</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit -act</td><td>Montreal</td><td>2026-08-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - Mississauga</td><td>Toronto</td><td>2026-08-24</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant Wood Gundy</td><td>Edmonton</td><td>2026-08-24</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant Wood Gundy</td><td>Edmonton</td><td>2026-08-24</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant - Bilingual</td><td>Montreal</td><td>2026-08-24</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant - Bilingual</td><td>Montreal</td><td>2026-08-24</td></tr>
+<tr><td>H&M</td><td>H&m Responsable De Département (assistant.e Gérant.e) - Chicoutimi, Qc</td><td>Chicoutimi</td><td>2026-08-24</td></tr>
+<tr><td>Virtualspaces Stage Pwc</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-08-24</td></tr>
+<tr><td>Activision Publishing, Inc</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-08-24</td></tr>
 </table>
