@@ -3752,4 +3752,14 @@
 <tr><td>H&M</td><td>H&m Responsable De Département (assistant.e Gérant.e) - Chicoutimi, Qc</td><td>Chicoutimi</td><td>2026-08-24</td></tr>
 <tr><td>Virtualspaces Stage Pwc</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-08-24</td></tr>
 <tr><td>Activision Publishing, Inc</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-08-24</td></tr>
+<tr><td>Whcrecruit</td><td>Registered Nurse - Medicine (gmch) #2026-183</td><td>Guelph</td><td>2026-08-25</td></tr>
+<tr><td>NORS, S.A</td><td>Technicien De Chantier</td><td>Montreal</td><td>2026-08-25</td></tr>
+<tr><td>NORS, S.A</td><td>Field Technician</td><td>Montreal</td><td>2026-08-25</td></tr>
+<tr><td>Voith</td><td>Service Technician</td><td>Toronto</td><td>2026-08-25</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Montreal</td><td>2026-08-25</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Sales Associate</td><td>St. Johns</td><td>2026-08-25</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Kirkland</td><td>Montreal</td><td>2026-08-25</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Westmount, Greene</td><td>Montreal</td><td>2026-08-25</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Westmount, Greene</td><td>Montreal</td><td>2026-08-25</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate Future Opportunities (mandarin / Cantonese An Asset)</td><td>Toronto</td><td>2026-08-25</td></tr>
 </table>

@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-24",
+ "asOf": "2026-08-25",
  "count": 714,
  "jobs": {
   "785372": {
@@ -2366,6 +2366,12 @@
    "role": "Business Advisor - Regional Opportunities (mississauga, On)",
    "location": "Toronto"
   },
+  "8b7462c1ffff6b9142afcbfaec0ead6d": {
+   "id": "8b7462c1ffff6b9142afcbfaec0ead6d",
+   "company": "Corporation Of The County Of Wellington",
+   "role": "Personal Support Worker",
+   "location": "Wellington"
+  },
   "fab79b5057c644a403268fed7ec7da40": {
    "id": "fab79b5057c644a403268fed7ec7da40",
    "company": "NorQuest College",
@@ -2840,11 +2846,29 @@
    "role": "Nursing Graduate Guarantee Opportunities For Registered Nurses",
    "location": "Sudbury"
   },
-  "dae691433fc28ba25e48375e2d09b6a0": {
-   "id": "dae691433fc28ba25e48375e2d09b6a0",
-   "company": "Whcrecruit",
-   "role": "Registered Nurse - Medicine (gmch) #2026-183",
-   "location": "Guelph"
+  "6ef87358b67ab72950ef282fffe451c7": {
+   "id": "6ef87358b67ab72950ef282fffe451c7",
+   "company": "hiremomentum.online",
+   "role": "General Maintenance Technician Ii",
+   "location": "Toronto"
+  },
+  "ae5742755d482415f0045413a80fc77f": {
+   "id": "ae5742755d482415f0045413a80fc77f",
+   "company": "Ferrovial SE",
+   "role": "Webber - Road Maintenance Technician - Peel Halton - Infrastructure Management",
+   "location": "Toronto"
+  },
+  "b6e2a5e65d1c816b244dde3c27cf6abe": {
+   "id": "b6e2a5e65d1c816b244dde3c27cf6abe",
+   "company": "Excelitas Technologies Corporation",
+   "role": "Technician, Equipment Maintenance - Weekend Shift",
+   "location": "Montreal"
+  },
+  "3a32b328720dcc4effd07f4b8ef08c73": {
+   "id": "3a32b328720dcc4effd07f4b8ef08c73",
+   "company": "Excelitas Technologies Corporation",
+   "role": "Electronics/optoelectronics Technician",
+   "location": "Montreal"
   },
   "4a6111e30d9a07c4ec543536f8070b03": {
    "id": "4a6111e30d9a07c4ec543536f8070b03",
@@ -3194,12 +3218,6 @@
    "role": "Field Service Technician - Qc",
    "location": "Montreal"
   },
-  "b6e2a5e65d1c816b244dde3c27cf6abe": {
-   "id": "b6e2a5e65d1c816b244dde3c27cf6abe",
-   "company": "Excelitas Technologies Corporation",
-   "role": "Technician, Equipment Maintenance - Weekend Shift",
-   "location": "Montreal"
-  },
   "46f20ef0eac4ae9f10b89ea4e1477fd0": {
    "id": "46f20ef0eac4ae9f10b89ea4e1477fd0",
    "company": "BIGO",
@@ -3308,23 +3326,41 @@
    "role": "Shop Technician",
    "location": "Montreal"
   },
-  "771b70abc97c6b35185e5a84d9dd7413": {
-   "id": "771b70abc97c6b35185e5a84d9dd7413",
-   "company": "NORS, S.A",
-   "role": "Technicien De Chantier",
-   "location": "Montreal"
-  },
-  "3bd6bfdf6d94e8fe6f5ac35c3af0f2db": {
-   "id": "3bd6bfdf6d94e8fe6f5ac35c3af0f2db",
-   "company": "NORS, S.A",
-   "role": "Field Technician",
-   "location": "Montreal"
-  },
-  "76b90b171d65a1449235b219ac395012": {
-   "id": "76b90b171d65a1449235b219ac395012",
-   "company": "Voith",
-   "role": "Service Technician",
+  "ebf25fec3cc714091c899a2fc01e079e": {
+   "id": "ebf25fec3cc714091c899a2fc01e079e",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Sales Associate",
    "location": "Toronto"
+  },
+  "5c40263dd799e1cca03ada4abcdbf1b6": {
+   "id": "5c40263dd799e1cca03ada4abcdbf1b6",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Sales Associate / Seasonal",
+   "location": "Vancouver"
+  },
+  "b3e56e8fce009772b405237bd8b5bf9e": {
+   "id": "b3e56e8fce009772b405237bd8b5bf9e",
+   "company": "LensCrafters",
+   "role": "Sales Associate",
+   "location": "Toronto"
+  },
+  "c1e684cb2a8fdacad754f867d999efa7": {
+   "id": "c1e684cb2a8fdacad754f867d999efa7",
+   "company": "Circle K",
+   "role": "Préposé Service À La Clientèle De Nuit",
+   "location": "Montreal"
+  },
+  "a0ef1accec1d6537eb154d67cf4058a8": {
+   "id": "a0ef1accec1d6537eb154d67cf4058a8",
+   "company": "Thompson's WaterSeal",
+   "role": "Associé(e) En Magasin",
+   "location": "Montreal"
+  },
+  "e0b990687b307fcdce372e970b9537eb": {
+   "id": "e0b990687b307fcdce372e970b9537eb",
+   "company": "Sherwin-Williams",
+   "role": "Associé(e) En Magasin",
+   "location": "Montreal"
   },
   "7955435199d64d0304dbe50f77dd6607": {
    "id": "7955435199d64d0304dbe50f77dd6607",
@@ -3500,12 +3536,6 @@
    "role": "Softgoods Associate (part-time)",
    "location": "Edmonton"
   },
-  "4c4898e1d47288d5bab89513a0029caf": {
-   "id": "4c4898e1d47288d5bab89513a0029caf",
-   "company": "Circle K",
-   "role": "Préposé Service À La Clientèle De Nuit",
-   "location": "Montreal"
-  },
   "6fb7c0b6c183eef33de036b5a02366b5": {
    "id": "6fb7c0b6c183eef33de036b5a02366b5",
    "company": "Circle K",
@@ -3565,12 +3595,6 @@
    "company": "LensCrafters",
    "role": "Sales Associate Lenscrafters",
    "location": "Scarborough"
-  },
-  "160432f5347ae531d7455e4eef35997b": {
-   "id": "160432f5347ae531d7455e4eef35997b",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Sales Associate",
-   "location": "St. Johns"
   },
   "5516a09f934bd4ea64cab481f5349cd5": {
    "id": "5516a09f934bd4ea64cab481f5349cd5",
@@ -3781,30 +3805,6 @@
    "company": "TD Bank",
    "role": "Customer Experience Associate - Bridgewater",
    "location": "Bridgewater"
-  },
-  "fedcd49557a08fe17b212e11e36eecfc": {
-   "id": "fedcd49557a08fe17b212e11e36eecfc",
-   "company": "TD",
-   "role": "Customer Experience Associate - Kirkland",
-   "location": "Montreal"
-  },
-  "6993a3f5427f5d761bc4791b4339cb4c": {
-   "id": "6993a3f5427f5d761bc4791b4339cb4c",
-   "company": "TD",
-   "role": "Customer Experience Associate - Westmount, Greene",
-   "location": "Montreal"
-  },
-  "5b60151a8fbe0205f81d2d33f48a5e09": {
-   "id": "5b60151a8fbe0205f81d2d33f48a5e09",
-   "company": "TD Bank",
-   "role": "Customer Experience Associate - Westmount, Greene",
-   "location": "Montreal"
-  },
-  "5c0f4542d4d8d28401eaf77f6d3ff792": {
-   "id": "5c0f4542d4d8d28401eaf77f6d3ff792",
-   "company": "TD",
-   "role": "Customer Experience Associate Future Opportunities (mandarin / Cantonese An Asset)",
-   "location": "Toronto"
   },
   "fbd1d83224ff2a45f7e7a42839cf45f7": {
    "id": "fbd1d83224ff2a45f7e7a42839cf45f7",
