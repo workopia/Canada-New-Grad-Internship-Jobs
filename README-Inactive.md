@@ -3762,4 +3762,76 @@
 <tr><td>TD</td><td>Customer Experience Associate - Westmount, Greene</td><td>Montreal</td><td>2026-08-25</td></tr>
 <tr><td>TD Bank</td><td>Customer Experience Associate - Westmount, Greene</td><td>Montreal</td><td>2026-08-25</td></tr>
 <tr><td>TD</td><td>Customer Experience Associate Future Opportunities (mandarin / Cantonese An Asset)</td><td>Toronto</td><td>2026-08-25</td></tr>
+<tr><td>pr.careers</td><td>Stage - Hiver 2027 - Bureau De La Règlementation Sur Les Produits / Internship Winter 2027 - Global Chemical Regulations Office</td><td>Montreal</td><td>2026-08-26</td></tr>
+<tr><td>Retirement World</td><td>Relationship Manager Business Markets Intern</td><td>Bathurst</td><td>2026-08-26</td></tr>
+<tr><td>Retirement World</td><td>Group Advantage Relationship Manager Intern</td><td>Toronto</td><td>2026-08-26</td></tr>
+<tr><td>Retirement World</td><td>Banking Advisor Intern</td><td>Happy Valley-Goose Bay</td><td>2026-08-26</td></tr>
+<tr><td>Roche Holding AG</td><td>Pharma Technical Regulatory Submission Intern</td><td>Toronto</td><td>2026-08-26</td></tr>
+<tr><td>Gordon Quebec</td><td>Specialist, Product Support</td><td>Alberta</td><td>2026-08-26</td></tr>
+<tr><td>Centennialpa</td><td>Software Engineer (circuit Analysis, Eda Frameworks, Ai Agents)</td><td>Burnaby 01</td><td>2026-08-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Bilingual Mandarin/cantonese (mobility Within Scarborough & Other Districts)</td><td>Scarborough</td><td>2026-08-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Business Advisor - Regional Opportunities (mississauga, On)</td><td>Toronto</td><td>2026-08-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse 2 - Intensive Care Med/surg - Repost</td><td>Winnipeg</td><td>2026-08-26</td></tr>
+<tr><td>Extendicarecedarsvilla</td><td>Registered Nurse (rn) - Part Time - Cobourg</td><td>Peterborough</td><td>2026-08-26</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Registered Nurse (rn) - Part Time - Cobourg</td><td>Peterborough</td><td>2026-08-26</td></tr>
+<tr><td>Bruyere</td><td>Registered Nurse, Mobile Team</td><td>Saint</td><td>2026-08-26</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Student Research Assistant - Assistant(e) De Recherche Étudiant(e)</td><td>Montreal</td><td>2026-08-26</td></tr>
+<tr><td>McGill University</td><td>Student Research Assistant - Assistant(e) De Recherche Étudiant(e)</td><td>Montreal</td><td>2026-08-26</td></tr>
+<tr><td>Hennick Humber Hospital</td><td>Pharmacist</td><td>Toronto</td><td>2026-08-26</td></tr>
+<tr><td>Extendicare Van Daele</td><td>Personal Support Worker (psw) - Casual (cas) - Extendicare Van Daele</td><td>Sault St Marie</td><td>2026-08-26</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse General Duty Nurse</td><td>Rosthern</td><td>2026-08-26</td></tr>
+<tr><td>Chartwell Retirement Residences</td><td>Guest Attendant</td><td>Belle River</td><td>2026-08-26</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Residential Care Worker</td><td>Glencairn</td><td>2026-08-26</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-08-26</td></tr>
+<tr><td>McGill University</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-08-26</td></tr>
+<tr><td>304</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-08-26</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Registered Nurse (rn) - Casual - Ridgeview</td><td>Ridgeview</td><td>2026-08-26</td></tr>
+<tr><td>Virtual Care Provider</td><td>Registered Nurse (rn) - Casual - Ridgeview</td><td>Ridgeview</td><td>2026-08-26</td></tr>
+<tr><td>Extendicaresherwoodcourt</td><td>Registered Nurse (rn) - Casual - Ridgeview</td><td>Ridgeview</td><td>2026-08-26</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Assistant /technician 2</td><td>Vancouver</td><td>2026-08-26</td></tr>
+<tr><td>CHEO</td><td>Registered Nurse, Mental Health - Temporary Full-time (1.0) (until August 2027)</td><td>Ottawa</td><td>2026-08-26</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Nurse (rn) - Cvicu Sponsorship - Tft</td><td>Newmarket ON</td><td>2026-08-26</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Nurse (rn) Intensive Care Unit (icu) Sponsorship - Pt</td><td>Newmarket ON</td><td>2026-08-26</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Pharmacy Technician - Temporary Part Time</td><td>Newmarket ON</td><td>2026-08-26</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Pharmacy Technician - Temporary Full Time</td><td>Newmarket ON</td><td>2026-08-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Repost</td><td>Portage La Prairie</td><td>2026-08-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Infirmier Ère Autorisé E - Repost</td><td>Notre Dame De Lourdes</td><td>2026-08-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Emergency - Repost</td><td>Winkler</td><td>2026-08-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Emergency - Repost</td><td>Winnipeg</td><td>2026-08-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - A7 West Surgery - Repost</td><td>Winnipeg</td><td>2026-08-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Home Care Attendant</td><td>Sprague</td><td>2026-08-26</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Pharmacy Technician - Pharmacy Services</td><td>Central Zone</td><td>2026-08-26</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Pharmacy Technician - 2025-2026 Graduates</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-08-26</td></tr>
+<tr><td>TELUS</td><td>Pharmacist</td><td>Toronto</td><td>2026-08-26</td></tr>
+<tr><td>TELUS</td><td>Pharmacy Assistant</td><td>Toronto</td><td>2026-08-26</td></tr>
+<tr><td>Health Science North</td><td>Nursing Graduate Guarantee Opportunities For Registered Nurses</td><td>Sudbury</td><td>2026-08-26</td></tr>
+<tr><td>O-I</td><td>Mécanicien D’entretien Industriel</td><td>Montreal</td><td>2026-08-26</td></tr>
+<tr><td>Miele S.r.l</td><td>Field Service Technician-professional</td><td>Toronto</td><td>2026-08-26</td></tr>
+<tr><td>Jdch</td><td>Ingénieur(e) De Service Terrain Associé(e) (contrat À Durée Déterminée)</td><td>Montreal</td><td>2026-08-26</td></tr>
+<tr><td>Junior Achievement</td><td>Ingénieur(e) De Service Terrain Associé(e) (contrat À Durée Déterminée)</td><td>Montreal</td><td>2026-08-26</td></tr>
+<tr><td>NORS, S.A</td><td>Shop Technician</td><td>Montreal</td><td>2026-08-26</td></tr>
+<tr><td>Kate Spade New York</td><td>Temporary Sales Associate-1</td><td>Alberta</td><td>2026-08-26</td></tr>
+<tr><td>KITH</td><td>Customer Experience Associate</td><td>Vancouver</td><td>2026-08-26</td></tr>
+<tr><td>Best Buy Canada</td><td>Computer Sales Associate (seasonal)</td><td>Calgary</td><td>2026-08-26</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Sales Associate (full Time)</td><td>Grande Prairie</td><td>2026-08-26</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Associate (part Time)</td><td>Edmonton</td><td>2026-08-26</td></tr>
+<tr><td>Giant Tiger</td><td>Receiving Dock Associate (day Shift)</td><td>Johnstown</td><td>2026-08-26</td></tr>
+<tr><td>sysco.ca</td><td>Warehouse</td><td>Buckhead</td><td>2026-08-26</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Yorkton</td><td>2026-08-26</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - French Language Skills Will Be An Asset</td><td>Sudbury</td><td>2026-08-26</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Bridgewater</td><td>Bridgewater</td><td>2026-08-26</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - French Language Skills Will Be An Asset</td><td>Sudbury</td><td>2026-08-26</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Yorkton</td><td>2026-08-26</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Bridgewater</td><td>Bridgewater</td><td>2026-08-26</td></tr>
+<tr><td>Lululemon</td><td>Responsable De L&#039;experience Invite / Carrefour Laval</td><td>Carrefour Laval</td><td>2026-08-26</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Youth Coordinator</td><td>Kelowna</td><td>2026-08-26</td></tr>
+<tr><td>Bombardier</td><td>Executive Assistant, Corporate Legal Affairs</td><td>Montreal</td><td>2026-08-26</td></tr>
+<tr><td>Bombardier</td><td>Analyst, Quality Assurance Coordinator</td><td>Montreal</td><td>2026-08-26</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Electrification Project Coordinator Intern (fall 2026)</td><td>Toronto</td><td>2026-08-26</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Development Coordinator, Annual Giving</td><td>Vancouver</td><td>2026-08-26</td></tr>
+<tr><td>Intelcom / Dragonfly</td><td>Operations Coordinator</td><td>Ontario</td><td>2026-08-26</td></tr>
+<tr><td>Shared Health</td><td>Indigenous Health Administrative Assistant</td><td>Winnipeg</td><td>2026-08-26</td></tr>
+<tr><td>Capital District Health Authority</td><td>Administrative Professionals - Seeking New And Experienced Candidates</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-08-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Administrative Assistant, Scotia Financial Planning</td><td>Calgary</td><td>2026-08-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Support Assistant - Rosedale</td><td>Toronto</td><td>2026-08-26</td></tr>
 </table>
