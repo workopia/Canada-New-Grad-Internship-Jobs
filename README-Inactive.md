@@ -4112,4 +4112,77 @@
 <tr><td>PCL Construction Management Inc.</td><td>Administrative Assistant</td><td>Saskatoon</td><td>2026-08-28</td></tr>
 <tr><td>Halton Region</td><td>Pmo Project Coordinator</td><td>Toronto</td><td>2026-08-28</td></tr>
 <tr><td>Circle K</td><td>Assistant(e) Gérant(e) -act</td><td>Saint-FéLicien</td><td>2026-08-28</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - Saskatchewan</td><td>South Saskatoon</td><td>2026-08-28</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Support Technique Au Service Fiabilite Maintenance / Internship - Winter 2027 - technical Support In The Reliability And Maintenance Department</td><td>Montreal</td><td>2026-08-28</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Planificateur De Production (hiver 2027) / Internship – Production Planner Winter 2027</td><td>Montreal</td><td>2026-08-28</td></tr>
+<tr><td>Real Time Executives Inc</td><td>Stage - Hiver 2027 - Analyste En Assurance Qualité / Intern - Winter 2027 - Quality Assurance Analyst</td><td>Montreal</td><td>2026-08-28</td></tr>
+<tr><td>Bombardier</td><td>Analyst, Business Intelligence</td><td>Montreal</td><td>2026-08-28</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Analyst, Fraud Controls</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>CIBC</td><td>Analyst, Fraud Controls</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>gorh.co</td><td>Analyste Financier Et Comptabilité</td><td>Baie</td><td>2026-08-28</td></tr>
+<tr><td>TD Ameritrade</td><td>Market Risk Associate</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>TD</td><td>Market Risk Associate</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>Bombardier</td><td>Financial Analyst, Labor & Overhead Center Of Excellence</td><td>Montreal</td><td>2026-08-28</td></tr>
+<tr><td>Canadian Tire Corporation, Limited</td><td>Category Business Analyst - Home Décor</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>Canadiantirecareers</td><td>Category Business Analyst - Home Décor</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>La Loche</td><td>2026-08-28</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Public Health Nurse</td><td>Unity</td><td>2026-08-28</td></tr>
+<tr><td>Trillium Health Partners</td><td>Pharmacy Technician (casual) - Cvh Pharmacy</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Services Worker</td><td>Lampman</td><td>2026-08-28</td></tr>
+<tr><td>Puma</td><td>Retail Sales Associate</td><td>Bromont</td><td>2026-08-28</td></tr>
+<tr><td>ALO</td><td>Seasonal Operations Associate (part-time) / Associé Aux Opérations Saisonnier (temps Partiel) - Carrefour Laval</td><td>Montreal</td><td>2026-08-28</td></tr>
+<tr><td>ALO</td><td>Seasonal Sales Associate (part-time) / Associé Aux Ventes Saisonnier (temps Partiel) - Saint Catherine Street</td><td>Montreal</td><td>2026-08-28</td></tr>
+<tr><td>ALO</td><td>Seasonal Operations Associate (part-time) / Associé Aux Opérations Saisonnier (temps Partiel) - Saint Catherine Street</td><td>Montreal</td><td>2026-08-28</td></tr>
+<tr><td>ALO</td><td>Seasonal Sales Associate (part-time) / Associé Aux Ventes Saisonnier (temps Partiel) - Royalmount</td><td>Royalmount</td><td>2026-08-28</td></tr>
+<tr><td>ALO / Australia</td><td>Seasonal Sales Associate (part-time) - Rideau Centre</td><td>Ottawa</td><td>2026-08-28</td></tr>
+<tr><td>ALO / Australia</td><td>Seasonal Sales Associate (part-time) - Square One Shopping Centre</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>ALO</td><td>Seasonal Sales Associate (part-time) - Sherway Gardens</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>ALO / Australia</td><td>Seasonal Operations Associate (part-time) - Sherway Gardens</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>ALO / Australia</td><td>Seasonal Sales Associate (part-time) - Toronto Eaton Centre</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>ALO</td><td>Seasonal Sales Associate (part-time) - Yorkdale Shopping Centre</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>ALO</td><td>Seasonal Sales Associate (part-time) - Bloor Street</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>ALO / Australia</td><td>Seasonal Operations Associate (part-time) - Bloor Street</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>ALO / Australia</td><td>Seasonal Sales Associate (part-time) - Oakridge Centre</td><td>Vancouver</td><td>2026-08-28</td></tr>
+<tr><td>SMCP</td><td>Retail Temporary Sales Associate, Maje, Mcarthurglen Designer Outlet, Richmond</td><td>Vancouver</td><td>2026-08-28</td></tr>
+<tr><td>ALO / Australia</td><td>Seasonal Sales Associate (part-time) - West Edmonton Mall</td><td>Edmonton</td><td>2026-08-28</td></tr>
+<tr><td>Emploisahearst</td><td>Full Time Sales Associate (store#2391 - Komoka)</td><td>Komoka</td><td>2026-08-28</td></tr>
+<tr><td>ALO / Australia</td><td>Seasonal Sales Associate (part-time) - Chinook Centre</td><td>Calgary</td><td>2026-08-28</td></tr>
+<tr><td>JYSK Canada</td><td>Sales Colleague</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>FCC</td><td>Customer Service Assistant (casual)</td><td>Swift Current</td><td>2026-08-28</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate</td><td>Kelowna</td><td>2026-08-28</td></tr>
+<tr><td>Sundial Growers Inc.</td><td>Sales Associate</td><td>Ace Liquor Plaza</td><td>2026-08-28</td></tr>
+<tr><td>Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (part Time) - Reitmans</td><td>Edmonton</td><td>2026-08-28</td></tr>
+<tr><td>Alo Yoga</td><td>Sales Associate (part-time) - Toronto Eaton Centre</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>VFC Corporation</td><td>Icebreaker: Sales Associate - Calgary Touchlab</td><td>Calgary</td><td>2026-08-28</td></tr>
+<tr><td>Giant Tiger</td><td>Anchoring And Wrapping Associate (evening)</td><td>Johnstown</td><td>2026-08-28</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Calgary</td><td>2026-08-28</td></tr>
+<tr><td>Paccar</td><td>Distribution Associate - Toronto, Canada - Up To $36.23/hour!</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>W.W. Grainger</td><td>Branch Sales Associate</td><td>Prince Albert</td><td>2026-08-28</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Pt Salesfloor Associate</td><td>Timmins</td><td>2026-08-28</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Pt Salesfloor Associate</td><td>Timmins</td><td>2026-08-28</td></tr>
+<tr><td>New Balance Australia Pty Ltd</td><td>Retail Associate, Pt</td><td>Edmonton</td><td>2026-08-28</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Cornwall</td><td>Cornwall</td><td>2026-08-28</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Place Alexis Nihon</td><td>Montreal</td><td>2026-08-28</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Gander Mall</td><td>Gander</td><td>2026-08-28</td></tr>
+<tr><td>Bass Pro Shops & Cabela’s</td><td>Sales Outfitters</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>JDI</td><td>Plumbing/electrical Associate</td><td>Gander</td><td>2026-08-28</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Plumbing/electrical Associate</td><td>Gander</td><td>2026-08-28</td></tr>
+<tr><td>JDI</td><td>Customer Service Associate</td><td>Gander</td><td>2026-08-28</td></tr>
+<tr><td>JDI</td><td>Customer Service/cashier - Part Time</td><td>Fredericton</td><td>2026-08-28</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Customer Service/cashier - Part Time</td><td>Fredericton</td><td>2026-08-28</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Customer Service Associate</td><td>Gander</td><td>2026-08-28</td></tr>
+<tr><td>JDI</td><td>Early Morning Freight Flow Associate</td><td>Sydney</td><td>2026-08-28</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Early Morning Freight Flow Associate</td><td>Sydney</td><td>2026-08-28</td></tr>
+<tr><td>ALO</td><td>Sales Associate (part-time) - Toronto Eaton Centre</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Lunenburg</td><td>Lunenburg</td><td>2026-08-28</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Lunenburg</td><td>Lunenburg</td><td>2026-08-28</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Edmonton</td><td>2026-08-28</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Future Opportunities In Brampton</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Future Opportunities In Brampton</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Sales Associate</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>PERI GmbH</td><td>Project Coordinator</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Administrative Assistant</td><td>Saskatoon</td><td>2026-08-28</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant</td><td>Halifax</td><td>2026-08-28</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant</td><td>Halifax</td><td>2026-08-28</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant, Wood Gundy-bilingual</td><td>Montreal</td><td>2026-08-28</td></tr>
 </table>
