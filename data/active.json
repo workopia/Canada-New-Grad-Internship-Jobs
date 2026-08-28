@@ -2600,6 +2600,12 @@
    "role": "Part Time Registered Nurse- Temporary",
    "location": "The Edgemont"
   },
+  "7563bd8e9a2ac45bc0e828e210bc54a5": {
+   "id": "7563bd8e9a2ac45bc0e828e210bc54a5",
+   "company": "McKesson",
+   "role": "Pharmacist - Specialty Health (18 Month Contract)",
+   "location": "On"
+  },
   "c173aff8d453bedd9f6b0c7accebc62d": {
    "id": "c173aff8d453bedd9f6b0c7accebc62d",
    "company": "TELUS",
@@ -3020,12 +3026,6 @@
    "role": "Registered Nurse 2 - Intensive Care Med/surg - Repost",
    "location": "Winnipeg"
   },
-  "9d5cc79f9953e3ba3db1c66892e07b9a": {
-   "id": "9d5cc79f9953e3ba3db1c66892e07b9a",
-   "company": "Lake Country Co-op",
-   "role": "Temporary Pharmacist",
-   "location": "Prince Albert"
-  },
   "7ed4a744641911ae1d0522afa02f186f": {
    "id": "7ed4a744641911ae1d0522afa02f186f",
    "company": "Canadian Broadcasting Corporation",
@@ -3043,6 +3043,12 @@
    "company": "Bombardier",
    "role": "Technician, Mechanical Maintenance",
    "location": "Montreal"
+  },
+  "95dee52666a1cf5438f4ffdc207bc3f6": {
+   "id": "95dee52666a1cf5438f4ffdc207bc3f6",
+   "company": "lactalisexperience",
+   "role": "Électromécanicien(ne)",
+   "location": "Laverlochere"
   },
   "7b7565308f9697fe0512c97b1a0ab751": {
    "id": "7b7565308f9697fe0512c97b1a0ab751",
@@ -3500,12 +3506,6 @@
    "role": "Journeyperson Instrumentation Technician",
    "location": "Colonsay"
   },
-  "6127f20cd40125d7418d3d16045a8617": {
-   "id": "6127f20cd40125d7418d3d16045a8617",
-   "company": "Mosaic - Louisiana",
-   "role": "Journeyperson Instrumentation Technician",
-   "location": "Colonsay"
-  },
   "73ef86e16a23478a4d4f2fdd7beca3da": {
    "id": "73ef86e16a23478a4d4f2fdd7beca3da",
    "company": "Saputo Inc",
@@ -3902,6 +3902,18 @@
    "role": "Retail Sales Associate, Oshawa",
    "location": "Toronto"
   },
+  "fd4792269818b40d56f48f3ac270788f": {
+   "id": "fd4792269818b40d56f48f3ac270788f",
+   "company": "Marshalls",
+   "role": "Retail Store Associate Part Time Marshalls/homesense Fairview Mall",
+   "location": "Toronto"
+  },
+  "d4abbffbd5184080b5fe74df5018536d": {
+   "id": "d4abbffbd5184080b5fe74df5018536d",
+   "company": "H&M",
+   "role": "H&m Associé.e Aux Ventes",
+   "location": "Montreal"
+  },
   "eaeb64d3ae10841bb6b9a0ee361836a0": {
    "id": "eaeb64d3ae10841bb6b9a0ee361836a0",
    "company": "Maple Leaf Sports & Entertainment Partnership (MLSE)",
@@ -3968,18 +3980,6 @@
    "role": "Paint Associate",
    "location": "Nl"
   },
-  "ec090f89253935b919223f5a60889ce4": {
-   "id": "ec090f89253935b919223f5a60889ce4",
-   "company": "Ace Liquor Discounter",
-   "role": "Sales Associate",
-   "location": "Edmonton"
-  },
-  "dab5733e724b5948c35232593ce8d927": {
-   "id": "dab5733e724b5948c35232593ce8d927",
-   "company": "ALO",
-   "role": "Seasonal Sales Associate (part-time) / Associé Aux Ventes Saisonnier (temps Partiel) - Carrefour Laval",
-   "location": "Montreal"
-  },
   "e79eab083034adca70a9e1193d295241": {
    "id": "e79eab083034adca70a9e1193d295241",
    "company": "Brock University",
@@ -4021,6 +4021,18 @@
    "company": "Bombardier",
    "role": "Executive Assistant, Corporate Legal Affairs",
    "location": "Montreal"
+  },
+  "77eb23a1fb643bbb28a842b3e5784eac": {
+   "id": "77eb23a1fb643bbb28a842b3e5784eac",
+   "company": "lactalisexperience",
+   "role": "Chargé De Projets",
+   "location": "Laverlochere"
+  },
+  "41d950e65069f5c4911bae3dba072ced": {
+   "id": "41d950e65069f5c4911bae3dba072ced",
+   "company": "William Osler Health System",
+   "role": "Education Assistant, Mac - Care Program",
+   "location": "Toronto"
   },
   "90e02ef0e9074be6c55127505c370882": {
    "id": "90e02ef0e9074be6c55127505c370882",
@@ -4447,18 +4459,6 @@
    "company": "CONETEC GROUP",
    "role": "Administrative Assistant - All Service Drilling",
    "location": "Calgary"
-  },
-  "e5ae71e3b7365bf66cbd49cc7886d3b3": {
-   "id": "e5ae71e3b7365bf66cbd49cc7886d3b3",
-   "company": "All Service Drilling",
-   "role": "Administrative Assistant - All Service Drilling",
-   "location": "Calgary"
-  },
-  "b1fe9ef6038b1c04b13fc347134e1156": {
-   "id": "b1fe9ef6038b1c04b13fc347134e1156",
-   "company": "A49 2",
-   "role": "Architectural Project Coordinator",
-   "location": "Toronto"
   }
  }
 }

@@ -4185,4 +4185,10 @@
 <tr><td>CIBC</td><td>Administrative Assistant</td><td>Halifax</td><td>2026-08-28</td></tr>
 <tr><td>CIBC Capital Markets</td><td>Administrative Assistant</td><td>Halifax</td><td>2026-08-28</td></tr>
 <tr><td>CIBC</td><td>Administrative Assistant, Wood Gundy-bilingual</td><td>Montreal</td><td>2026-08-28</td></tr>
+<tr><td>Lake Country Co-op</td><td>Temporary Pharmacist</td><td>Prince Albert</td><td>2026-08-28</td></tr>
+<tr><td>Mosaic - Louisiana</td><td>Journeyperson Instrumentation Technician</td><td>Colonsay</td><td>2026-08-28</td></tr>
+<tr><td>Ace Liquor Discounter</td><td>Sales Associate</td><td>Edmonton</td><td>2026-08-28</td></tr>
+<tr><td>ALO</td><td>Seasonal Sales Associate (part-time) / Associé Aux Ventes Saisonnier (temps Partiel) - Carrefour Laval</td><td>Montreal</td><td>2026-08-28</td></tr>
+<tr><td>All Service Drilling</td><td>Administrative Assistant - All Service Drilling</td><td>Calgary</td><td>2026-08-28</td></tr>
+<tr><td>A49 2</td><td>Architectural Project Coordinator</td><td>Toronto</td><td>2026-08-28</td></tr>
 </table>
