@@ -4191,4 +4191,189 @@
 <tr><td>ALO</td><td>Seasonal Sales Associate (part-time) / Associé Aux Ventes Saisonnier (temps Partiel) - Carrefour Laval</td><td>Montreal</td><td>2026-08-28</td></tr>
 <tr><td>All Service Drilling</td><td>Administrative Assistant - All Service Drilling</td><td>Calgary</td><td>2026-08-28</td></tr>
 <tr><td>A49 2</td><td>Architectural Project Coordinator</td><td>Toronto</td><td>2026-08-28</td></tr>
+<tr><td>Ericsson</td><td>Ingénieur Développement</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Us Corporate Tax Services (january 2027) Vancouver</td><td>Vancouver</td><td>2026-08-29</td></tr>
+<tr><td>Workday</td><td>Workday Intern Cohort 2026 (canada)</td><td>Vancouver</td><td>2026-08-29</td></tr>
+<tr><td>Freshers Meet</td><td>Workday Intern Cohort 2026 (canada)</td><td>Vancouver</td><td>2026-08-29</td></tr>
+<tr><td>Livingston International</td><td>Intern</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Marriott International</td><td>Voyage Canada</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Staples Retail</td><td>Co-op Program - Corporate</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Staples Canada</td><td>Co-op Program - Corporate</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Staples Business</td><td>Co-op Program - Corporate</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>304</td><td>Museum Database Assistant (aus Intern)</td><td>Mclennan Library</td><td>2026-08-29</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Museum Database Assistant (aus Intern)</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX Corporation</td><td>Stage En Gestion Des Processus D’affaires (bpm)- Hiver 2027 / Internship- Business Process Management (bpm) - Winter 2027</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX Corporation</td><td>Stage En Industrialisation Avancée – Hiver 2027 / Advanced Industrialization Internship - Winter 2027</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Superviseur Coop (st-hubert )- Hiver 2027 / Internship – Coop Supervisor (st-hubert) – Winter 2027</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Science Des Donnees Et Analytique Avancee / Internship – Winter 2027 - Data Science And Advanced Analytics</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Hiver 2027 - Soutien Clientèle Aviation Générale / Internship - Winter 2027 - General Aviation Customer Support</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Science Des Donnees Et Analytique Avancee / Internship – Winter 2027 - Data Science And Advanced Analytics</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Soutien Clientèle Aviation Générale / Internship - Winter 2027 - General Aviation Customer Support</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage En Industrialisation Avancée – Hiver 2027 / Advanced Industrialization Internship - Winter 2027</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Superviseur Coop (st-hubert )- Hiver 2027 / Internship – Coop Supervisor (st-hubert) – Winter 2027</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage En Gestion Des Processus D’affaires (bpm)- Hiver 2027 / Internship- Business Process Management (bpm) - Winter 2027</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Hiver 2027 - Centre Priorité Clients / Internship - Winter 2027 - Customer First Centre, Technical Helpdesk</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Finance Chaîne D'approvisionnement / Internship - Winter 2027 - Supply Chain Finance</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Finance Chaîne D'approvisionnement / Internship - Winter 2027 - Supply Chain Finance</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Centre Priorité Clients / Internship - Winter 2027 - Customer First Centre, Technical Helpdesk</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Mackenzie Investments</td><td>Winter Intern 2027 - Business Systems Intern - Productivity Apps Pod</td><td>Greater Toronto Area</td><td>2026-08-29</td></tr>
+<tr><td>BMO Capital Markets</td><td>Bmo Capital Markets Winter 2027 Client Enablement Analyst, Toronto (co-op/ Internship)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Alstom</td><td>Stagiaire Qualité - Automatisation De La Gestion Des Non-conformités</td><td>La Pocatiere</td><td>2026-08-29</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Credits & Incentives (winter 2027) Gta Offices</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Gerdau Acos Longos S.A</td><td>Intern</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Finance Internship/co-op (fall 2026)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Mackenzie Investments</td><td>Winter Intern 2027 - Procurement (toronto Office)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Mackenzie Investments</td><td>Winter Intern 2027 - Value Delivery Office</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Support Technique À L’introduction De Nouveaux Équipements Au Service Fiabilité Maintenance / Internship - Winter 2027 - Technical Support For The Implementation Of New Equipment In The Reliability And Maintenance</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Introduction Nouveau Produit / Internship - Winter 2027 - New Product Introduction</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Analyste En Assurance Qualité / Intern - Winter 2027 - Quality Assurance Analyst</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Industrialisation / Internship - Winter 2027 - Industrialization Production Readiness</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Génie De La Fabrication, Amélioration Continue - Hiver 2027 / Internship - Winter 2027 - manufacturing Engineering, Improvement Focus</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Hitachi Rail</td><td>Stagiaire – Chargé De Projet Manufacturier (profil : Mécanique)/ Intern - Project Engineer - Industrial (profile: Mechanical)</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>MOTOROLA SOLUTIONS</td><td>Full Stack Software Engineer (canada Remote)</td><td>Vancouver</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Sdk Engineer - Javascript</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Frontend Ui/ux Developer</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Staff Software Engineer, Devex</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Technical Support Specialist</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>NovAtel</td><td>Software Engineer</td><td>Calgary</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Wordpress Developer (react,js/next.js)</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Ai Platform</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Java/ Spring Boot Developer</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Software Craftsperson/java/angular</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Light & Wonder Inc</td><td>Associate Back End Developer</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Bombardier</td><td>Full Stack Developer, Ai Platform & Back-end Developer - Digital & Artificial Intelligence</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Restaurant365</td><td>Support Specialist, Workforce</td><td>Austin +2</td><td>2026-08-29</td></tr>
+<tr><td>NorQuest College</td><td>It Support Desk Analyst</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Information Security Analyst - I</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Drweng</td><td>Data Analyst - Global Markets And Equities</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Detect94</td><td>Utility Data Analyst</td><td>Nova Scotia</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Ai-native Software Developer</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Ai Product Engineer</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Prompt Engineer</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Client Services Insights & Reporting Analyst, Global Asset Management</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Epic Games</td><td>Ai Programmer</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Customer Success Data Analyst</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Monday People</td><td>Generative Media Engineer, Ai Social - Canada (remote)</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Quadbridge Inc.</td><td>Développeur(se) D’applications Ia</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>TD Bank Group</td><td>Tdi Actuarial Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>TD</td><td>Tdi Actuarial Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>TD Bank</td><td>Market Risk Analyst (4181)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>TD</td><td>Market Risk Analyst (4181)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>City of Toronto</td><td>Financial Analyst Rev Svcs (property Taxation & Assessment)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Ux & Product Consutlant</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Business And Management Specialist – Freelance Ai Trainer Project</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Liberty Utilities Co</td><td>Analyst Ii, Treasury Operations</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Canadiantirecarrieres</td><td>Category Business Analyst - Outerwear (12 Months)</td><td>Calgary</td><td>2026-08-29</td></tr>
+<tr><td>SportChek</td><td>Category Business Analyst - Outerwear (12 Months)</td><td>Calgary</td><td>2026-08-29</td></tr>
+<tr><td>Retirement World</td><td>Analyst, High Risk Client Management</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Jobgether</td><td>Revenue Operations Data Analyst</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>LifeWorks</td><td>Client Service Analyst I-th</td><td>Vancouver</td><td>2026-08-29</td></tr>
+<tr><td>TELUS Health/lifeworks</td><td>Client Service Analyst I-th</td><td>Vancouver</td><td>2026-08-29</td></tr>
+<tr><td>Rgarecareers</td><td>Analyste En Actuariat, Tarification / Pricing Actuarial Analyst</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Rgarecareers</td><td>Analyste En Actuariat Corporatif / Corporate Actuarial Analyst</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RGA</td><td>Analyste En Actuariat, Tarification / Pricing Actuarial Analyst</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>RGA</td><td>Analyste En Actuariat Corporatif / Corporate Actuarial Analyst</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Everest Clinical Research</td><td>Quality Assurance Auditor I</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Foresters Financial</td><td>Associate Actuary, Corporate Actuarial</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>KBR - Kellogg Brown & Root Pty Ltd</td><td>International Trade Compliance Specialist</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Pret A Manger</td><td>International Trade Compliance Specialist</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Metrolinx</td><td>Financial Reporting Analyst</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Extendicare</td><td>Registered Nurse (rn)-casual-mayerthorpe</td><td>Mayerthorpe</td><td>2026-08-29</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Registered Nurse (rn)-casual-mayerthorpe</td><td>Mayerthorpe</td><td>2026-08-29</td></tr>
+<tr><td>Extendicare Mayerthorpe</td><td>Casual Health Care Aide / Care Aide - Extendicare Mayerthorpe</td><td>Mayerthorpe</td><td>2026-08-29</td></tr>
+<tr><td>Extendicare</td><td>Casual Health Care Aide / Care Aide - Extendicare Mayerthorpe</td><td>Mayerthorpe</td><td>2026-08-29</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Assistant</td><td>Vancouver</td><td>2026-08-29</td></tr>
+<tr><td>UBC</td><td>Research Assistant</td><td>Vancouver</td><td>2026-08-29</td></tr>
+<tr><td>UBC</td><td>Research Assistant / Technician 2</td><td>Vancouver</td><td>2026-08-29</td></tr>
+<tr><td>techaroundworld Canada</td><td>Part-time Unregulated Care Provider (ucp) - 11 Pm To 7 Am</td><td>Heritage Manor</td><td>2026-08-29</td></tr>
+<tr><td>cogirseniorliving.ca</td><td>Part-time Unregulated Care Provider (ucp) - 11 Pm To 7 Am</td><td>Heritage Manor</td><td>2026-08-29</td></tr>
+<tr><td>Extendicare</td><td>Registered Practical Nurse (rpn) - Casual Part Time - Lakeside</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>extendicare</td><td>Registered Nurse (rn) - Casual - Lakeside</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Registered Practical Nurse (rpn) - Casual Part Time - Lakeside</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Registered Nurse (rn) - Casual - Lakeside</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Registered Nurse</td><td>Herbert</td><td>2026-08-29</td></tr>
+<tr><td>CAMH</td><td>Registered Nurse - Therapeutic Neighbourhood</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>CAMH</td><td>Registered Nurse - Crisis And Critical Care 3 (ccc3)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse -m 2g Cardiac Intensive Care Unit (part Time)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Mccall 2nd Fl (temporary Full-time)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse -cvh Paediatric Unit</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Temp Full Time - Cvh Paediatric Unit</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse General Duty Nurse</td><td>Cabri</td><td>2026-08-29</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse General Duty Nurse - Sha-wolseley Mem Icc-general Medical Nursing Unit</td><td>Wolseley</td><td>2026-08-29</td></tr>
+<tr><td>sagkeengcfs.ca</td><td>Full-time Support Worker</td><td>Sagkeeng</td><td>2026-08-29</td></tr>
+<tr><td>extendicare</td><td>Registered Practical Nurse (rpn) - Casual - Stirling Heights</td><td>Stirling Heights</td><td>2026-08-29</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Registered Practical Nurse (rpn) - Casual - Stirling Heights</td><td>Stirling Heights</td><td>2026-08-29</td></tr>
+<tr><td>extendicare</td><td>Personal Support Worker (part Time) - Elmwood Place</td><td>Elmwood Place</td><td>2026-08-29</td></tr>
+<tr><td>Extendicarevistaparklodge</td><td>Personal Support Worker (part Time) - Elmwood Place</td><td>Elmwood Place</td><td>2026-08-29</td></tr>
+<tr><td>Corporation Of The County Of Wellington</td><td>Personal Support Worker</td><td>Wellington</td><td>2026-08-29</td></tr>
+<tr><td>Bruyere</td><td>Registered Nurse, Palliative Care</td><td>Saint</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Emergency - Repost</td><td>Portage La Prairie</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Lodge 2 Geriatric A&r/transitional Care</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Lodge 2 - Geriatric Assessment/rehab & Transitional Care Unit</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Outpatient Surgery</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nursing Assistant - Children's Clinic</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Medicine (5n)-non Teaching</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Urgent Care</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Medicine</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - e6 - Medicine Clinical Teaching Unit</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Adult Ambulatory Care - Elgin</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Low Acuity Unit</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Home Care Attendant</td><td>Altona</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Patient Services</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - 4 South</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>CancerCare Manitoba</td><td>Nursing Assistant - Multiple Positions</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Psychiatric Nurse/ Registered Nurse (n2) -px2 East</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Central Relief Team - Repost</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Surgery-a5 Neurosurgery/spine/stepdown</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Medicine E5</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Home Care Attendant-aide - Soins À Domicile</td><td>Ste. Anne</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Infirmier Ère Autorisé E</td><td>St. Pierre-Jolys</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - As6 Medicine Clinical Teaching Unit</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Operating Room</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Emergency/infirmier(ère) Autorisé(e) 2-urgences - Repost</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Medicine Ntu B5</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - E5 - Medicine Clinical Teaching Unit</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - E4 Family Medicine/clinical Assessment</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse 2 - Intensive Care Med/surg - Repost</td><td>Winnipeg</td><td>2026-08-29</td></tr>
+<tr><td>construction-benefits</td><td>Pipeliner - Iol Kearl Maintenance</td><td>Fort Mckay</td><td>2026-08-29</td></tr>
+<tr><td>construction-benefits</td><td>Vibration Technician - Cnrl Albian - Maintenance</td><td>Fort McMurray</td><td>2026-08-29</td></tr>
+<tr><td>construction-benefits</td><td>Instrumentation Technician Journeyperson - Cnrl Horizon Maintenance</td><td>Fort McMurray</td><td>2026-08-29</td></tr>
+<tr><td>Wasillachevrolet</td><td>Technicien D'atelier - Manoeuvre</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>989</td><td>Instrument & Electrical Technician</td><td>Edmonton</td><td>2026-08-29</td></tr>
+<tr><td>ATCO Ltd.</td><td>Journeyman Hvac</td><td>Kamloops</td><td>2026-08-29</td></tr>
+<tr><td>Aliaxis</td><td>Electromécanicien</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Canadiantirecarrieres</td><td>Mobile Equipment Technician</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Phosphateflorida</td><td>Journeyperson Instrumentation Technician</td><td>Colonsay</td><td>2026-08-29</td></tr>
+<tr><td>H&M</td><td>H&m Associé.e Aux Ventes</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>Maple Leaf Sports & Entertainment Partnership (MLSE)</td><td>Sales Associate - Event Retail</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Robertson Electric Wholesale</td><td>Warehouse Associate</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Pet Valu</td><td>Sales Associate</td><td>Prince George</td><td>2026-08-29</td></tr>
+<tr><td>LEGO Brand Retail</td><td>Seasonal Sales Associate (brick Specialist) – Yorkdale, On</td><td>Yorkdale</td><td>2026-08-29</td></tr>
+<tr><td>Wolseley Canada</td><td>Counter Sales Associate</td><td>Grande Prairie</td><td>2026-08-29</td></tr>
+<tr><td>Schaeffler Aerospace Canada Inc.</td><td>Shipping/receiving Associate - Warehouse (aerospace)</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>Winners</td><td>Associé / Associée De Magasin De Détail Temps Plein Winners– Smart Center Mascouche</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Sales Associate</td><td>Prince George</td><td>2026-08-29</td></tr>
+<tr><td>National General Holdings Corp</td><td>Allstate Sales Agent Trainee</td><td>Canada</td><td>2026-08-29</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (part Time) - Southgate Centre</td><td>Edmonton</td><td>2026-08-29</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Paint Associate</td><td>Nl</td><td>2026-08-29</td></tr>
+<tr><td>Intelcom / Dragonfly</td><td>Operations Coordinator</td><td>British Columbia</td><td>2026-08-29</td></tr>
+<tr><td>dragonflyshipping.ca</td><td>Operations Coordinator</td><td>Ontario</td><td>2026-08-29</td></tr>
+<tr><td>Graham</td><td>Project Coordinator - (future Opportunities)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Circle K</td><td>Assistant-gérant</td><td>Deschambault</td><td>2026-08-29</td></tr>
+<tr><td>Lush</td><td>Accounts Payable Administrative Support</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Capital District Health Authority</td><td>Administrative Assistant Iii, Community Mental Health</td><td>Halifax</td><td>2026-08-29</td></tr>
+<tr><td>Capital District Health Authority</td><td>Administrative Assistant I, Eye Care Team</td><td>Halifax</td><td>2026-08-29</td></tr>
+<tr><td>City of Ottawa</td><td>Administrative Assistant, Workplace Safety, Prevention & Compliance</td><td>Ottawa</td><td>2026-08-29</td></tr>
+<tr><td>TELUS</td><td>Administrative Associate - Clinic</td><td>Montreal</td><td>2026-08-29</td></tr>
+<tr><td>dentalcorp.ca</td><td>Administrative Assistant - Westmount Dental Centre</td><td>Edmonton</td><td>2026-08-29</td></tr>
+<tr><td>dentalcorp.ca</td><td>Administrative Assistant - Discovery Dental</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Research Graduate Support Administrator - Auxiliary</td><td>Kerlowna</td><td>2026-08-29</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Financial Coordinator</td><td>Vancouver</td><td>2026-08-29</td></tr>
+<tr><td>HugeDomains</td><td>Administrative Assistant, Administration (english Services)</td><td>Toronto</td><td>2026-08-29</td></tr>
+<tr><td>Galderma</td><td>Coordinateur Lancement / Launch Coordinator</td><td>Baie D’Urfé</td><td>2026-08-29</td></tr>
+<tr><td>Uottawa</td><td>Research Administrative Assistant</td><td>Ottawa</td><td>2026-08-29</td></tr>
+<tr><td>University of Ottawa</td><td>Research Administrative Assistant</td><td>Ottawa</td><td>2026-08-29</td></tr>
+<tr><td>Parsons Corp.</td><td>Administrative Assistant</td><td>Whitehorse</td><td>2026-08-29</td></tr>
+<tr><td>BDO</td><td>Co-op Or Intern, Administration - Kitchener-waterloo Or Guelph - January 2027</td><td>Kitchener</td><td>2026-08-29</td></tr>
+<tr><td>CONETEC GROUP</td><td>Administrative Assistant - All Service Drilling</td><td>Calgary</td><td>2026-08-29</td></tr>
 </table>
