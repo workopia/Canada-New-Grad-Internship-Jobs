@@ -4569,4 +4569,27 @@
 <tr><td>Winners</td><td>Directeur / Directrice Adjoint(e) De Magasin Winners - Mega Centre Vaudreuil</td><td>Montreal</td><td>2026-08-30</td></tr>
 <tr><td>Winners</td><td>Directeur / Directrice Adjoint(e) De Magasin Winners - Fairview Pointe-claire</td><td>Montreal</td><td>2026-08-30</td></tr>
 <tr><td>Internaljobsatlush</td><td>Accounts Payable Administrative Support</td><td>Toronto</td><td>2026-08-30</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Hiver 2027 - Ingénierie De Projets - Programmes Turbopropulseurs Régionaux (longueuil Ou Mississauga) / Internship - Winter 2027 - Project Engineering - Regional Engine Programs (longueuil Or Mississauga)</td><td>Montreal</td><td>2026-08-31</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Membre Equipe Seal Team De Transmission / Internship - Winter 2027 - Member Of The Seal Team Transmission Team</td><td>Montreal</td><td>2026-08-31</td></tr>
+<tr><td>RTX Corporation</td><td>Stage – Hiver 2027 - Coordination Des Projets De Recherche Collaboratifs Et Amelioration Du Processus De Gestion Des Technologies / Internship – Winter 2027 - Collaborative Research Projects Coordination & Technology Management Process Improvement</td><td>Montreal</td><td>2026-08-31</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Hiver 2027 - Ingénierie : Outils D'intégrité Des Produits Et Amélioration Des Processus / Internship - Winter 2027 - Engineering Product Integrity Tools And Process Improvements</td><td>Montreal</td><td>2026-08-31</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Hiver 2027 - Conception Pour Ingénierie, Centre De Produit/composantes Externes Controle Et Nacelle / Internship - Winter 2027 - Design For Product Center Engineering/external Component Control And Nacelle</td><td>Montreal</td><td>2026-08-31</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Conception Pour Ingénierie, Centre De Produit/composantes Externes Controle Et Nacelle / Internship - Winter 2027 - Design For Product Center Engineering/external Component Control And Nacelle</td><td>Montreal</td><td>2026-08-31</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage – Hiver 2027 - Coordination Des Projets De Recherche Collaboratifs Et Amelioration Du Processus De Gestion Des Technologies / Internship – Winter 2027 - Collaborative Research Projects Coordination & Technology Management Process Improvement</td><td>Montreal</td><td>2026-08-31</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Structural Analyst</td><td>Toronto</td><td>2026-08-31</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Development Engineering Support Analyst</td><td>Toronto</td><td>2026-08-31</td></tr>
+<tr><td>Diligent</td><td>Software Engineer Ai - Multiple Levels</td><td>Vancouver</td><td>2026-08-31</td></tr>
+<tr><td>TD Bank</td><td>Business Intelligence And Reporting Analyst Ii</td><td>Toronto</td><td>2026-08-31</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Cfo Winter Financial Analyst Opportunities (4-16 Months)</td><td>Toronto</td><td>2026-08-31</td></tr>
+<tr><td>Alberta Motor Association</td><td>Accountant</td><td>Ab</td><td>2026-08-31</td></tr>
+<tr><td>Capital Regional District</td><td>Building Maintenance Attendant - Housing Facilities And Maintenance</td><td>Canada</td><td>2026-08-31</td></tr>
+<tr><td>Mars Australia</td><td>Retail Representative (part-time) – New Westminster, Coquitlam, Port Coquitlam And Port Moody</td><td>Vancouver</td><td>2026-08-31</td></tr>
+<tr><td>Ace Liquor</td><td>Sales Associates</td><td>Edmonton</td><td>2026-08-31</td></tr>
+<tr><td>Prysmian</td><td>Warehouse Associate</td><td>Prescott</td><td>2026-08-31</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Conseiller.ère Mode (temps Partiel) - Penn</td><td>Saint</td><td>2026-08-31</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant</td><td>Regina</td><td>2026-08-31</td></tr>
+<tr><td>ATCO</td><td>Temporary Administrative Coordinator</td><td>Lloydminster</td><td>2026-08-31</td></tr>
+<tr><td>WSP</td><td>Supplier Quality Surveillance Coordinator</td><td>Calgary</td><td>2026-08-31</td></tr>
+<tr><td>Klick Health</td><td>Paid Search Coordinator</td><td>Toronto</td><td>2026-08-31</td></tr>
+<tr><td>Ontario Transit Group</td><td>Project Coordinator, Structural Steel</td><td>Toronto</td><td>2026-08-31</td></tr>
 </table>
