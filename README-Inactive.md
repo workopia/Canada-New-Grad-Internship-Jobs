@@ -4592,4 +4592,78 @@
 <tr><td>WSP</td><td>Supplier Quality Surveillance Coordinator</td><td>Calgary</td><td>2026-08-31</td></tr>
 <tr><td>Klick Health</td><td>Paid Search Coordinator</td><td>Toronto</td><td>2026-08-31</td></tr>
 <tr><td>Ontario Transit Group</td><td>Project Coordinator, Structural Steel</td><td>Toronto</td><td>2026-08-31</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - Ontario</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - British Columbia</td><td>Whistler</td><td>2026-09-01</td></tr>
+<tr><td>Retirement World</td><td>Client Advisor Intern</td><td>Powerview-Pine Falls</td><td>2026-09-01</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter – Grm, Portfolio Risk & Credit Analytics Intern (4 Months)</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Winter - Grm, Model Risk Intern (4 Months)</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Winter - Grm, Investigation Analyst Intern (4 Months)</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Winter – Grm, Portfolio Risk & Credit Analytics Intern (4 Months)</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Winter - Grm, Enterprise Risk Analyst Intern (4 Months)</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Winter – Grm, Qa Analyst Intern (8 Months)</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Winter - Grm, Aml Compliance Analyst Intern (4 Months)</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Stagiaire En Ressources Humaines – Opérations / Internship - Winter 2027 - Human Resources Operations Intern</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Hiver 2027 - Stage En Relations De Travail Et Relations Avec Les Employés / Internship - Winter 2027 - Employee And Labour Relations Intern</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Hiver 2027 - Stagiaire En Ressources Humaines / Internship - Winter 2027 - Human Resources Internship</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Hiver 2027 - Stagiaire En Gestion De Talent / Internship - Winter 2027 - Talent Management Intern</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Stage En Relations De Travail Et Relations Avec Les Employés / Internship - Winter 2027 - Employee And Labour Relations Intern</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Stagiaire En Ressources Humaines / Internship - Winter 2027 - Human Resources Internship</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Stagiaire En Gestion De Talent / Internship - Winter 2027 - Talent Management Intern</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Stagiaire En Ressources Humaines / Internship - Winter 2027 - Human Resources Internship</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Stage En Relations De Travail Et Relations Avec Les Employés / Internship - Winter 2027 - Employee And Labour Relations Intern</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>Ardian</td><td>Secondaries & Primaries Intern – September 2026 I Montreal</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>Nexans S.A</td><td>Supply Chain Intern</td><td>CAN</td><td>2026-09-01</td></tr>
+<tr><td>Bombardier</td><td>Intern Logistics</td><td>Colon +1</td><td>2026-09-01</td></tr>
+<tr><td>iA Financial Group</td><td>Investment Talent Program - Young Professionals, Students, Or Interns</td><td>Quebec</td><td>2026-09-01</td></tr>
+<tr><td>Mackenzie Investments</td><td>Winter Intern 2027 - Platform Developer (toronto Office)</td><td>Greater Toronto Area</td><td>2026-09-01</td></tr>
+<tr><td>Mackenzie Investments</td><td>Summer Intern 2027 - Investment Management Department, Greenchip</td><td>Greater Toronto Area</td><td>2026-09-01</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Security Operator, Global Security Operations Centre</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associate Software Engineer</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Agropur</td><td>Analyste Financier</td><td>Laurent</td><td>2026-09-01</td></tr>
+<tr><td>Jobgether</td><td>Finance Operations Associate / Accountant</td><td>Canada</td><td>2026-09-01</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse</td><td>Morris</td><td>2026-09-01</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2)- Intensive Care Med/surg</td><td>Winnipeg</td><td>2026-09-01</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Infirmier Ère Autorisé E - Repost</td><td>Notre Dame De Lourdes</td><td>2026-09-01</td></tr>
+<tr><td>Betel Home Foundation</td><td>Registered Nurse 0.8 - Selkirk</td><td>Winnipeg</td><td>2026-09-01</td></tr>
+<tr><td>Shared Health</td><td>General Duty Nurse (n2) - Womens Health Nursing Float - Repost</td><td>Winnipeg</td><td>2026-09-01</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Pharmacist-pharmacien.ne</td><td>Notre Dame De Lourdes</td><td>2026-09-01</td></tr>
+<tr><td>Shared Health</td><td>Nursing Assistant - Adult Support Float Pool - Repost</td><td>Winnipeg</td><td>2026-09-01</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Infirmier Ère Autorisé E</td><td>Notre Dame De Lourdes</td><td>2026-09-01</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Home Care Attendant-aide - Soins À Domicile</td><td>Niverville</td><td>2026-09-01</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - A4 South Urology Vascular - Repost</td><td>Winnipeg</td><td>2026-09-01</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Field Services Representative</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>GE HealthCare</td><td>Field Services Representative</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Sales Associate (part Time)</td><td>East York</td><td>2026-09-01</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Edmundston</td><td>Edmundston</td><td>2026-09-01</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Edmundston</td><td>Edmundston</td><td>2026-09-01</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (daytime/weekday) - Emerald Hills Centre</td><td>Edmonton</td><td>2026-09-01</td></tr>
+<tr><td>Riptide Fulfillment Corporation</td><td>Warehouse And Fulfillment Teammate</td><td>Guelph</td><td>2026-09-01</td></tr>
+<tr><td>Giant Tiger</td><td>Softgoods Associate (part-time)</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (part Time) - Heartland Town Centre</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Ottobock Group</td><td>Warehouse Associate</td><td>Guelph</td><td>2026-09-01</td></tr>
+<tr><td>Pet Valu</td><td>Sales Associate</td><td>Kamloops</td><td>2026-09-01</td></tr>
+<tr><td>Emploisahearst</td><td>Sales Associate</td><td>Grande Prairie</td><td>2026-09-01</td></tr>
+<tr><td>Uline</td><td>Warehouse Associate</td><td>Guelph</td><td>2026-09-01</td></tr>
+<tr><td>uline.ca</td><td>Warehouse Associate - Nights</td><td>Guelph</td><td>2026-09-01</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Underwriting Account Service Associate</td><td>Calgary</td><td>2026-09-01</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Sales Associate</td><td>Fort Frances</td><td>2026-09-01</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Sales Associate</td><td>Fort Frances</td><td>2026-09-01</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Nl</td><td>2026-09-01</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Edmonton</td><td>2026-09-01</td></tr>
+<tr><td>QE Home / Quilts Etc</td><td>Sales Associate</td><td>Edmonton</td><td>2026-09-01</td></tr>
+<tr><td>QE Home / Quilts Etc</td><td>Sales Associate - South Granville St.</td><td>Vancouver</td><td>2026-09-01</td></tr>
+<tr><td>JDI</td><td>Plumbing/electrical Associate</td><td>Grand Falls</td><td>2026-09-01</td></tr>
+<tr><td>Staples Inc.</td><td>Associé Des Ventes</td><td>Sept</td><td>2026-09-01</td></tr>
+<tr><td>Staples Retail</td><td>Associé Des Ventes</td><td>Sept</td><td>2026-09-01</td></tr>
+<tr><td>Staples Business</td><td>Associé Des Ventes</td><td>Sept</td><td>2026-09-01</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Wealth Management, Winter Administrative Assistant (4-16 Months)</td><td>Montreal</td><td>2026-09-01</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Clao, Administrative Assistant Intern (4 Months)</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Winter - Clao, Administrative Assistant Intern (4 Months)</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Green Infrastructure Partners</td><td>Project Coordinator</td><td>Toronto</td><td>2026-09-01</td></tr>
+<tr><td>Aecon Group</td><td>Project Coordinator, Co-op</td><td>Scarborough</td><td>2026-09-01</td></tr>
+<tr><td>Richardson International</td><td>Administrative Assistant</td><td>Brantford</td><td>2026-09-01</td></tr>
+<tr><td>The Richardson School</td><td>Administrative Assistant</td><td>Brantford</td><td>2026-09-01</td></tr>
+<tr><td>Jobgether</td><td>Operations Coordinator</td><td>Canada</td><td>2026-09-01</td></tr>
 </table>
