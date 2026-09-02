@@ -4666,4 +4666,53 @@
 <tr><td>Richardson International</td><td>Administrative Assistant</td><td>Brantford</td><td>2026-09-01</td></tr>
 <tr><td>The Richardson School</td><td>Administrative Assistant</td><td>Brantford</td><td>2026-09-01</td></tr>
 <tr><td>Jobgether</td><td>Operations Coordinator</td><td>Canada</td><td>2026-09-01</td></tr>
+<tr><td>Pembina Pipeline Corp</td><td>Cost Analytics And Reporting Intern</td><td>Calgary</td><td>2026-09-02</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Grm, Aml Compliance Analyst Intern (4 Months)</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Grm, Investigation Analyst Intern (4 Months)</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Grm, Enterprise Risk Analyst Intern (4 Months)</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>TD Ameritrade</td><td>Software Engineer Ii- Salesforce</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Expansion (all Levels)</td><td>Canada</td><td>2026-09-02</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Software Engineer</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>Air Transat</td><td>Ancillary Revenue Analyst (level 1)</td><td>Montreal</td><td>2026-09-02</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Analyste D'affaires, Projets De Sécurité</td><td>Montreal</td><td>2026-09-02</td></tr>
+<tr><td>PCL Solar Constructors Canada Inc.</td><td>Accountant</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>PartnerRe</td><td>Life And Health Actuaries - North America</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Financial Analyst</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>Fifth Third Bancorp</td><td>Canada Branch - Commercial Operations Analyst</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>563</td><td>Canada Branch - Commercial Operations Analyst</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>Retirement World</td><td>Analyst, Financial Risk</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>Brattle</td><td>Associate, Mba - Economics/finance</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Repost</td><td>Carman</td><td>2026-09-02</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Pharmacist</td><td>Winkler</td><td>2026-09-02</td></tr>
+<tr><td>St. Boniface Hospital</td><td>Registered Nurse (n2) - Critical Care Resource Team - Repost</td><td>Winnipeg</td><td>2026-09-02</td></tr>
+<tr><td>St. Boniface Hospital</td><td>Registered Nurse (n2) - Cardiac Surgery Inpatient Unit</td><td>Winnipeg</td><td>2026-09-02</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Nursing Unit Churchill</td><td>Churchill</td><td>2026-09-02</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Emergency - Repost</td><td>Winkler</td><td>2026-09-02</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Rn- Emergency-urgences Acute/er- Repost</td><td>St. Pierre-Jolys</td><td>2026-09-02</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Emergency - Repost</td><td>Winnipeg</td><td>2026-09-02</td></tr>
+<tr><td>St. Boniface Hospital</td><td>Registered Nurse (n2) - Specialty Resource Team - Repost</td><td>Winnipeg</td><td>2026-09-02</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Intensive Care Med/surg - Repost</td><td>Winnipeg</td><td>2026-09-02</td></tr>
+<tr><td>St. Boniface Hospital</td><td>Registered Nurse (n2) - Medicine Resource Team - Repost</td><td>Winnipeg</td><td>2026-09-02</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse 1.0 Gimli</td><td>Gimli</td><td>2026-09-02</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Obstetrics, Gynecology And Neonatology Resource Team</td><td>Winnipeg</td><td>2026-09-02</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nursing Assistant-nursing Assistant-na-surgery-gd2-orthopedic Trauma/spine - Repost</td><td>Winnipeg</td><td>2026-09-02</td></tr>
+<tr><td>Nors</td><td>Technicien De Chantier</td><td>Montreal</td><td>2026-09-02</td></tr>
+<tr><td>Nors</td><td>Field Technician</td><td>Montreal</td><td>2026-09-02</td></tr>
+<tr><td>GE HealthCare UK</td><td>Field Services Representative</td><td>Montreal</td><td>2026-09-02</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Montreal</td><td>2026-09-02</td></tr>
+<tr><td>American Airlines Group</td><td>Part Time Agent, Customer Services - Toronto Yyz</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- Future Opportunities Penticton, Bc</td><td>Penticton</td><td>2026-09-02</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Gander</td><td>Gander</td><td>2026-09-02</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate- Future Opportunities Penticton, Bc</td><td>Penticton</td><td>2026-09-02</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Gander</td><td>Gander</td><td>2026-09-02</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Gander</td><td>Gander</td><td>2026-09-02</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate- Future Opportunities Penticton, Bc</td><td>Penticton</td><td>2026-09-02</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Toronto</td><td>2026-09-02</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Future Opportunities (campbell River)</td><td>Campbell River</td><td>2026-09-02</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Future Opportunities (comox)</td><td>Comox</td><td>2026-09-02</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Future Opportunities (comox)</td><td>Comox</td><td>2026-09-02</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Future Opportunities (campbell River)</td><td>Campbell River</td><td>2026-09-02</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate</td><td>Amherstburg</td><td>2026-09-02</td></tr>
+<tr><td>Circle K</td><td>Assistant-gérant</td><td>Montreal</td><td>2026-09-02</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Wealth Management, Winter Administrative Assistant (4-16 Months)</td><td>Montreal</td><td>2026-09-02</td></tr>
 </table>
