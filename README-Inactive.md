@@ -4715,4 +4715,145 @@
 <tr><td>TD Bank Group</td><td>Customer Experience Associate</td><td>Amherstburg</td><td>2026-09-02</td></tr>
 <tr><td>Circle K</td><td>Assistant-gérant</td><td>Montreal</td><td>2026-09-02</td></tr>
 <tr><td>RBC (Royal Bank of Canada)</td><td>2027 Wealth Management, Winter Administrative Assistant (4-16 Months)</td><td>Montreal</td><td>2026-09-02</td></tr>
+<tr><td>RBC</td><td>Client Advisor Intern</td><td>Middleton</td><td>2026-09-03</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Amelioration De Procedes A L'outillage / Internship - Winter 2027 - Tooling Process Improvements</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Brevets Et Innovation / Internship - Winter 2027 - Patents & Innovation</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>Aimco</td><td>Co-op, Fixed Income (may 2027)</td><td>Calgary</td><td>2026-09-03</td></tr>
+<tr><td>Aimco</td><td>Student, Alpha Strategies, Public Equities (may 2027)</td><td>Calgary</td><td>2026-09-03</td></tr>
+<tr><td>Aimco</td><td>Student, Public Equities (may 2027)</td><td>Calgary</td><td>2026-09-03</td></tr>
+<tr><td>Kiewit Corporation</td><td>Craft Recruiting - Intern</td><td>Calgary</td><td>2026-09-03</td></tr>
+<tr><td>Retirement World</td><td>2027 Winter - Grm, Investigation Analyst Intern (4 Months)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Retirement World</td><td>2027 Winter - Grm, Aml Compliance Analyst Intern (4 Months)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Retirement World</td><td>2027 Winter - Grm, Enterprise Risk Analyst Intern (4 Months)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>RBC</td><td>2027 Winter - Grm, Model Risk Intern (4 Months)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Retirement World</td><td>2027 Winter – Grm, Qa Analyst Intern (8 Months)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Retirement World</td><td>2027 Winter – Grm, Portfolio Risk & Credit Analytics Intern (4 Months)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Retirement World</td><td>Commercial Banking Advisor Intern</td><td>Prince George</td><td>2026-09-03</td></tr>
+<tr><td>Retirement World</td><td>Banking Advisor Intern - Mobile</td><td>Owen Sound</td><td>2026-09-03</td></tr>
+<tr><td>RBC</td><td>Banking Advisor Intern – Mandarin/cantonese</td><td>Ottawa</td><td>2026-09-03</td></tr>
+<tr><td>Retirement World</td><td>Winter 2027 - Clao, Procurement Intern Analyst (4 Months)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Banklife</td><td>2027 Co-op - Actuarial (all Work-terms)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Manulife Financial Inc</td><td>2027 Co-op - Actuarial (all Work-terms)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Technology Services Intern</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Roche Holding AG</td><td>2027 Futureworks - Pharma Technical Communications Intern</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Roche Holding AG</td><td>2027 Winter Internship - External Quality System Intern</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Roche</td><td>2027 Futureworks - Pharma Technical Communications Intern</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Roche</td><td>2027 Winter Internship - External Quality System Intern</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Royal Bank of Canada</td><td>Winter 2027 - Clao, Procurement Intern Analyst (4 Months)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>Winter 2027 - Clao, Procurement Intern Analyst (4 Months)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Intact Financial</td><td>Stagiaire En Actuariat - Co-op/ Stage 4 Mois (hiver 2027, Automne 2027 & Été 2027)</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>Canadian Tire</td><td>Banking Analytics Student (4 Months) - Winter 2027</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>TELUS Health/lifeworks</td><td>Internship - Defined Benefit Pension Administration</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>TELUS Health</td><td>Internship - Defined Benefit Pension Administration</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>LifeWorks</td><td>Internship - Defined Benefit Pension Administration</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>TELUS Health (Australia) Pty Ltd</td><td>Internship - Defined Benefit Pension Administration</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>Beneva Insurance</td><td>Stagiaire En Actuariat - Actuariat Corporatif</td><td>Quebec</td><td>2026-09-03</td></tr>
+<tr><td>Beneva</td><td>Stagiaire En Actuariat - Actuariat Corporatif</td><td>Quebec</td><td>2026-09-03</td></tr>
+<tr><td>Cintas</td><td>Intern</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Grm, Model Risk Intern (4 Months)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter – Grm, Qa Analyst Intern (8 Months)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Telehealth Site Contact</td><td>Portage La Prairie</td><td>2026-09-03</td></tr>
+<tr><td>OzMRS</td><td>Analyst, It Support (6 Months Contract)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>OMERS Administration Corporation Inc</td><td>Analyst, It Support (6 Months Contract)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Jobgether</td><td>Forward Deployed Engineer - Software Engineer</td><td>Canada</td><td>2026-09-03</td></tr>
+<tr><td>TD</td><td>Software Engineer Ii- Salesforce</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>TD Bank</td><td>Software Engineer Ii- Salesforce</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Allstate Insurance Company of Canada</td><td>Business Insights Analyst</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>allstate.ca</td><td>Business Insights Analyst</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>The Allstate Corporation</td><td>Business Insights Analyst</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Meridian Credit Union</td><td>Data Scientist</td><td>Canada</td><td>2026-09-03</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Analyste De Donnees, Services Pieces De Rechange / Data Analyst, Spare Parts Services</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>gorh.co</td><td>Stratège En Ressources Humaines Sénior(e)</td><td>Rive</td><td>2026-09-03</td></tr>
+<tr><td>Humanify</td><td>Stratège En Ressources Humaine</td><td>Rive-Sud De MontréAl</td><td>2026-09-03</td></tr>
+<tr><td>Jobgether</td><td>Clinical Business Analyst – Clinical Documentation</td><td>Canada</td><td>2026-09-03</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Analyste En Financement, Entreprises</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Actuarial Analyst – 2026 & 2027 New Grads - Montreal</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>City of Vancouver</td><td>Business Analyst</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>BMO Capital Markets</td><td>Bmo Capital Markets Winter 2027 Investment Banking Analyst, Metals & Mining, Toronto</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>TD Bank Group</td><td>Credit Risk Specialist (credit Automation) (ath 5028)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Regional Municipality of Wood Buffalo</td><td>Bylaw Enforcement Officer</td><td>Fort McKay +3</td><td>2026-09-03</td></tr>
+<tr><td>Citco</td><td>Fund Accountant, Private Assets</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Repost</td><td>Portage La Prairie</td><td>2026-09-03</td></tr>
+<tr><td>Extendicare</td><td>Registered Nurse Causal Elginwood Tlc</td><td>Elginwood</td><td>2026-09-03</td></tr>
+<tr><td>Extendicare The Meadows</td><td>Registered Nurse Causal Elginwood Tlc</td><td>Elginwood</td><td>2026-09-03</td></tr>
+<tr><td>Tendercare</td><td>Personal Support Worker (psw) - Casual - Tendercare</td><td>Assist</td><td>2026-09-03</td></tr>
+<tr><td>Extendicare West Oak Village</td><td>Personal Support Worker (psw) - Casual - Tendercare</td><td>Assist</td><td>2026-09-03</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Continuing Complex Care (part-time)</td><td>On</td><td>2026-09-03</td></tr>
+<tr><td>Whcrecruit</td><td>Registered Nurse - Medicine (gmch) #2026-193</td><td>Guelph</td><td>2026-09-03</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - M 2c Cardiology (full Time)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse -m 5j Step Down Neuro</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse General Duty Nurse</td><td>Herbert</td><td>2026-09-03</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Community Mental Health Nurse</td><td>Tisdale</td><td>2026-09-03</td></tr>
+<tr><td>Hennick Humber Hospital</td><td>Registered Nurse, 10 East &amp; West Inpatient Surgery</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>304</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>mcgillcampusstore.ca</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>McGill Sport Medicine Clinic</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>BCE Inc</td><td>Field Service Technician - Montreal Bts / Bst</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>lactalisexperience</td><td>Électromécanicien(ne)</td><td>Laverlochere</td><td>2026-09-03</td></tr>
+<tr><td>BGIS</td><td>Junior Commercial Overhead Door Technician</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Mécanicien De Machines Fixes (un)</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>Circle K</td><td>Maintenance Associate</td><td>Grand Falls</td><td>2026-09-03</td></tr>
+<tr><td>77</td><td>Technicien(ne) En Bâtiment / Building Operator</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>JLL</td><td>Technicien(ne) En Bâtiment / Building Operator</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Service Worker</td><td>Carnduff</td><td>2026-09-03</td></tr>
+<tr><td>WSP</td><td>Field Services Technician</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Pet Valu</td><td>Sales Associate</td><td>Stirling</td><td>2026-09-03</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Chinook Centre</td><td>Calgary</td><td>2026-09-03</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Londonderry Mall</td><td>Edmonton</td><td>2026-09-03</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, 1147 Robson St</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Centre Valleyfield</td><td>Valleyfield</td><td>2026-09-03</td></tr>
+<tr><td>Wolseley UK</td><td>Warehouse Associate</td><td>Balzac</td><td>2026-09-03</td></tr>
+<tr><td>Best Buy Canada</td><td>Appliance Sales Associate (seasonal)</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Sales Associate (full Time)</td><td>Sudbury</td><td>2026-09-03</td></tr>
+<tr><td>Best Buy Canada</td><td>Mobile Sales Associate (part Time)</td><td>Woodbridge</td><td>2026-09-03</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Sales Associate (seasonal)</td><td>Brandon</td><td>2026-09-03</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Sales & Technical Service Associate (part Time)</td><td>Calgary</td><td>2026-09-03</td></tr>
+<tr><td>Bison</td><td>Customer Service Assistant</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Outremont, Bernard</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Ile Des Soeurs (part-time, 18.75h/week)</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - St. Bruno (part-time, 15h/week)</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Ile Des Soeurs (part-time, 18.75h/week)</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Outremont, Bernard</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - St. Bruno (part-time, 15h/week)</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Outremont, Bernard</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Ile Des Soeurs (part-time, 18.75h/week)</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - St. Bruno (part-time, 15h/week)</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Mandarin, Cantonese And/or Spanish Language Skills An Asset</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Korean Language Skills An Asset</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Mandarin, Cantonese And/or Spanish Language Skills An Asset</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Korean Language Skills An Asset</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Mandarin, Cantonese And/or Spanish Language Skills An Asset</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Korean Language Skills An Asset</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>Marshalls</td><td>Retail Store Associate Temporary Part Time - Marshalls Vaughan Mills</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Winners</td><td>Retail Store Associate, Part Time, Winners-liberty Village</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Hoka</td><td>Sales Associate, Hoka</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>DOMAIN HOLDINGS AUSTRALIA</td><td>Sales Associate, Apartments.com - Vancouver, British Columbia</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>CoStar Group</td><td>Sales Associate, Apartments.com - Vancouver, British Columbia</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Sales Associate</td><td>Thornhill</td><td>2026-09-03</td></tr>
+<tr><td>LensCrafters</td><td>Sales Associate</td><td>Anjou</td><td>2026-09-03</td></tr>
+<tr><td>VFC Corporation</td><td>The North Face: Sales Associate - West Edmonton</td><td>Edmonton</td><td>2026-09-03</td></tr>
+<tr><td>VFC Corporation</td><td>Icebreaker: Sales Associate - Queen West Touchlab</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Bass Pro</td><td>Seasonal Camping Outfitter</td><td>Edmonton</td><td>2026-09-03</td></tr>
+<tr><td>Staples Inc.</td><td>Sales Associate</td><td>New Minas</td><td>2026-09-03</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Sales Associate</td><td>New Minas</td><td>2026-09-03</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>New Minas</td><td>2026-09-03</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Part Time</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Au Service À La Clientèle Temps Plein -act</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit -act</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle -act</td><td>Montreal</td><td>2026-09-03</td></tr>
+<tr><td>TELUS</td><td>Part Time Sales Representative (koodo) / Sunridge Mall</td><td>Calgary</td><td>2026-09-03</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant</td><td>Guelph</td><td>2026-09-03</td></tr>
+<tr><td>460</td><td>Operations Coordinator</td><td>British Columbia</td><td>2026-09-03</td></tr>
+<tr><td>RBC Dominion Securities</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>isc.ubc.ca</td><td>Clinical Faculty And Operations Coordinator (term)</td><td>Kelowna</td><td>2026-09-03</td></tr>
+<tr><td>Mcateer</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>coughlin.ca</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>Aecon U.S.</td><td>Project Coordinator Co-op</td><td>North York</td><td>2026-09-03</td></tr>
+<tr><td>CRH PLC</td><td>Construction Coordinator</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>City of Toronto</td><td>Project Coord Transit Expansion Office</td><td>Toronto</td><td>2026-09-03</td></tr>
+<tr><td>dentalcorp.ca</td><td>Administrative Assistant - Ainslie Street Dental</td><td>Kitchener</td><td>2026-09-03</td></tr>
+<tr><td>UBC</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>UBC</td><td>Administrative Coordinator</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-09-03</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Administrative Coordinator</td><td>Vancouver</td><td>2026-09-03</td></tr>
 </table>
