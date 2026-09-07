@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-06",
- "count": 839,
+ "asOf": "2026-09-07",
+ "count": 838,
  "jobs": {
   "19991": {
    "id": "19991",
@@ -1662,12 +1662,6 @@
    "id": "45f0c98d97cea7b401aecd43bc29811c",
    "company": "Bombardier",
    "role": "Intern, Data Analyst (fall 2026)",
-   "location": "Montreal"
-  },
-  "17731e9d51bacfe4a8eba8a3e938068b": {
-   "id": "17731e9d51bacfe4a8eba8a3e938068b",
-   "company": "healthsciencejobs.ch",
-   "role": "2026 Fall Intern - Business / Data Analyst Intern / Stagiaire D'automne 2026 - Analyste D'affaires / De Données",
    "location": "Montreal"
   },
   "f34b6ca9ce38caafd900d737fb64aa95": {
@@ -4082,6 +4076,24 @@
    "role": "Webber - Road Maintenance Technician - Peel Halton - Infrastructure Management",
    "location": "Toronto"
   },
+  "11caa10d9d9c6b18383c45cb686dea78": {
+   "id": "11caa10d9d9c6b18383c45cb686dea78",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Sales Associate Iii-14",
+   "location": "Toronto"
+  },
+  "f2205fa052edc9d093841fd8af573075": {
+   "id": "f2205fa052edc9d093841fd8af573075",
+   "company": "Best Buy Canada",
+   "role": "Computer Sales Associate (seasonal)",
+   "location": "Grande Prairie"
+  },
+  "44e18000f7b7b9e85940cf4b935f1058": {
+   "id": "44e18000f7b7b9e85940cf4b935f1058",
+   "company": "Best Buy Canada",
+   "role": "Retail Sales Associate (part Time)",
+   "location": "East York"
+  },
   "679e7eb93f4801b1edd71980f96e9845": {
    "id": "679e7eb93f4801b1edd71980f96e9845",
    "company": "Pet Valu",
@@ -4322,12 +4334,6 @@
    "role": "Mobile Sales Associate (seasonal)",
    "location": "Toronto"
   },
-  "591829103a06d4aea80df658ba1398ef": {
-   "id": "591829103a06d4aea80df658ba1398ef",
-   "company": "Best Buy Canada",
-   "role": "Retail Sales Associate (part Time)",
-   "location": "Timmins"
-  },
   "a4bcf9245e0378449988b6b58077bd8f": {
    "id": "a4bcf9245e0378449988b6b58077bd8f",
    "company": "Giant Tiger",
@@ -4544,16 +4550,10 @@
    "role": "Sales Associate",
    "location": "North York"
   },
-  "5ccb6efb9f001e70b20448b046bcbdfb": {
-   "id": "5ccb6efb9f001e70b20448b046bcbdfb",
-   "company": "Rogers Communications Inc",
-   "role": "Sales Associate - South Shore - Futures Opportunities",
-   "location": "Montreal"
-  },
-  "81569252df2783888f046368e0c6e3a8": {
-   "id": "81569252df2783888f046368e0c6e3a8",
-   "company": "Rogers Communications Inc",
-   "role": "Sales Associate - Oshawa Centre",
+  "5fc20bede8b39ed26ab3b778f3da7c31": {
+   "id": "5fc20bede8b39ed26ab3b778f3da7c31",
+   "company": "Ernst & Young",
+   "role": "Administrative Assistant (toronto)",
    "location": "Toronto"
   },
   "1c0d374b05f45b86a8e1de924180ad40": {
@@ -5027,12 +5027,6 @@
   "338460d13d5a473c271631e9d58ab589": {
    "id": "338460d13d5a473c271631e9d58ab589",
    "company": "CIBC",
-   "role": "Administrative Assistant-bilingual",
-   "location": "Quebec"
-  },
-  "3ed20c61a696e776ee480852600a51da": {
-   "id": "3ed20c61a696e776ee480852600a51da",
-   "company": "CIBC Capital Markets",
    "role": "Administrative Assistant-bilingual",
    "location": "Quebec"
   }

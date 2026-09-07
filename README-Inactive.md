@@ -5512,4 +5512,9 @@
 <tr><td>National Oilwell</td><td>Administrative Assistant</td><td>Nisku</td><td>2026-09-06</td></tr>
 <tr><td>NOV (National Oilwell Varco)</td><td>Administrative Assistant</td><td>Nisku</td><td>2026-09-06</td></tr>
 <tr><td>NOV</td><td>Administrative Assistant</td><td>Nisku</td><td>2026-09-06</td></tr>
+<tr><td>healthsciencejobs.ch</td><td>2026 Fall Intern - Business / Data Analyst Intern / Stagiaire D'automne 2026 - Analyste D'affaires / De Données</td><td>Montreal</td><td>2026-09-07</td></tr>
+<tr><td>Best Buy Canada</td><td>Retail Sales Associate (part Time)</td><td>Timmins</td><td>2026-09-07</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - South Shore - Futures Opportunities</td><td>Montreal</td><td>2026-09-07</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Oshawa Centre</td><td>Toronto</td><td>2026-09-07</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant-bilingual</td><td>Quebec</td><td>2026-09-07</td></tr>
 </table>
