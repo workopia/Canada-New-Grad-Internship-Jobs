@@ -5517,4 +5517,56 @@
 <tr><td>Rogers Communications Inc</td><td>Sales Associate - South Shore - Futures Opportunities</td><td>Montreal</td><td>2026-09-07</td></tr>
 <tr><td>Rogers Communications Inc</td><td>Sales Associate - Oshawa Centre</td><td>Toronto</td><td>2026-09-07</td></tr>
 <tr><td>CIBC Capital Markets</td><td>Administrative Assistant-bilingual</td><td>Quebec</td><td>2026-09-07</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Ventes Globales / Internship - Winter 2027 - Global Sales</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Ingénierie De Services / Internship - Winter 2027 - Customer Engineering</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Communication / Internship - Winter 2027- Communication</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Turbosoufflantes Et Ingénierie Du Service À La Clientèle De L'aviation D'affaires / Internship - Winter 2027 - Turbofan Business Aviation Engineering Aftermarket Support</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Stage - Hiver 2027 - Développement D’indicateurs De Performance Et Gestion Des Processus Et Projets / Internship - Winter 2027- Development Of Performance Indicators And Process And Project Management</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Analyse Avancée Projet D'évolution De L'ia / Internship - Winter 2027 - Advanced Analytics Ai Evolution Project</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Stagiaire Aux Affaires Corporatives / Internship - Winter 2027 - Corporate Affairs Intern</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Genie De La Fabrication / Internship - Winter 2027 - Manufacturing Engineering,</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Internship - Winter 2027 - Compressor Drafting Intern</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>Jobgether</td><td>Systems Support</td><td>Canada</td><td>2026-09-08</td></tr>
+<tr><td>Alorica</td><td>Service À La Clientèle Bilingue Soutien Technique Travail À Domicile / Remote French Bilingual Customer Service - Tech Support</td><td>Canada</td><td>2026-09-08</td></tr>
+<tr><td>StackAdapt Inc</td><td>Product Data Analyst, Mobile App User Acquisition</td><td>Canada</td><td>2026-09-08</td></tr>
+<tr><td>FDM Group</td><td>Risk, Regulation And Compliance Practice</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>FITCH RATINGS Ltd</td><td>Analyst - Funds & Asset Management - Toronto</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>FITCH RATINGS Ltd</td><td>Business Analyst, Toronto</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Conseiller (chef D'équipe), Fusions Et Acquisitions (montréal)</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>120</td><td>Pharmacist - Part-time</td><td>Woodgrove</td><td>2026-09-08</td></tr>
+<tr><td>Overwaitea Food Group Ltd Partnership</td><td>Pharmacist - Part-time</td><td>Woodgrove</td><td>2026-09-08</td></tr>
+<tr><td>cogirseniorliving.ca</td><td>Personal Support Worker (psw) - Part-time - 3pm-11pm</td><td>Kingsville</td><td>2026-09-08</td></tr>
+<tr><td>Cogir Senior Living</td><td>Personal Support Worker (psw) - Part-time - 3pm-11pm</td><td>Kingsville</td><td>2026-09-08</td></tr>
+<tr><td>Skyline Group of Companies</td><td>Maintenance Technician</td><td>North Bay</td><td>2026-09-08</td></tr>
+<tr><td>hiremomentum.online</td><td>General Maintenance Technician Ii</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>Amentum Pr</td><td>General Maintenance Technician Ii</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>Amentumcareers</td><td>General Maintenance Technician Ii</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>Ferrovial SE</td><td>Webber - Road Maintenance Technician - Peel Halton - Infrastructure Management</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>Amey (Ferrovial)</td><td>Webber - Road Maintenance Technician - Peel Halton - Infrastructure Management</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle -act</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Kemptville</td><td>2026-09-08</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Brossard, Tascherau (part-time, 15h/week)</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Brossard, Tascherau (part-time, 15h/week)</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Fixed Term Contract</td><td>Bonnyville</td><td>2026-09-08</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Fixed Term Contract</td><td>Bonnyville</td><td>2026-09-08</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Corner Brook</td><td>2026-09-08</td></tr>
+<tr><td>Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (part Time) - Reitmans</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>Reformation</td><td>Sales Associate Part-time - Yorkdale - Toronto, Ontario</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>JYSK Canada</td><td>Collègue À L’entrepôt</td><td>Saint</td><td>2026-09-08</td></tr>
+<tr><td>JYSK Canada</td><td>Warehouse Colleague</td><td>Guelph</td><td>2026-09-08</td></tr>
+<tr><td>Bath And Body Works</td><td>Retail Sales Associate-royalty Crossing</td><td>Charlottetown</td><td>2026-09-08</td></tr>
+<tr><td>Bath And Body Works</td><td>Retail Sales Associate-seven Oaks Shopping Centre</td><td>Seven Oaks Shopping Centre</td><td>2026-09-08</td></tr>
+<tr><td>The Beer Store</td><td>Part-time Retail Staff</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>Tjhcareers</td><td>Retail Sales Associate</td><td>Corner Brook</td><td>2026-09-08</td></tr>
+<tr><td>LEGO® Brand Retail</td><td>Seasonal Sales Associate (brick Specialist) - Richmond Centre, Bc</td><td>Richmond Centre Mall</td><td>2026-09-08</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate</td><td>North York</td><td>2026-09-08</td></tr>
+<tr><td>PCL Construction Management Inc.</td><td>Administrative Assistant</td><td>Saskatoon</td><td>2026-09-08</td></tr>
+<tr><td>Manulife</td><td>Winter Co-op 2027 - Wealth Marketing (8 Months)</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Winter Co-op 2027 - Wealth Marketing (8 Months)</td><td>Toronto</td><td>2026-09-08</td></tr>
+<tr><td>Bombardier</td><td>(contract) Administrative Assistant - Legal Services</td><td>Montreal</td><td>2026-09-08</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Directeur/ Directrice Adjoint(e) De Magasin Winners- Les Promenades Du Cuivre</td><td>Rouyn-Noranda</td><td>2026-09-08</td></tr>
+<tr><td>TJX Canada (WINNERS)</td><td>Directeur/ Directrice Adjoint(e) De Magasin Winners- Les Promenades Du Cuivre</td><td>Rouyn-Noranda</td><td>2026-09-08</td></tr>
+<tr><td>CIBC Capital Markets</td><td>Administrative Assistant</td><td>Halifax</td><td>2026-09-08</td></tr>
+<tr><td>CIBC US</td><td>Administrative Assistant</td><td>Halifax</td><td>2026-09-08</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant-bilingual</td><td>Quebec</td><td>2026-09-08</td></tr>
 </table>
