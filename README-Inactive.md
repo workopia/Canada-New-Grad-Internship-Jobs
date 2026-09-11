@@ -5907,4 +5907,223 @@
 <tr><td>IWK Health</td><td>Administrative Assistant Iii, Community Mental Health</td><td>Halifax</td><td>2026-09-10</td></tr>
 <tr><td>IWK Health</td><td>Administrative Assistant Ii, Central Referral</td><td>Halifax</td><td>2026-09-10</td></tr>
 <tr><td>Orleans Family Dentistry</td><td>Administrative Assistant - Orleans Family Dentistry</td><td>Ottawa</td><td>2026-09-10</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - Ontario</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - British Columbia</td><td>Whistler</td><td>2026-09-11</td></tr>
+<tr><td>Ericsson</td><td>Ingénieur(e) Ia Générative - Hébergement De Modèles Llm</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>ABB UK</td><td>Administration/secretarial Intern</td><td>Quebec</td><td>2026-09-11</td></tr>
+<tr><td>Roche Holding AG</td><td>Pharma Technical Regulatory Submission Intern</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Roche Holding AG</td><td>Cmc Regulatory Affairs Intern</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Roche Holding AG</td><td>2027 Futureworks - Pharma Technical Communications Intern</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Roche Holding AG</td><td>2027 Winter Internship - External Quality System Intern</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Banklife</td><td>2027 Co-op - Actuarial (all Work-terms)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Manulife John Hancock</td><td>Winter Co-op 2027 - Hr</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Manulife John Hancock</td><td>Winter Co-op 2027 - Ai</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Manulife John Hancock</td><td>Winter Co-op 2027 - Business Technology</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Manulife John Hancock</td><td>Summer Intern 2027 - Marketing</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Manulife John Hancock</td><td>Summer Intern 2027 - Business Technology</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Manulife John Hancock</td><td>Summer Intern 2027 - Marketing, Global Digital Experience</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Banklife</td><td>Summer Intern 2027 - Reinsurance</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Ciena</td><td>Ai & Automation Intern - Gcn Services Business Operations</td><td>Ottawa</td><td>2026-09-11</td></tr>
+<tr><td>Ciena</td><td>Mcp Applications Co-op Ui Or Be Co-op (fall 2026, 8+ Months)</td><td>Ottawa</td><td>2026-09-11</td></tr>
+<tr><td>OT PPB</td><td>Intern - Risk, Models And Asset Liability (may 2027 - 12 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>OT PPB</td><td>Intern - Investments, Equities, Portfolio Solutions (may 2027 - 4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>OT PPB</td><td>Intern - Risk, Total Fund Risk (may 2027- 12 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>OT PPB</td><td>Intern - Investments, Capital Markets, Hedge Funds & Insurance Linked Securitites (may 2027 - 4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>OT PPB</td><td>Intern - Member Services, Business Insights And Analytics (january 2027 - 8 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>OT PPB</td><td>Intern - Capital Markets, Quantitative Strategies And Research (january 2027 - 4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>OT PPB</td><td>Intern - Portfolio Engineering, Capital Markets, Cmia (january 2027 - 8 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>OT PPB</td><td>Intern- Investments, Private Capital- Direct Investing (may 2027- 4 Month Contract)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>OT PPB</td><td>Intern - Investments, Capital Markets, Developed Markets (may 2027 - 8 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>OT PPB</td><td>Intern- Investments, Infrastructure & Natural Resources (may 2027- 4 Month Contract)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Danaher UK</td><td>R&d Formulation Co-op</td><td>Vancouver</td><td>2026-09-11</td></tr>
+<tr><td>Capital One Canada</td><td>Intern, Process Management - Summer 2027</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Bombardier</td><td>Intern Logistics</td><td>Colon +1</td><td>2026-09-11</td></tr>
+<tr><td>Bombardier</td><td>Intern, Human Resources (winter 2027)</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>BMO</td><td>Trade Desk Support Analyst, Winter 2027 (co-op/internship) - 4 Months</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Bmwofsalem</td><td>Process And Change Management Analyst, Winter 2027 (co-op/internship) - 4 Months</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>BMO</td><td>Wealth Investorline Associate, Winter 2027 (co-op/internship) - 4 Months</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>BMO</td><td>Junior Cybersecurity Intern, Winter 2027 (co-op/internship) - 4 Months</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>BMO</td><td>Cloud Business & Strategy Analytics Analyst, Winter 2027 (co-op/internship) - 4 Months</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Novo Nordisk AS</td><td>Early Talent Internship</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>PCL Constructors Inc</td><td>Environmental Student</td><td>Edmonton</td><td>2026-09-11</td></tr>
+<tr><td>RBC</td><td>Client Advisor Intern</td><td>Cape Breton</td><td>2026-09-11</td></tr>
+<tr><td>Retirement World</td><td>Client Advisor Intern</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>RBC</td><td>Banking Advisor Intern</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>RBC</td><td>2027 Winter - Ecco, Regulatory Management Intern (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Canadian Tire Corporation</td><td>Operations Integration Student, Pro Hockey Life (4 Months) - Fall 2027</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Aimco</td><td>Student, External Partnerships, Public Equities (may 2027)</td><td>Calgary</td><td>2026-09-11</td></tr>
+<tr><td>Sonova Group</td><td>Hearing Care Professional Intern</td><td>Canada</td><td>2026-09-11</td></tr>
+<tr><td>12</td><td>Private Client Services Intern - Summer 2027</td><td>Calgary</td><td>2026-09-11</td></tr>
+<tr><td>Rsmcanada</td><td>Private Client Services Intern - Summer 2027</td><td>Calgary</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Gestion De Projets Et Développement D'outils D'analyse En Qualité / Internship - Winter 2027 - Quality Project Management And Data Analysis Tool Development</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Administration Des Contrats Et Analyse Des Ventes / Internship Winter 2027 - Contract Administration & Sales Analysis</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>2027 Stage Hiver - Stagiaire En Hygiene Industrielle / 2027 Winter Internship - Industrial Hygiene Intern</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stagiaire Hiver 2027 - Sante-securite Au Travail / Internship Winter 2027 - Workplace Health And Safety</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stagiaire Hiver 2027 - En Environnement - Winter 2027 Intern - Environment</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver - Etudiant En Droit / Internship - Winter - Legal Student</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage Hiver 2027 - Spécialiste En Amélioration Continue / Winter 2027 Internship - Continuous Improvement Intern</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Spécialiste En Amélioration Des Procédés, Leasco / Internship - Winter 2027 - Process Improvement Specialist, Leasco</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Etudiant En Droit / Internship - Winter 2027 - Legal Student</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Bureau De La Règlementation Sur Les Produits / Internship Winter 2027 - Global Chemical Regulations Office</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage -superviseur Coop-hiver 2027 / Internship - Coop Supervisor – Winter 2027</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Gestion De Projet - Bureau De Transformation Mondiale / Internship - Winter 2027 - Project Management – Global Transformation Office (gto)</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Model-based Definition (mbd) Computer-aided Design (cad) Digital Technologies (mississauga)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Département De Fiscalité / Internship - Winter 2027 - Tax Department</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage En Formation Technique- Hiver 2027 / Internship Technical Training - Winter 2027</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027-stagiaire Instrumentation/internship - Winter 2027-instrumentation</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Ingénierie Du Développement Des Systemes De Commande / Internship - Winter 2027 - Development Controls Engineer</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027- Support À L’ingénierie Du Développement / Internship - Winter 2027 - Development Engineering Internship</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage- Hiver 2027-transformation Numerique / Internship- Digital Transformation -winter 2027</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Soutien Aux Equipes Hep (hybrid-electric Propulsion) Et Nse (new Small Engine) Soutien Au Design, Validation Et Analyse Des Moteurs / Internship - Winter 2027 - Hep (hybrid-electric Propulsion) & Nse (new Small Engine) Advanced Aerospace Engine Design, Test & Analysis Support</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027- Soutien Aux Équipes Hep (hydro-électrique Propulsion) Soutien Au Design, Validation Et Analyse Du Système De Propulsion Electrique / Internship - Winter 2027 - Hep (hybrid-electric Propulsion) Support To Electrical Propulsion System Design, Test & Analysis</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Spécialiste En Amélioration Des Procédés / Internship - Winter 2027 - Process Improvement Specialist</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027- Soutien Aux Equipes Hep (hybrid-electric Propulsion) Et Nse (new Small Engine) A La Gestion De Programme / Internship - Winter 2027 - Hep (hybrid-electric Propulsion) & Nse (new Small Engine) Support To Program Management Team</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Analyste Mécanique Multi-disciplinaire / Internship - Winter 2027 - Multidisciplinary Mechanical Analyst</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Bombardier</td><td>Intern, Stress Analysis, Challenger And Global Program - Advanced Engineering (fall 2026)</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Analyste De Données, Services De Pièces De Rechange / Internship - Winter 2027 - Data Analyst, Spare Parts Services</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Bombardier</td><td>Intern, Data Analyst (fall 2026)</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>Winter 2027 Student - Data Analyst, Commercial Banking (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Jobgether</td><td>Workflow Automation Engineer</td><td>Canada</td><td>2026-09-11</td></tr>
+<tr><td>Jobgether</td><td>Data Scientist En Chef, Croissance</td><td>Canada</td><td>2026-09-11</td></tr>
+<tr><td>bluecross.ca</td><td>Scientifique De Données</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pelmorex</td><td>Data Scientist - Hybrid</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Conseiller Ou Conseillère, Analyse Et Valorisation De Données Marketing</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Activision Publishing, Inc</td><td>Financial Crime Analytics Associate</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>PwC Poland</td><td>Financial Crime Analytics Associate</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>PointClickCare</td><td>Associate Data Scientist (canada)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Analyste Financier En Ingénierie (power Bi) / Internship - Winter 2027 - Engineering Finance Analyst (power Bi)</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage Hiver 2027 - Analyste Financier - Trésorerie / Internship Winter 2027 - Finance Analyst - Treasury</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Analyste En Comptabilité Financière / Internship - Winter 2027 - Financial Accounting Analyst</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Analyste En Intelligence D’affaires Et Gouvernance / Internship - Winter 2027 - Business Intelligence And Governance Analyst</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage- Hiver 2027- Analyste D'affaires, Strategie Et Developpement Des Affaires / Internship - Winter 2027 -business Analyst, Strategy And Business Development</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>RBC Insurance</td><td>2027 Winter- Grmi, Valuation Actuarial Intern (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>RBC Insurance</td><td>2027 Winter - Grmi, Valuation Actuarial Intern (8 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Insurance – Winter, Pricing, Actuarial Intern (4-16 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Winter - Grmi, Valuation Actuarial Intern (8 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Winter- Grmi, Valuation Actuarial Intern (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>RBC</td><td>2027 Insurance – Winter, Pricing, Actuarial Intern (4-16 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Grm, Ai Business Analyst Intern (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Bombardier</td><td>Hr Analyst, Programs, Events And Services</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Liberty Utilities Co</td><td>Accountant Ii</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Retirement World</td><td>2027 Winter - Grm, Market Risk Analyst (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Retirement World</td><td>Financing Specialist</td><td>Kelowna</td><td>2026-09-11</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Financial Analyst</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Vancity</td><td>Analyst, Business It</td><td>Vancity Centre</td><td>2026-09-11</td></tr>
+<tr><td>Investquebec</td><td>Conseiller Spécialisé, Analyse Financière Et Rendement (montréal)</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Celestica Inc.</td><td>Financial Analyst (fgdp)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Exxon Mobil</td><td>Uda Business Analyst - Students Seeking Opportunities</td><td>Calgary</td><td>2026-09-11</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Grm, Market Risk Analyst (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Winter - Grm, Market Risk Analyst (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Cae, Winter Business Analyst, Delivery Excellence (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Cae, Winter Business Analyst, Delivery Excellence (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Cae, Winter Audit Planning & Reporting Analyst (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Cae, Winter Internal Auditor (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Cae, Winter Internal Auditor (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Cae, Winter Audit Planning & Reporting Analyst (4 Months)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>TD Bank</td><td>Market Risk Analyst (5411)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>TD</td><td>Market Risk Analyst (5411)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>TD Bank Group</td><td>Market Risk Analyst (5411)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Holman Enterprises</td><td>Junior Financial Analyst - Financial Reporting</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Mercer</td><td>Actuarial Analyst – 2026 & 2027 New Grads - Montreal</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Capgemini</td><td>Duckcreek Business Analyst</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Gro Program – Actuary (toronto)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Analyste En Financement, Initiatives Logements Abordables</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Personal Support Worker (part Time) - Fenelon Court</td><td>Fenelon Court</td><td>2026-09-11</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Personal Support Worker (part Time) - Elmwood Place</td><td>Elmwood Place</td><td>2026-09-11</td></tr>
+<tr><td>Extendicare Mayerthorpe</td><td>Casual Health Care Aide / Care Aide - Extendicare Mayerthorpe</td><td>Mayerthorpe</td><td>2026-09-11</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Hca Part Time Position 52 Hours Bi-weekly.</td><td>Viking</td><td>2026-09-11</td></tr>
+<tr><td>Summit Place LTC</td><td>Registered Nurse (rn) - Casual - Tendercare</td><td>Assist</td><td>2026-09-11</td></tr>
+<tr><td>Centre of Genomics and Policy</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Repost</td><td>Carman</td><td>2026-09-11</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Infirmier Ère Autorisé E - Repost</td><td>Notre Dame De Lourdes</td><td>2026-09-11</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse</td><td>Morris</td><td>2026-09-11</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Emergency - Repost</td><td>Portage La Prairie</td><td>2026-09-11</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Emergency - Repost</td><td>Winnipeg</td><td>2026-09-11</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Intensive Care Med/surg - Repost</td><td>Winnipeg</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Mécanicien D'entretien Industriel</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney</td><td>Électrotechnicien</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Technicien En Instrumentation / Instrumentation Technician</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Mecanicien D'entretien Industriel</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>S.A.</td><td>Shop Technician</td><td>Saint-Augustin</td><td>2026-09-11</td></tr>
+<tr><td>Nors</td><td>Technicien De Chantier</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Nors</td><td>Field Technician</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>BCE Inc</td><td>Field Service Technician - Montreal Bts / Bst</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>lactalisexperience</td><td>Électromécanicien(ne)</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Services Worker</td><td>Kindersley</td><td>2026-09-11</td></tr>
+<tr><td>City of Dryden</td><td>Term- Recreation Maintenance Operator</td><td>Dryden</td><td>2026-09-11</td></tr>
+<tr><td>Ferrovial SE</td><td>Webber - Patrol Maintenance Technician - Niagara - Infrastructure Maintenance</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Amey (Ferrovial)</td><td>Webber - Patrol Maintenance Technician - Niagara - Infrastructure Maintenance</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Scotts Canada Ltd.</td><td>Mécanicien - Electricien</td><td>LamèQue</td><td>2026-09-11</td></tr>
+<tr><td>Tricon Residential</td><td>Maintenance Technician - Canary Landing</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Amey (Ferrovial)</td><td>Webber - Road Technician - Infrastructure Management</td><td>Morrisburg</td><td>2026-09-11</td></tr>
+<tr><td>Ferrovial SE</td><td>Webber - Road Technician - Infrastructure Management</td><td>Morrisburg</td><td>2026-09-11</td></tr>
+<tr><td>Bmt Group</td><td>Maintenance Technician--prprb2</td><td>Fraser</td><td>2026-09-11</td></tr>
+<tr><td>Whirlpool Corporation</td><td>Appliance Technician - All Regions</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Hudbay Minerals Inc.</td><td>Industrial Mechanic/millwright</td><td>Snow Lake</td><td>2026-09-11</td></tr>
+<tr><td>Alstom</td><td>Electrical Technician</td><td>Eglinton</td><td>2026-09-11</td></tr>
+<tr><td>Hexion Inc</td><td>Maintenance Technician - Electrical/instrumentation</td><td>St Romuald</td><td>2026-09-11</td></tr>
+<tr><td>JDI</td><td>Project Sales Associate</td><td>Stellarton</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Sales Associate</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Quebecor</td><td>Agent·e De Ventes - Place Du Royaume</td><td>Saguenay</td><td>2026-09-11</td></tr>
+<tr><td>Sun Life</td><td>Associée En Assurance Et Gestion Du Patrimoine / Insurance And Wealth Associate, Prospr By Sun Life</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Explore RH Careers</td><td>Client Services Associate</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Uline</td><td>Warehouse Associate</td><td>Guelph</td><td>2026-09-11</td></tr>
+<tr><td>Uline</td><td>Warehouse Associate - Nights</td><td>Guelph</td><td>2026-09-11</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Tsa Sales Associate</td><td>Courtenay</td><td>2026-09-11</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Sales Associate - Casual On Call</td><td>Courtenay</td><td>2026-09-11</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Sales Associate</td><td>Prince George</td><td>2026-09-11</td></tr>
+<tr><td>Gategroup</td><td>Equipment Stores</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>CoStar Group</td><td>Sales Associate, Apartments.com - Calgary, Alberta</td><td>Calgary</td><td>2026-09-11</td></tr>
+<tr><td>CoStar Group</td><td>Inside Sales Associate, Apartments.com - Toronto, Ontario</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>CoStar Group</td><td>Bilingual Inside Sales Associate, Apartments.com - Toronto, Ontario</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>The Allstate Corp</td><td>Allstate Sales Agent Trainee</td><td>Gta Sales Academy</td><td>2026-09-11</td></tr>
+<tr><td>The Allstate Corp</td><td>Allstate Sales Agent Trainee (burlington)</td><td>Canada</td><td>2026-09-11</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Pottery Barn</td><td>Holiday Seasonal Associate, Sherway Gardens- Pottery Barn Kids</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Pottery Barn</td><td>Holiday Seasonal Associate, Yorkdale- Pottery Barn</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Pottery Barn Kids</td><td>Holiday Seasonal Associate, Yorkdale- Pottery Barn Kids</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Pottery Barn</td><td>Holiday Seasonal Associate, Sherway Gardens- Pottery Barn</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Conseiller.ère Mode (temps Partiel) - Reitmans Place Fleury</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>ALO</td><td>Sales Associate (full-time) - Sherway Gardens</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Conseiller.ère Mode (temps Partiel) - Carrefour Angrignon</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Paccar</td><td>Distribution Associate - Toronto, Canada - Up To $36.23/hour!</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Bass Pro</td><td>Part Time Archery Sales</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Bass Pro</td><td>Gun Counter Outfitter - Part Time</td><td>Calgary</td><td>2026-09-11</td></tr>
+<tr><td>Genpt</td><td>Warehouse Associate</td><td>Uapinc</td><td>2026-09-11</td></tr>
+<tr><td>Cintas</td><td>Warehouse Associate - Loader/unloader - 2nd Shift - Temporary</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Sunglass Hut</td><td>Sales Associate</td><td>Montreal</td><td>2026-09-11</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Powell River</td><td>2026-09-11</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Bc</td><td>2026-09-11</td></tr>
+<tr><td>Marshalls</td><td>Retail Store Associate Part Time Marshalls</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Winners</td><td>Retail Store Associate Seasonal Part Time Winners - Etobicoke</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Winners</td><td>Retail Store Associate Part-time Winners- Upper Canada Mall</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Temporary Fashion Associate - Oshawa Centre</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Cornwall</td><td>Cornwall</td><td>2026-09-11</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate,place Du Royaume</td><td>Chicoutimi</td><td>2026-09-11</td></tr>
+<tr><td>Bell</td><td>Seasonal Retail Sales Associate, Regent Mall</td><td>Fredericton</td><td>2026-09-11</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Lloydminster</td><td>Lloydminster</td><td>2026-09-11</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Southgate Mall</td><td>Edmonton</td><td>2026-09-11</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Mill Woods Town Centre</td><td>Edmonton</td><td>2026-09-11</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Kingsway Garden Mall</td><td>Edmonton</td><td>2026-09-11</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, West Edmonton Mall</td><td>Edmonton</td><td>2026-09-11</td></tr>
+<tr><td>Aecon U.S.</td><td>Jr. Project Coordinator- Series Training</td><td>Kincardine</td><td>2026-09-11</td></tr>
+<tr><td>Aecon U.S.</td><td>Punching Coordinator (contract)</td><td>Leroy</td><td>2026-09-11</td></tr>
+<tr><td>Aecon U.S.</td><td>Assistant Coordinator, Planning Co-op</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Hydro Ottawa</td><td>Administrative Assistant - Operations (temporary - 12 Months)</td><td>Ottawa</td><td>2026-09-11</td></tr>
+<tr><td>ubctoday.ubc.ca</td><td>Isi Fund Project Coordinator</td><td>Kelowna</td><td>2026-09-11</td></tr>
+<tr><td>UBC</td><td>Isi Fund Project Coordinator</td><td>Kelowna</td><td>2026-09-11</td></tr>
+<tr><td>dragonflyshipping.ca</td><td>Operations Coordinator</td><td>British Columbia</td><td>2026-09-11</td></tr>
+<tr><td>Intelcom / Dragonfly</td><td>Operations Coordinator</td><td>New Brunswick</td><td>2026-09-11</td></tr>
+<tr><td>Marken, UPS Healthcare Precision Logistics</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>University Health Network</td><td>Administrative Assistant I</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Mlse</td><td>50/50 Coordinator, Mlse Foundation</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>MLSE Foundation</td><td>50/50 Coordinator, Mlse Foundation</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Algonquin College</td><td>Part-time Project Coordinator (pembroke Campus)</td><td>Pembroke</td><td>2026-09-11</td></tr>
+<tr><td>agropurcareers.us</td><td>Administrative Assistant</td><td>Kitchener</td><td>2026-09-11</td></tr>
+<tr><td>Graham</td><td>Project Coordinator - (future Opportunities)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Kiewit Corporation</td><td>Field Engineer / Coordinator</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>Nestle Ltd</td><td>Manufacturing Excellence Specialist</td><td>London</td><td>2026-09-11</td></tr>
+<tr><td>CRH plc</td><td>Construction Coordinator</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Electrification Project Coordinator Intern (fall 2026)</td><td>Toronto</td><td>2026-09-11</td></tr>
+<tr><td>CIBC US</td><td>Administrative Assistant (12 Month Contract) Cibc Wood Gundy</td><td>Prince George</td><td>2026-09-11</td></tr>
 </table>
