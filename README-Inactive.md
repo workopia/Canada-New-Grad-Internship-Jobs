@@ -6220,4 +6220,137 @@
 <tr><td>Aecon U.S.</td><td>Coordinator, Project</td><td>Scarborough</td><td>2026-09-12</td></tr>
 <tr><td>ONxpress Civil Joint Venture</td><td>Project Coordinator</td><td>Toronto</td><td>2026-09-12</td></tr>
 <tr><td>Aecon U.S.</td><td>Responsable De Services Sur Le Terrain</td><td>Lachine</td><td>2026-09-12</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Environment, Health & Safety Co-op Student</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Combustion Engineering</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Development Engineering Support Analyst</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Structural Analyst</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Compressor Drafting Intern</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Bmo Harris Bank N.A</td><td>Hardware Asset Management Analyst, Winter 2027 (co-op/internship) - 8 Months</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Intelcom</td><td>R&d Solution Builder Intern - Emerging Technologies</td><td>Quebec</td><td>2026-09-13</td></tr>
+<tr><td>Urban Systems Ltd</td><td>Environmental Student</td><td>Kamloops</td><td>2026-09-13</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Cae, Winter Global Credit Intern (4 Months)</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Cre, Global Strategy And Transformation Intern (4 Months)</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Ecco, Enterprise Control Testing Intern (4 Months)</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Clao, Business Analyst Intern (4 Months)</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Event - Td Future Connect Networking Event For Intern/co-op – Virtual. Apply Now To Attend Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Td Securities Transaction Banking And Payments Intern/co-op Winter 2027</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>2027 Summer Analyst - Corporate Banking (toronto)</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Td Securities Strategy And Planning Intern / Co-op Winter 2027</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Wealth Operations Intern / Co-op (winter 2027)</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Td Securities Expense Management & Analytics Intern / Co-op Winter 2027</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>National Real Estate Group Intern / Co-op (winter 2027)</td><td>Calgary</td><td>2026-09-13</td></tr>
+<tr><td>Affirm Payments</td><td>It Support Administrator I</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Speechify</td><td>Software Engineer, Platform - Toronto, Canada</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Speechify</td><td>Software Engineer, Platform - Ottawa, Canada</td><td>Ottawa</td><td>2026-09-13</td></tr>
+<tr><td>Capco</td><td>Web Ui Engineer</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Associate Data Scientist - Genai</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Retirement World</td><td>2027 Winter Student Opportunities Rbc Borealis - Ai Data Analyst - 8 Months</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter Student Opportunities Rbc Borealis - Ai Data Analyst - 8 Months</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Manulife</td><td>2027 Co-op - Actuarial (all Work-terms) Montreal</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank Group</td><td>Tdi Actuarial Intern/co-op (winter 2027)</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>Siemens Healthineers</td><td>Analyste D’affaires, Ventes Et Marketing/business Analyst Sales And Marketing</td><td>MrI L</td><td>2026-09-13</td></tr>
+<tr><td>Intact Financial</td><td>Spécialiste En Planification Et Analyse Financière (fp&a)</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>Aecon U.S.</td><td>Analyst, Business</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>EY</td><td>Comptable Intermediare - Audit - Certification</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>BSI Group</td><td>Third-party Iatf 16949 Auditor</td><td>Canada</td><td>2026-09-13</td></tr>
+<tr><td>British Standards Institution / BSI Group</td><td>Third-party Iatf 16949 Auditor</td><td>Canada</td><td>2026-09-13</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Capital Markets, Global Markets, Central Funding Group - Equity Finance Winter Analyst (4 Months)</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Capital Markets, Global Investment Banking Winter Analyst (4 Months)</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Bmwofsalem</td><td>Analyst/ Associate, Investment Banking - Montreal</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>BMO</td><td>Analyst/ Associate, Investment Banking - Montreal</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>CIBC US</td><td>Business Operations Analyst - Bilingual</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>CIBC US</td><td>Analyst, Client Onboarding & Service - Bilingual</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>City of Toronto</td><td>Financial Analyst Accounting Services</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Extendicareleduc</td><td>Health Care Aide (hca) - Casual - Valleyview Care Centre</td><td>Valleyview Care Centre</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Registered Practical Nurse (rpn) - Part-time - Trillium Court Ltc</td><td>Trillium Court</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Registered Nurse (rn)-casual-mayerthorpe</td><td>Mayerthorpe</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Registered Nurse (rn) - Part Time (pt) - Hillcrest Place</td><td>Canada</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Registered Nurse (rn) - Casual - Stirling Heights</td><td>Stirling Heights</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Registered Nurse (rn) Casual - Sherwood Court</td><td>Sherwood Court</td><td>2026-09-13</td></tr>
+<tr><td>Extendicare Halton Hills</td><td>Registered Practical Nurse (rpn) - Casual - Extendicare Halton Hills</td><td>Guelph</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Psw</td><td>Assist</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Health Care Aide (hca) - Part Time - Bonnyville</td><td>Bonnyville</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Personal Support Worker (part Time) - Ridgeview</td><td>Ridgeview</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Personal Support Worker - Casual Part Time - Cobourg</td><td>Peterborough</td><td>2026-09-13</td></tr>
+<tr><td>extendicare</td><td>Registered Nurse (rn) - Casual Nights - Red River Place</td><td>Red River Place</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Registered Nurse (rn) - Temporary Full Time (ft) - Hillcrest Place</td><td>Canada</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Registered Nurse (rn) - Casual - Hillcrest Place</td><td>Hillcrest Place</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Registered Nurse (rn) - Temporary Part Time (pt) - Hillcrest Place</td><td>Canada</td><td>2026-09-13</td></tr>
+<tr><td>extendicare</td><td>Registered Nurse - Casual - Heritage Lodge</td><td>Canada</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Registered Nurse (rn)- Casual- Timmins</td><td>Timmins</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrest</td><td>Casual Rn (hillcrest)</td><td>Calgary</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Registered Practical Nurse (rpn) - Part Time - Limestone Ridge</td><td>Kingston</td><td>2026-09-13</td></tr>
+<tr><td>extendicare</td><td>Registered Nurse (rn) - Casual - Limestone Ridge</td><td>Kingston</td><td>2026-09-13</td></tr>
+<tr><td>extendicare</td><td>Registered Practical Nurse (rpn) - Part Time (pt) - Laurier Manor</td><td>Ottawa</td><td>2026-09-13</td></tr>
+<tr><td>extendicare</td><td>Health Care Aide (hca) - Casual - Poseidon Care Centre</td><td>Manitoba</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Personal Support Worker Summit Place</td><td>Summit Place</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Personal Support Worker (psw) - Permanent Part Time (pt)- Sherwood Court (open)</td><td>Sherwood Court</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Personal Support Worker - Unscheduled Part Time - Riverbend Retirement Home</td><td>Riverbend Place</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Personal Support Worker - Casual</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>Extendicarehillcrestplace</td><td>Registered Nurse (rn) - Casual - Kawartha Lakes</td><td>Kawartha Lakes</td><td>2026-09-13</td></tr>
+<tr><td>LINEAGE LOGISTICS</td><td>Chef D’équipe – Équipement De Manutention (mhe)</td><td>Saint</td><td>2026-09-13</td></tr>
+<tr><td>construction-benefits</td><td>Vibration Technician - Cnrl Albian - Maintenance</td><td>Fort McMurray</td><td>2026-09-13</td></tr>
+<tr><td>construction-benefits</td><td>Instrumentation Technician Journeyperson - Cnrl Horizon Maintenance</td><td>Fort McMurray</td><td>2026-09-13</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Mécanicien De Machines Fixes (un)</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>JCI</td><td>Mécanicien De Machines Fixes (un)</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TransAlta</td><td>Wind Technician, Soderglen</td><td>Fort Macleod</td><td>2026-09-13</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Electrical Technician</td><td>Eglinton</td><td>2026-09-13</td></tr>
+<tr><td>O-I</td><td>Électrotechnicien</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>POP MART Global</td><td>Retail Sales Associate - Toronto Premium</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>CHANEL</td><td>Sales Associate</td><td>North York</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- Campbell River- Future Opportunities</td><td>Campbell River</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- Vernon- Future Opportunities</td><td>Vernon</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Whistler</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate (future Opportunities) - Laval & Surrounding Areas</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate (future Opportunities) - South Shore & Surrounding Areas (downtown)</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate (future Opportunities) - Montreal Downtown & Surrounding Areas</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate (future Opportunities) - Montreal-est</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate, Full Time (future Opportunities) - Laval & Ville Saint-laurent</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Future Opportunities - Montreal West - Part Time</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Future Opportunities</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Rouyn-noranda (future Opportunities) - 37.5 Hours</td><td>Rouyn</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Laval/ville Saint-laurent - Future Opportunities</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Local Job Fair, My Place In Centre-sud - September 25 - Future Opportunities - Customer Experience Associate</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis - Future Opportunities</td><td>Owen Sound</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- Whistler, Bc Future Opportunities</td><td>Whistler</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Expérience Associate, Part Time (future Opportunities) - Montérégie-estrie</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Future Opportunities In Mississauga South</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Personal Banking Associate- Future Opportunities (inviting Applicants Who Identify As First Nation (status And Non-status), Innuit, And Metis)</td><td>Tsuut'Ina</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- Future Opportunities (inviting Applicants Who Identify As First Nation (status And Non-status), Innuit, And Metis)</td><td>Tsuut'Ina</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis For Future Opportunities In Mississauga</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate – Future Opportunities (cantonese, Mandarin, Korean And/or Vietnamese Language Skills An Asset)</td><td>Vancouver</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Future Opportunities: Customer Experience Associate Roles In Markham And Scarborough (cantonese And/or Mandarin Speaking)</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis For Future Opportunities In Brampton</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate (russian, Ukrainian, Spanish And/or French Language Skills An Asset)</td><td>Vancouver</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - (future Opportunities) - Montreal - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate Future Opportunities (mandarin / Cantonese An Asset)</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Outremont, Bernard</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Ile Des Soeurs (part-time, 18.75h/week)</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - St. Bruno (part-time, 15h/week)</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Marcel Laurin (part-time, 18.75h/week)</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Future Opportunities In Brampton</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Beaver Hall & Viger (full-time, 37.5h/week)</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- Fixed Term Contract Ends Oct 20, 2027</td><td>Edmonton</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Des Sources</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Future Opportunities - Etobicoke</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Future Opportunities (vaughan, North York, Richmond Hill, Aurora And Newmarket)</td><td>Toronto</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Mandarin Or Cantonese Language Skills An Asset</td><td>Vancouver</td><td>2026-09-13</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Brossard, Tascherau (part-time, 15h/week)</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Case Coordinator</td><td>Winnipeg</td><td>2026-09-13</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Administrative Assistant</td><td>Swan Lake</td><td>2026-09-13</td></tr>
+<tr><td>Shared Health</td><td>Indigenous Health Administrative Assistant</td><td>Winnipeg</td><td>2026-09-13</td></tr>
+<tr><td>Shared Health</td><td>Administrative Secretary - Cyts Community Services Program</td><td>Winnipeg</td><td>2026-09-13</td></tr>
+<tr><td>Bank of Montreal</td><td>Private Wealth Administrative Assistant</td><td>Kitchener</td><td>2026-09-13</td></tr>
+<tr><td>Bmousbenefits</td><td>Private Wealth Administrative Assistant</td><td>Kitchener</td><td>2026-09-13</td></tr>
+<tr><td>BMO</td><td>Private Wealth Administrative Assistant</td><td>Kitchener</td><td>2026-09-13</td></tr>
+<tr><td>IWK Health</td><td>Administrative Assistant Ii, Rehabilitation Services</td><td>Halifax</td><td>2026-09-13</td></tr>
+<tr><td>IWK Health</td><td>Administrative Assistant Iii, Pediatric Subspecialty Residency Training</td><td>Halifax</td><td>2026-09-13</td></tr>
+<tr><td>IWK Health</td><td>Administrative Assistant Iii, Cardiology</td><td>Halifax</td><td>2026-09-13</td></tr>
+<tr><td>Manulife</td><td>Bilingual Administrative Coordinator</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Bilingual Administrative Coordinator</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>TELUS</td><td>Administrative Associate/receptionist - Clinic</td><td>Montreal</td><td>2026-09-13</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant</td><td>Calgary</td><td>2026-09-13</td></tr>
+<tr><td>CIBC US</td><td>Administrative Assistant</td><td>Calgary</td><td>2026-09-13</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Administrative Assistant - Fort Mcmurray</td><td>Fort Mcmurray</td><td>2026-09-13</td></tr>
+<tr><td>BDO Canada</td><td>Co-op Or Intern, Administration - Kitchener-waterloo Or Guelph - January 2027</td><td>Kitchener</td><td>2026-09-13</td></tr>
 </table>
