@@ -6650,4 +6650,25 @@
 <tr><td>LEGO</td><td>Supervisor Carrefour Laval</td><td>Montreal</td><td>2026-09-15</td></tr>
 <tr><td>Banklife</td><td>Winter Co-op 2027 - Wealth Marketing (8 Months)</td><td>Toronto</td><td>2026-09-15</td></tr>
 <tr><td>Sedgwick</td><td>Administrative Assistant</td><td>Edmonton</td><td>2026-09-15</td></tr>
+<tr><td>sligrofoodgroup</td><td>Ai/ml Engineer / Veghel / Sligro / Hybride</td><td>Veghel</td><td>2026-09-15</td></tr>
+<tr><td>Jobgether</td><td>Data Analyst</td><td>Canada</td><td>2026-09-15</td></tr>
+<tr><td>Valtech</td><td>Data Scientist Google Adk</td><td>Ontario +1</td><td>2026-09-15</td></tr>
+<tr><td>Plan International Canada Inc</td><td>Data Analyst, Finance & Operations</td><td>Toronto</td><td>2026-09-15</td></tr>
+<tr><td>DRW</td><td>Data Analyst</td><td>Montreal</td><td>2026-09-15</td></tr>
+<tr><td>Intact Financial</td><td>Investment Analyst- 4 Months Internship/coop (winter 2027)</td><td>Montreal</td><td>2026-09-15</td></tr>
+<tr><td>TD Ameritrade</td><td>Market Risk Analyst (5411)</td><td>Toronto</td><td>2026-09-15</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Wealth Management, Winter Business Analyst (4-16 Months)</td><td>Toronto</td><td>2026-09-15</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Cfo, Winter Insurance Financial Analyst (8-12 Months)</td><td>Toronto</td><td>2026-09-15</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Winter - Grmi, Valuation Actuarial Analyst (4-8 Months)</td><td>Toronto</td><td>2026-09-15</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Insurance – Winter, Valuation, Actuarial Co-op Student (4 – 8 Months)</td><td>Toronto</td><td>2026-09-15</td></tr>
+<tr><td>UCFS Italia</td><td>Railcar Technician</td><td>Can_guernsey_saskatchewan</td><td>2026-09-15</td></tr>
+<tr><td>Beckman Coulter Diagnostics</td><td>Field Service Representative - Remote</td><td>Toronto</td><td>2026-09-15</td></tr>
+<tr><td>Vantagenetwork</td><td>Stationary Mechanical Technician, Na</td><td>Montreal</td><td>2026-09-15</td></tr>
+<tr><td>LINEAGE LOGISTICS</td><td>Maintenance Technician</td><td>Sainte</td><td>2026-09-15</td></tr>
+<tr><td>LINEAGE LOGISTICS</td><td>Technicien En Maintenance</td><td>Sainte</td><td>2026-09-15</td></tr>
+<tr><td>Bruce Power</td><td>Work Management Coordinator (contract) Talent Pool</td><td>Bruce Power</td><td>2026-09-15</td></tr>
+<tr><td>Levis Media</td><td>Levi's® Part Time Supervisor - Yorkdale</td><td>Toronto</td><td>2026-09-15</td></tr>
+<tr><td>Levi's®</td><td>Part-time Supervisor, Levi's®, Edmonton Premium Outlet Collection, Nisku Ab.</td><td>Nisku</td><td>2026-09-15</td></tr>
+<tr><td>TOMMY HILFIGER</td><td>Assistant(e) Gérant(e) De Boutique - Temps Plein</td><td>Montreal</td><td>2026-09-15</td></tr>
+<tr><td>Johnson & Johnson</td><td>Marketing Operations Co-op</td><td>Toronto</td><td>2026-09-15</td></tr>
 </table>
