@@ -6779,4 +6779,33 @@
 <tr><td>Vans</td><td>Vans: Supervisor - Vaughan Mills</td><td>Vaughan Mills</td><td>2026-09-16</td></tr>
 <tr><td>Grundfos Holding AS</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-09-16</td></tr>
 <tr><td>CIBC Capital Markets</td><td>Cibc - Administrative Assistant - Wood Gundy - Montreal -bilingual</td><td>Montreal</td><td>2026-09-16</td></tr>
+<tr><td>Mountain Warehouse</td><td>Can Sales Associate - Ontario</td><td>Ontario</td><td>2026-09-17</td></tr>
+<tr><td>Retirement World</td><td>2027 Winter – Grm, Qa Analyst Intern (8 Months)</td><td>Toronto</td><td>2026-09-17</td></tr>
+<tr><td>Retirement World</td><td>2027 Winter – Grm, Portfolio Risk & Credit Analytics Intern (4 Months)</td><td>Toronto</td><td>2026-09-17</td></tr>
+<tr><td>RBC</td><td>Client Advisor Intern</td><td>Middleton</td><td>2026-09-17</td></tr>
+<tr><td>RBC</td><td>Winter 2027 - Clao, Procurement Intern Analyst (4 Months)</td><td>Toronto</td><td>2026-09-17</td></tr>
+<tr><td>RBC</td><td>Banking Advisor Intern</td><td>Fredericton</td><td>2026-09-17</td></tr>
+<tr><td>Retirement World</td><td>Banking Advisor Intern</td><td>Happy Valley-Goose Bay</td><td>2026-09-17</td></tr>
+<tr><td>RBC</td><td>Winter 2027 - Clao, Procurement Analyst Intern (4 Months)</td><td>Toronto</td><td>2026-09-17</td></tr>
+<tr><td>Intact Financial</td><td>Security Analyst I – 4 Month Internship/co-op (fall 2026)</td><td>Canada</td><td>2026-09-17</td></tr>
+<tr><td>Jobgether</td><td>Staff+ Software Engineer, Ai</td><td>Canada</td><td>2026-09-17</td></tr>
+<tr><td>Sunriseatwolfchase</td><td>Bilingual Data Analyst</td><td>Montreal</td><td>2026-09-17</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Wealth Management, Winter Data Analyst (4-16 Months)</td><td>Toronto</td><td>2026-09-17</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Insurance, Winter Business And Data Analyst (4-16 Months)</td><td>Toronto</td><td>2026-09-17</td></tr>
+<tr><td>BDO</td><td>Junior Data Analyst, People Analytics</td><td>Toronto</td><td>2026-09-17</td></tr>
+<tr><td>Kaseya</td><td>Ai/ml Engineer — Agentic Ai Systems</td><td>Toronto</td><td>2026-09-17</td></tr>
+<tr><td>Manulife</td><td>Summer Intern 2027 - Operations Analyst</td><td>Toronto</td><td>2026-09-17</td></tr>
+<tr><td>Manulife</td><td>Winter Co-op 2027 - Operations Analyst</td><td>Toronto</td><td>2026-09-17</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Compliance Officer - Canada</td><td>Toronto</td><td>2026-09-17</td></tr>
+<tr><td>CHEO</td><td>Registered Nurse, Vascular Access Team - Permanent Part-time (0.4)</td><td>Ottawa</td><td>2026-09-17</td></tr>
+<tr><td>Overwaitea Food Group Ltd Partnership</td><td>Relief Pharmacist</td><td>Vancouver</td><td>2026-09-17</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant - Transitional Care Unit</td><td>Aberdeen Hospital</td><td>2026-09-17</td></tr>
+<tr><td>City of Ottawa</td><td>Personal Support Worker - Cas Pool</td><td>Peter D. Clark</td><td>2026-09-17</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Services Worker</td><td>Yorkton</td><td>2026-09-17</td></tr>
+<tr><td>Dematic Corporation</td><td>Resident Maintenance Technician</td><td>Montreal</td><td>2026-09-17</td></tr>
+<tr><td>QuadReal</td><td>Maintenance Technician</td><td>Edmonton</td><td>2026-09-17</td></tr>
+<tr><td>Best Buy Canada</td><td>Mobile Sales Associate (part Time)</td><td>Calgary</td><td>2026-09-17</td></tr>
+<tr><td>Michaels</td><td>Service Team (seasonal)</td><td>Calgary</td><td>2026-09-17</td></tr>
+<tr><td>University of British Columbia</td><td>Development Coordinator, Library</td><td>Vancouver</td><td>2026-09-17</td></tr>
+<tr><td>University Health Network</td><td>Administrative Assistant I - Ambulatory Multi Organ Transplant</td><td>Toronto</td><td>2026-09-17</td></tr>
 </table>
