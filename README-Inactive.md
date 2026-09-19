@@ -6961,4 +6961,53 @@
 <tr><td>Swan Valley Coop</td><td>Maintenance Coordinator, Habs - Swan Valley Coop</td><td>Swan River</td><td>2026-09-18</td></tr>
 <tr><td>460</td><td>Operations Coordinator</td><td>Alberta</td><td>2026-09-18</td></tr>
 <tr><td>UBC</td><td>Development Coordinator, Library</td><td>Vancouver</td><td>2026-09-18</td></tr>
+<tr><td>TD Ameritrade</td><td>Global Markets - Money Markets/ Cad Fixed Income Intern/ Co-op</td><td>Toronto</td><td>2026-09-19</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Test Facilities Engineering</td><td>Toronto</td><td>2026-09-19</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Turbofan Engine Programs - Project Engineering</td><td>Toronto</td><td>2026-09-19</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Software Developer Aerospace Control Systems & Web Applications</td><td>Toronto</td><td>2026-09-19</td></tr>
+<tr><td>CVS Health</td><td>Pharmacy Intern</td><td>Little Canada</td><td>2026-09-19</td></tr>
+<tr><td>BMO Capital Markets</td><td>Bmo Capital Markets Summer 2027 Internship Global Markets Analyst, Commodity Derivatives, Calgary</td><td>Calgary</td><td>2026-09-19</td></tr>
+<tr><td>Jobgether</td><td>Device Technology Technical Support Specialist</td><td>Canada</td><td>2026-09-19</td></tr>
+<tr><td>Alamos Gold</td><td>It Support Analyst</td><td>Toronto</td><td>2026-09-19</td></tr>
+<tr><td>Health Science North</td><td>Health Informatics Support Specialist</td><td>Sudbury</td><td>2026-09-19</td></tr>
+<tr><td>Jobgether</td><td>Ai/ml Engineer — Agentic Ai Systems</td><td>Canada</td><td>2026-09-19</td></tr>
+<tr><td>Retirement World</td><td>Financing Specialist</td><td>Kelowna</td><td>2026-09-19</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Analyst, Financing, Affordable Housing Initiatives</td><td>Montreal</td><td>2026-09-19</td></tr>
+<tr><td>Desjardins</td><td>Analyst, Financing, Affordable Housing Initiatives</td><td>Montreal</td><td>2026-09-19</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Advisor, Capital Markets</td><td>Toronto</td><td>2026-09-19</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Analyst, Actuarial Analysis And Statistics</td><td>Montreal</td><td>2026-09-19</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Diagnostic Imaging/diagnostic Cardiac Testing (echocardiography)</td><td>Winnipeg</td><td>2026-09-19</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Surgery-d2 Orthopedic Trauma/spine - Repost</td><td>Winnipeg</td><td>2026-09-19</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Surgery-d3 Trauma/stepdown</td><td>Winnipeg</td><td>2026-09-19</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Home Care Attendant-aide - Soins À Domicile</td><td>Niverville</td><td>2026-09-19</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Home Care Attendant-aide - Soins À Domicile</td><td>Ste. Anne</td><td>2026-09-19</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nursing Assistant-nursing Assistant-na-surgery-gd2-orthopedic Trauma/spine - Repost</td><td>Winnipeg</td><td>2026-09-19</td></tr>
+<tr><td>Pet Valu</td><td>Sales Associate</td><td>Vancouver</td><td>2026-09-19</td></tr>
+<tr><td>Bass Pro</td><td>Seasonal Events Associate- Fixed Term</td><td>Edmonton</td><td>2026-09-19</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate</td><td>Ottawa</td><td>2026-09-19</td></tr>
+<tr><td>Michael Kors</td><td>Pt Sales Associate, Michael Kors - Markville</td><td>Toronto</td><td>2026-09-19</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Vancouver</td><td>2026-09-19</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Sales Associate</td><td>Huntsville</td><td>2026-09-19</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Quispamsis</td><td>Quispamsis</td><td>2026-09-19</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Cantonese Or Punjabi Language Skills An Asset</td><td>Vancouver</td><td>2026-09-19</td></tr>
+<tr><td>CHANEL</td><td>Sales Associate</td><td>Toronto</td><td>2026-09-19</td></tr>
+<tr><td>Coach</td><td>Temporary Sales Associate</td><td>Rocky View</td><td>2026-09-19</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate Iii</td><td>Toronto</td><td>2026-09-19</td></tr>
+<tr><td>Pet Valu</td><td>Part-time Sales Associate (store# 2212 - Vaughan Major Mac & Jane)</td><td>Maple</td><td>2026-09-19</td></tr>
+<tr><td>Pet Valu</td><td>Part-time Sales Associate (store 2422 - Islington Village Sc)</td><td>Woodbridge</td><td>2026-09-19</td></tr>
+<tr><td>LEGO® Brand Retail</td><td>Seasonal Retail Sales Associate, Southgate Centre, Edmonton Alberta</td><td>Edmonton</td><td>2026-09-19</td></tr>
+<tr><td>BAILEY NELSON</td><td>Part-time Sales Associate/eyewear Stylist - Oshawa Centre</td><td>Toronto</td><td>2026-09-19</td></tr>
+<tr><td>Marriott International</td><td>Guest Experience Expert</td><td>Calgary</td><td>2026-09-19</td></tr>
+<tr><td>W Brisbane</td><td>Guest Experience Expert</td><td>Calgary</td><td>2026-09-19</td></tr>
+<tr><td>ACE Liquor Discounter</td><td>Store Associate, Liquor</td><td>Fort Mcmurray</td><td>2026-09-19</td></tr>
+<tr><td>LOVISA</td><td>Retail Sales Associates</td><td>Ab</td><td>2026-09-19</td></tr>
+<tr><td>Lush</td><td>Seasonal Ambassador - Markville Mall</td><td>Toronto</td><td>2026-09-19</td></tr>
+<tr><td>Lush</td><td>Seasonal Ambassador - St Laurent Shopping Centre</td><td>Ottawa</td><td>2026-09-19</td></tr>
+<tr><td>Lush</td><td>Seasonal Ambassador - Yorkdale Shopping Centre</td><td>North York</td><td>2026-09-19</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Pine Centre</td><td>Prince George</td><td>2026-09-19</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Sales Associate, Ste-catherine</td><td>Montreal</td><td>2026-09-19</td></tr>
+<tr><td>Bell</td><td>Seasonal Retail Sales Associate, Mail Champlain</td><td>Montreal</td><td>2026-09-19</td></tr>
+<tr><td>RBC Dominion Securities</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-09-19</td></tr>
+<tr><td>Kiewit Corporation</td><td>Jr. Project Coordinator Co-op - Winter 2027 (8-12 Months)</td><td>Darlington +1</td><td>2026-09-19</td></tr>
+<tr><td>Parsons Corp.</td><td>Administrative Assistant</td><td>Whitehorse</td><td>2026-09-19</td></tr>
 </table>
