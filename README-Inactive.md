@@ -7148,4 +7148,54 @@
 <tr><td>Legacy Co-op</td><td>Full Time Supervisor - Palliser</td><td>Yorkton</td><td>2026-09-20</td></tr>
 <tr><td>New Era Technology</td><td>Administrative Agent</td><td>Province Of Quebec</td><td>2026-09-20</td></tr>
 <tr><td>Kiewit Corporation</td><td>Commissioning Coordinator Co-op - Winter 2027 (8-12 Months)</td><td>Darlington +1</td><td>2026-09-20</td></tr>
+<tr><td>Ciena Corporation</td><td>Software Engineering, Optical Transport And Ip Networking Intern</td><td>Ottawa</td><td>2026-09-21</td></tr>
+<tr><td>Aritzia</td><td>Transformation Management Office - Intern, Operations</td><td>Vancouver</td><td>2026-09-21</td></tr>
+<tr><td>Aritzia</td><td>People & Culture - Intern, People & Culture Enablement</td><td>Vancouver</td><td>2026-09-21</td></tr>
+<tr><td>Aritzia</td><td>Intern, Product Business</td><td>Vancouver</td><td>2026-09-21</td></tr>
+<tr><td>Bmwofsalem</td><td>Data Scientist, Fall 2026 ( Co-op/internship) - 12 Months</td><td>Canada</td><td>2026-09-21</td></tr>
+<tr><td>CrowdStrike</td><td>Engineer I, Data Scientist - New Grad (hybrid)</td><td>Sunnyvale</td><td>2026-09-21</td></tr>
+<tr><td>CrowdStrike UK</td><td>Engineer I, Data Scientist - New Grad (hybrid)</td><td>Sunnyvale</td><td>2026-09-21</td></tr>
+<tr><td>GFL Environmental</td><td>Internal Auditor</td><td>Toronto</td><td>2026-09-21</td></tr>
+<tr><td>GFL Environmental Inc.</td><td>Risk Analyst</td><td>Toronto</td><td>2026-09-21</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Financial Analyst</td><td>Toronto</td><td>2026-09-21</td></tr>
+<tr><td>Exxon Mobil</td><td>Uda Business Analyst - Students Seeking Opportunities</td><td>Calgary</td><td>2026-09-21</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>Hudson Bay</td><td>2026-09-21</td></tr>
+<tr><td>CAMH</td><td>Registered Nurse - Psychosis Recovery & Treatment Unit 5</td><td>Toronto</td><td>2026-09-21</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Public Health Nurse</td><td>Outlook</td><td>2026-09-21</td></tr>
+<tr><td>CAMH</td><td>Pharmacy Technician - Pharmacy Services</td><td>Toronto</td><td>2026-09-21</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Unit Support Worker</td><td>Coronach</td><td>2026-09-21</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Registered Nurse (rn) - Casual - Tri-town</td><td>Tri Town</td><td>2026-09-21</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Services Worker</td><td>Spiritwood</td><td>2026-09-21</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Maintenance Worker I</td><td>Vita</td><td>2026-09-21</td></tr>
+<tr><td>Michelin North America (Canada) Inc.</td><td>Reliability Maintainer Bridgewater - Electrical / Mechanical</td><td>Bridgewater</td><td>2026-09-21</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Peter Pond Shopping Centre</td><td>Fort McMurray</td><td>2026-09-21</td></tr>
+<tr><td>Bell</td><td>Seasonal Retail Sales Associate, Orchard Park Mall</td><td>Kelowna</td><td>2026-09-21</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Tamarack Centre</td><td>Cranbrook</td><td>2026-09-21</td></tr>
+<tr><td>Health Science North</td><td>Warehouse Associate</td><td>Unknown</td><td>2026-09-21</td></tr>
+<tr><td>McKesson</td><td>Bilingual Patient Services Associate</td><td>Canada</td><td>2026-09-21</td></tr>
+<tr><td>The William Carter Company</td><td>Sales Associate</td><td>Toronto</td><td>2026-09-21</td></tr>
+<tr><td>Bass Pro Shops</td><td>Seasonal Hunting Sales</td><td>Toronto</td><td>2026-09-21</td></tr>
+<tr><td>Bass Pro</td><td>Seasonal Events Associate</td><td>Edmonton</td><td>2026-09-21</td></tr>
+<tr><td>Bass Pro</td><td>Seasonal Home & Gift Associate</td><td>Edmonton</td><td>2026-09-21</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis - Future Opportunities</td><td>Edmonton</td><td>2026-09-21</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Cantonese And/or Mandarin Language Skills An Asset</td><td>Vancouver</td><td>2026-09-21</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Campbell River, Bc</td><td>Campbell River</td><td>2026-09-21</td></tr>
+<tr><td>Pet Valu</td><td>Sales Associate</td><td>Edmonton</td><td>2026-09-21</td></tr>
+<tr><td>Cardinal Health</td><td>Warehouse Associate</td><td>Toronto</td><td>2026-09-21</td></tr>
+<tr><td>W Brisbane</td><td>Guest Service Expert</td><td>Kelowna</td><td>2026-09-21</td></tr>
+<tr><td>H&M</td><td>Sales Associate</td><td>Vancouver</td><td>2026-09-21</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) Aux Ventes</td><td>Montreal</td><td>2026-09-21</td></tr>
+<tr><td>H&M</td><td>Conseiller(ère) De Vente</td><td>Montreal</td><td>2026-09-21</td></tr>
+<tr><td>Aecon U.S.</td><td>Project Coordinator, Co-op</td><td>Toronto</td><td>2026-09-21</td></tr>
+<tr><td>Circle K</td><td>Assistant-gérant</td><td>Montreal</td><td>2026-09-21</td></tr>
+<tr><td>The LEGO Group</td><td>Supervisor Carrefour Laval</td><td>Montreal</td><td>2026-09-21</td></tr>
+<tr><td>Mcateer</td><td>Adjointe Administrative/réceptionniste</td><td>Ste-ThéRèSe</td><td>2026-09-21</td></tr>
+<tr><td>People Corporation</td><td>Adjointe Administrative/réceptionniste</td><td>Ste-ThéRèSe</td><td>2026-09-21</td></tr>
+<tr><td>Nestle Ltd</td><td>Manufacturing Excellence Specialist</td><td>London</td><td>2026-09-21</td></tr>
+<tr><td>Electric Mind</td><td>Jr. Executive Assistant (3 Days/week In Office)</td><td>Downtown Toronto</td><td>2026-09-21</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Administrative Coordinator</td><td>Winnipeg</td><td>2026-09-21</td></tr>
+<tr><td>AIR LIQUIDE SA POUR ETUDE EXPLOIT DES PROCEDES GEORGES CLAUDE</td><td>Administrative Coordinator</td><td>Montreal</td><td>2026-09-21</td></tr>
+<tr><td>University of British Columbia</td><td>Finance And Administrative Coordinator</td><td>Vancouver</td><td>2026-09-21</td></tr>
+<tr><td>Trane Technologies</td><td>Administrative Assistant Ii</td><td>Montreal</td><td>2026-09-21</td></tr>
+<tr><td>FCC</td><td>Sustainability Specialist</td><td>Quebec</td><td>2026-09-21</td></tr>
 </table>
