@@ -7198,4 +7198,6 @@
 <tr><td>University of British Columbia</td><td>Finance And Administrative Coordinator</td><td>Vancouver</td><td>2026-09-21</td></tr>
 <tr><td>Trane Technologies</td><td>Administrative Assistant Ii</td><td>Montreal</td><td>2026-09-21</td></tr>
 <tr><td>FCC</td><td>Sustainability Specialist</td><td>Quebec</td><td>2026-09-21</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Sales Associate (part-time)</td><td>Sept</td><td>2026-09-21</td></tr>
+<tr><td>Quill (a Staples company)</td><td>Sales Associate-print&services (full-time)</td><td>Sept</td><td>2026-09-21</td></tr>
 </table>
