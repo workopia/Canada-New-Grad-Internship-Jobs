@@ -7200,4 +7200,62 @@
 <tr><td>FCC</td><td>Sustainability Specialist</td><td>Quebec</td><td>2026-09-21</td></tr>
 <tr><td>Quill (a Staples company)</td><td>Sales Associate (part-time)</td><td>Sept</td><td>2026-09-21</td></tr>
 <tr><td>Quill (a Staples company)</td><td>Sales Associate-print&services (full-time)</td><td>Sept</td><td>2026-09-21</td></tr>
+<tr><td>Retirement World</td><td>Client Advisor Intern</td><td>Canmore</td><td>2026-09-22</td></tr>
+<tr><td>Sonova Group</td><td>Hearing Care Professional Intern</td><td>Canada</td><td>2026-09-22</td></tr>
+<tr><td>ARC Resources Ltd.</td><td>Field Operations Summer Student - Nebc</td><td>Dawson Creek</td><td>2026-09-22</td></tr>
+<tr><td>BDO Canada</td><td>Co-op Or Intern, Canadian Tax Services (winter 2027) Calgary</td><td>Calgary</td><td>2026-09-22</td></tr>
+<tr><td>Connor, Clark & Lunn Financial Group (CC&L)</td><td>Intern, Corporate Actions</td><td>Vancouver</td><td>2026-09-22</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Capital Markets, Financial Risk Internal Audit, Winter Co-op (4 Months)</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Compliance Internal Audit, Winter Data Analyst (4 Months)</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Compliance Internal Audit, Winter Data Analyst (4 Months)</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Capital Markets, Financial Risk Internal Audit, Winter Co-op (4 Months)</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>GFL Environmental Inc.</td><td>Internal Auditor</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Renal Resource Team - Repost</td><td>Winnipeg</td><td>2026-09-22</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Medicine - Repost</td><td>Winnipeg</td><td>2026-09-22</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Home Care Attendant</td><td>Sprague</td><td>2026-09-22</td></tr>
+<tr><td>Cogir Senior Living</td><td>Personal Support Worker - Full-time/part-time</td><td>Peterborough</td><td>2026-09-22</td></tr>
+<tr><td>North Wellington Health Care</td><td>Registered Nurse (job Share) (lmh) #2026-212</td><td>Mount Forest</td><td>2026-09-22</td></tr>
+<tr><td>Groves Memorial Community Hospital</td><td>Registered Nurse - Medicine (gmch) #2026-211</td><td>Guelph</td><td>2026-09-22</td></tr>
+<tr><td>CAMH</td><td>Registered Nurse- Fatu</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Infectious Disease</td><td>Prince Albert</td><td>2026-09-22</td></tr>
+<tr><td>Oak Valley Health</td><td>Patient Support Assistant, Palliative & Complex Continuing Care (cupe) - Part Time - Markham Stouffville Hospital</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>Alamos Gold</td><td>Occupational Health Nurse</td><td>Lynn Lake</td><td>2026-09-22</td></tr>
+<tr><td>Extendicare</td><td>Registered Nurse (rn)- Tuxedo Villa</td><td>Tuxedo Villa</td><td>2026-09-22</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Psw</td><td>Canada</td><td>2026-09-22</td></tr>
+<tr><td>Walmartdataventures</td><td>(can) Regulated Pharmacy Technician</td><td>Port Hawkesbury</td><td>2026-09-22</td></tr>
+<tr><td>Walmartdataventures</td><td>(can) Staff Pharmacist</td><td>Cold Lake</td><td>2026-09-22</td></tr>
+<tr><td>Walmartdataventures</td><td>(can) Pharmacy Assistant</td><td>Terrace</td><td>2026-09-22</td></tr>
+<tr><td>mcgillcampusstore.ca</td><td>Animal Care Assistant B-5</td><td>Cattle Complex</td><td>2026-09-22</td></tr>
+<tr><td>Cogir Senior Living</td><td>Part Time Registered Practical Nurse- 11pm-7am</td><td>Granite Landing</td><td>2026-09-22</td></tr>
+<tr><td>Cogir Senior Living</td><td>Personal Support Worker (psw) - (3pm-11pm / 30 Hours Bi-weekly)</td><td>Sharon Corners</td><td>2026-09-22</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Office Support Worker</td><td>Weyburn</td><td>2026-09-22</td></tr>
+<tr><td>Nutrien Ltd</td><td>Occupational Health Nurse (temporary)</td><td>Rocanville</td><td>2026-09-22</td></tr>
+<tr><td>Saskatchewan Health Authority</td><td>A - Rn/rpn</td><td>Preeceville</td><td>2026-09-22</td></tr>
+<tr><td>Groves Memorial Community Hospital</td><td>Registered Nurse - Medicine (gmch) #2026-206</td><td>Guelph</td><td>2026-09-22</td></tr>
+<tr><td>Groves Memorial Community Hospital</td><td>Registered Nurse - Medicine (gmch) #2026-207</td><td>Guelph</td><td>2026-09-22</td></tr>
+<tr><td>Trillium Health Partners</td><td>Pharmacy Technician -m Pharmacy</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Registered Nurse (rn) - Casual - Kirkland Lake (kl)</td><td>Kirkland Lake</td><td>2026-09-22</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Registered Nurse (rn) - Pine Meadow Nursing Home</td><td>Assist</td><td>2026-09-22</td></tr>
+<tr><td>University Health Network</td><td>Pharmacist - Top</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Nurse (rn) - Cardiology - Tft</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>Hexion Inc</td><td>Maintenance Technician - Electrical & Instrumentation</td><td>Edmonton</td><td>2026-09-22</td></tr>
+<tr><td>PAE/Amentum</td><td>General Maintenance Technician Ii</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>PAE/Amentum</td><td>Mechanical Maintenance Technician-2</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>Amentum Pr</td><td>Mechanical Maintenance Technician-2</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>Z Modular</td><td>Industrial Mechanic/millwright</td><td>Harrow</td><td>2026-09-22</td></tr>
+<tr><td>United Rentals</td><td>Mécanicien</td><td>Anjou</td><td>2026-09-22</td></tr>
+<tr><td>Oakley</td><td>Sales Associate</td><td>Edmonton</td><td>2026-09-22</td></tr>
+<tr><td>CB2</td><td>Sales Associate, C&b</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>CB2</td><td>Kitchen Sales Associate, C&b</td><td>Square One</td><td>2026-09-22</td></tr>
+<tr><td>CB2</td><td>Seasonal Sales</td><td>Southcentre</td><td>2026-09-22</td></tr>
+<tr><td>JYSK Canada</td><td>Collègue Aux Ventes</td><td>Montreal</td><td>2026-09-22</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Sales Associate, Dryden</td><td>Dryden</td><td>2026-09-22</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Oshawa Centre 1</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Peter Pond Shopping Centre</td><td>Fort McMurray</td><td>2026-09-22</td></tr>
+<tr><td>Bell</td><td>Seasonal Retail Sales Associate, Orchard Park Mall</td><td>Kelowna</td><td>2026-09-22</td></tr>
+<tr><td>Aecon Group</td><td>Quality Coordinator -contract</td><td>Tiverton</td><td>2026-09-22</td></tr>
+<tr><td>Aecon U.S.</td><td>Coordinator, Project</td><td>Scarborough</td><td>2026-09-22</td></tr>
+<tr><td>Baffinland</td><td>Site Services Planner</td><td>Mary River Mine Site</td><td>2026-09-22</td></tr>
+<tr><td>University of British Columbia</td><td>Administrative Assistant Ii</td><td>Kelowna</td><td>2026-09-22</td></tr>
+<tr><td>SOTI</td><td>Executive Assistant (12 Months Contract)</td><td>Toronto</td><td>2026-09-22</td></tr>
 </table>
