@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-22",
- "count": 887,
+ "count": 885,
  "jobs": {
   "581553": {
    "id": "581553",
@@ -48,6 +48,12 @@
    "id": "8886469cf42364bc333262de626ac8dd",
    "company": "Mondelēz Canada",
    "role": "Hr Talent Intern",
+   "location": "Toronto"
+  },
+  "58c1dde5a8c4a5a7ac601bbf4211e687": {
+   "id": "58c1dde5a8c4a5a7ac601bbf4211e687",
+   "company": "PCL Constructors Inc",
+   "role": "Marketing & Communications Student",
    "location": "Toronto"
   },
   "d7c7d9356d2f2ec88b5d5d5ded6f5d31": {
@@ -494,12 +500,6 @@
    "role": "Incubation Developer Student",
    "location": "Ottawa"
   },
-  "52d3dc7ecbefaeba958b1c8714c87e6d": {
-   "id": "52d3dc7ecbefaeba958b1c8714c87e6d",
-   "company": "Infinera Corporation",
-   "role": "Incubation Developer Student",
-   "location": "Ottawa"
-  },
   "599750da9cb737552e13334289c44594": {
    "id": "599750da9cb737552e13334289c44594",
    "company": "Pratt & Whitney Canada",
@@ -943,12 +943,6 @@
    "company": "Canadian Derivatives Clearing Corporation",
    "role": "It Support Intern",
    "location": "Toronto"
-  },
-  "740500f3624ca87df0f9e388753d7386": {
-   "id": "740500f3624ca87df0f9e388753d7386",
-   "company": "Aecon Group",
-   "role": "Co-op Engineering Student",
-   "location": "Montreal"
   },
   "f513c56122565ca77da14b0dcb696584": {
    "id": "f513c56122565ca77da14b0dcb696584",
@@ -1831,12 +1825,6 @@
    "company": "Hitachi Rail Canada Inc.",
    "role": "Alm Scripting & Reporting Intern",
    "location": "Scarborough"
-  },
-  "115219a37b05d891baf204ae9490ac40": {
-   "id": "115219a37b05d891baf204ae9490ac40",
-   "company": "Bombardier",
-   "role": "Intern, Business Intelligence Analyst (fall 2026)",
-   "location": "Montreal"
   },
   "66f41a6f2687e3baf5a8e843636b3410": {
    "id": "66f41a6f2687e3baf5a8e843636b3410",
@@ -4874,6 +4862,12 @@
    "role": "Administrative Assistant 2",
    "location": "Winnipeg"
   },
+  "3f9d9b41ac94eb7b078ff08af2ced947": {
+   "id": "3f9d9b41ac94eb7b078ff08af2ced947",
+   "company": "PCL Constructors Inc",
+   "role": "Administrative Assistant",
+   "location": "Edmonton"
+  },
   "cce53a02ec8b57cc1817c2771bd53c90": {
    "id": "cce53a02ec8b57cc1817c2771bd53c90",
    "company": "TELUS",
@@ -5317,12 +5311,6 @@
    "company": "Winnipeg Regional Health Authority",
    "role": "Case Coordinator - Repost",
    "location": "Winnipeg"
-  },
-  "df1897a504b3c65b029d279920a266d1": {
-   "id": "df1897a504b3c65b029d279920a266d1",
-   "company": "Walmart Inc",
-   "role": "(can) Gérant Adjoint, Consommables",
-   "location": "Montreal"
   }
  }
 }

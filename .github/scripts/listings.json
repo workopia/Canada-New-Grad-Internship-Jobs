@@ -12,8 +12,8 @@
   "as_of": "2026-09-22",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 23872,
-  "generated_at": "2026-09-22T01:06:36.302Z"
+  "country_live_total": 23830,
+  "generated_at": "2026-09-22T06:56:26.102Z"
  },
  "categories": [
   {
@@ -156,6 +156,23 @@
    "date_posted": "2026-09-21T03:59:16.408Z",
    "active": true,
    "url": "https://workopia.io/jobs/8886469cf42364bc333262de626ac8dd",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": "$19.57–28.69/hr",
+   "id": "58c1dde5a8c4a5a7ac601bbf4211e687",
+   "source": "Workopia",
+   "company_name": "PCL Constructors Inc",
+   "company_hi_slug": "pcl-constructors-inc",
+   "title": "Marketing & Communications Student",
+   "location": "Toronto",
+   "skills": "integrated communicati, research, write, and e",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-20T18:14:08.289Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/58c1dde5a8c4a5a7ac601bbf4211e687",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-09-15T00:00:00.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/0f8a8935a291614a580e4235aba84550",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "52d3dc7ecbefaeba958b1c8714c87e6d",
-   "source": "Workopia",
-   "company_name": "Infinera Corporation",
-   "company_hi_slug": "infinera-corporation",
-   "title": "Incubation Developer Student",
-   "location": "Ottawa",
-   "skills": "back-end microservices, front-end user interfa",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-15T00:00:00.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/52d3dc7ecbefaeba958b1c8714c87e6d",
    "category": "grad",
    "tier": "Intern"
   },
@@ -2706,23 +2706,6 @@
    "date_posted": "2026-07-26T06:42:23.363Z",
    "active": true,
    "url": "https://workopia.io/jobs/b663c5d3f26563b8bf7d1245a0fbbe0f",
-   "category": "tech",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": "$23–25/hr",
-   "id": "740500f3624ca87df0f9e388753d7386",
-   "source": "Workopia",
-   "company_name": "Aecon Group",
-   "company_hi_slug": "aecon-group",
-   "title": "Co-op Engineering Student",
-   "location": "Montreal",
-   "skills": "Site-based work, Project management",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-24T02:20:01.018Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/740500f3624ca87df0f9e388753d7386",
    "category": "tech",
    "tier": "Intern"
   },
@@ -5239,23 +5222,6 @@
    "date_posted": "2026-07-31T10:53:16.947Z",
    "active": true,
    "url": "https://workopia.io/jobs/3d13da9f5d6a1a7e598f37fb26140ede",
-   "category": "data",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "115219a37b05d891baf204ae9490ac40",
-   "source": "Workopia",
-   "company_name": "Bombardier",
-   "company_hi_slug": "bombardier",
-   "title": "Intern, Business Intelligence Analyst (fall 2026)",
-   "location": "Montreal",
-   "skills": "Data analysis, Business operations",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-24T04:11:29.785Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/115219a37b05d891baf204ae9490ac40",
    "category": "data",
    "tier": "Intern"
   },
@@ -13879,6 +13845,23 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "C$40k–59k*",
+   "id": "3f9d9b41ac94eb7b078ff08af2ced947",
+   "source": "Workopia",
+   "company_name": "PCL Constructors Inc",
+   "company_hi_slug": "pcl-constructors-inc",
+   "title": "Administrative Assistant",
+   "location": "Edmonton",
+   "skills": "Word, Excel, PowerPoin, document creation and ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-20T18:14:08.291Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/3f9d9b41ac94eb7b078ff08af2ced947",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
    "salary_display": "C$34k–82k*",
    "id": "cce53a02ec8b57cc1817c2771bd53c90",
    "source": "Workopia",
@@ -15133,23 +15116,6 @@
    "date_posted": "2026-09-13T20:13:16.009Z",
    "active": true,
    "url": "https://workopia.io/jobs/641d44648b5eea7e4923dd8a8969ae71",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "$56,100–66,643",
-   "id": "df1897a504b3c65b029d279920a266d1",
-   "source": "Workopia",
-   "company_name": "Walmart Inc",
-   "company_hi_slug": "walmart",
-   "title": "(can) Gérant Adjoint, Consommables",
-   "location": "Montreal",
-   "skills": "drive profitable sales, manage store operation",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-13T09:09:27.102Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/df1897a504b3c65b029d279920a266d1",
    "category": "admin",
    "tier": "Entry-level"
   }

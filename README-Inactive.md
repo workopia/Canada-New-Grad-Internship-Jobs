@@ -7258,4 +7258,8 @@
 <tr><td>Baffinland</td><td>Site Services Planner</td><td>Mary River Mine Site</td><td>2026-09-22</td></tr>
 <tr><td>University of British Columbia</td><td>Administrative Assistant Ii</td><td>Kelowna</td><td>2026-09-22</td></tr>
 <tr><td>SOTI</td><td>Executive Assistant (12 Months Contract)</td><td>Toronto</td><td>2026-09-22</td></tr>
+<tr><td>Infinera Corporation</td><td>Incubation Developer Student</td><td>Ottawa</td><td>2026-09-22</td></tr>
+<tr><td>Aecon Group</td><td>Co-op Engineering Student</td><td>Montreal</td><td>2026-09-22</td></tr>
+<tr><td>Bombardier</td><td>Intern, Business Intelligence Analyst (fall 2026)</td><td>Montreal</td><td>2026-09-22</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Gérant Adjoint, Consommables</td><td>Montreal</td><td>2026-09-22</td></tr>
 </table>
