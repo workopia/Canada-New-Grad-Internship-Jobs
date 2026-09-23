@@ -12,8 +12,8 @@
   "as_of": "2026-09-23",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 23798,
-  "generated_at": "2026-09-23T10:29:43.536Z"
+  "country_live_total": 23773,
+  "generated_at": "2026-09-23T13:22:09.232Z"
  },
  "categories": [
   {
@@ -2966,23 +2966,6 @@
   },
   {
    "salary_display": "C$73k–129k*",
-   "id": "a6114c7319805d94f53895e00e1731d0",
-   "source": "Workopia",
-   "company_name": "Slice",
-   "company_hi_slug": "slice",
-   "title": "Software Developer, Deploy & Run",
-   "location": "Ontario",
-   "skills": "design, code, and laun, own projects end-to-en",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-21T14:27:28.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/a6114c7319805d94f53895e00e1731d0",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "C$73k–129k*",
    "id": "c19a9054dc550e493b56398b334baf0c",
    "source": "Workopia",
    "company_name": "Netomi",
@@ -4253,6 +4236,23 @@
    "date_posted": "2026-09-02T14:07:08.760Z",
    "active": true,
    "url": "https://workopia.io/jobs/935d8b34596de0e20cfe5f3795598b0f",
+   "category": "tech",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "C$73k–129k*",
+   "id": "b43314b202189f7c99ec88e916b76135",
+   "source": "Workopia",
+   "company_name": "ecobee",
+   "company_hi_slug": "ecobee",
+   "title": "Software Engineer",
+   "location": "Toronto",
+   "skills": "distributed backend sy, large-scale IoT device",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-02T14:07:08.760Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/b43314b202189f7c99ec88e916b76135",
    "category": "tech",
    "tier": "Entry-level"
   },

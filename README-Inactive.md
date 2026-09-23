@@ -7423,4 +7423,5 @@
 <tr><td>Staples Business</td><td>Sales Associate</td><td>Calgary</td><td>2026-09-23</td></tr>
 <tr><td>Staples Canada</td><td>Associé Des Ventes</td><td>Anjou</td><td>2026-09-23</td></tr>
 <tr><td>CIBC US</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Slice</td><td>Software Developer, Deploy & Run</td><td>Ontario</td><td>2026-09-23</td></tr>
 </table>
