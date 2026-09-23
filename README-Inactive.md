@@ -7333,4 +7333,87 @@
 <tr><td>Southern Health-Santé Sud</td><td>Case Coordinator</td><td>Winnipeg</td><td>2026-09-23</td></tr>
 <tr><td>Winnipeg Regional Health Authority</td><td>Case Coordinator</td><td>Winnipeg</td><td>2026-09-23</td></tr>
 <tr><td>Winnipeg Regional Health Authority</td><td>Case Coordinator - Repost</td><td>Winnipeg</td><td>2026-09-23</td></tr>
+<tr><td>Mountain Warehouse</td><td>Team Sales Associate</td><td>Sudbury</td><td>2026-09-23</td></tr>
+<tr><td>Fidelity Canada</td><td>Student, Identity Access Management (winter 2027)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Fidelity Canada</td><td>Student, Emerging Technologies (winter 2027)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Fidelity Canada</td><td>Student, Fcc It (winter 2027)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Fidelity Canada</td><td>Student, Finance Opportunities (winter 2027)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Fidelity Canada</td><td>Student, Digital Media (winter 2027)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Fidelity Canada</td><td>Student, Hr Opportunities (winter 2027)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Fidelity Canada</td><td>Student, Fcc Finance And Treasury Opportunities (winter 2027)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Fidelity Canada</td><td>Student, Marketing (winter 2027)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>ecobee</td><td>Software Engineer</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Web Frontend Engineer - Js, Css, React, Flutter</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Microservices Engineer</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>Hatch Ltd</td><td>Analyst, Management Consulting - Internship 2027</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Manulife</td><td>Winter Co-op 2027 - Risk</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Desjardins</td><td>Advisor, Financial Disclosure</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Regional Municipality of Wood Buffalo</td><td>Bylaw Enforcement Officer - Fort Chipewyan</td><td>Fort Chipewyan</td><td>2026-09-23</td></tr>
+<tr><td>FITCH RATINGS Ltd</td><td>Analyst - Funds & Asset Management - Toronto</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Extendicare Mapleview</td><td>Registered Practical Nurse (rpn) - Casual Position - Maple View</td><td>Sault Ste Marie</td><td>2026-09-23</td></tr>
+<tr><td>ParaMed</td><td>Registered Nurse</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>Magna Electronics Inc.</td><td>Technicien(ne) Moules</td><td>Humes</td><td>2026-09-23</td></tr>
+<tr><td>PAE/Amentum</td><td>Mechanical Maintenance Technician-1</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Amentum Pr</td><td>Mechanical Maintenance Technician-1</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Oakley</td><td>Sales Associate</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Guest Experience Expert - Part Time</td><td>Kelowna</td><td>2026-09-23</td></tr>
+<tr><td>Winners</td><td>Retail Store Associate Part Time Winners – Yonge & Dundas</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Sales Associate - Temporary</td><td>Kelowna</td><td>2026-09-23</td></tr>
+<tr><td>TJX Companies</td><td>Associé / Associée De Magasin De Détail Temps Partiel Winners/homesense – Carrefour Angrignon</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Nutrien Ltd</td><td>Warehouse Support</td><td>Rocky View</td><td>2026-09-23</td></tr>
+<tr><td>Pet Valu</td><td>Sales Associate</td><td>Vermilion</td><td>2026-09-23</td></tr>
+<tr><td>Dixon Electric</td><td>Warehouse Associate</td><td>Dryden</td><td>2026-09-23</td></tr>
+<tr><td>The Beer Store</td><td>Part-time Retail Staff</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Komatsu</td><td>Warehouse Shipper-receiver- Detour Lake Mine</td><td>Timmins</td><td>2026-09-23</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Montreal - Future Opportunities</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Conseiller.ère Aux Ventes</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Oshawa Centre</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Job Fair - Sales Associate- (part-time) - Gta Central</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Bass Pro</td><td>Seasonal Events Outfitter- Part Time</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Bass Pro</td><td>Seasonal Footwear Associate</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>Bass Pro</td><td>Seasonal Clothing Associate</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>Bass Pro</td><td>Seasonal Home And Gift Associate</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>Anthropologie</td><td>Anthropologie Seasonal Sales Associate</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Kemptville</td><td>2026-09-23</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate- French Language Skills Are Considered An Asset.</td><td>Whitehorse</td><td>2026-09-23</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Associé / Associée De Magasin Temps Partiel Marshalls - Carrefour De La Rive-sud</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Retail Store Associate Part Time Winners</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Retail Store Associate Part Time Seasonal - Winners</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Associé / Associée De Magasin De Détail Temps Partiel Winners- Smart Centres Laval Est</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Retail Store Associate Part Time Winners - Smartcentres Plaza</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Associé / Associée De Magasin De Détail À Temps Partiel Winners - Greenfield Park</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Associé/associée De Magasin De Détail Temporaire Winners/homesense Place Versailles</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Retail Store Associate Seasonal Part Time Winners Cloverdale</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>On</td><td>2026-09-23</td></tr>
+<tr><td>Carter's, Inc.</td><td>Associe Aux Ventes</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Coach</td><td>Sales Support Associate Iii</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Kate Spade New York</td><td>Temporary Associate</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>TJX Companies</td><td>Retail Store Temporary Associate Part Time Winners/homesense - Skyview</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>TJX Companies</td><td>Full Time Associate - Dorval Homesense</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>TJX Companies</td><td>Retail Sales Associate Marshalls Maple Major Village Ontario</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Homesense</td><td>Retail Store Associate Part Time Homesense - Rockwood Mall</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>TJX Companies</td><td>Retail Store Associate Seasonal Marshalls/homesense - Yonge & Gerrard</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>TJX Companies</td><td>Seasonal Retail Store Associate Part Time Winners- Upper Canada Mall</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>TJX Companies</td><td>Retail Store Associate Temporary Part Time Winners -markham</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Winners</td><td>Associé/associée De Magasin De Détail A Temps Partiel- Winners Kirkland</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Winners</td><td>Retail Store Associate Full Time Winners - Etobicoke</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle -act</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Sundial Growers Inc.</td><td>Sales Associate</td><td>Wine & Beyond Southgate</td><td>2026-09-23</td></tr>
+<tr><td>Ace Liquor Discounter</td><td>Sales Associate</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>Calvin Klein</td><td>Temporary Sales Associate - Part-time</td><td>Cookstown</td><td>2026-09-23</td></tr>
+<tr><td>UPS</td><td>Warehouse Associate</td><td>Guelph</td><td>2026-09-23</td></tr>
+<tr><td>LOVISA</td><td>Retail Sales Associates- Toronto Eaton Centre</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Aubainerie</td><td>Conseiller(ère) À La Vente Et Caissier(ère) (temps Partiel)</td><td>Ottawa</td><td>2026-09-23</td></tr>
+<tr><td>SMCP</td><td>Pt Seasonal Operations Associate, Mississauga, Ontario</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate-print&services (full-time)</td><td>Sept</td><td>2026-09-23</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate-print&services (full-time)</td><td>Sept</td><td>2026-09-23</td></tr>
+<tr><td>Bailey Nelson</td><td>Part-time Sales Associate/eyewear Stylist - The Well</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Edmonton, Ab</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>University Health Network</td><td>Administrative Assistant I - Ophthalmology Office</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Cornerstone Co-op</td><td>Administrative Assistant</td><td>Vermilion</td><td>2026-09-23</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Recreation Coordinator</td><td>Humboldt</td><td>2026-09-23</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Administrative Assistant (casual)</td><td>Winkler</td><td>2026-09-23</td></tr>
+<tr><td>Shared Health</td><td>Indigenous Health Administrative Assistant</td><td>Winnipeg</td><td>2026-09-23</td></tr>
 </table>
