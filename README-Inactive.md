@@ -7262,4 +7262,75 @@
 <tr><td>Aecon Group</td><td>Co-op Engineering Student</td><td>Montreal</td><td>2026-09-22</td></tr>
 <tr><td>Bombardier</td><td>Intern, Business Intelligence Analyst (fall 2026)</td><td>Montreal</td><td>2026-09-22</td></tr>
 <tr><td>Walmart Inc</td><td>(can) Gérant Adjoint, Consommables</td><td>Montreal</td><td>2026-09-22</td></tr>
+<tr><td>BDO Canada</td><td>Co-op Or Intern, Technology - Bizapps (january 2027)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Nutrien Ltd</td><td>Student, Hrsc, Employee Support</td><td>Calgary</td><td>2026-09-23</td></tr>
+<tr><td>McKesson</td><td>Stagiaire En Pharmacie Coop</td><td>Quebec</td><td>2026-09-23</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Gestion Des Programmes - Hiver 2027 Internship - Operations Program Management - Winter 2027</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>WSP</td><td>Project Controls Intern</td><td>Calgary</td><td>2026-09-23</td></tr>
+<tr><td>WSP in Canada</td><td>Project Controls Intern</td><td>Calgary</td><td>2026-09-23</td></tr>
+<tr><td>Nokia</td><td>Incubation Developer Student</td><td>Ottawa</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Junior Ubuntu Software Engineer</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Afterhours Driver Support Specialist</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Ai Agents</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Data Insights</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Customer Support Specialist I</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Client Support Specialist</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>U.S. Bank</td><td>Software Engineer 2 - (backend /api/ Microservices)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Sophos</td><td>Software Engineer Ii, Agentic Ai</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer, Core Apis</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Full Stack Engineer</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>Bombardier</td><td>Full Stack Developer, Front-end & User Experience - Digital & Artificial Intelligence</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Grm, Global Aml Metrics Reporting Analyst (4 Months)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Bombardier</td><td>Analyst, Data Science & Ai</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Bombardier</td><td>Analyst, Business Intelligence (bi)</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>TD Bank Group</td><td>Data Scientist Iii (financial Crimes Network Analytics)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Voith</td><td>Financial Analyst</td><td>Hawkesbury</td><td>2026-09-23</td></tr>
+<tr><td>Aviva Canada</td><td>Actuarial Analyst, Reserving</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Aviva Insurance Direct</td><td>Actuarial Analyst, Reserving</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>TD Bank Group</td><td>Market Risk Specialist, Xva (5113)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>TD Ameritrade</td><td>Market Risk Specialist, Xva (5113)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Data & Analytics - Analyst - Toronto</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Actuarial Analyst – 2026 & 2027 New Grads - Montreal</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Marsh</td><td>Marsh: Consulting In Context - Toronto 2026</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>CDPQ Infra</td><td>Premier(-ère) Conseiller(-ère), Accompagnement Bureautique</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Retirement World</td><td>2027 Winter - Grm, Market Risk Analyst (4 Months)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>RBC Insurance</td><td>2027 Winter - Grmi, Valuation Actuarial Analyst (4-8 Months)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Ovintiv</td><td>Student Supply Management Sourcing Analyst/engineer</td><td>Calgary</td><td>2026-09-23</td></tr>
+<tr><td>kaiserkraft.pt</td><td>Analyst, Sales Finance</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Traineekraftheinz</td><td>Analyst, Sales Finance</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Rsmcanada</td><td>Cyber Compliance Consulting Associate - Summer 2027</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Cfo, Winter Markets Data Analyst (4 Months)</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>TELUS</td><td>Registered Pharmacy Technician</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>ParaMed</td><td>Personal Support Worker</td><td>Canada</td><td>2026-09-23</td></tr>
+<tr><td>Scarborough Health Network Foundation</td><td>Registered Nurse, Enroute To Paediatrics (talent Pool, 2026)</td><td>General Hospital</td><td>2026-09-23</td></tr>
+<tr><td>Health Science North</td><td>Personal Support Worker</td><td>Unknown</td><td>2026-09-23</td></tr>
+<tr><td>University of British Columbia</td><td>Research Assistant/technician 3</td><td>Vancouver</td><td>2026-09-23</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Health Care Aide (hca) - Temporary Full Time (ft) - Poseidon Care Centre</td><td>Manitoba</td><td>2026-09-23</td></tr>
+<tr><td>Chartwell Retirement Residences</td><td>Guest Attendant</td><td>On</td><td>2026-09-23</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>Birch Hills</td><td>2026-09-23</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Unit Support Worker</td><td>Battleford</td><td>2026-09-23</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Registered Practical Nurse (rpn) - Temporary Full Time - Van Daele</td><td>Sault St Marie</td><td>2026-09-23</td></tr>
+<tr><td>Amentum Pr</td><td>General Maintenance Technician Ii</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Richmond Hill, On</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Markham, On</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Oshawa, On</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Summerside, Pe</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Full Time Retail Associate (optical): Sherwood Park, Ab</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Full Time Retail Associate Optical: Spruce Grove, Ab</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Edmonton, Alberta</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Full-time Retail Associate: Etobicoke, On</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Etobicoke, On</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Aurora, On</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>JYSK Canada</td><td>Sales Colleague</td><td>Edmonton</td><td>2026-09-23</td></tr>
+<tr><td>SMCP</td><td>Pt Retail Sales Associate, Maje, Pacific Centre, Vancouver</td><td>Vancouver</td><td>2026-09-23</td></tr>
+<tr><td>La Senza</td><td>Sales Associate</td><td>Vernon BC</td><td>2026-09-23</td></tr>
+<tr><td>Cornerstone Building Brands</td><td>Branch Warehouse Associate</td><td>Kelowna</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Sales Associate</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>CB2</td><td>Sales Associate</td><td>Cb</td><td>2026-09-23</td></tr>
+<tr><td>CB2</td><td>Operations Associate, C&b</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>TELUS</td><td>Administrative Associate/receptionist - Clinic</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Customer Services Coordinator</td><td>Ottawa</td><td>2026-09-23</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Case Coordinator</td><td>Winnipeg</td><td>2026-09-23</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Case Coordinator</td><td>Winnipeg</td><td>2026-09-23</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Case Coordinator - Repost</td><td>Winnipeg</td><td>2026-09-23</td></tr>
 </table>
