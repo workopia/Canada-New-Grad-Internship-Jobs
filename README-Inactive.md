@@ -7416,4 +7416,11 @@
 <tr><td>HealthCareers SK 2</td><td>Recreation Coordinator</td><td>Humboldt</td><td>2026-09-23</td></tr>
 <tr><td>Winnipeg Regional Health Authority</td><td>Administrative Assistant (casual)</td><td>Winkler</td><td>2026-09-23</td></tr>
 <tr><td>Shared Health</td><td>Indigenous Health Administrative Assistant</td><td>Winnipeg</td><td>2026-09-23</td></tr>
+<tr><td>GIRO</td><td>Winter 2027 - Software Development And Artificial Intelligence Intern</td><td>Montreal</td><td>2026-09-23</td></tr>
+<tr><td>AltaGas</td><td>Altagas - 2027 Communications Intern</td><td>Calgary</td><td>2026-09-23</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Malignant Hematology Day Unit</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse</td><td>Toronto</td><td>2026-09-23</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Calgary</td><td>2026-09-23</td></tr>
+<tr><td>Staples Canada</td><td>Associé Des Ventes</td><td>Anjou</td><td>2026-09-23</td></tr>
+<tr><td>CIBC US</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-09-23</td></tr>
 </table>

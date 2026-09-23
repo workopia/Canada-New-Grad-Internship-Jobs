@@ -98,6 +98,18 @@
    "role": "Summer Intern 2027 - Investments",
    "location": "Toronto"
   },
+  "6b03b4877ddabcb51bc79cd4676d764e": {
+   "id": "6b03b4877ddabcb51bc79cd4676d764e",
+   "company": "Pratt & Whitney Canada",
+   "role": "Stage - Hiver 2027 - Genie Industriel / Internship - Winter 2027 - Industrial_engineering",
+   "location": "Montreal"
+  },
+  "efb39c4d459110d8a370fa3de2116f2d": {
+   "id": "efb39c4d459110d8a370fa3de2116f2d",
+   "company": "Cytiva",
+   "role": "R&d Formulation Co-op",
+   "location": "Vancouver"
+  },
   "4ef214a9fef6fb817222f337b3e0ff1d": {
    "id": "4ef214a9fef6fb817222f337b3e0ff1d",
    "company": "Retirement World",
@@ -487,18 +499,6 @@
    "company": "RBC",
    "role": "2027 Winter - Grm, Global Economic Sanctions Intern (4 Months)",
    "location": "Toronto"
-  },
-  "c1da8c986d3583d31db257f6ba1250ed": {
-   "id": "c1da8c986d3583d31db257f6ba1250ed",
-   "company": "GIRO",
-   "role": "Winter 2027 - Software Development And Artificial Intelligence Intern",
-   "location": "Montreal"
-  },
-  "808e61f32ac05496333fccb92b0a35c6": {
-   "id": "808e61f32ac05496333fccb92b0a35c6",
-   "company": "AltaGas",
-   "role": "Altagas - 2027 Communications Intern",
-   "location": "Calgary"
   },
   "4a2fd6b74629ee2c8790139db70b0954": {
    "id": "4a2fd6b74629ee2c8790139db70b0954",
@@ -3476,6 +3476,18 @@
    "role": "Guest Attendant (part Time) - Trillium Court Retirement",
    "location": "Trillium Court"
   },
+  "7179351dbd9d69f5b4e19f056cdca536": {
+   "id": "7179351dbd9d69f5b4e19f056cdca536",
+   "company": "Sitel",
+   "role": "Infirmière Bilingue",
+   "location": "Province De QuéBec"
+  },
+  "87777f3ce4f96eb0a3addcb5bce4cf78": {
+   "id": "87777f3ce4f96eb0a3addcb5bce4cf78",
+   "company": "Health Science North",
+   "role": "Pharmacy Technician (tech Iii) X4",
+   "location": "Unknown"
+  },
   "dfa1cbaa52ab76e74287105c5b58e1d4": {
    "id": "dfa1cbaa52ab76e74287105c5b58e1d4",
    "company": "University Health Network",
@@ -3876,18 +3888,6 @@
    "id": "602ee117fbad0223fe756fb7cb23afe0",
    "company": "University Health Network",
    "role": "Personal Support Worker",
-   "location": "Toronto"
-  },
-  "ff97446e3ff001f3ca7f4c337fef3e0b": {
-   "id": "ff97446e3ff001f3ca7f4c337fef3e0b",
-   "company": "University Health Network",
-   "role": "Registered Nurse - Malignant Hematology Day Unit",
-   "location": "Toronto"
-  },
-  "a9eaa89b258ab555d954013947cdac1c": {
-   "id": "a9eaa89b258ab555d954013947cdac1c",
-   "company": "University Health Network",
-   "role": "Registered Nurse",
    "location": "Toronto"
   },
   "1315673b3c3754f2eafaec654cef76d1": {
@@ -4754,6 +4754,18 @@
    "role": "Retail Seasonal Sales Associate, Bridgeview Plaza",
    "location": "Miramichi"
   },
+  "3bf887a6c25b9a724cc36b382e2f1bf0": {
+   "id": "3bf887a6c25b9a724cc36b382e2f1bf0",
+   "company": "Allstate",
+   "role": "Allstate Sales Agent Trainee",
+   "location": "Canada"
+  },
+  "7d5a05bacd643a4105f7016d089ed237": {
+   "id": "7d5a05bacd643a4105f7016d089ed237",
+   "company": "UPS",
+   "role": "Early Morning Warehouse Associate",
+   "location": "Toronto"
+  },
   "14bdddd1d2e0c85586a405bda6cbc4da": {
    "id": "14bdddd1d2e0c85586a405bda6cbc4da",
    "company": "Reformation",
@@ -4838,18 +4850,6 @@
    "role": "Sales Associate",
    "location": "Calgary"
   },
-  "730153428b64a71213f5b1c8b2396d45": {
-   "id": "730153428b64a71213f5b1c8b2396d45",
-   "company": "Staples Business",
-   "role": "Sales Associate",
-   "location": "Calgary"
-  },
-  "5c7dfd2b6dcb124f4550cf1a7d6c1b7b": {
-   "id": "5c7dfd2b6dcb124f4550cf1a7d6c1b7b",
-   "company": "Staples Canada",
-   "role": "Associé Des Ventes",
-   "location": "Anjou"
-  },
   "38b1063f0317efdabebe218a23924a41": {
    "id": "38b1063f0317efdabebe218a23924a41",
    "company": "TELUS",
@@ -4879,6 +4879,12 @@
    "company": "TJX Australia (TK Maxx)",
    "role": "Directeur/directrice Adjoint(e) De Magasin Marshalls",
    "location": "Montreal"
+  },
+  "3a8780350a8a44b7f933abbacd4c5048": {
+   "id": "3a8780350a8a44b7f933abbacd4c5048",
+   "company": "460",
+   "role": "Operations Coordinator",
+   "location": "British Columbia"
   },
   "4bdde8dee09b558a300d76e7aa466421": {
    "id": "4bdde8dee09b558a300d76e7aa466421",
@@ -5322,12 +5328,6 @@
    "id": "7a7dcc1773e4f224998e1085047470f0",
    "company": "University Health Network",
    "role": "Administrative Assistant Iii",
-   "location": "Toronto"
-  },
-  "6afc71d2a502d393457a0f19246380bc": {
-   "id": "6afc71d2a502d393457a0f19246380bc",
-   "company": "CIBC US",
-   "role": "Administrative Assistant",
    "location": "Toronto"
   }
  }
