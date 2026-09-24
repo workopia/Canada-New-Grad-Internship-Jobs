@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-24",
- "count": 889,
+ "count": 744,
  "jobs": {
   "21784": {
    "id": "21784",
@@ -62,11 +62,41 @@
    "role": "Hematology Marketing Intern (12-month Contract)",
    "location": "Toronto"
   },
-  "16123dfa233b8d322b94ca11c34ef543": {
-   "id": "16123dfa233b8d322b94ca11c34ef543",
+  "d8c4050877744e58b4fb5cd127c7a197": {
+   "id": "d8c4050877744e58b4fb5cd127c7a197",
    "company": "Retirement World",
    "role": "Client Advisor Intern",
-   "location": "West Kelowna"
+   "location": "Kawartha Lakes"
+  },
+  "aa1f4678e6d351fc3bddc6e8a46109a9": {
+   "id": "aa1f4678e6d351fc3bddc6e8a46109a9",
+   "company": "TC Energy",
+   "role": "Intern, Corporate Secretarial & Finance Law",
+   "location": "Calgary"
+  },
+  "764ed2e46af1d753c3acdaf6e1904ee4": {
+   "id": "764ed2e46af1d753c3acdaf6e1904ee4",
+   "company": "TC Energy",
+   "role": "Intern, Market Risk Reporting",
+   "location": "Calgary"
+  },
+  "7178f9a36fbfe37e87635d0d00086ac9": {
+   "id": "7178f9a36fbfe37e87635d0d00086ac9",
+   "company": "TC Energy",
+   "role": "Intern, Communications",
+   "location": "Calgary"
+  },
+  "9a397efea75d12acfa80451bf60811e7": {
+   "id": "9a397efea75d12acfa80451bf60811e7",
+   "company": "Hotel Chadstone Melbourne MGallery",
+   "role": "Stage - Banquets, Mi-février À Août, (h/f/d)",
+   "location": "Montebello"
+  },
+  "706f1f0aa2da7c3f872e42556e84e747": {
+   "id": "706f1f0aa2da7c3f872e42556e84e747",
+   "company": "Hotel Chadstone Melbourne MGallery",
+   "role": "Stage Opérationnel",
+   "location": "La Malbaie"
   },
   "5ceda6198b4072214d057ec368950b23": {
    "id": "5ceda6198b4072214d057ec368950b23",
@@ -169,6 +199,12 @@
    "company": "Cytiva",
    "role": "R&d Formulation Co-op",
    "location": "Vancouver"
+  },
+  "targetjobs:9e2a23a0-a6f7-4870-9d29-31e65bc72048": {
+   "id": "targetjobs:9e2a23a0-a6f7-4870-9d29-31e65bc72048",
+   "company": "Enterprise Mobility",
+   "role": "One Year Management Placement / Internship - Scarborough",
+   "location": "Scarborough"
   },
   "56f306cf54d09e618ac46629db5bc24c": {
    "id": "56f306cf54d09e618ac46629db5bc24c",
@@ -464,42 +500,6 @@
    "role": "Safety Intern - Western Canada District (summer 2027)",
    "location": "Vancouver"
   },
-  "a6007159b2b48c2101e1a7ba98289318": {
-   "id": "a6007159b2b48c2101e1a7ba98289318",
-   "company": "RBC",
-   "role": "Client Advisor Intern",
-   "location": "Antigonish"
-  },
-  "5d772746a74e17b11c7f1f803c075d53": {
-   "id": "5d772746a74e17b11c7f1f803c075d53",
-   "company": "Videotron",
-   "role": "Stagiaire En Droit",
-   "location": "Montreal"
-  },
-  "8a56f7e74aa64d2162ee446748fb8356": {
-   "id": "8a56f7e74aa64d2162ee446748fb8356",
-   "company": "Connor, Clark & Lunn Financial Group (CC&L)",
-   "role": "Intern, Institutional Portfolio Operations",
-   "location": "Vancouver"
-  },
-  "63235211032c5d5f26eb2e06e6fbe9b4": {
-   "id": "63235211032c5d5f26eb2e06e6fbe9b4",
-   "company": "SAP",
-   "role": "Sap Ixp Intern - Cloud Engineering [vancouver]",
-   "location": "Vancouver"
-  },
-  "4ab6b1f0aca45169c52c667bf2284ace": {
-   "id": "4ab6b1f0aca45169c52c667bf2284ace",
-   "company": "FCC",
-   "role": "Student, Fcc Capital",
-   "location": "Montreal"
-  },
-  "37021032fb5124205ed4930e6977685a": {
-   "id": "37021032fb5124205ed4930e6977685a",
-   "company": "Intelcom",
-   "role": "Back-end Developer Intern - Mobile Application",
-   "location": "Quebec"
-  },
   "5469c73b7c4e8faf24bf42ed79ee18a2": {
    "id": "5469c73b7c4e8faf24bf42ed79ee18a2",
    "company": "PCL Constructors Inc",
@@ -590,47 +590,11 @@
    "role": "Stage - Hiver 2027- Support À L’ingénierie Du Développement / Internship - Winter 2027 - Development Engineering Internship",
    "location": "Montreal"
   },
-  "e172a211f32fed020d8a44de9ed587c3": {
-   "id": "e172a211f32fed020d8a44de9ed587c3",
-   "company": "Pratt & Whitney Canada",
-   "role": "Stage - Hiver 2027- Soutien Aux Equipes Hep (hybrid-electric Propulsion) Et Nse (new Small Engine) A La Gestion De Programme / Internship - Winter 2027 - Hep (hybrid-electric Propulsion) & Nse (new Small Engine) Support To Program Management Team",
-   "location": "Montreal"
-  },
-  "78b2cce86946ca86a5b5269212730645": {
-   "id": "78b2cce86946ca86a5b5269212730645",
-   "company": "Pratt & Whitney Canada",
-   "role": "Stage - Hiver 2027 - Soutien Aux Equipes Hep (hybrid-electric Propulsion) Et Nse (new Small Engine) Soutien Au Design, Validation Et Analyse Des Moteurs / Internship - Winter 2027 - Hep (hybrid-electric Propulsion) & Nse (new Small Engine) Advanced Aerospace Engine Design, Test & Analysis Support",
-   "location": "Montreal"
-  },
-  "a195bdc9a22d1a4b812dc6ee3246b325": {
-   "id": "a195bdc9a22d1a4b812dc6ee3246b325",
-   "company": "Pratt & Whitney Canada",
-   "role": "Stage - Hiver 2027- Soutien Aux Équipes Hep (hydro-électrique Propulsion) Soutien Au Design, Validation Et Analyse Du Système De Propulsion Electrique / Internship - Winter 2027 - Hep (hybrid-electric Propulsion) Support To Electrical Propulsion System Design, Test & Analysis",
-   "location": "Montreal"
-  },
-  "a6f8cf84688f2bd849765841568ee7cf": {
-   "id": "a6f8cf84688f2bd849765841568ee7cf",
-   "company": "Pratt & Whitney Canada",
-   "role": "Stage- Hiver 2027-transformation Numerique / Internship- Digital Transformation -winter 2027",
-   "location": "Montreal"
-  },
-  "1971327d9bb3b5b3a9314fe13c87c824": {
-   "id": "1971327d9bb3b5b3a9314fe13c87c824",
-   "company": "Pratt & Whitney Canada",
-   "role": "Stage - Hiver 2027 - Spécialiste En Amélioration Des Procédés / Internship - Winter 2027 - Process Improvement Specialist",
-   "location": "Montreal"
-  },
   "4ecbae429b276414a4b03800375dc923": {
    "id": "4ecbae429b276414a4b03800375dc923",
    "company": "Intact Financial",
    "role": "Security Analyst– 4-month Internship/coop (winter 2027)",
    "location": "Toronto"
-  },
-  "5dbd67fb6e27985470f5ecbf1688fa20": {
-   "id": "5dbd67fb6e27985470f5ecbf1688fa20",
-   "company": "Signify",
-   "role": "Industrial Engineering Intern/stagiaire En Génie Industriel",
-   "location": "Montreal"
   },
   "3fa9d8174bf4cba53fd02e17f2bdf9c2": {
    "id": "3fa9d8174bf4cba53fd02e17f2bdf9c2",
@@ -674,292 +638,16 @@
    "role": "Intern, Full Stack Software Engineer - Team Sprout - Winter 2027",
    "location": "Toronto"
   },
-  "2273986af1106e4eb98b43c33ec4b89a": {
-   "id": "2273986af1106e4eb98b43c33ec4b89a",
-   "company": "RTX",
-   "role": "Stage - Hiver 2027 - Spécialiste En Ingénierie Du Support Technique Aux Ateliers Mro / Internship - Winter 2027 - Specialist, Mro Engineering Overhaul Support Services",
-   "location": "Montreal"
-  },
-  "c472de7810f4080e21dff99157a3a01e": {
-   "id": "c472de7810f4080e21dff99157a3a01e",
-   "company": "RTX",
-   "role": "Stage - Hiver 2027 - Membre Equipe Des Engrenages De Transmission / Internship - Winter 2027 - Member Of The Transmission Gear Team",
-   "location": "Montreal"
-  },
-  "288e9e131e39c25f8a93be93b4dee65e": {
-   "id": "288e9e131e39c25f8a93be93b4dee65e",
-   "company": "RTX",
-   "role": "Stagiaire Hiver 2027 Performance Moteurs / Internship Winter 2027 Engine Performance",
-   "location": "Montreal"
-  },
-  "b78d2050500f5b08f8f6cfa6886e27c6": {
-   "id": "b78d2050500f5b08f8f6cfa6886e27c6",
-   "company": "RTX",
-   "role": "Stage - Hiver 2027 - Analyste Mécanique Multi-disciplinaire / Internship - Winter 2027 - Multidisciplinary Mechanical Analyst",
-   "location": "Montreal"
-  },
-  "c460fe465055c92f0d56b1fd3117ab2e": {
-   "id": "c460fe465055c92f0d56b1fd3117ab2e",
-   "company": "Pratt & Whitney Canada",
-   "role": "Stage - Hiver 2027- Stagiaire En Technologies Chimiques / Internship - Winter 2027- Intern In Chemical Technology And Process",
-   "location": "Montreal"
-  },
-  "2f11b99ba0686bb2a87de96ecc8efb8d": {
-   "id": "2f11b99ba0686bb2a87de96ecc8efb8d",
-   "company": "RTX Corporation",
-   "role": "Stage - Hiver 2027- Recherche Et Developpement En Genie Manufacturier / Internship - Winter 2027- Manufacturing Engineering Research And Development (r&d)",
-   "location": "Montreal"
-  },
-  "638124006e99d1d6d990a41c7241047c": {
-   "id": "638124006e99d1d6d990a41c7241047c",
-   "company": "RTX Corporation",
-   "role": "Stage - Hiver 2027 - Service Numeriques Pour Les Moteurs - Support Client / Internship – Winter 2027 Digital Engine Services (des) Customer Support",
-   "location": "Montreal"
-  },
-  "d9481757a152531999fbfdac60f811f5": {
-   "id": "d9481757a152531999fbfdac60f811f5",
-   "company": "Pratt & Whitney Canada",
-   "role": "Stage - Hiver 2027- Recherche Et Developpement En Genie Manufacturier / Internship - Winter 2027- Manufacturing Engineering Research And Development (r&d)",
-   "location": "Montreal"
-  },
-  "174de741b93483329b0aca716c698ab1": {
-   "id": "174de741b93483329b0aca716c698ab1",
-   "company": "Pratt & Whitney Canada",
-   "role": "Stage - Hiver 2027 - Service Numeriques Pour Les Moteurs - Support Client / Internship – Winter 2027 Digital Engine Services (des) Customer Support",
-   "location": "Montreal"
-  },
-  "8a0856ef1e9d4ab2ad9345ed60654d7d": {
-   "id": "8a0856ef1e9d4ab2ad9345ed60654d7d",
-   "company": "RTX (Raytheon)",
-   "role": "Stage - Hiver 2027- Soutien Aux Équipes Hep (hydro-électrique Propulsion) Soutien Au Design, Validation Et Analyse Du Système De Propulsion Electrique / Internship - Winter 2027 - Hep (hybrid-electric Propulsion) Support To Electrical Propulsion System Design, Test & Analysis",
-   "location": "Montreal"
-  },
-  "e7c226c8dbe54aeed03c57ab8bedee41": {
-   "id": "e7c226c8dbe54aeed03c57ab8bedee41",
-   "company": "RTX Corporation",
-   "role": "Stage - Hiver 2027 - Soutien Aux Equipes Hep (hybrid-electric Propulsion) Et Nse (new Small Engine) Soutien Au Design, Validation Et Analyse Des Moteurs / Internship - Winter 2027 - Hep (hybrid-electric Propulsion) & Nse (new Small Engine) Advanced Aerospace Engine Design, Test & Analysis Support",
-   "location": "Montreal"
-  },
-  "1d038d2d7650502b332f9a55e9ca7839": {
-   "id": "1d038d2d7650502b332f9a55e9ca7839",
-   "company": "GE Vernova – Hydro",
-   "role": "Stagiaire Concepteur Mécanique Turbine",
-   "location": "Montreal"
-  },
-  "e6baea68c752c6211b2478a4e2ae19fc": {
-   "id": "e6baea68c752c6211b2478a4e2ae19fc",
-   "company": "RTX Corporation",
-   "role": "Stage - Hiver 2027- Soutien Aux Equipes Hep (hybrid-electric Propulsion) Et Nse (new Small Engine) A La Gestion De Programme / Internship - Winter 2027 - Hep (hybrid-electric Propulsion) & Nse (new Small Engine) Support To Program Management Team",
-   "location": "Montreal"
-  },
-  "e6be6472b09ab099a35490d93713c608": {
-   "id": "e6be6472b09ab099a35490d93713c608",
-   "company": "RTX Corporation",
-   "role": "Stage - Hiver 2027 - Membre Equipe Des Engrenages De Transmission / Internship - Winter 2027 - Member Of The Transmission Gear Team",
-   "location": "Montreal"
-  },
-  "469adb38b9e0c41eac73babeab102f9d": {
-   "id": "469adb38b9e0c41eac73babeab102f9d",
-   "company": "RTX (Raytheon)",
-   "role": "Stage - Hiver 2027 - Membre Equipe Des Engrenages De Transmission / Internship - Winter 2027 - Member Of The Transmission Gear Team",
-   "location": "Montreal"
-  },
-  "c5f47354a5cf4e42b5570d8363286132": {
-   "id": "c5f47354a5cf4e42b5570d8363286132",
-   "company": "RTX (Raytheon)",
-   "role": "Stage - Hiver 2027- Support À L’ingénierie Du Développement / Internship - Winter 2027 - Development Engineering Internship",
-   "location": "Montreal"
-  },
-  "348b4899e2b0bbc46266c491ee00fb4a": {
-   "id": "348b4899e2b0bbc46266c491ee00fb4a",
-   "company": "RTX Corporation",
-   "role": "Stagiaire Hiver 2027 Performance Moteurs / Internship Winter 2027 Engine Performance",
-   "location": "Montreal"
-  },
-  "1e513b30517b409e4ae9aa9ad1a0a8c7": {
-   "id": "1e513b30517b409e4ae9aa9ad1a0a8c7",
-   "company": "RTX (Raytheon)",
-   "role": "Stage - Hiver 2027 - Analyste Mécanique Multi-disciplinaire / Internship - Winter 2027 - Multidisciplinary Mechanical Analyst",
-   "location": "Montreal"
-  },
-  "0518f69c88b0f75db6767684eef120a4": {
-   "id": "0518f69c88b0f75db6767684eef120a4",
-   "company": "RTX (Raytheon)",
-   "role": "Stage - Hiver 2027 - Ingénierie Du Développement Des Systemes De Commande / Internship - Winter 2027 - Development Controls Engineer",
-   "location": "Montreal"
-  },
-  "1355a4e9df51ae22a8181afc32afec9d": {
-   "id": "1355a4e9df51ae22a8181afc32afec9d",
-   "company": "RTX (Raytheon)",
-   "role": "Stagiaire Hiver 2027 Performance Moteurs / Internship Winter 2027 Engine Performance",
-   "location": "Montreal"
-  },
-  "5040d72d49e9c56d4003fb1a97ed6b5d": {
-   "id": "5040d72d49e9c56d4003fb1a97ed6b5d",
-   "company": "RTX Corporation",
-   "role": "Stage - Hiver 2027 - Ingénierie Du Développement Des Systemes De Commande / Internship - Winter 2027 - Development Controls Engineer",
-   "location": "Montreal"
-  },
-  "6fb7a17cf006e5f00c2da5f093d154c0": {
-   "id": "6fb7a17cf006e5f00c2da5f093d154c0",
-   "company": "RTX Corporation",
-   "role": "Stage - Hiver 2027-stagiaire Instrumentation/internship - Winter 2027-instrumentation",
-   "location": "Montreal"
-  },
-  "caf3918171898ab29fb014b2cb7d6447": {
-   "id": "caf3918171898ab29fb014b2cb7d6447",
-   "company": "RTX (Raytheon)",
-   "role": "Stage - Hiver 2027 - Spécialiste En Ingénierie Du Support Technique Aux Ateliers Mro / Internship - Winter 2027 - Specialist, Mro Engineering Overhaul Support Services",
-   "location": "Montreal"
-  },
-  "4cddc25b7df23cfb15ee278be1b8f304": {
-   "id": "4cddc25b7df23cfb15ee278be1b8f304",
-   "company": "RTX Corporation",
-   "role": "Stage - Hiver 2027 - Spécialiste En Ingénierie Du Support Technique Aux Ateliers Mro / Internship - Winter 2027 - Specialist, Mro Engineering Overhaul Support Services",
-   "location": "Montreal"
-  },
-  "cb27c6bacc302cf3e09ce6ea2f982179": {
-   "id": "cb27c6bacc302cf3e09ce6ea2f982179",
-   "company": "RTX Corporation",
-   "role": "Stage- Hiver 2027-transformation Numerique / Internship- Digital Transformation -winter 2027",
-   "location": "Montreal"
-  },
-  "da129c2faeabe4380dc000d767c1f2f6": {
-   "id": "da129c2faeabe4380dc000d767c1f2f6",
-   "company": "RTX (Raytheon)",
-   "role": "Stage- Hiver 2027-transformation Numerique / Internship- Digital Transformation -winter 2027",
-   "location": "Montreal"
-  },
-  "04568ce7f308d208ba46413e9bcef421": {
-   "id": "04568ce7f308d208ba46413e9bcef421",
-   "company": "RTX (Raytheon)",
-   "role": "Stage En Formation Technique- Hiver 2027 / Internship Technical Training - Winter 2027",
-   "location": "Montreal"
-  },
-  "6dbf1606829ac9213490b766a73107ea": {
-   "id": "6dbf1606829ac9213490b766a73107ea",
-   "company": "Quebecor",
-   "role": "Stagiaire Ingénierie – Wi-fi Et Service Affaire",
-   "location": "Montreal"
-  },
   "e7330533c2a79fbf363c6efae9735edb": {
    "id": "e7330533c2a79fbf363c6efae9735edb",
    "company": "EPX",
    "role": "Intern, Backend Software Engineer - Team Interstellar - Winter 2027",
    "location": "Toronto"
   },
-  "1162f47a4919d29a9879057cd1f0da01": {
-   "id": "1162f47a4919d29a9879057cd1f0da01",
-   "company": "EPX",
-   "role": "Intern, Full Stack Software Engineer - Team Integrated Sprout - Winter 2027",
-   "location": "Toronto"
-  },
-  "76e599b2f4a3a255dadb085fdf1495ee": {
-   "id": "76e599b2f4a3a255dadb085fdf1495ee",
-   "company": "EPX",
-   "role": "Intern, Full Stack Software Engineer - Team Pickle - Winter 2027",
-   "location": "Toronto"
-  },
-  "e5f3c17cf5b3a7b2aac5d5c9d90de2bb": {
-   "id": "e5f3c17cf5b3a7b2aac5d5c9d90de2bb",
-   "company": "Capitalonecareers Com Ph",
-   "role": "Intern, Full Stack Software Engineer - Team Integrated Sprout - Winter 2027",
-   "location": "Toronto"
-  },
-  "d8f3a65ca3be050897e3ff2600e5597b": {
-   "id": "d8f3a65ca3be050897e3ff2600e5597b",
-   "company": "Hatch Ltd",
-   "role": "Structural Intern-trois Rivières",
-   "location": "Montreal"
-  },
-  "f42ddc8771fbb11e4182c57e4ac561bd": {
-   "id": "f42ddc8771fbb11e4182c57e4ac561bd",
-   "company": "Hatch Ltd",
-   "role": "Fall 2026- Electrical Intern-montreal",
-   "location": "Montreal"
-  },
-  "7f566b368c12cefebce62755f40612c1": {
-   "id": "7f566b368c12cefebce62755f40612c1",
-   "company": "Hatch Ltd",
-   "role": "Stagiaire En Électricité",
-   "location": "Montreal"
-  },
-  "0c28543ed33e6762b27f7740e314d3ef": {
-   "id": "0c28543ed33e6762b27f7740e314d3ef",
-   "company": "Dana",
-   "role": "Stagiaire En Ingénierie Des Solutions Avancées Et Ingénierie Des Applications",
-   "location": "Montreal"
-  },
-  "02679f6c3105b0a7ab53ec30ccb6c113": {
-   "id": "02679f6c3105b0a7ab53ec30ccb6c113",
-   "company": "Aecon U.S.",
-   "role": "Co-op Engineering Student",
-   "location": "Montreal"
-  },
-  "d210e4e926aebbc94e26d7770e7db786": {
-   "id": "d210e4e926aebbc94e26d7770e7db786",
-   "company": "Quebecor",
-   "role": "Stagiaire En Ingénierie Civil - Conception Du Réseau Filaire",
-   "location": "Montreal"
-  },
-  "1369e129abcec1a42c6c10f6b5a238a4": {
-   "id": "1369e129abcec1a42c6c10f6b5a238a4",
-   "company": "Later",
-   "role": "Software Development Co-op (later Influence)",
-   "location": "Vancouver"
-  },
-  "c97c7983f8356c89fc8df48d88ba4413": {
-   "id": "c97c7983f8356c89fc8df48d88ba4413",
-   "company": "Howmet International",
-   "role": "Engineering Intern",
-   "location": "Montreal"
-  },
-  "8f6decfc240a7619589f63d7fcfa970f": {
-   "id": "8f6decfc240a7619589f63d7fcfa970f",
-   "company": "Howmet Aerospace",
-   "role": "Engineering Intern",
-   "location": "Montreal"
-  },
   "8b8b9ab22dc958ace0832ca5b275cc74": {
    "id": "8b8b9ab22dc958ace0832ca5b275cc74",
    "company": "Halton Region",
    "role": "Co-op Student - Service Desk",
-   "location": "Toronto"
-  },
-  "d3435479541d2d32a90f27de94860b0a": {
-   "id": "d3435479541d2d32a90f27de94860b0a",
-   "company": "Cambio Earth Systems",
-   "role": "Software Developer Co-op",
-   "location": "Vancouver"
-  },
-  "2fae8abb678cb186344b4689d8862e2e": {
-   "id": "2fae8abb678cb186344b4689d8862e2e",
-   "company": "Quebecor",
-   "role": "Stagiaire Ingénierie - Radio Fréquences",
-   "location": "Montreal"
-  },
-  "a8077f5ce6872c5d06e40bfcf0e6ff3c": {
-   "id": "a8077f5ce6872c5d06e40bfcf0e6ff3c",
-   "company": "Dana",
-   "role": "Stagiaire En Génie Mécanique",
-   "location": "Montreal"
-  },
-  "a35553ad3d5a9102002cd76388f4e783": {
-   "id": "a35553ad3d5a9102002cd76388f4e783",
-   "company": "Dana",
-   "role": "Advance Solution Engineering And Application Engineering Intern",
-   "location": "Montreal"
-  },
-  "1a354ea1848c184908253a5b022441db": {
-   "id": "1a354ea1848c184908253a5b022441db",
-   "company": "fm1047.ca",
-   "role": "It Support Intern",
-   "location": "Toronto"
-  },
-  "b663c5d3f26563b8bf7d1245a0fbbe0f": {
-   "id": "b663c5d3f26563b8bf7d1245a0fbbe0f",
-   "company": "Canadian Derivatives Clearing Corporation",
-   "role": "It Support Intern",
    "location": "Toronto"
   },
   "f513c56122565ca77da14b0dcb696584": {
@@ -979,36 +667,6 @@
    "company": "Ciena",
    "role": "Embedded Software Developer (new Grad)",
    "location": "Ottawa"
-  },
-  "e5ddde64cda7b1d0b6eeba8ff9c38533": {
-   "id": "e5ddde64cda7b1d0b6eeba8ff9c38533",
-   "company": "Capital One Canada",
-   "role": "Associate, Software Engineer, New Grad Card Expansion",
-   "location": "Toronto"
-  },
-  "ca3ff59e5f547110d4e9bcba470e36b7": {
-   "id": "ca3ff59e5f547110d4e9bcba470e36b7",
-   "company": "Capital One Financial Corporation",
-   "role": "Associate, Software Engineer, New Grad Card Expansion",
-   "location": "Toronto"
-  },
-  "4df415e8691dbc0d2b5fa5a4e676f73c": {
-   "id": "4df415e8691dbc0d2b5fa5a4e676f73c",
-   "company": "Stripe Treasury",
-   "role": "Software Engineer, New Grad",
-   "location": "Toronto"
-  },
-  "d72919aa65cf5eacd3046efec71dfd40": {
-   "id": "d72919aa65cf5eacd3046efec71dfd40",
-   "company": "Stripe Issuing",
-   "role": "Software Engineer, New Grad",
-   "location": "Toronto"
-  },
-  "da86d3cffc346b6a088e833a3cfb3800": {
-   "id": "da86d3cffc346b6a088e833a3cfb3800",
-   "company": "EPX",
-   "role": "Associate, Software Engineer, New Grad Card Expansion",
-   "location": "Toronto"
   },
   "7d912c472cd3e736fde0cae4b2667c90": {
    "id": "7d912c472cd3e736fde0cae4b2667c90",
@@ -1292,18 +950,6 @@
    "role": "Développeur(euse) Unreal -domaine De L'ingénierie",
    "location": "Montreal"
   },
-  "6cbf77a592d9b836038716003772fd97": {
-   "id": "6cbf77a592d9b836038716003772fd97",
-   "company": "Sunlife Com Hk",
-   "role": "Information Security Analyst",
-   "location": "Toronto"
-  },
-  "7eb9b6cb7da5b22e8cf2606469652eab": {
-   "id": "7eb9b6cb7da5b22e8cf2606469652eab",
-   "company": "SunLife",
-   "role": "Information Security Analyst",
-   "location": "Toronto"
-  },
   "66fb2dd3eb6b236d5aa804139752e3f0": {
    "id": "66fb2dd3eb6b236d5aa804139752e3f0",
    "company": "ATS Industrial Automation",
@@ -1322,53 +968,17 @@
    "role": "Desarrollador/a Java Microservicios",
    "location": "Canada"
   },
-  "fac898cd4121e3adfcf979d9052fa107": {
-   "id": "fac898cd4121e3adfcf979d9052fa107",
-   "company": "Gordon Food Service",
-   "role": "Specialist, Product Support",
-   "location": "Alberta"
-  },
   "a3efb8832db7d47760a8a81479ae8dce": {
    "id": "a3efb8832db7d47760a8a81479ae8dce",
    "company": "Watts Water Technologies",
    "role": "Plumbing/hvac Technical Support Specialist",
    "location": "Vernon"
   },
-  "853105df4b0f29a94e26b551fb3e7ee5": {
-   "id": "853105df4b0f29a94e26b551fb3e7ee5",
-   "company": "7shifts",
-   "role": "Software Developer, Mid-market",
-   "location": "Toronto"
-  },
   "f7037db9d2fc9d90d3725fede4b84ee9": {
    "id": "f7037db9d2fc9d90d3725fede4b84ee9",
    "company": "Alorica",
    "role": "Service À La Clientèle Bilingue Soutien Technique Travail À Domicile / Remote French Bilingual Customer Service - Tech Support",
    "location": "Canada"
-  },
-  "7735ea678ed1b8c190fc28b4f9a525fe": {
-   "id": "7735ea678ed1b8c190fc28b4f9a525fe",
-   "company": "TD Bank",
-   "role": "Software Engineer Ii - Release & Deploy",
-   "location": "Toronto"
-  },
-  "f179693ae5f19cf56bdbeb666a5e6a76": {
-   "id": "f179693ae5f19cf56bdbeb666a5e6a76",
-   "company": "Alayacare",
-   "role": "Fullstack Developer (python) - Onboarding Team",
-   "location": "Montreal"
-  },
-  "3e4c123aedcbfd21a7e53d2d215bac29": {
-   "id": "3e4c123aedcbfd21a7e53d2d215bac29",
-   "company": "Sun Life",
-   "role": "Software Engineer",
-   "location": "Toronto"
-  },
-  "812791c01863181f8c218daf7854e4df": {
-   "id": "812791c01863181f8c218daf7854e4df",
-   "company": "Sun Life",
-   "role": "Associate Software Engineer",
-   "location": "Toronto"
   },
   "0e4b599c1baf0b8448236ee9b5fe6004": {
    "id": "0e4b599c1baf0b8448236ee9b5fe6004",
@@ -1387,12 +997,6 @@
    "company": "CLEAResult",
    "role": "Support Specialist I",
    "location": "British Columbia"
-  },
-  "4d0f87babeea271434f0cf35851ca1a8": {
-   "id": "4d0f87babeea271434f0cf35851ca1a8",
-   "company": "Onni Capital",
-   "role": "Intermediate Software Engineer - Onni Capital",
-   "location": "Vancouver"
   },
   "1aaa36121d21e5d5b03f884e1ad1cbbb": {
    "id": "1aaa36121d21e5d5b03f884e1ad1cbbb",
@@ -1424,65 +1028,17 @@
    "role": "Analyst, Full Stack Engineer",
    "location": "Toronto"
   },
-  "3366330a74922d214f6147a34fea3ad0": {
-   "id": "3366330a74922d214f6147a34fea3ad0",
-   "company": "TD Ameritrade",
-   "role": "Associate Software Engineer",
-   "location": "Toronto"
-  },
   "33b95445e28a0d6db4cf2b07b1409d7f": {
    "id": "33b95445e28a0d6db4cf2b07b1409d7f",
    "company": "Southern Health-Santé Sud",
    "role": "Telehealth Site Contact",
    "location": "Portage La Prairie"
   },
-  "901566a28740693db8ea5fd4acfde5fe": {
-   "id": "901566a28740693db8ea5fd4acfde5fe",
-   "company": "Accenture",
-   "role": "Tag Specialist",
-   "location": "Ontario"
-  },
-  "0d315f44be43d83ad316bf43b57002aa": {
-   "id": "0d315f44be43d83ad316bf43b57002aa",
-   "company": "Halfspace ApS",
-   "role": "Tag Specialist",
-   "location": "Ontario"
-  },
-  "2d40014dc993e2b9a3a64f5d72461cd1": {
-   "id": "2d40014dc993e2b9a3a64f5d72461cd1",
-   "company": "Xerox Corporation",
-   "role": "Bilingual Technical Helpdesk Associate – English/canadian French",
-   "location": "Canada"
-  },
-  "726cfc96ad745b2f46455d66eee84ed8": {
-   "id": "726cfc96ad745b2f46455d66eee84ed8",
-   "company": "CIBC US",
-   "role": "Software Engineer Ii - Android",
-   "location": "Toronto"
-  },
   "49237b00f7969a2c1b5480ded3f540b7": {
    "id": "49237b00f7969a2c1b5480ded3f540b7",
    "company": "CIRCLE CARDIOVASCULAR IMAGING",
    "role": "Platform Software Developer (2026-015)",
    "location": "Calgary"
-  },
-  "bcc1b8962ed8c3912414200320347838": {
-   "id": "bcc1b8962ed8c3912414200320347838",
-   "company": "TD",
-   "role": "Software Engineer Ii - Release & Deploy",
-   "location": "Toronto"
-  },
-  "564079e2ad3c948ab5c6e55e296f8bd4": {
-   "id": "564079e2ad3c948ab5c6e55e296f8bd4",
-   "company": "Bunge Global",
-   "role": "Production Support Specialist",
-   "location": "Altona"
-  },
-  "75c1e9c9220850552b065a07a95fc24d": {
-   "id": "75c1e9c9220850552b065a07a95fc24d",
-   "company": "HelloFresh",
-   "role": "Backend Software Product Developer, Ops Planning",
-   "location": "Toronto"
   },
   "bdfc1a03b008a33459af0b7163682817": {
    "id": "bdfc1a03b008a33459af0b7163682817",
@@ -1495,6 +1051,108 @@
    "company": "Alpine Aerotech",
    "role": "Information Systems Technician",
    "location": "Kelowna"
+  },
+  "f7ac2746f4bb790c804e2cb6c06498c5": {
+   "id": "f7ac2746f4bb790c804e2cb6c06498c5",
+   "company": "Jobgether",
+   "role": "Web Frontend Engineer - Js, Css, React, Flutter",
+   "location": "Canada"
+  },
+  "c741954cec9ddfa5e14f0501e558775d": {
+   "id": "c741954cec9ddfa5e14f0501e558775d",
+   "company": "Jobgether",
+   "role": "Microservices Engineer",
+   "location": "Canada"
+  },
+  "af3d6eac45db8348bbc86f00a97bbc63": {
+   "id": "af3d6eac45db8348bbc86f00a97bbc63",
+   "company": "Jobgether",
+   "role": "Junior Ubuntu Software Engineer",
+   "location": "Canada"
+  },
+  "33cbd6cc7504e6506fbf99c1bab453da": {
+   "id": "33cbd6cc7504e6506fbf99c1bab453da",
+   "company": "Jobgether",
+   "role": "Software Engineer, Ai Agents",
+   "location": "Canada"
+  },
+  "0bb567545ac178c6bff0dd78eede8ba1": {
+   "id": "0bb567545ac178c6bff0dd78eede8ba1",
+   "company": "Jobgether",
+   "role": "Software Engineer - Data Insights",
+   "location": "Canada"
+  },
+  "8a0b3ca959dc747e5cc82b033bead45a": {
+   "id": "8a0b3ca959dc747e5cc82b033bead45a",
+   "company": "Sophos",
+   "role": "Software Engineer Ii, Agentic Ai",
+   "location": "Canada"
+  },
+  "a64a58a26181a64fb1d10f0f948794b3": {
+   "id": "a64a58a26181a64fb1d10f0f948794b3",
+   "company": "Jobgether",
+   "role": "Backend Engineer, Core Apis",
+   "location": "Canada"
+  },
+  "40ed5221093c4733a42525296ebb33d4": {
+   "id": "40ed5221093c4733a42525296ebb33d4",
+   "company": "Bombardier",
+   "role": "Full Stack Developer, Front-end & User Experience - Digital & Artificial Intelligence",
+   "location": "Montreal"
+  },
+  "5f1c26e9cff339e03c3bb3abab603f54": {
+   "id": "5f1c26e9cff339e03c3bb3abab603f54",
+   "company": "HelloFresh",
+   "role": "Staff Backend Product Engineer, Operations Technology (all Genders)",
+   "location": "Toronto"
+  },
+  "451bd97e683857bbeeeda63810f1eb61": {
+   "id": "451bd97e683857bbeeeda63810f1eb61",
+   "company": "Fivetran",
+   "role": "Staff Software Engineer, Fullstack",
+   "location": "Toronto"
+  },
+  "11270b696d8cb9502f8aa89bdd1fcd5d": {
+   "id": "11270b696d8cb9502f8aa89bdd1fcd5d",
+   "company": "Jobgether",
+   "role": "Frontend Developer, Intermediate",
+   "location": "Canada"
+  },
+  "984a93d43b8f54a01c63615faffa047f": {
+   "id": "984a93d43b8f54a01c63615faffa047f",
+   "company": "Speechify",
+   "role": "Software Engineer, Platform - Vancouver, Canada",
+   "location": "Vancouver"
+  },
+  "9680a0ceb58a8cda3e2760bdc2eb8170": {
+   "id": "9680a0ceb58a8cda3e2760bdc2eb8170",
+   "company": "Jobgether",
+   "role": "Staff Software Engineer, Backend",
+   "location": "Canada"
+  },
+  "1c43161c8c46be2b3cd2cfb71be332c7": {
+   "id": "1c43161c8c46be2b3cd2cfb71be332c7",
+   "company": "Mattermost",
+   "role": "Staff Full Stack Engineer",
+   "location": "Toronto"
+  },
+  "7a1aa9507421115208c500915458c8dd": {
+   "id": "7a1aa9507421115208c500915458c8dd",
+   "company": "Dialpad",
+   "role": "Staff Software Engineer",
+   "location": "Vancouver"
+  },
+  "f463a1b96c6a7f6dd622e13da24ac24f": {
+   "id": "f463a1b96c6a7f6dd622e13da24ac24f",
+   "company": "City of Toronto",
+   "role": "Health Information Analyst",
+   "location": "Toronto"
+  },
+  "73e432afcbde1ac5099844c31991e3be": {
+   "id": "73e432afcbde1ac5099844c31991e3be",
+   "company": "Bank of Montreal",
+   "role": "Analyst, Full Stack Engineer",
+   "location": "Toronto"
   },
   "9132d4ee1a44fa1e03b80dd640ef536c": {
    "id": "9132d4ee1a44fa1e03b80dd640ef536c",
@@ -1592,36 +1250,6 @@
    "role": "Ai Developer – 4-month Internship/co-op (winter 2027)",
    "location": "Montreal"
   },
-  "91c2a509ef6549d54ec3c98ca9224116": {
-   "id": "91c2a509ef6549d54ec3c98ca9224116",
-   "company": "RBC (Royal Bank of Canada)",
-   "role": "2027 Winter - Clao, Data Analyst Intern (4 Months)",
-   "location": "Toronto"
-  },
-  "42cb375bba56711709dd258f57acc851": {
-   "id": "42cb375bba56711709dd258f57acc851",
-   "company": "TD Bank",
-   "role": "Td Asset Management Portfolio Analytics Data Analyst Intern/co-op (winter 2027)",
-   "location": "Toronto"
-  },
-  "3e9732326357a074ce17a9c81257e678": {
-   "id": "3e9732326357a074ce17a9c81257e678",
-   "company": "TD Bank",
-   "role": "Direct Investing Analytics & Insights Intern / Co-op (winter 2027)",
-   "location": "Toronto"
-  },
-  "fe0f6a386a6344326faa9d25d54cabc3": {
-   "id": "fe0f6a386a6344326faa9d25d54cabc3",
-   "company": "TD Bank",
-   "role": "Business Insights & Analytics Co-op/intern Winter 2027",
-   "location": "Toronto"
-  },
-  "c110565952c7a60198d881992266abb3": {
-   "id": "c110565952c7a60198d881992266abb3",
-   "company": "TD Bank",
-   "role": "Ai2 Business Intelligence Co-op/intern (winter 2027)",
-   "location": "Toronto"
-  },
   "b788b77ab4bca69aa1b17df3f2b8ea88": {
    "id": "b788b77ab4bca69aa1b17df3f2b8ea88",
    "company": "TD Bank",
@@ -1646,12 +1274,6 @@
    "role": "Ai2 Data Science Co-op (winter 2027)",
    "location": "Toronto"
   },
-  "d85182bdac26c24d3d669003ec337d2c": {
-   "id": "d85182bdac26c24d3d669003ec337d2c",
-   "company": "TD Bank",
-   "role": "Data Analyst Co-op / Intern​ (winter 2027)",
-   "location": "Toronto"
-  },
   "80d58659ae8592aba8ce61389f6cb28e": {
    "id": "80d58659ae8592aba8ce61389f6cb28e",
    "company": "Capital One Auto Finance",
@@ -1662,72 +1284,6 @@
    "id": "03ff988d313abda2a1879c36343f2b23",
    "company": "capitalonecareers.ca",
    "role": "Intern, Data Scientist - Winter 2027",
-   "location": "Toronto"
-  },
-  "571357447928e3f7148688cbd47f698f": {
-   "id": "571357447928e3f7148688cbd47f698f",
-   "company": "Manulife",
-   "role": "Winter Co-op 2027 - Data & Analytics",
-   "location": "Toronto"
-  },
-  "d4d9f8416cdd5be06650fb6c711e503e": {
-   "id": "d4d9f8416cdd5be06650fb6c711e503e",
-   "company": "Manulife John Hancock",
-   "role": "Winter Co-op 2027 - Reporting Analyst",
-   "location": "Toronto"
-  },
-  "4f6468888d6a00bb828774fe1999aec1": {
-   "id": "4f6468888d6a00bb828774fe1999aec1",
-   "company": "Manulife John Hancock",
-   "role": "Summer Intern 2027 - Reporting Analyst",
-   "location": "Toronto"
-  },
-  "c1d6f3adbc61bd2e335e44c511ccd486": {
-   "id": "c1d6f3adbc61bd2e335e44c511ccd486",
-   "company": "Royal Bank of Canada",
-   "role": "Winter 2027 Co-op Student – Data Analyst, Personal Banking (4, 8, 12 Months)",
-   "location": "Toronto"
-  },
-  "248e74471b3a08651d9c8ff507faacd6": {
-   "id": "248e74471b3a08651d9c8ff507faacd6",
-   "company": "Royal Bank of Canada",
-   "role": "2027 Winter - Grm, Data Scientist Intern (8 Months)",
-   "location": "Toronto"
-  },
-  "565ff688ee934d08672a124955851219": {
-   "id": "565ff688ee934d08672a124955851219",
-   "company": "Royal Bank of Canada",
-   "role": "2027 Winter - Grm, Data Analyst Intern (4 Months)",
-   "location": "Toronto"
-  },
-  "0e4fbd03da79e248321a5951e5215eb9": {
-   "id": "0e4fbd03da79e248321a5951e5215eb9",
-   "company": "Royal Bank of Canada",
-   "role": "2027 Winter - Grm, Alm Risk Data & Automation Analyst Intern (4 Months)",
-   "location": "Toronto"
-  },
-  "944bac65c5b2fcad228ba2b48cee655a": {
-   "id": "944bac65c5b2fcad228ba2b48cee655a",
-   "company": "Royal Bank of Canada",
-   "role": "2027 Winter - Ecco, Data Scientist Intern (4 Months)",
-   "location": "Toronto"
-  },
-  "acface1b2e949b5d13ead8b1b8ebd52e": {
-   "id": "acface1b2e949b5d13ead8b1b8ebd52e",
-   "company": "Bmwofsalem",
-   "role": "Data Science Analyst - Audit Ai & Analytics, Winter 2027 (co-op/internship) - 4 Months",
-   "location": "Toronto"
-  },
-  "60ce1f9f8180d2428788c5a2463d1632": {
-   "id": "60ce1f9f8180d2428788c5a2463d1632",
-   "company": "BMO",
-   "role": "Database Analyst, Winter 2027 (co-op/internship) - 8 Months",
-   "location": "Toronto"
-  },
-  "6380ce9600506323a2de5467fe8bcb54": {
-   "id": "6380ce9600506323a2de5467fe8bcb54",
-   "company": "BMO",
-   "role": "Data Analytics Intern, Winter 2027 (co-op/internship) - 8 Months",
    "location": "Toronto"
   },
   "d7326188f274f33f4bff63119e8643a3": {
@@ -1741,102 +1297,6 @@
    "company": "RTX Corporation",
    "role": "Stage - Hiver 2027 - Analyste De Données, Services De Pièces De Rechange / Internship - Winter 2027 - Data Analyst, Spare Parts Services",
    "location": "Montreal"
-  },
-  "135be8573ed346364d2da49da8dc3bff": {
-   "id": "135be8573ed346364d2da49da8dc3bff",
-   "company": "TD Bank Group",
-   "role": "Direct Investing Analytics & Insights Intern / Co-op (winter 2027)",
-   "location": "Toronto"
-  },
-  "57fb8706deaeaaedfafd9dcd8871e225": {
-   "id": "57fb8706deaeaaedfafd9dcd8871e225",
-   "company": "TD",
-   "role": "Direct Investing Analytics & Insights Intern / Co-op (winter 2027)",
-   "location": "Toronto"
-  },
-  "0f955c8baedac2a357fb0b38bf87cf1a": {
-   "id": "0f955c8baedac2a357fb0b38bf87cf1a",
-   "company": "Manulife",
-   "role": "Summer Intern 2027 - Reporting Analyst",
-   "location": "Toronto"
-  },
-  "320688f0dee7a8784a67f7b5af92fdca": {
-   "id": "320688f0dee7a8784a67f7b5af92fdca",
-   "company": "Manulife Financial Inc",
-   "role": "Summer Intern 2027 - Reporting Analyst",
-   "location": "Toronto"
-  },
-  "1b550bcb39b7b20a43ea4b2739908cc3": {
-   "id": "1b550bcb39b7b20a43ea4b2739908cc3",
-   "company": "Manulife",
-   "role": "Winter Co-op 2027 - Reporting Analyst",
-   "location": "Toronto"
-  },
-  "9966f51f41c84812c1bbc03f574f63f8": {
-   "id": "9966f51f41c84812c1bbc03f574f63f8",
-   "company": "Manulife Financial Inc",
-   "role": "Winter Co-op 2027 - Data & Analytics",
-   "location": "Toronto"
-  },
-  "d07f79b301125a0335d895cd90555b7d": {
-   "id": "d07f79b301125a0335d895cd90555b7d",
-   "company": "Manulife Financial Inc",
-   "role": "Winter Co-op 2027 - Reporting Analyst",
-   "location": "Toronto"
-  },
-  "8add06c308cb567ecc9660d537fc56e1": {
-   "id": "8add06c308cb567ecc9660d537fc56e1",
-   "company": "RBC (Royal Bank of Canada)",
-   "role": "2027 Winter - Grm, Data Analyst Intern (4 Months)",
-   "location": "Toronto"
-  },
-  "158e723c70834775bbd4d23f9ea03971": {
-   "id": "158e723c70834775bbd4d23f9ea03971",
-   "company": "RBC (Royal Bank of Canada)",
-   "role": "2027 Winter - Grm, Alm Risk Data & Automation Analyst Intern (4 Months)",
-   "location": "Toronto"
-  },
-  "6abb5ea0f7f79004102fc881d116ff3e": {
-   "id": "6abb5ea0f7f79004102fc881d116ff3e",
-   "company": "RBC (Royal Bank of Canada)",
-   "role": "2027 Winter - Ecco, Data Scientist Intern (4 Months)",
-   "location": "Toronto"
-  },
-  "3cf866bcd3e6b933ad7c0610c1acbbc1": {
-   "id": "3cf866bcd3e6b933ad7c0610c1acbbc1",
-   "company": "SAP SE",
-   "role": "Sap Ixp Intern - Ai Engineer",
-   "location": "Montreal"
-  },
-  "eac609c1b9c07bcecf3f8458381f35e7": {
-   "id": "eac609c1b9c07bcecf3f8458381f35e7",
-   "company": "Concur",
-   "role": "Sap Ixp Intern - Ai Engineer",
-   "location": "Montreal"
-  },
-  "29ef4b14ecf098734750fbbc4b756d8c": {
-   "id": "29ef4b14ecf098734750fbbc4b756d8c",
-   "company": "RBC (Royal Bank of Canada)",
-   "role": "2027 Winter - Grm, Data Scientist Intern (8 Months)",
-   "location": "Toronto"
-  },
-  "bca53c0981e068994193b3eaa90d0bb8": {
-   "id": "bca53c0981e068994193b3eaa90d0bb8",
-   "company": "RBC (Royal Bank of Canada)",
-   "role": "Winter 2027 Co-op Student – Data Analyst, Personal Banking (4, 8, 12 Months)",
-   "location": "Toronto"
-  },
-  "ac3ae43da7363c724da766d6c6ac1034": {
-   "id": "ac3ae43da7363c724da766d6c6ac1034",
-   "company": "SAP Ariba",
-   "role": "Sap Ixp Intern - Ai Engineer",
-   "location": "Montreal"
-  },
-  "29af96e6f2d86febb6b104c400571b6a": {
-   "id": "29af96e6f2d86febb6b104c400571b6a",
-   "company": "Kinectrics",
-   "role": "Electrical Data Analyst Coop Student (hvst)",
-   "location": "Toronto"
   },
   "3d13da9f5d6a1a7e598f37fb26140ede": {
    "id": "3d13da9f5d6a1a7e598f37fb26140ede",
@@ -1860,42 +1320,6 @@
    "id": "205060eaf4dfc592d7aaec6a8123b4e9",
    "company": "Capital One Financial Corporation",
    "role": "Associate, Data Scientist - New Grad, 2027 Start",
-   "location": "Toronto"
-  },
-  "3e649a06cf1c3dc8b6aa2a312084099f": {
-   "id": "3e649a06cf1c3dc8b6aa2a312084099f",
-   "company": "Capital One Auto Finance",
-   "role": "Associate, Data Analyst - New Grad, 2027 Start",
-   "location": "Toronto"
-  },
-  "f34b6ca9ce38caafd900d737fb64aa95": {
-   "id": "f34b6ca9ce38caafd900d737fb64aa95",
-   "company": "BMO",
-   "role": "Machine Learning Developer (new Or Recent Graduate)",
-   "location": "Toronto"
-  },
-  "206c88ea27e9ea8daac7947cb18310c2": {
-   "id": "206c88ea27e9ea8daac7947cb18310c2",
-   "company": "Bank of Montreal",
-   "role": "Machine Learning Developer (new Or Recent Graduate)",
-   "location": "Toronto"
-  },
-  "c92d676703569ac963bff6f681ee0c82": {
-   "id": "c92d676703569ac963bff6f681ee0c82",
-   "company": "Bmousbenefits",
-   "role": "Analyst, Commercial Risk Data (new Or Recent Graduate Opportunity)",
-   "location": "Toronto"
-  },
-  "f2f05928c3f0e70d3d21afd9fc05bec8": {
-   "id": "f2f05928c3f0e70d3d21afd9fc05bec8",
-   "company": "Bank of Montreal",
-   "role": "Analyst, Commercial Risk Data (new Or Recent Graduate Opportunity)",
-   "location": "Toronto"
-  },
-  "b94f94a75182d3efb01b6ffa1a6ad550": {
-   "id": "b94f94a75182d3efb01b6ffa1a6ad550",
-   "company": "Bmwofsalem",
-   "role": "Analyst, Commercial Risk Data (new Or Recent Graduate Opportunity)",
    "location": "Toronto"
   },
   "bb45b6029c2970fa439c84b3d4489f8d": {
@@ -2108,52 +1532,16 @@
    "role": "Online Data Analyst - French (ca)",
    "location": "Toronto"
   },
-  "0a15990b94664c59455c4a175111f1d0": {
-   "id": "0a15990b94664c59455c4a175111f1d0",
-   "company": "TD Bank",
-   "role": "Data Scientist Iii (financial Crimes Network Analytics)",
-   "location": "Toronto"
-  },
-  "c83b99c15c190b85ed56cb0bd74daa11": {
-   "id": "c83b99c15c190b85ed56cb0bd74daa11",
-   "company": "TD Bank",
-   "role": "Ai2 Business Intelligence Associate",
-   "location": "Toronto"
-  },
-  "0b8cb4a9c6e6b7ee24dbed05ed2f8d43": {
-   "id": "0b8cb4a9c6e6b7ee24dbed05ed2f8d43",
-   "company": "Desjardins General Insurance",
-   "role": "Credit Risk Data Scientist",
-   "location": "Montreal"
-  },
   "17d01929480f26d205fe4408bb6e9132": {
    "id": "17d01929480f26d205fe4408bb6e9132",
    "company": "Desjardins",
    "role": "Credit Risk Data Scientist",
    "location": "Montreal"
   },
-  "d369f897ee1d7f64f30d8bf03d5dbf1a": {
-   "id": "d369f897ee1d7f64f30d8bf03d5dbf1a",
-   "company": "Desjardins General Insurance",
-   "role": "Financial Data Valorization Analyst",
-   "location": "Montreal"
-  },
-  "c919f479792042f662933c0e342f4fc4": {
-   "id": "c919f479792042f662933c0e342f4fc4",
-   "company": "Desjardins General Insurance",
-   "role": "Analyst, Data Valorization",
-   "location": "Montreal"
-  },
   "0978c00c38bd5ea519be1858fb340e20": {
    "id": "0978c00c38bd5ea519be1858fb340e20",
    "company": "Desjardins",
    "role": "Financial Data Valorization Analyst",
-   "location": "Montreal"
-  },
-  "20e7e92dc11d7141d759b4f7e79aca59": {
-   "id": "20e7e92dc11d7141d759b4f7e79aca59",
-   "company": "Desjardins",
-   "role": "Analyst, Data Valorization",
    "location": "Montreal"
   },
   "aa8bf0e340e6bb8c321246f6a23c6091": {
@@ -2180,15 +1568,15 @@
    "role": "Advisor, Group Retirement Savings Business Intelligence",
    "location": "Montreal"
   },
-  "cf92b8a5880d82d6ee9859a782b1e535": {
-   "id": "cf92b8a5880d82d6ee9859a782b1e535",
-   "company": "Invesco",
-   "role": "Advanced Power Bi Engineer",
-   "location": "Charlottetown"
-  },
   "4803f1008296a40a482ce10ac0ab505b": {
    "id": "4803f1008296a40a482ce10ac0ab505b",
    "company": "Invesco UK",
+   "role": "Advanced Power Bi Engineer",
+   "location": "Charlottetown"
+  },
+  "cf92b8a5880d82d6ee9859a782b1e535": {
+   "id": "cf92b8a5880d82d6ee9859a782b1e535",
+   "company": "Invesco",
    "role": "Advanced Power Bi Engineer",
    "location": "Charlottetown"
   },
@@ -2209,36 +1597,6 @@
    "company": "Banklife",
    "role": "Agentic Engineer, Innovation",
    "location": "Montreal"
-  },
-  "ae50859c97dc64977e56586a9abe164a": {
-   "id": "ae50859c97dc64977e56586a9abe164a",
-   "company": "Royal Bank of Canada",
-   "role": "2027 Winter Student Opportunities Rbc Borealis - Ai Data Analyst - 8 Months",
-   "location": "Toronto"
-  },
-  "a3864b7141f90f868c478d3f1b22988b": {
-   "id": "a3864b7141f90f868c478d3f1b22988b",
-   "company": "Royal Bank of Canada",
-   "role": "Winter 2027 Student - Data Analyst, Commercial Banking (4 Months)",
-   "location": "Toronto"
-  },
-  "8095bfecbd292bf3064c655e50dcdb41": {
-   "id": "8095bfecbd292bf3064c655e50dcdb41",
-   "company": "Royal Bank of Canada",
-   "role": "2027 Insurance, Winter Business And Data Analyst (4-16 Months)",
-   "location": "Toronto"
-  },
-  "6d737ad7220ac65bff1258784f351d42": {
-   "id": "6d737ad7220ac65bff1258784f351d42",
-   "company": "Royal Bank of Canada",
-   "role": "2027 Wealth Management, Winter Data Analyst (4-16 Months)",
-   "location": "Toronto"
-  },
-  "e26ac27b8f1e5c259f6b03b1e9803bfd": {
-   "id": "e26ac27b8f1e5c259f6b03b1e9803bfd",
-   "company": "Royal Bank of Canada",
-   "role": "2027 Winter - Grm, Global Aml Metrics Reporting Analyst (4 Months)",
-   "location": "Toronto"
   },
   "72d81470c10e2895c899cd0ad140e3fe": {
    "id": "72d81470c10e2895c899cd0ad140e3fe",
@@ -2264,24 +1622,6 @@
    "role": "Agent Ai Engineer (temp)",
    "location": "Montreal"
   },
-  "82887ce375653a4c6bd86707738acd71": {
-   "id": "82887ce375653a4c6bd86707738acd71",
-   "company": "BCE Inc",
-   "role": "Data Scientist Ii",
-   "location": "Toronto"
-  },
-  "2fed30ee8b13869550391c5aa750a655": {
-   "id": "2fed30ee8b13869550391c5aa750a655",
-   "company": "RBC",
-   "role": "Data Scientist, Ai Model Risk",
-   "location": "Toronto"
-  },
-  "aad62001cbf38d981cc8864d0cbbc970": {
-   "id": "aad62001cbf38d981cc8864d0cbbc970",
-   "company": "BDO Canada",
-   "role": "Ai Engineer - Generative & Agentic Ai",
-   "location": "Toronto"
-  },
   "959285e099afcb6e8126fd93a23c6729": {
    "id": "959285e099afcb6e8126fd93a23c6729",
    "company": "Bombardier",
@@ -2293,24 +1633,6 @@
    "company": "Scarborough Health Network (SHN)",
    "role": "Business Intelligence Developer, Enterprise Analytics",
    "location": "Canada"
-  },
-  "455ac17134bbbe9eb7679f55e4501e78": {
-   "id": "455ac17134bbbe9eb7679f55e4501e78",
-   "company": "Canadian Broadcasting Corporation",
-   "role": "Ai Architect (t & I) (telework/hybrid)",
-   "location": "Montreal"
-  },
-  "8017115ca152f5e574519c47e5fd286f": {
-   "id": "8017115ca152f5e574519c47e5fd286f",
-   "company": "Bmousbenefits",
-   "role": "Ai Systems Engineer (cyber Detection Engineering)",
-   "location": "Toronto"
-  },
-  "b87b0737859b4866ae3916049d625e50": {
-   "id": "b87b0737859b4866ae3916049d625e50",
-   "company": "BMO",
-   "role": "Ai Systems Engineer (cyber Detection Engineering)",
-   "location": "Toronto"
   },
   "ec3c754363664a0e94861ce1fc026115": {
    "id": "ec3c754363664a0e94861ce1fc026115",
@@ -2330,29 +1652,11 @@
    "role": "Spécialiste En Ingénierie Ml/llm Et En Intelligence Artificielle Générative (genai)",
    "location": "Montreal"
   },
-  "a9a9dc4ee6c8a9ee454355bf2f116b08": {
-   "id": "a9a9dc4ee6c8a9ee454355bf2f116b08",
-   "company": "7shifts",
-   "role": "Ai Automation Engineer",
-   "location": "Toronto"
-  },
-  "f868a5ee16326592a775da4e3da1aaa4": {
-   "id": "f868a5ee16326592a775da4e3da1aaa4",
-   "company": "Norsk Hydro",
-   "role": "Regional Automation Engineer",
-   "location": "Toronto"
-  },
   "a5483acfab6823b892d6b4ebceda1421": {
    "id": "a5483acfab6823b892d6b4ebceda1421",
    "company": "Manulife",
    "role": "Gro - Data Analyst",
    "location": "Montreal"
-  },
-  "4b2890b1c36cf84bdca036ceefad24e7": {
-   "id": "4b2890b1c36cf84bdca036ceefad24e7",
-   "company": "Four Seasons",
-   "role": "Analyst, Data Quality & Governance",
-   "location": "Toronto"
   },
   "4aab4c1060be0793a6b5ac98bae94008": {
    "id": "4aab4c1060be0793a6b5ac98bae94008",
@@ -2360,23 +1664,95 @@
    "role": "Business Intelligence Analyst",
    "location": "Canada"
   },
-  "5e1d3513b994db6c3acc6ee9c92c6415": {
-   "id": "5e1d3513b994db6c3acc6ee9c92c6415",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Physical Ai Engineer",
-   "location": "Toronto"
-  },
-  "e69adb476245c87b93e529ccd8b22d34": {
-   "id": "e69adb476245c87b93e529ccd8b22d34",
-   "company": "EY",
-   "role": "Physical Ai Engineer",
-   "location": "Toronto"
-  },
   "e7e9d68bd51dade9734efcd30653e0f1": {
    "id": "e7e9d68bd51dade9734efcd30653e0f1",
    "company": "Velixo",
    "role": "Applied Ai Engineer",
    "location": "Montreal"
+  },
+  "bb69c08bdd369df5a81a8aaba8fcfb82": {
+   "id": "bb69c08bdd369df5a81a8aaba8fcfb82",
+   "company": "Bombardier",
+   "role": "Analyst, Data Science & Ai",
+   "location": "Montreal"
+  },
+  "710a68d16aa224392faeaa8a1cd44779": {
+   "id": "710a68d16aa224392faeaa8a1cd44779",
+   "company": "Bombardier",
+   "role": "Analyst, Business Intelligence (bi)",
+   "location": "Montreal"
+  },
+  "a0bd1d6fa947d537d30c4243e8d22b8c": {
+   "id": "a0bd1d6fa947d537d30c4243e8d22b8c",
+   "company": "Sun Life",
+   "role": "Bilingual Data Analyst",
+   "location": "Montreal"
+  },
+  "33574db60093c1483d110e8be1318ee1": {
+   "id": "33574db60093c1483d110e8be1318ee1",
+   "company": "Sunriseatwolfchase",
+   "role": "Bilingual Data Analyst",
+   "location": "Montreal"
+  },
+  "c46f7b19f5388baaf5e261790edd5900": {
+   "id": "c46f7b19f5388baaf5e261790edd5900",
+   "company": "Jobgether",
+   "role": "Data Analyst - Marvel Strike Force",
+   "location": "Canada"
+  },
+  "608fb51241aec58d5dc3a7817bbe53d4": {
+   "id": "608fb51241aec58d5dc3a7817bbe53d4",
+   "company": "Jobgether",
+   "role": "Data Analyst",
+   "location": "Canada"
+  },
+  "536408b65f734cc9a1d575631a23c90b": {
+   "id": "536408b65f734cc9a1d575631a23c90b",
+   "company": "Valtech",
+   "role": "Data Scientist Google Adk",
+   "location": "Ontario +1"
+  },
+  "af7798bf379575a8ef194da08dd1cf82": {
+   "id": "af7798bf379575a8ef194da08dd1cf82",
+   "company": "Bmousbenefits",
+   "role": "Business Intelligence Analyst",
+   "location": "Toronto"
+  },
+  "53c57ebb36e44864a3a1636857108a21": {
+   "id": "53c57ebb36e44864a3a1636857108a21",
+   "company": "Bank of Montreal",
+   "role": "Business Intelligence Analyst",
+   "location": "Toronto"
+  },
+  "f3de5ca7fdf1351b4025448947a09774": {
+   "id": "f3de5ca7fdf1351b4025448947a09774",
+   "company": "RSM Canada",
+   "role": "Data Analytics Associate",
+   "location": "Toronto"
+  },
+  "097e5489331fb6f1ca452b4108efb0a9": {
+   "id": "097e5489331fb6f1ca452b4108efb0a9",
+   "company": "Jobgether",
+   "role": "Data Scientist En Chef, Croissance",
+   "location": "Canada"
+  },
+  "a65db7b1738508468e19425663304c93": {
+   "id": "a65db7b1738508468e19425663304c93",
+   "company": "National General Holdings Corp",
+   "role": "Analyst - Operational Reporting Enablement",
+   "location": "Canadian Head Office"
+  },
+  "296064f9cc7e4c78d709d0f51daa7b75": {
+   "id": "296064f9cc7e4c78d709d0f51daa7b75",
+   "company": "allstate.ca",
+   "role": "Analyst - Operational Reporting Enablement",
+   "location": "Canadian Head Office"
+  },
+  "891362bb51d1c19b6d971561b96c8156": {
+   "id": "891362bb51d1c19b6d971561b96c8156",
+   "company": "Meridian Credit Union",
+   "role": "Data Scientist",
+   "location": "Canada"
   },
   "ff6adfd330ee13174162a344c603b568": {
    "id": "ff6adfd330ee13174162a344c603b568",
@@ -2462,28 +1838,10 @@
    "role": "Actuarial Coop Student - Winter Term 2027",
    "location": "Toronto"
   },
-  "c075db49887556cb23f9c0458e4ccf87": {
-   "id": "c075db49887556cb23f9c0458e4ccf87",
-   "company": "Retirement World",
-   "role": "2027 Winter - Procurement, Business Analyst Intern (4 Months)",
-   "location": "Toronto"
-  },
-  "114d7bf5f334a5a46414a94e2b91e1f9": {
-   "id": "114d7bf5f334a5a46414a94e2b91e1f9",
-   "company": "Retirement World",
-   "role": "2027 Winter - Grm, Ai Business Analyst Intern (4 Months)",
-   "location": "Toronto"
-  },
   "774e59e10c40bd1d75780df8601de044": {
    "id": "774e59e10c40bd1d75780df8601de044",
    "company": "RBC",
    "role": "2027 Winter - Grm, Credit Risk Analyst Intern (8 Months)",
-   "location": "Toronto"
-  },
-  "78205c1c919484cb6860a12ec5ee8610": {
-   "id": "78205c1c919484cb6860a12ec5ee8610",
-   "company": "TJX Australia (TK Maxx)",
-   "role": "Winter Term (4 Month) Finance Analyst Co-op",
    "location": "Toronto"
   },
   "bee8895041e578da6919e899b23acc1f": {
@@ -2504,12 +1862,6 @@
    "role": "Actuarial Analyst, Pricing, Winter 2027 (co-op/internship) - 4 Months",
    "location": "Toronto"
   },
-  "c228f9a736951c7ad9cfcb1fcd681ea5": {
-   "id": "c228f9a736951c7ad9cfcb1fcd681ea5",
-   "company": "Ivivamedical",
-   "role": "Analyste – Stagiaire Coop / Analyst, Co-op Student (hybrid)",
-   "location": "Toronto"
-  },
   "9b68ba4efb3bc0bad28136fb222aa13c": {
    "id": "9b68ba4efb3bc0bad28136fb222aa13c",
    "company": "Royal Bank of Canada",
@@ -2520,12 +1872,6 @@
    "id": "614fae0939221b7a47fb20b67a96e7ae",
    "company": "RBC (Royal Bank of Canada)",
    "role": "2027 Winter - Grm, Credit Risk Analyst Intern (8 Months)",
-   "location": "Toronto"
-  },
-  "ba0e4d4bfacc99267ccf04a1b0daeca5": {
-   "id": "ba0e4d4bfacc99267ccf04a1b0daeca5",
-   "company": "TD",
-   "role": "Business System Analyst Intern​/co-op (winter 2027)",
    "location": "Toronto"
   },
   "19457ef70ea6c881c030dc9bd4b4a524": {
@@ -2558,17 +1904,11 @@
    "role": "Stage- Hiver 2027- Analyste D'affaires, Strategie Et Developpement Des Affaires / Internship - Winter 2027 -business Analyst, Strategy And Business Development",
    "location": "Montreal"
   },
-  "2c0e20dd78cf65b9c15b1bc6d70295d1": {
-   "id": "2c0e20dd78cf65b9c15b1bc6d70295d1",
-   "company": "TELUS Health/lifeworks",
-   "role": "Actuarial Co-op Student (winter Or Summer 2027)",
-   "location": "Toronto"
-  },
-  "833df9a59f6cd5f275c316947dbdf96f": {
-   "id": "833df9a59f6cd5f275c316947dbdf96f",
+  "411d12919b7ebd9a1f7584187fd18c6b": {
+   "id": "411d12919b7ebd9a1f7584187fd18c6b",
    "company": "TD Bank",
    "role": "Tdi Actuarial Intern/co-op (winter 2027)",
-   "location": "Toronto"
+   "location": "Montreal"
   },
   "85713b082ced1a6dfd7afa1839b505ae": {
    "id": "85713b082ced1a6dfd7afa1839b505ae",
@@ -2582,23 +1922,11 @@
    "role": "Risk Management - Corporate Operational Risk Management Intern/co-op (winter 2027)",
    "location": "Toronto"
   },
-  "4fc754f706c19cbd8006f50e38aefd9c": {
-   "id": "4fc754f706c19cbd8006f50e38aefd9c",
-   "company": "TD Bank",
-   "role": "Business Analyst Intern / Co-op (winter 2027)",
-   "location": "Toronto"
-  },
   "ce74f031da74cc3233031858becbfb9a": {
    "id": "ce74f031da74cc3233031858becbfb9a",
    "company": "iA Financial Group",
    "role": "Actuarial Intern, Financial Results & Performance (winter 2027)",
    "location": "Montreal"
-  },
-  "e07af0942fb469a87b4e8fb734dcc63b": {
-   "id": "e07af0942fb469a87b4e8fb734dcc63b",
-   "company": "Huron Consulting Group Inc",
-   "role": "Digital Consulting Intern Summer 2027, Toronto (spring 2028 Graduates)",
-   "location": "Toronto"
   },
   "78e4156b8fd5d35d461d4a4eb68cadac": {
    "id": "78e4156b8fd5d35d461d4a4eb68cadac",
@@ -2611,18 +1939,6 @@
    "company": "Banklife",
    "role": "2027 Co-op - Actuarial (all Work-terms) Montreal",
    "location": "Montreal"
-  },
-  "ce2b1d3ea9f9177686bc63556f148f47": {
-   "id": "ce2b1d3ea9f9177686bc63556f148f47",
-   "company": "Manulife John Hancock",
-   "role": "Winter Co-op 2027 - Risk Analytics & Automation (8 Months)",
-   "location": "Toronto"
-  },
-  "4049af27301e50f593bc63c8fdd41178": {
-   "id": "4049af27301e50f593bc63c8fdd41178",
-   "company": "Manulife John Hancock",
-   "role": "Winter Co-op 2027 - Business Analyst",
-   "location": "Toronto"
   },
   "5f5b4b0de03a726cefdae86bbb2bd375": {
    "id": "5f5b4b0de03a726cefdae86bbb2bd375",
@@ -2654,202 +1970,52 @@
    "role": "Summer Intern 2027 - Operations Analyst",
    "location": "Toronto"
   },
-  "27ce2d2719e0d307e9030e47598498e6": {
-   "id": "27ce2d2719e0d307e9030e47598498e6",
-   "company": "Manulife John Hancock",
-   "role": "Winter Co-op 2027 - Operations Analyst",
-   "location": "Toronto"
-  },
-  "e4b56392358a78df1cab18f13e64550f": {
-   "id": "e4b56392358a78df1cab18f13e64550f",
-   "company": "OT PPB",
-   "role": "Intern- Finance, Risk Analytics (january 2027- 8 Months)",
-   "location": "Toronto"
-  },
-  "651edc715b07627fe079a05682783ae5": {
-   "id": "651edc715b07627fe079a05682783ae5",
-   "company": "Royal Bank of Canada",
-   "role": "Winter 2027 Co-op Student – Risk Governance, Personal Banking (4 Months And Or 8 Months)",
-   "location": "Toronto"
-  },
-  "625f17592c882a278857735b2fb3faf6": {
-   "id": "625f17592c882a278857735b2fb3faf6",
-   "company": "Royal Bank of Canada",
-   "role": "Winter 2027 Co-op Student – Business Analyst, Personal Banking (4 - 8 Months)",
-   "location": "Toronto"
-  },
-  "a14dfdc97c90681ccb3aed5dc634a8e1": {
-   "id": "a14dfdc97c90681ccb3aed5dc634a8e1",
-   "company": "Royal Bank of Canada",
-   "role": "2027 Winter - Procurement, Business Analyst Intern (4 Months)",
-   "location": "Toronto"
-  },
-  "41f0a2f0e336526cdcbf4e64665f1b12": {
-   "id": "41f0a2f0e336526cdcbf4e64665f1b12",
-   "company": "Royal Bank of Canada",
-   "role": "2027 Winter - Grm, Ai Business Analyst Intern (4 Months)",
-   "location": "Toronto"
-  },
-  "4b39c3ecc287df3a931996328791a456": {
-   "id": "4b39c3ecc287df3a931996328791a456",
-   "company": "Willis Towers Watson",
-   "role": "Early Careers: Insurance Consulting & Technology – Actuarial Intern (p&c) - Summer Internship 2027",
-   "location": "Montreal"
-  },
-  "3923ecaf2947d5ab5f2a9897e5e623ec": {
-   "id": "3923ecaf2947d5ab5f2a9897e5e623ec",
-   "company": "WTW (Willis Towers Watson)",
-   "role": "Early Careers: Insurance Consulting & Technology – Actuarial Intern (p&c) - Summer Internship 2027",
-   "location": "Montreal"
-  },
   "d036511b52fbbff5ce1412213e59c2ff": {
    "id": "d036511b52fbbff5ce1412213e59c2ff",
    "company": "Dragonfly Shipping",
    "role": "Business Analyst Intern",
    "location": "Quebec"
   },
-  "9d84476e989998df9f2aa248ccb3c03b": {
-   "id": "9d84476e989998df9f2aa248ccb3c03b",
-   "company": "Capital One Canada",
-   "role": "Intern, Financial Analyst - January 2027 (4 Month)",
-   "location": "Toronto"
+  "9330b8831667b2a2efbba1402a1c5978": {
+   "id": "9330b8831667b2a2efbba1402a1c5978",
+   "company": "460",
+   "role": "Business Analyst Intern",
+   "location": "Quebec"
   },
-  "0c69646a141052de5999f4b2b3915cfb": {
-   "id": "0c69646a141052de5999f4b2b3915cfb",
-   "company": "Bmwofsalem",
-   "role": "Finance Analyst, Winter 2027 (co-op/internship) - 4 Months",
-   "location": "Toronto"
+  "33b77d7f3d8a099efd0439b7defc0ee1": {
+   "id": "33b77d7f3d8a099efd0439b7defc0ee1",
+   "company": "Intelcom",
+   "role": "Business Analyst Intern",
+   "location": "Quebec"
   },
-  "aaff7d584bd1661d0d42459768ea692b": {
-   "id": "aaff7d584bd1661d0d42459768ea692b",
-   "company": "Bmwofsalem",
-   "role": "Financial Governance And Controls Analyst, Winter 2027 (co-op/internship) - 4 Months",
-   "location": "Toronto"
+  "1493d6f50a988414dce152d3ad8c3a11": {
+   "id": "1493d6f50a988414dce152d3ad8c3a11",
+   "company": "Mackenzie Investments",
+   "role": "Winter Intern 2027– Business Analyst",
+   "location": "Greater Toronto Area"
   },
-  "d59f482378638b97fae1d57a4103df50": {
-   "id": "d59f482378638b97fae1d57a4103df50",
-   "company": "Bmwofsalem",
-   "role": "Data Science Risk Analyst, Winter 2027 (co-op/internship) - 4 Months",
-   "location": "Toronto"
-  },
-  "d24329c0a65641d2f0d19f5d79673a49": {
-   "id": "d24329c0a65641d2f0d19f5d79673a49",
-   "company": "Bmwofsalem",
-   "role": "Audit Analyst, Winter 2027 (co-op/internship) - 4 Months",
-   "location": "Toronto"
-  },
-  "a9610ffe336d052f29629c5f421e8ad7": {
-   "id": "a9610ffe336d052f29629c5f421e8ad7",
-   "company": "BMO Financial Group",
-   "role": "Climate Risk Reporting Analyst, Winter 2027 (co-op/internship) - 4 Months",
-   "location": "Toronto"
-  },
-  "ddbbf753f01d963021eec601a98f5efc": {
-   "id": "ddbbf753f01d963021eec601a98f5efc",
-   "company": "BMO",
-   "role": "Business Analyst, Winter 2027 (co-op/internship) - 4 Months",
-   "location": "Toronto"
-  },
-  "9bb364fbce127ee69930030d121a11af": {
-   "id": "9bb364fbce127ee69930030d121a11af",
-   "company": "BMO",
-   "role": "Business Analyst, Winter 2027 (co-op/internship) - 8 Months",
-   "location": "Toronto"
-  },
-  "eafbd845d11dab88700da217c7bd4510": {
-   "id": "eafbd845d11dab88700da217c7bd4510",
-   "company": "BMO",
-   "role": "Business Analyst, Winter 2027 (co-op/internship) - 12 Months",
-   "location": "Toronto"
-  },
-  "acfec785976531a2252af09a9244a44a": {
-   "id": "acfec785976531a2252af09a9244a44a",
-   "company": "Bmwofsalem",
-   "role": "Business Analyst, Data And Change Management , Winter 2027 (co-op/internship) - 4 Months",
-   "location": "Toronto"
-  },
-  "2382aaa8ea9adfa1a496d1b8928b1f03": {
-   "id": "2382aaa8ea9adfa1a496d1b8928b1f03",
-   "company": "Boston Consulting Group",
-   "role": "Associate, Internship, Canada",
-   "location": "Toronto"
-  },
-  "6a7e8a7010bc9e18d4053b6abb3df321": {
-   "id": "6a7e8a7010bc9e18d4053b6abb3df321",
-   "company": "Bank of Montreal",
-   "role": "Actuarial Analyst, Corporate Actuary, Winter 2027 (co-op/internship) - 4 Months",
-   "location": "Toronto"
-  },
-  "a50211a53a8f690ea939e898eb3596f7": {
-   "id": "a50211a53a8f690ea939e898eb3596f7",
-   "company": "Bank of Montreal",
-   "role": "Actuarial Analyst, Pricing (co-op/internship) - 4 Months",
-   "location": "Toronto"
-  },
-  "5322d47e1563bd66e75a8a4a8bdcee31": {
-   "id": "5322d47e1563bd66e75a8a4a8bdcee31",
-   "company": "Bmousbenefits",
-   "role": "Actuarial Analyst, Corporate Actuary, Winter 2027 (co-op/internship) - 4 Months",
-   "location": "Toronto"
-  },
-  "8464760b24740ba033b9eebfbb35293c": {
-   "id": "8464760b24740ba033b9eebfbb35293c",
-   "company": "Bmousbenefits",
-   "role": "Actuarial Analyst, Pricing (co-op/internship) - 4 Months",
-   "location": "Toronto"
-  },
-  "5c85188fec8d37a41ae8a200d3acfe22": {
-   "id": "5c85188fec8d37a41ae8a200d3acfe22",
-   "company": "BMO",
-   "role": "Actuarial Analyst, Corporate Actuary, Winter 2027 (co-op/internship) - 4 Months",
-   "location": "Toronto"
-  },
-  "da588b13da899a55d843c44a6f275755": {
-   "id": "da588b13da899a55d843c44a6f275755",
-   "company": "BMO",
-   "role": "Actuarial Analyst, Pricing (co-op/internship) - 4 Months",
-   "location": "Toronto"
-  },
-  "d5cf85c8aeedb718748c29803a6a3c79": {
-   "id": "d5cf85c8aeedb718748c29803a6a3c79",
-   "company": "12",
-   "role": "Strategy & Management Consulting Intern - Summer 2027",
-   "location": "Toronto"
-  },
-  "7a03795d8ec0714ed0de18f36ea7b6ea": {
-   "id": "7a03795d8ec0714ed0de18f36ea7b6ea",
-   "company": "Rsmcanada",
-   "role": "Strategy & Management Consulting Intern - Summer 2027",
-   "location": "Toronto"
-  },
-  "2e621351c4fc072ec29c6c586f718400": {
-   "id": "2e621351c4fc072ec29c6c586f718400",
-   "company": "RTX Corporation",
-   "role": "Stage- Hiver 2027- Analyste D'affaires, Strategie Et Developpement Des Affaires / Internship - Winter 2027 -business Analyst, Strategy And Business Development",
+  "a4ea0d54c3650e7258088a972bea7c5d": {
+   "id": "a4ea0d54c3650e7258088a972bea7c5d",
+   "company": "IBM",
+   "role": "Stagiaire analyste d’affaires en IA et automatisation / AI & Automation Business Analyst Intern",
    "location": "Montreal"
   },
-  "61f337857487119033896a56ba65b0e9": {
-   "id": "61f337857487119033896a56ba65b0e9",
-   "company": "Procter & Gamble (P&G)",
-   "role": "Analytics & Insights Internship/co-op Summer 2027/ Stage Ou Programme Coopératif En Analyse Et Veille Stratégique Été 2027",
+  "d5e16af739ba8a2b5d26d3c8689fa3cf": {
+   "id": "d5e16af739ba8a2b5d26d3c8689fa3cf",
+   "company": "IBM",
+   "role": "Enterprise Strategy Consultant Intern (January 2027 - 4 Months Term - Toronto, Ottawa)",
    "location": "Toronto"
   },
-  "d1cc714ceb1e7e8f053df9693a8e1fe1": {
-   "id": "d1cc714ceb1e7e8f053df9693a8e1fe1",
-   "company": "Pledgr",
-   "role": "Analytics & Insights Internship/co-op Summer 2027/ Stage Ou Programme Coopératif En Analyse Et Veille Stratégique Été 2027",
+  "329ed456834e4547ddcf4674e95d2239": {
+   "id": "329ed456834e4547ddcf4674e95d2239",
+   "company": "IBM",
+   "role": "Organizational Change Management Consultant Intern (January 2027 - 4 Months - Toronto)",
    "location": "Toronto"
   },
-  "260bcc26bb398b468999781e151f8369": {
-   "id": "260bcc26bb398b468999781e151f8369",
-   "company": "Pgcareers",
-   "role": "Analytics & Insights Internship/co-op Summer 2027/ Stage Ou Programme Coopératif En Analyse Et Veille Stratégique Été 2027",
-   "location": "Toronto"
-  },
-  "9ed1e0513d08a710477a865642be93d9": {
-   "id": "9ed1e0513d08a710477a865642be93d9",
-   "company": "P D G",
-   "role": "Analytics & Insights Internship/co-op Summer 2027/ Stage Ou Programme Coopératif En Analyse Et Veille Stratégique Été 2027",
+  "b84fce593f98f28e4cfbb0cf7998e992": {
+   "id": "b84fce593f98f28e4cfbb0cf7998e992",
+   "company": "IBM",
+   "role": "IBM Payments Centre Strategy and Business Consultant Intern (January 2027 - 8 Months - Toronto)",
    "location": "Toronto"
   },
   "456e175b85074622cdf80163e2295009": {
@@ -2900,42 +2066,6 @@
    "role": "Market Risk Associate Rotational Program",
    "location": "Toronto"
   },
-  "679f90754f018b903c2e9d20f474736b": {
-   "id": "679f90754f018b903c2e9d20f474736b",
-   "company": "Wawanesa Mutual Insurance",
-   "role": "Actuarial Analyst - New Grad",
-   "location": "Toronto"
-  },
-  "766fad504281007e18a121e0cd777a48": {
-   "id": "766fad504281007e18a121e0cd777a48",
-   "company": "Hatch Ltd",
-   "role": "Analyst - Management Consulting - New Graduate 2027",
-   "location": "Montreal"
-  },
-  "3390dd939fa1bccce020b4a4efc7b354": {
-   "id": "3390dd939fa1bccce020b4a4efc7b354",
-   "company": "BMO Insurance",
-   "role": "Bmo Insurance Actuarial Rotation Program",
-   "location": "Toronto"
-  },
-  "3123310aa40b585c106cf35752cea5d5": {
-   "id": "3123310aa40b585c106cf35752cea5d5",
-   "company": "Bank of Montreal",
-   "role": "Bmo Insurance Actuarial Rotation Program",
-   "location": "Toronto"
-  },
-  "f70f5b2c82ae83e13e5c4c2b7d67f607": {
-   "id": "f70f5b2c82ae83e13e5c4c2b7d67f607",
-   "company": "Marsh & McLennan Companies Inc",
-   "role": "Marsh Risk Early Career Associate – Credit Specialties (immediate Start)",
-   "location": "Toronto"
-  },
-  "9cb07bfa402d5b29c4bedb710342a620": {
-   "id": "9cb07bfa402d5b29c4bedb710342a620",
-   "company": "Willis Towers Watson",
-   "role": "Early Careers: Retirement Actuarial Analyst - Toronto - 2027",
-   "location": "Toronto"
-  },
   "35eae67e182c3a6d68698e536350bab7": {
    "id": "35eae67e182c3a6d68698e536350bab7",
    "company": "LCBO",
@@ -2953,6 +2083,12 @@
    "company": "Vancity",
    "role": "Automation Analyst, Business Insights And Reporting (12-month Contract)",
    "location": "Vancity Centre +2"
+  },
+  "3c845c03d4ffe35390d944f341bdac41": {
+   "id": "3c845c03d4ffe35390d944f341bdac41",
+   "company": "Rogers Communications Inc",
+   "role": "Financial Analyst",
+   "location": "Toronto"
   },
   "f21ac4dab6545f4a39b0614a9c19e061": {
    "id": "f21ac4dab6545f4a39b0614a9c19e061",
@@ -3061,12 +2197,6 @@
    "company": "Mercer",
    "role": "Actuarial Analyst – 2026 & 2027 New Grads - Montreal",
    "location": "Montreal"
-  },
-  "a4df4e6dc4b44a1a8c531edfabedf19e": {
-   "id": "a4df4e6dc4b44a1a8c531edfabedf19e",
-   "company": "Rogers Communications Inc",
-   "role": "Financial Analyst",
-   "location": "Toronto"
   },
   "4da1ec72b94bc14b1f0c41ff107b1c4d": {
    "id": "4da1ec72b94bc14b1f0c41ff107b1c4d",
@@ -3362,12 +2492,6 @@
    "role": "Accounting Analyst",
    "location": "Toronto"
   },
-  "50968fb04b219e149ca78145e38484e2": {
-   "id": "50968fb04b219e149ca78145e38484e2",
-   "company": "Staples Retail",
-   "role": "Accounting Analyst",
-   "location": "Toronto"
-  },
   "2b68bafbd724d89b7e084333285fb7ed": {
    "id": "2b68bafbd724d89b7e084333285fb7ed",
    "company": "Staples Canada",
@@ -3415,6 +2539,12 @@
    "company": "Canadian Tire",
    "role": "Category Business Analyst - Party City",
    "location": "Toronto"
+  },
+  "98aad1aab26144390a8c2e71e3dd044b": {
+   "id": "98aad1aab26144390a8c2e71e3dd044b",
+   "company": "British Standards Institution / BSI Group",
+   "role": "Associate Auditor (contract) Iso 9001/14001/45001 Auditors",
+   "location": "Canada"
   },
   "fde13ed5edbdc7fc05916e9176464aeb": {
    "id": "fde13ed5edbdc7fc05916e9176464aeb",
@@ -3638,10 +2768,10 @@
    "role": "Nursing Assistant - Labor & Delivery",
    "location": "Winnipeg"
   },
-  "2b96e98e5f178eac42da2dac8e2ca221": {
-   "id": "2b96e98e5f178eac42da2dac8e2ca221",
+  "eaca03a2e77e2cddcea8a9d918600d0a": {
+   "id": "eaca03a2e77e2cddcea8a9d918600d0a",
    "company": "Winnipeg Regional Health Authority",
-   "role": "Registered Nurse (n2) - Operating Room",
+   "role": "Nurse 2 - Surgery - N2east",
    "location": "Winnipeg"
   },
   "b0959b7eb541b16a62800d2996dd52a5": {
@@ -3650,10 +2780,10 @@
    "role": "Nurse 2 - Family Medicine",
    "location": "Winnipeg"
   },
-  "eaca03a2e77e2cddcea8a9d918600d0a": {
-   "id": "eaca03a2e77e2cddcea8a9d918600d0a",
+  "2b96e98e5f178eac42da2dac8e2ca221": {
+   "id": "2b96e98e5f178eac42da2dac8e2ca221",
    "company": "Winnipeg Regional Health Authority",
-   "role": "Nurse 2 - Surgery - N2east",
+   "role": "Registered Nurse (n2) - Operating Room",
    "location": "Winnipeg"
   },
   "26f8e25137578921c29aee859b73e2be": {
@@ -3680,6 +2810,12 @@
    "role": "Registered Psychiatric Nurse/ Registered Nurse (n2) -py2 Psychealth Gtu",
    "location": "Winnipeg"
   },
+  "7ec87f0d11c7c9185261bd6f87b9d562": {
+   "id": "7ec87f0d11c7c9185261bd6f87b9d562",
+   "company": "Shared Health",
+   "role": "General Duty Nurse (n2) - Medicine",
+   "location": "Winnipeg"
+  },
   "527d5e7c5e24679862174fb22943605d": {
    "id": "527d5e7c5e24679862174fb22943605d",
    "company": "Shared Health",
@@ -3690,12 +2826,6 @@
    "id": "bee58292aebe8dfb7c28561ff1925b6d",
    "company": "Winnipeg Regional Health Authority",
    "role": "Nurse 2 - Medicine",
-   "location": "Winnipeg"
-  },
-  "7ec87f0d11c7c9185261bd6f87b9d562": {
-   "id": "7ec87f0d11c7c9185261bd6f87b9d562",
-   "company": "Shared Health",
-   "role": "General Duty Nurse (n2) - Medicine",
    "location": "Winnipeg"
   },
   "6996f83c339710d0248099e64ab8b364": {
@@ -3740,16 +2870,16 @@
    "role": "Registered Nurse (n2) - E5 Medicine Clinical Teaching Unit",
    "location": "Winnipeg"
   },
-  "8d77b6d08ecb75e71d42a0bf07560a9b": {
-   "id": "8d77b6d08ecb75e71d42a0bf07560a9b",
-   "company": "St. Boniface Hospital",
-   "role": "Registered Nurse (n2) - Cardiac Surgery Inpatient Unit",
-   "location": "Winnipeg"
-  },
   "3e930529c1880aa404960c05dcf0c821": {
    "id": "3e930529c1880aa404960c05dcf0c821",
    "company": "Winnipeg Regional Health Authority",
    "role": "Registered Nurse (n2) - As6 Medicine Clinical Teaching Unit",
+   "location": "Winnipeg"
+  },
+  "8d77b6d08ecb75e71d42a0bf07560a9b": {
+   "id": "8d77b6d08ecb75e71d42a0bf07560a9b",
+   "company": "St. Boniface Hospital",
+   "role": "Registered Nurse (n2) - Cardiac Surgery Inpatient Unit",
    "location": "Winnipeg"
   },
   "ef9f56b852cc2fd137848ebdc3162aaa": {
@@ -4190,18 +3320,6 @@
    "role": "Maintenance Technician",
    "location": "Canada"
   },
-  "abaee1a07aaca786965ec7cefcbfdaa0": {
-   "id": "abaee1a07aaca786965ec7cefcbfdaa0",
-   "company": "GFL Environmental Inc.",
-   "role": "Maintenance Technician",
-   "location": "Canada"
-  },
-  "2ad8afb56ecc23e18eb4293681c1377f": {
-   "id": "2ad8afb56ecc23e18eb4293681c1377f",
-   "company": "GFL Environmental Inc.",
-   "role": "Maintenance Technician - Afternoon (433a Licensed)",
-   "location": "Canada"
-  },
   "e055375024dab9af43691e4e7d0cb58a": {
    "id": "e055375024dab9af43691e4e7d0cb58a",
    "company": "GFL Environmental",
@@ -4220,24 +3338,6 @@
    "role": "Electrotechnicien D'entretien Des Equipements",
    "location": "Montreal"
   },
-  "50db8469ed4e76993a3f19b3cb1ace01": {
-   "id": "50db8469ed4e76993a3f19b3cb1ace01",
-   "company": "First Student",
-   "role": "Technician Iii",
-   "location": "Comox"
-  },
-  "104ef40bee13fe04a9683c606688e575": {
-   "id": "104ef40bee13fe04a9683c606688e575",
-   "company": "Capital Regional District",
-   "role": "Building Maintenance Attendant - Housing Facilities And Maintenance",
-   "location": "Canada"
-  },
-  "b538e5cf95255069aeae0fd5c8c22c0a": {
-   "id": "b538e5cf95255069aeae0fd5c8c22c0a",
-   "company": "crd",
-   "role": "Building Maintenance Attendant - Housing Facilities And Maintenance",
-   "location": "Canada"
-  },
   "0a4b89098df4c8f14e19b5c29639ae5f": {
    "id": "0a4b89098df4c8f14e19b5c29639ae5f",
    "company": "Cummins Inc.",
@@ -4250,15 +3350,15 @@
    "role": "Heavy Equipment Technician (afternoon Shift)",
    "location": "Edmonton"
   },
-  "47612f9378c5ab18ce07f85d4e3a8aa8": {
-   "id": "47612f9378c5ab18ce07f85d4e3a8aa8",
-   "company": "THALES",
-   "role": "Field Service Specialist",
-   "location": "Toronto"
-  },
   "6989234b980dc5eac29d64b7e052b7d5": {
    "id": "6989234b980dc5eac29d64b7e052b7d5",
    "company": "Thales Group",
+   "role": "Field Service Specialist",
+   "location": "Toronto"
+  },
+  "47612f9378c5ab18ce07f85d4e3a8aa8": {
+   "id": "47612f9378c5ab18ce07f85d4e3a8aa8",
+   "company": "THALES",
    "role": "Field Service Specialist",
    "location": "Toronto"
   },
@@ -4267,12 +3367,6 @@
    "company": "Industrial Electric Mfg",
    "role": "Field Service Technician - Montreal, Can",
    "location": "Montreal"
-  },
-  "edabfb4c5611247e1deab7cca2c63eec": {
-   "id": "edabfb4c5611247e1deab7cca2c63eec",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Préposé.e Au Service Technique Intérieur, Temps Plein (h/f/d)",
-   "location": "La Malbaie"
   },
   "03d86614619f7a3681b1f13c6b20a213": {
    "id": "03d86614619f7a3681b1f13c6b20a213",
@@ -4316,18 +3410,6 @@
    "role": "310t Mechanic, Fleet Maintenance",
    "location": "Toronto"
   },
-  "751f615a8beb9a9f3a2d26d690c1ed65": {
-   "id": "751f615a8beb9a9f3a2d26d690c1ed65",
-   "company": "GFL Environmental Inc.",
-   "role": "Mécanicien",
-   "location": "Rimouski"
-  },
-  "3f004aa24a2017b3f94758b05a0980a0": {
-   "id": "3f004aa24a2017b3f94758b05a0980a0",
-   "company": "GFL Environmental",
-   "role": "Mécanicien",
-   "location": "Rimouski"
-  },
   "ab2db226536b561ef739f27fc9e78493": {
    "id": "ab2db226536b561ef739f27fc9e78493",
    "company": "Parkbridge",
@@ -4364,17 +3446,65 @@
    "role": "Technicien En Électromécanique / Electromechanical Technician",
    "location": "St Bonaventure"
   },
-  "ce66c3f0f22aa05be3318d73aee1114e": {
-   "id": "ce66c3f0f22aa05be3318d73aee1114e",
-   "company": "Ggeedu",
-   "role": "Électromécanicien.ne (quart De Fin De Semaine - Jour)",
+  "4ef5fb2c1fa341a5fa50149a60420154": {
+   "id": "4ef5fb2c1fa341a5fa50149a60420154",
+   "company": "Bison",
+   "role": "Maintenance Assistant",
+   "location": "Edmonton"
+  },
+  "72bc1c8294a8428a6a956e62a68340d2": {
+   "id": "72bc1c8294a8428a6a956e62a68340d2",
+   "company": "PAE/Amentum",
+   "role": "Mechanical Maintenance Technician-1",
+   "location": "Toronto"
+  },
+  "62e237418828b7a17ab526d2f7b36a1f": {
+   "id": "62e237418828b7a17ab526d2f7b36a1f",
+   "company": "Amentum Pr",
+   "role": "Mechanical Maintenance Technician-1",
+   "location": "Toronto"
+  },
+  "efef59aac232899bc31dbec679eb547f": {
+   "id": "efef59aac232899bc31dbec679eb547f",
+   "company": "Amentum Pr",
+   "role": "General Maintenance Technician Ii",
+   "location": "Toronto"
+  },
+  "0d26430dce11caea156b1c9a13ef5952": {
+   "id": "0d26430dce11caea156b1c9a13ef5952",
+   "company": "PAE/Amentum",
+   "role": "General Maintenance Technician Ii",
+   "location": "Toronto"
+  },
+  "92854f309625f7b7d79b871a06a120f7": {
+   "id": "92854f309625f7b7d79b871a06a120f7",
+   "company": "PAE/Amentum",
+   "role": "Mechanical Maintenance Technician-2",
+   "location": "Toronto"
+  },
+  "cea2e6091e92dc193d6846bb96eb34c3": {
+   "id": "cea2e6091e92dc193d6846bb96eb34c3",
+   "company": "Amentum Pr",
+   "role": "Mechanical Maintenance Technician-2",
+   "location": "Toronto"
+  },
+  "aca209ef20d06b76bc1bd6960fda9f0b": {
+   "id": "aca209ef20d06b76bc1bd6960fda9f0b",
+   "company": "Johnson & Johnson",
+   "role": "Ingénieur(e) De Service Terrain Associé(e) (contrat À Durée Déterminée)",
    "location": "Montreal"
   },
-  "cd28156be324d4c63191657f2a54d1dd": {
-   "id": "cd28156be324d4c63191657f2a54d1dd",
-   "company": "Georgesit",
-   "role": "Électromécanicien.ne (quart De Fin De Semaine - Jour)",
+  "f1b816ccaf6e09b71caf80368ad20a81": {
+   "id": "f1b816ccaf6e09b71caf80368ad20a81",
+   "company": "Johnson & Johnson UK",
+   "role": "Ingénieur(e) De Service Terrain Associé(e) (contrat À Durée Déterminée)",
    "location": "Montreal"
+  },
+  "ab136709113fdf43e511dad2b3cb1e32": {
+   "id": "ab136709113fdf43e511dad2b3cb1e32",
+   "company": "Johnson Controls Inc",
+   "role": "Kitchen Inspection Suppression Technician",
+   "location": "Toronto"
   },
   "07acd2df3541dd4855743a1bc4a3a7d3": {
    "id": "07acd2df3541dd4855743a1bc4a3a7d3",
@@ -4502,6 +3632,30 @@
    "role": "Part Time Sales Associate (store 2045 - Six Points)",
    "location": "Toronto"
   },
+  "479420f10a4d72da03d8509d5e4752f4": {
+   "id": "479420f10a4d72da03d8509d5e4752f4",
+   "company": "Anthropologie",
+   "role": "Anthropologie Seasonal Sales Associate",
+   "location": "Edmonton"
+  },
+  "095fcc2c1f2ad856e19cae55dc061015": {
+   "id": "095fcc2c1f2ad856e19cae55dc061015",
+   "company": "W Brisbane",
+   "role": "Guest Experience Expert - Part Time",
+   "location": "Kelowna"
+  },
+  "5311cd123e45c8fa5c64e2d6a26016f3": {
+   "id": "5311cd123e45c8fa5c64e2d6a26016f3",
+   "company": "Ottobock Group",
+   "role": "Warehouse Associate",
+   "location": "Guelph"
+  },
+  "1b9334023b70cb1e057c8e3113d55962": {
+   "id": "1b9334023b70cb1e057c8e3113d55962",
+   "company": "The William Carter Company",
+   "role": "Sales Associate",
+   "location": "Timmins"
+  },
   "982999968c42cebd6bf808a5b9168e54": {
    "id": "982999968c42cebd6bf808a5b9168e54",
    "company": "GoodLife Fitness Centres Inc",
@@ -4555,12 +3709,6 @@
    "company": "Gibson Engineering",
    "role": "Warehouse Representative",
    "location": "4146"
-  },
-  "5b5c62bd7478a5b9b4512f4d0bbe1bb1": {
-   "id": "5b5c62bd7478a5b9b4512f4d0bbe1bb1",
-   "company": "The William Carter Company",
-   "role": "Sales Associate",
-   "location": "On"
   },
   "3716ed25731eb013dcda1307dd937cf4": {
    "id": "3716ed25731eb013dcda1307dd937cf4",
@@ -4736,16 +3884,16 @@
    "role": "Seasonal Retail Sales Associate, Lloydminster",
    "location": "Lloydminster"
   },
-  "4ae3e5fda8bdabbf66ef13541c70e043": {
-   "id": "4ae3e5fda8bdabbf66ef13541c70e043",
-   "company": "BCE Inc",
-   "role": "Retail Sales Associate, Londonderry Mall",
-   "location": "Edmonton"
-  },
   "65c6803d6ccb4e90facbfeb4c2c05ce1": {
    "id": "65c6803d6ccb4e90facbfeb4c2c05ce1",
    "company": "BCE Inc",
    "role": "Seasonal Retail Sales Associate, Kingsway Garden Mall",
+   "location": "Edmonton"
+  },
+  "4ae3e5fda8bdabbf66ef13541c70e043": {
+   "id": "4ae3e5fda8bdabbf66ef13541c70e043",
+   "company": "BCE Inc",
+   "role": "Retail Sales Associate, Londonderry Mall",
    "location": "Edmonton"
   },
   "7e921a8761bef4c94fbe2b30c88c3c94": {
@@ -4796,17 +3944,17 @@
    "role": "Seasonal Retail Sales Associate, St. Albert",
    "location": "Edmonton"
   },
-  "754234a7e2c56fca5f3444d4d143eadb": {
-   "id": "754234a7e2c56fca5f3444d4d143eadb",
-   "company": "BCE Inc",
-   "role": "Retail Sales Associate, Bathurst",
-   "location": "Bathurst"
-  },
   "1128ee345afb3f233815d90ade2f3e49": {
    "id": "1128ee345afb3f233815d90ade2f3e49",
    "company": "BCE Inc",
    "role": "Retail Sales Associate, Dryden",
    "location": "Dryden"
+  },
+  "754234a7e2c56fca5f3444d4d143eadb": {
+   "id": "754234a7e2c56fca5f3444d4d143eadb",
+   "company": "BCE Inc",
+   "role": "Retail Sales Associate, Bathurst",
+   "location": "Bathurst"
   },
   "2148134fe6e021c670c9dd0ffbee9480": {
    "id": "2148134fe6e021c670c9dd0ffbee9480",
@@ -4837,24 +3985,6 @@
    "company": "Bell",
    "role": "Seasonal Retail Sales Associate, Galeries De Hull",
    "location": "Ottawa"
-  },
-  "267c5148abde2815982d329527499d9b": {
-   "id": "267c5148abde2815982d329527499d9b",
-   "company": "Bell",
-   "role": "Seasonal Retail Sales Associate, Fairview Mall",
-   "location": "Toronto"
-  },
-  "fef3c23ecc80078382b411eb8a22bd49": {
-   "id": "fef3c23ecc80078382b411eb8a22bd49",
-   "company": "Bell",
-   "role": "Seasonal Retail Sales Associate, Park Royal",
-   "location": "Vancouver"
-  },
-  "54bd874fea42f8e25bb1695234b483cd": {
-   "id": "54bd874fea42f8e25bb1695234b483cd",
-   "company": "Bell",
-   "role": "Retail Sales Associate, Robson St",
-   "location": "Vancouver"
   },
   "4b4da2a08483e974cc6cf2c3e4f58aa4": {
    "id": "4b4da2a08483e974cc6cf2c3e4f58aa4",
@@ -5018,16 +4148,16 @@
    "role": "Project Administrator",
    "location": "Lachine"
   },
-  "d6639787fdda2c3bc218b0ebdccba3dd": {
-   "id": "d6639787fdda2c3bc218b0ebdccba3dd",
-   "company": "Aecon U.S.",
-   "role": "Project Coordinator, Co-op (kpc)",
-   "location": "Toronto"
-  },
   "44a6a72eefdd0d98f2792698280c8d80": {
    "id": "44a6a72eefdd0d98f2792698280c8d80",
    "company": "Aecon U.S.",
    "role": "Project Coordinator",
+   "location": "Toronto"
+  },
+  "d6639787fdda2c3bc218b0ebdccba3dd": {
+   "id": "d6639787fdda2c3bc218b0ebdccba3dd",
+   "company": "Aecon U.S.",
+   "role": "Project Coordinator, Co-op (kpc)",
    "location": "Toronto"
   },
   "793372d8be0bee8c55cf5ce9218f9fe4": {
