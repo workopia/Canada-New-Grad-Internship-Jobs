@@ -7424,4 +7424,81 @@
 <tr><td>Staples Canada</td><td>Associé Des Ventes</td><td>Anjou</td><td>2026-09-23</td></tr>
 <tr><td>CIBC US</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-09-23</td></tr>
 <tr><td>Slice</td><td>Software Developer, Deploy & Run</td><td>Ontario</td><td>2026-09-23</td></tr>
+<tr><td>Retirement World</td><td>Client Advisor Intern</td><td>Ottawa</td><td>2026-09-24</td></tr>
+<tr><td>TD Bank</td><td>Financial Planning Intern / Co-op (winter 2027)</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>Indclutch</td><td>Quartus Compiler Software - Intern</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Grm, Global Economic Sanctions Intern (4 Months)</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>Bestpass</td><td>Internship - Finance</td><td>Edmonton</td><td>2026-09-24</td></tr>
+<tr><td>ABB Inc</td><td>Environment, Health & Safety Intern - Winter 2027</td><td>Quebec</td><td>2026-09-24</td></tr>
+<tr><td>Syngenta Canada</td><td>Crop Protection Development Assistant Intern</td><td>Calgary</td><td>2026-09-24</td></tr>
+<tr><td>Syngenta Group</td><td>Crop Protection Development Assistant Intern</td><td>Portage La Prairie</td><td>2026-09-24</td></tr>
+<tr><td>Aritzia</td><td>Retail - Intern, Retail Integration</td><td>Vancouver</td><td>2026-09-24</td></tr>
+<tr><td>Aritzia</td><td>Information Technology - Intern, Technology</td><td>Vancouver</td><td>2026-09-24</td></tr>
+<tr><td>RBC</td><td>2027 Winter - Grm, Global Economic Sanctions Intern (4 Months)</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>Generac Power Systems</td><td>Software Engineer</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>ecobee</td><td>Software Engineer</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>Sonepar Group</td><td>Spécialiste En Intelligence Artificielle (ia)</td><td>Montreal</td><td>2026-09-24</td></tr>
+<tr><td>athene</td><td>2027 Actuarial Co-op - 1</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>iA Financial Group</td><td>Actuarial Intern – Financial Results & Performance</td><td>Montreal</td><td>2026-09-24</td></tr>
+<tr><td>TD Bank</td><td>Actuarial Intern / Co-op</td><td>Montreal</td><td>2026-09-24</td></tr>
+<tr><td>British Standards Institution / BSI Group</td><td>Associate Auditor (contract) Iso 9001/14001/45001 Auditors</td><td>Canada</td><td>2026-09-24</td></tr>
+<tr><td>TD Bank Group</td><td>Market Risk Analyst (5411)</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>Reinsurance Group of America</td><td>Analyste En Actuariat Corporatif / Corporate Actuarial Analyst</td><td>Montreal</td><td>2026-09-24</td></tr>
+<tr><td>Extendicare Guildwood Inc</td><td>Health Care Aide (hca) - Part Time (pt) - Poseidon Care Centre</td><td>Manitoba</td><td>2026-09-24</td></tr>
+<tr><td>Extendicare Guildwood Inc</td><td>Personal Support Worker (psw) - Part-time (pt) - Tri Town</td><td>Haileybury</td><td>2026-09-24</td></tr>
+<tr><td>Akidolabs</td><td>Pharmacy Technician</td><td>Ontario</td><td>2026-09-24</td></tr>
+<tr><td>CAMH</td><td>Registered Nurse - Crisis Critical Care Unit 4.</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Clinical Resource Nurse</td><td>Estevan</td><td>2026-09-24</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Community Mental Health Nurse</td><td>Moosomin</td><td>2026-09-24</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Stroke/neuro</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - The Toronto Rehabilitation Institute (tri) Staffing Resource Team</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>University Health Network</td><td>Personal Support Worker - Complex Continuing Care</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Registered Nurse (rn) - Casual - Poseidon Care Centre</td><td>Ltc</td><td>2026-09-24</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Registered Nurse (rn) (part Time) - Harold & Grace Baker Centre (long Term Care)</td><td>Harold & Grace Baker Centre (Long Term Care)</td><td>2026-09-24</td></tr>
+<tr><td>University Health Network</td><td>Personal Support Worker - Spinal Cord Rehab Program</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Outpatient Clinics, Float</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Neurovascular</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>University Health Network</td><td>Pharmacy Technician - Pm Outpatient</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>University Health Network</td><td>Merchandising Technician - Pm Outpatient</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Inpatient Cardiology</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>University Health Network</td><td>Client Care Attendant - Transitional Care Program</td><td>York</td><td>2026-09-24</td></tr>
+<tr><td>University Health Network</td><td>Personal Support Worker</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Services Worker</td><td>Lucky Lake</td><td>2026-09-24</td></tr>
+<tr><td>Whippoorwill Campground</td><td>Maintenance - Level I</td><td>Lindell Beach</td><td>2026-09-24</td></tr>
+<tr><td>Michelin North America (Canada) Inc.</td><td>Reliability Maintainer Waterville - Electrical / Mechanical</td><td>Waterville</td><td>2026-09-24</td></tr>
+<tr><td>Bison</td><td>Maintenance Assistant</td><td>Edmonton</td><td>2026-09-24</td></tr>
+<tr><td>508</td><td>Facilities Technician</td><td>On</td><td>2026-09-24</td></tr>
+<tr><td>Desjardins</td><td>Advisory Agent, Member And Client Experience</td><td>Raymond</td><td>2026-09-24</td></tr>
+<tr><td>Coach</td><td>Temporary Sales Associate</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle -act</td><td>Montreal</td><td>2026-09-24</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Part Time</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Rivière-du-loup</td><td>RivièRe-Du-Loup</td><td>2026-09-24</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Yarmouth Mall</td><td>Yarmouth</td><td>2026-09-24</td></tr>
+<tr><td>BCE Inc</td><td>Retail Seasonal Sales Associate, Bridgeview Plaza</td><td>Miramichi</td><td>2026-09-24</td></tr>
+<tr><td>Allstate</td><td>Allstate Sales Agent Trainee</td><td>Canada</td><td>2026-09-24</td></tr>
+<tr><td>UPS</td><td>Early Morning Warehouse Associate</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>Reformation</td><td>Sales Associate Part -time - Yorkville</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>La Palmera Mall</td><td>Seasonal Ambassador - Square One Shopping Centre</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>Aloyoga</td><td>Sales Associate (part-time) - Brentwood Town Center</td><td>Brentwood Town & Country</td><td>2026-09-24</td></tr>
+<tr><td>Knix</td><td>Seasonal Sales Associate (toronto Eaton Centre)</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>Mark Anthony Brands Inc.</td><td>Field Sales Associate - Manitoba</td><td>Manitoba</td><td>2026-09-24</td></tr>
+<tr><td>adidas AG</td><td>Retail Seasonal Store Sales Associate I - Adidas Vaughan Mills, 2022, Vaughan, Canada</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Associé / Associée De Magasin De Détails</td><td>Montreal</td><td>2026-09-24</td></tr>
+<tr><td>Winners</td><td>Associé / Associée De Magasin De Détail Temps Partiel Winners - Côte-vertu</td><td>Montreal</td><td>2026-09-24</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Sales Associate</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Retail Sales Associate</td><td>Rocky View</td><td>2026-09-24</td></tr>
+<tr><td>LensCrafters</td><td>Sales Associate</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>Staples Inc.</td><td>Sales Associate</td><td>Calgary</td><td>2026-09-24</td></tr>
+<tr><td>Staples Retail</td><td>Sales Associate</td><td>Calgary</td><td>2026-09-24</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Calgary</td><td>2026-09-24</td></tr>
+<tr><td>RBC Dominion Securities</td><td>Administrative Assistant</td><td>Edmonton</td><td>2026-09-24</td></tr>
+<tr><td>Nutrien Ltd</td><td>Specialist, Safety</td><td>Vanscoy</td><td>2026-09-24</td></tr>
+<tr><td>Medavie</td><td>Case Management Coordinator</td><td>New Brunswick</td><td>2026-09-24</td></tr>
+<tr><td>Lululemon</td><td>Peak: Production Control Coordinator / Overnights / Tilbury</td><td>Tilbury</td><td>2026-09-24</td></tr>
+<tr><td>Saskatchewan Health Authority (SHA)</td><td>Administrative Assistant</td><td>Regina</td><td>2026-09-24</td></tr>
+<tr><td>Wesco</td><td>Coordinator - Project</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>WSP</td><td>Supplier Quality Surveillance Coordinator</td><td>Calgary</td><td>2026-09-24</td></tr>
+<tr><td>Fairmont Banff Springs</td><td>Content Coordinator</td><td>Banff</td><td>2026-09-24</td></tr>
+<tr><td>JL</td><td>Facilities Coordinator</td><td>Toronto</td><td>2026-09-24</td></tr>
+<tr><td>University Health Network</td><td>Administrative Assistant Iii</td><td>Toronto</td><td>2026-09-24</td></tr>
 </table>
