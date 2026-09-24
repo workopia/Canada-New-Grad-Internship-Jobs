@@ -12,8 +12,8 @@
   "as_of": "2026-09-24",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 23738,
-  "generated_at": "2026-09-24T10:25:30.527Z"
+  "country_live_total": 23723,
+  "generated_at": "2026-09-24T13:21:33.691Z"
  },
  "categories": [
   {
@@ -11397,23 +11397,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "$48,880–51,840",
-   "id": "25381f864b74780ceca4df40fc633e96",
-   "source": "Workopia",
-   "company_name": "CIBC US",
-   "company_hi_slug": "cibc",
-   "title": "Administrative Assistant",
-   "location": "London",
-   "skills": "Provide administrative, Support and service hi",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-23T09:20:32.692Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/25381f864b74780ceca4df40fc633e96",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": "C$34k–82k*",
    "id": "e01e506302c16c8dcfc01b52908839c3",
    "source": "Workopia",
@@ -12719,6 +12702,23 @@
    "date_posted": "2026-09-15T05:25:33.955Z",
    "active": true,
    "url": "https://workopia.io/jobs/a5d66f5784f70064d3b18b65ba3ad396",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "C$34k–82k*",
+   "id": "fccedd7b8be403a66d9fa660d9fa6aa1",
+   "source": "Workopia",
+   "company_name": "Nutrien Ltd",
+   "company_hi_slug": "nutrien-ltd",
+   "title": "Specialist, Safety",
+   "location": "Vanscoy",
+   "skills": "safety first culture, positive impact on the",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-15T05:25:19.863Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/fccedd7b8be403a66d9fa660d9fa6aa1",
    "category": "admin",
    "tier": "Entry-level"
   }

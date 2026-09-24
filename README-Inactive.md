@@ -7708,4 +7708,5 @@
 <tr><td>Bell</td><td>Seasonal Retail Sales Associate, Fairview Mall</td><td>Toronto</td><td>2026-09-24</td></tr>
 <tr><td>Bell</td><td>Seasonal Retail Sales Associate, Park Royal</td><td>Vancouver</td><td>2026-09-24</td></tr>
 <tr><td>Bell</td><td>Retail Sales Associate, Robson St</td><td>Vancouver</td><td>2026-09-24</td></tr>
+<tr><td>CIBC US</td><td>Administrative Assistant</td><td>London</td><td>2026-09-24</td></tr>
 </table>
