@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-25",
- "count": 744,
+ "count": 748,
  "jobs": {
   "21784": {
    "id": "21784",
@@ -31,6 +31,18 @@
    "company": "Vale",
    "role": "Treasury & Corporate Finance Co-op Student",
    "location": "Toronto"
+  },
+  "e22d13201767227fdbcf371a9deb447b": {
+   "id": "e22d13201767227fdbcf371a9deb447b",
+   "company": "BCE Inc",
+   "role": "2027 Intern Program , Business Transformation - Future Opportunities",
+   "location": "Montreal"
+  },
+  "4d318a0eba69d688cf76c5e79495a0af": {
+   "id": "4d318a0eba69d688cf76c5e79495a0af",
+   "company": "BCE Inc",
+   "role": "2027 Intern Program, Technology Innovation - Future Opportunities",
+   "location": "Montreal"
   },
   "c6deeefa357be6dc992c1f70ef21bf85": {
    "id": "c6deeefa357be6dc992c1f70ef21bf85",
@@ -163,6 +175,18 @@
    "company": "Pembina Pipeline Corp",
    "role": "Digital Strategy & Exploration Intern",
    "location": "Calgary"
+  },
+  "8fd0b7feb8e98a49ee1359b13b5a2895": {
+   "id": "8fd0b7feb8e98a49ee1359b13b5a2895",
+   "company": "Roche",
+   "role": "Strategic Communications Intern",
+   "location": "Toronto"
+  },
+  "8bf58f78cc2cb835e527f220baaf76f8": {
+   "id": "8bf58f78cc2cb835e527f220baaf76f8",
+   "company": "Pratt & Whitney Canada",
+   "role": "Stage - Hiver 2027 - Ingénierie De Projet / Internship – Winter 2027 – Project Engineering",
+   "location": "Montreal"
   },
   "9a1da105ac97504e04f12632916795c9": {
    "id": "9a1da105ac97504e04f12632916795c9",
@@ -470,30 +494,6 @@
    "role": "Enablement And Reporting Summer Student",
    "location": "Calgary"
   },
-  "356abd572ee9ac94a3a176284ba6b56b": {
-   "id": "356abd572ee9ac94a3a176284ba6b56b",
-   "company": "pgccT",
-   "role": "Social Media & Digital Content Intern/co-op / Stage Ou Programme Coopératif En Médias Sociaux Et Contenu Numérique",
-   "location": "Toronto"
-  },
-  "df90686744d444b4011d759efdc5a1f9": {
-   "id": "df90686744d444b4011d759efdc5a1f9",
-   "company": "Connor, Clark & Lunn Financial Group (CC&L)",
-   "role": "Intern, Retail Portfolio Operations",
-   "location": "Vancouver"
-  },
-  "99771586fcb588391af449e5626b40c8": {
-   "id": "99771586fcb588391af449e5626b40c8",
-   "company": "The Brattle Group",
-   "role": "Energy Analyst Intern (economics) - Summer 2027",
-   "location": "Toronto"
-  },
-  "9abb16415d5d13e5a21ea5c3a56fb33d": {
-   "id": "9abb16415d5d13e5a21ea5c3a56fb33d",
-   "company": "Connor, Clark & Lunn Financial Group (CC&L)",
-   "role": "Intern, Taxation",
-   "location": "Toronto"
-  },
   "5469c73b7c4e8faf24bf42ed79ee18a2": {
    "id": "5469c73b7c4e8faf24bf42ed79ee18a2",
    "company": "PCL Constructors Inc",
@@ -667,6 +667,18 @@
    "company": "Halliburton",
    "role": "Software Engineer - Early Career - Landmark",
    "location": "Calgary"
+  },
+  "c1a6af80ec77a5bc33c6b92d424f1b25": {
+   "id": "c1a6af80ec77a5bc33c6b92d424f1b25",
+   "company": "NovAtel Inc.",
+   "role": "Software Infrastructure Designer",
+   "location": "Calgary"
+  },
+  "f63ae93778d9d8bafe5a73468394f18e": {
+   "id": "f63ae93778d9d8bafe5a73468394f18e",
+   "company": "Jobgether",
+   "role": "Client Support Specialist - Fund Accounting",
+   "location": "Canada"
   },
   "a533d3590af713449c778ebc0c99b7b4": {
    "id": "a533d3590af713449c778ebc0c99b7b4",
@@ -1136,18 +1148,6 @@
    "role": "Staff Full Stack Engineer",
    "location": "Toronto"
   },
-  "7a1aa9507421115208c500915458c8dd": {
-   "id": "7a1aa9507421115208c500915458c8dd",
-   "company": "Dialpad",
-   "role": "Staff Software Engineer",
-   "location": "Vancouver"
-  },
-  "f463a1b96c6a7f6dd622e13da24ac24f": {
-   "id": "f463a1b96c6a7f6dd622e13da24ac24f",
-   "company": "City of Toronto",
-   "role": "Health Information Analyst",
-   "location": "Toronto"
-  },
   "9132d4ee1a44fa1e03b80dd640ef536c": {
    "id": "9132d4ee1a44fa1e03b80dd640ef536c",
    "company": "John Hancock",
@@ -1321,6 +1321,24 @@
    "company": "GFT Technologies Canada Inc",
    "role": "Fullstack Ai Engineer (react + Python + Llms) / Híbrido/sp - 136007",
    "location": "Alphaville"
+  },
+  "66e0ac97000b6f9854c620ed6a10cf0c": {
+   "id": "66e0ac97000b6f9854c620ed6a10cf0c",
+   "company": "Jobgether",
+   "role": "Data Science Expert",
+   "location": "Canada"
+  },
+  "f2632f2f13f599749d0469ed7a86fc8a": {
+   "id": "f2632f2f13f599749d0469ed7a86fc8a",
+   "company": "Jobgether",
+   "role": "Digital Support Automation Engineer",
+   "location": "Canada"
+  },
+  "aec6349046e25f56864cd7b1d13445d4": {
+   "id": "aec6349046e25f56864cd7b1d13445d4",
+   "company": "Jobgether",
+   "role": "Ai Developer - Data Generation",
+   "location": "Canada"
   },
   "bb45b6029c2970fa439c84b3d4489f8d": {
    "id": "bb45b6029c2970fa439c84b3d4489f8d",
@@ -2018,6 +2036,12 @@
    "role": "IBM Payments Centre Strategy and Business Consultant Intern (January 2027 - 8 Months - Toronto)",
    "location": "Toronto"
   },
+  "909c025ca5bb0b022ab7cd75cbd6813e": {
+   "id": "909c025ca5bb0b022ab7cd75cbd6813e",
+   "company": "Openfarminc",
+   "role": "Financial Analyst – New Graduate",
+   "location": "Toronto"
+  },
   "456e175b85074622cdf80163e2295009": {
    "id": "456e175b85074622cdf80163e2295009",
    "company": "BCE Inc",
@@ -2071,6 +2095,42 @@
    "company": "Halton Region",
    "role": "Financial Analyst",
    "location": "Toronto"
+  },
+  "edecc0a38f6a1227a2678da3a1e16a65": {
+   "id": "edecc0a38f6a1227a2678da3a1e16a65",
+   "company": "Jobgether",
+   "role": "Management Consulting Expert",
+   "location": "Canada"
+  },
+  "38c260ae78f820bbdd85a6f65e91f587": {
+   "id": "38c260ae78f820bbdd85a6f65e91f587",
+   "company": "TD Bank Group",
+   "role": "Credit Risk Specialist (ath 4996)",
+   "location": "Toronto"
+  },
+  "1f6bda10462b1abea4a4af665964d4dc": {
+   "id": "1f6bda10462b1abea4a4af665964d4dc",
+   "company": "JDI",
+   "role": "It Business Analyst Student, Halifax – Winter 2027",
+   "location": "Halifax"
+  },
+  "3fc7fc448377cfcb2de1fdaff09c9ef0": {
+   "id": "3fc7fc448377cfcb2de1fdaff09c9ef0",
+   "company": "Welltower",
+   "role": "Property Accountant, Sho Accounting",
+   "location": "Toronto"
+  },
+  "30c1ce860d49f9bf0ba9e9002c0866e8": {
+   "id": "30c1ce860d49f9bf0ba9e9002c0866e8",
+   "company": "Regional Municipality of Wood Buffalo",
+   "role": "Bylaw Enforcement Officer - Fort Chipewyan",
+   "location": "Fort Chipewyan"
+  },
+  "ab6dfdc039bb3650f2d31f8862fc6524": {
+   "id": "ab6dfdc039bb3650f2d31f8862fc6524",
+   "company": "Jobgether",
+   "role": "Financial Analyst - Technology",
+   "location": "Canada"
   },
   "35eae67e182c3a6d68698e536350bab7": {
    "id": "35eae67e182c3a6d68698e536350bab7",
@@ -2510,40 +2570,16 @@
    "role": "Accounting Analyst",
    "location": "Toronto"
   },
-  "58ece2cb38c72fbf4e0ec31374236403": {
-   "id": "58ece2cb38c72fbf4e0ec31374236403",
-   "company": "Staples Business",
-   "role": "Accounting Analyst",
-   "location": "Toronto"
+  "7ef185e668fa5f78b89a6cce6088f3f6": {
+   "id": "7ef185e668fa5f78b89a6cce6088f3f6",
+   "company": "Health Sciences North",
+   "role": "Registered Nurse - Various Opportunities",
+   "location": "Sudbury"
   },
-  "dad41da57b44de27db4e7b91db7dd158": {
-   "id": "dad41da57b44de27db4e7b91db7dd158",
-   "company": "Citco",
-   "role": "Risk Analyst",
-   "location": "On"
-  },
-  "fadb993543b462704ebef686b10c53ee": {
-   "id": "fadb993543b462704ebef686b10c53ee",
-   "company": "Metrolinx",
-   "role": "Contract Compliance Officer",
-   "location": "Canada"
-  },
-  "3135b3bb272f0ba232146d6096501847": {
-   "id": "3135b3bb272f0ba232146d6096501847",
-   "company": "Commission de la construction du Quebec",
-   "role": "Analyste Financier(ère) Sénior",
-   "location": "Montreal"
-  },
-  "2fd96976bfa661fc06680ced3116c743": {
-   "id": "2fd96976bfa661fc06680ced3116c743",
-   "company": "Miles HR",
-   "role": "Accountant",
-   "location": "Vancouver"
-  },
-  "d3fd7801f36bf7381d4bc20195edc1eb": {
-   "id": "d3fd7801f36bf7381d4bc20195edc1eb",
-   "company": "Purolator",
-   "role": "Fraud Analyst",
+  "fcd0d370f444935150107924cac1e9ec": {
+   "id": "fcd0d370f444935150107924cac1e9ec",
+   "company": "Hennick Humber Hospital",
+   "role": "Registered Nurse, Endoscopy",
    "location": "Toronto"
   },
   "eec526d1ac48915665c47a26cace6cd6": {
@@ -2612,6 +2648,12 @@
    "role": "Registered Pharmacy Technician - Pharmacy Services",
    "location": "Central Zone"
   },
+  "c4fe4ad50ad415278d1fc655b56ec03f": {
+   "id": "c4fe4ad50ad415278d1fc655b56ec03f",
+   "company": "Hennick Humber Hospital",
+   "role": "Registered Nurse, 10 East &amp; West Inpatient Surgery",
+   "location": "Toronto"
+  },
   "7445ec44eda0724da479452274dfb411": {
    "id": "7445ec44eda0724da479452274dfb411",
    "company": "University Health Network",
@@ -2624,11 +2666,23 @@
    "role": "Assistant Researcher / Assistant(e) De Recherche (freelance)",
    "location": "Montreal"
   },
+  "e54ea40a2c9d6999cf91c1e5ed279057": {
+   "id": "e54ea40a2c9d6999cf91c1e5ed279057",
+   "company": "Veterinaryemergencygroupst",
+   "role": "Emergency Registered Veterinary Technician - Whitby, On",
+   "location": "Toronto"
+  },
   "748cc4bba21a4b6ed40745ff05b286d2": {
    "id": "748cc4bba21a4b6ed40745ff05b286d2",
    "company": "University Health Network",
    "role": "Pharmacist",
    "location": "Toronto"
+  },
+  "2729d41456b07ef3511164b5d0434a63": {
+   "id": "2729d41456b07ef3511164b5d0434a63",
+   "company": "Jobgether",
+   "role": "Clinical Pharmacist – Clinical Drug Services",
+   "location": "Canada"
   },
   "fde13ed5edbdc7fc05916e9176464aeb": {
    "id": "fde13ed5edbdc7fc05916e9176464aeb",
@@ -2791,6 +2845,12 @@
    "company": "Lakeview Recovery Community",
    "role": "Lakeview Recovery Community - Support Care Worker",
    "location": "Gunn"
+  },
+  "f5cb721b993439c22a3ed0b70027e16b": {
+   "id": "f5cb721b993439c22a3ed0b70027e16b",
+   "company": "Chartwell Retirement Residences",
+   "role": "Guest Attendant",
+   "location": "Lasalle"
   },
   "7179351dbd9d69f5b4e19f056cdca536": {
    "id": "7179351dbd9d69f5b4e19f056cdca536",
@@ -2990,42 +3050,6 @@
    "role": "Registered Nurse (n2) - Hemodialysis",
    "location": "Winnipeg"
   },
-  "374ccc26da7627662c30a7d8398839cf": {
-   "id": "374ccc26da7627662c30a7d8398839cf",
-   "company": "Winnipeg Regional Health Authority",
-   "role": "Nurse 2 - 2e Respiratory Long Term Vent - Repost",
-   "location": "Winnipeg"
-  },
-  "3c8a1295e057a2c8f0feb659df81add6": {
-   "id": "3c8a1295e057a2c8f0feb659df81add6",
-   "company": "Capital District Health Authority",
-   "role": "Registered Nurse - Emergency Department",
-   "location": "Nova Scotia"
-  },
-  "a0ccee7aa001d0192df8a273962d4c41": {
-   "id": "a0ccee7aa001d0192df8a273962d4c41",
-   "company": "Capital District Health Authority",
-   "role": "Registered Nurses - Critical Care",
-   "location": "Various Sites And Community-Based Locations Throughout Nova Scotia"
-  },
-  "1aede4ca94df42bf8d984faf22b8fa7d": {
-   "id": "1aede4ca94df42bf8d984faf22b8fa7d",
-   "company": "Capital District Health Authority",
-   "role": "Registered Nurse - Seeking Experienced Candidates",
-   "location": "Various Sites And Community-Based Locations Throughout Nova Scotia"
-  },
-  "b7ffac9ec4db1a717a8a63cf8632d523": {
-   "id": "b7ffac9ec4db1a717a8a63cf8632d523",
-   "company": "Capital District Health Authority",
-   "role": "Pharmacist - Seeking Experienced Candidates",
-   "location": "Various Sites And Community-Based Locations Throughout Nova Scotia"
-  },
-  "f9c29f36e9c1517b2e4b70981d25469d": {
-   "id": "f9c29f36e9c1517b2e4b70981d25469d",
-   "company": "Capital District Health Authority",
-   "role": "Care Team Assistant - Medical B",
-   "location": "Valley Regional Hospital"
-  },
   "3a12f733c640c5cd091c78eaf8407f2d": {
    "id": "3a12f733c640c5cd091c78eaf8407f2d",
    "company": "Tricon Residential",
@@ -3050,6 +3074,12 @@
    "role": "Technicien(ne) De Service Sur Le Terrain – Équipements D’inspection Des Produits",
    "location": "Montreal"
   },
+  "d69f12a4d27302ae88a4de620d55c572": {
+   "id": "d69f12a4d27302ae88a4de620d55c572",
+   "company": "CONAM Management Corporation",
+   "role": "Maintenance Technician",
+   "location": "Salvator"
+  },
   "be238883f3e98dc6e74320c824a353c0": {
    "id": "be238883f3e98dc6e74320c824a353c0",
    "company": "Baker Hughes",
@@ -3073,6 +3103,12 @@
    "company": "ALSTOM TRANSPORT SA",
    "role": "Electrical Technician",
    "location": "Eglinton"
+  },
+  "fbea2a68bae18f52bee1bcaea395367a": {
+   "id": "fbea2a68bae18f52bee1bcaea395367a",
+   "company": "WSP in Canada",
+   "role": "Archaeology Field Technician I",
+   "location": "Toronto"
   },
   "1315673b3c3754f2eafaec654cef76d1": {
    "id": "1315673b3c3754f2eafaec654cef76d1",
@@ -3223,12 +3259,6 @@
    "company": "BGIS",
    "role": "General Repair Technician Iii - Static",
    "location": "Yellowknife"
-  },
-  "d80224fe1c44d54d76d88973dfdb92aa": {
-   "id": "d80224fe1c44d54d76d88973dfdb92aa",
-   "company": "CONAM Management Corporation",
-   "role": "Maintenance Technician",
-   "location": "Roseville"
   },
   "b610af5008ed91eb562a86e6382c6718": {
    "id": "b610af5008ed91eb562a86e6382c6718",
@@ -3500,10 +3530,40 @@
    "role": "Mechanical Maintenance Technician-2",
    "location": "Toronto"
   },
-  "cea2e6091e92dc193d6846bb96eb34c3": {
-   "id": "cea2e6091e92dc193d6846bb96eb34c3",
-   "company": "Amentum Pr",
-   "role": "Mechanical Maintenance Technician-2",
+  "37653ba477f0df1622044f9dd6c0ce35": {
+   "id": "37653ba477f0df1622044f9dd6c0ce35",
+   "company": "BCE Inc",
+   "role": "Seasonal Retail Sales Associate, Aberdeen Mall",
+   "location": "Kamloops"
+  },
+  "4a96ca0ada1e3aaef7b334da48705f75": {
+   "id": "4a96ca0ada1e3aaef7b334da48705f75",
+   "company": "BCE Inc",
+   "role": "Seasonal Retail Sales Associate, Place Alexis Nihon",
+   "location": "Montreal"
+  },
+  "6933804317cc55d13de06c1ce4dcdd01": {
+   "id": "6933804317cc55d13de06c1ce4dcdd01",
+   "company": "BCE Inc",
+   "role": "Seasonal Retail Sales Associate, Richmond Centre",
+   "location": "Vancouver"
+  },
+  "7c216cf1c811b094e18b6e8fadafa501": {
+   "id": "7c216cf1c811b094e18b6e8fadafa501",
+   "company": "TD Ameritrade",
+   "role": "Customer Experience Associate",
+   "location": "Edmonton"
+  },
+  "8f898f21f4dc23cb373bd515cb16ea62": {
+   "id": "8f898f21f4dc23cb373bd515cb16ea62",
+   "company": "TD Ameritrade",
+   "role": "Customer Experience Associate - Fixed Term Contract",
+   "location": "Calgary"
+  },
+  "200ae10d6f4dc9aace45687fbb76fa50": {
+   "id": "200ae10d6f4dc9aace45687fbb76fa50",
+   "company": "TD Ameritrade",
+   "role": "Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis For Future Opportunities In Etobicoke",
    "location": "Toronto"
   },
   "18f1df4060a0dd4394bcc0e89ddc4f60": {
@@ -3578,11 +3638,77 @@
    "role": "Part Time Firearms Sales",
    "location": "Toronto"
   },
+  "d2fcdf08ab35deabe8583b3e5aaacba6": {
+   "id": "d2fcdf08ab35deabe8583b3e5aaacba6",
+   "company": "Jobgether",
+   "role": "Customer Support Specialist, Infinity",
+   "location": "Canada"
+  },
+  "2f5b93942953e6857713155ecf68c031": {
+   "id": "2f5b93942953e6857713155ecf68c031",
+   "company": "TD Bank",
+   "role": "Customer Experience Associate",
+   "location": "Courtenay"
+  },
+  "8d5101124fad6583da8b9e08b78b556d": {
+   "id": "8d5101124fad6583da8b9e08b78b556d",
+   "company": "TD Bank",
+   "role": "Customer Experience Associate - Spanish And/or Japanese Language Skills An Asset",
+   "location": "Vancouver"
+  },
+  "3d4cec3a43134c3888a2a6b281d10042": {
+   "id": "3d4cec3a43134c3888a2a6b281d10042",
+   "company": "TD Bank",
+   "role": "Customer Experience Associate - Verdun (full-time, 37.5h/week)",
+   "location": "Montreal"
+  },
   "ac4d5c5fc78596f608e841cd0d27aaa1": {
    "id": "ac4d5c5fc78596f608e841cd0d27aaa1",
    "company": "W Brisbane",
    "role": "Guest Service Support Expert",
    "location": "Kelowna"
+  },
+  "3ca1b5d75be5a5bc0425c7fb5b86c82e": {
+   "id": "3ca1b5d75be5a5bc0425c7fb5b86c82e",
+   "company": "TELUS",
+   "role": "Retail Support Associate (koodo) / Scarborough Town Centre",
+   "location": "Scarborough"
+  },
+  "875a171b12e4d68fb6cd6692ef9ffdfa": {
+   "id": "875a171b12e4d68fb6cd6692ef9ffdfa",
+   "company": "TELUS",
+   "role": "Part Time Sales Representative (koodo) / Bramalea City Centre",
+   "location": "Toronto"
+  },
+  "5994442e13959670df1a0b83f31f076b": {
+   "id": "5994442e13959670df1a0b83f31f076b",
+   "company": "TELUS",
+   "role": "Retail Support Associate / Galeries D'anjou / Seasonal",
+   "location": "Montreal"
+  },
+  "7c05eba418d5b7177525d9f95a999ada": {
+   "id": "7c05eba418d5b7177525d9f95a999ada",
+   "company": "TELUS",
+   "role": "Retail Support Associate (seasonal) / Telus Oshawa Centre",
+   "location": "Toronto"
+  },
+  "8516695e3db2bf511409a968162b286e": {
+   "id": "8516695e3db2bf511409a968162b286e",
+   "company": "TELUS",
+   "role": "Retail Support Associate (koodo) / Markville Mall (seasonal)",
+   "location": "Toronto"
+  },
+  "f39895845929c0531a1fb9c04e364f6c": {
+   "id": "f39895845929c0531a1fb9c04e364f6c",
+   "company": "Pet Valu",
+   "role": "Sales Associate",
+   "location": "Vancouver"
+  },
+  "a73f543c95833848cebfead2ba49af55": {
+   "id": "a73f543c95833848cebfead2ba49af55",
+   "company": "Giant Tiger",
+   "role": "Softgoods Associate (full-time)",
+   "location": "Montreal"
   },
   "07acd2df3541dd4855743a1bc4a3a7d3": {
    "id": "07acd2df3541dd4855743a1bc4a3a7d3",
@@ -3668,23 +3794,29 @@
    "role": "Seasonal P/t Sales Associate, Marshall Erin Mills Town Ctr. Mississauga",
    "location": "Toronto"
   },
-  "5aafe80d471d22ddf8ecff763c3db32c": {
-   "id": "5aafe80d471d22ddf8ecff763c3db32c",
-   "company": "TD Bank",
-   "role": "Customer Experience Associate",
-   "location": "Grande Prairie"
-  },
   "a8f015a838718512f4a361dc689444f0": {
    "id": "a8f015a838718512f4a361dc689444f0",
    "company": "TD Bank",
    "role": "Customer Experience Associate- Fixed Term Contract",
    "location": "Calgary"
   },
+  "166d052d5e43f7490b5384989576486c": {
+   "id": "166d052d5e43f7490b5384989576486c",
+   "company": "TD Bank Group",
+   "role": "Customer Experience Associate",
+   "location": "Toronto"
+  },
   "467e0edbe1efe7a476dc9e301a175fc7": {
    "id": "467e0edbe1efe7a476dc9e301a175fc7",
    "company": "JDI",
    "role": "Lbm Associate",
    "location": "Corner Brook"
+  },
+  "7b260098d980fb99b73e3bde71cf18a8": {
+   "id": "7b260098d980fb99b73e3bde71cf18a8",
+   "company": "JDI",
+   "role": "Flooring Associate",
+   "location": "New Minas"
   },
   "230e665d0f6c501b6fab2b1f8a217e80": {
    "id": "230e665d0f6c501b6fab2b1f8a217e80",
@@ -3733,24 +3865,6 @@
    "company": "TD Bank Group",
    "role": "Customer Experience Associate - Greater Toronto Area",
    "location": "Toronto"
-  },
-  "94f219b6f3ad6a712d03ac646d254f60": {
-   "id": "94f219b6f3ad6a712d03ac646d254f60",
-   "company": "TD Bank Group",
-   "role": "Customer Experience Associate",
-   "location": "Vancouver"
-  },
-  "8f5c4fe11f717edb5b6c24d983ef9885": {
-   "id": "8f5c4fe11f717edb5b6c24d983ef9885",
-   "company": "TELUS",
-   "role": "Part Time Sales Representative (koodo) / Bramalea City Centre",
-   "location": "Toronto"
-  },
-  "15bffd641f2fa30cd065685cb1e12c94": {
-   "id": "15bffd641f2fa30cd065685cb1e12c94",
-   "company": "TELUS",
-   "role": "Retail Support Associate (koodo) / Scarborough Town Centre",
-   "location": "Scarborough"
   },
   "d558600af43554a23481186710b88650": {
    "id": "d558600af43554a23481186710b88650",
@@ -3896,95 +4010,11 @@
    "role": "Plumbing/electrical Associate",
    "location": "Bouctouche"
   },
-  "7671bebc4fed5c9046e0fbe1334ced06": {
-   "id": "7671bebc4fed5c9046e0fbe1334ced06",
-   "company": "JDI / Midland Transport",
-   "role": "Plumbing/electrical Associate",
-   "location": "Bouctouche"
-  },
-  "33fec2a6b89c21c105f612e23371f745": {
-   "id": "33fec2a6b89c21c105f612e23371f745",
-   "company": "Pet Valu",
-   "role": "Sales Associate",
-   "location": "Cardston"
-  },
-  "8014b3596d68a53430b78764c1f105c8": {
-   "id": "8014b3596d68a53430b78764c1f105c8",
-   "company": "BCE Inc",
-   "role": "Retail Sales Associate, Smartcentres Chatham",
-   "location": "Chatham-Kent"
-  },
-  "9650698cef31f1dcf8a64cfb61c1190d": {
-   "id": "9650698cef31f1dcf8a64cfb61c1190d",
-   "company": "BCE Inc",
-   "role": "Retail Sales Associate,place Du Royaume",
-   "location": "Chicoutimi"
-  },
-  "6efebf41556de5153cba3bdae9339d4b": {
-   "id": "6efebf41556de5153cba3bdae9339d4b",
-   "company": "BCE Inc",
-   "role": "Seasonal Retail Sales Associate, New Sudbury Centre",
-   "location": "Sudbury"
-  },
-  "0a5fc1dab54eb1388ffb29095b75060e": {
-   "id": "0a5fc1dab54eb1388ffb29095b75060e",
-   "company": "Bell",
-   "role": "Seasonal Retail Sales Associate, Timmins Square",
-   "location": "Timmins"
-  },
-  "90af9d827d56b93095fa501a9b1aabdc": {
-   "id": "90af9d827d56b93095fa501a9b1aabdc",
-   "company": "BCE Inc",
-   "role": "Seasonal Retail Sales Associate, Northgate Square",
-   "location": "North Bay"
-  },
-  "1f1d48df0382bc5c1675b1144396aebd": {
-   "id": "1f1d48df0382bc5c1675b1144396aebd",
-   "company": "BCE Inc",
-   "role": "Seasonal Retail Sales Associate, Lloydminster",
-   "location": "Lloydminster"
-  },
-  "65c6803d6ccb4e90facbfeb4c2c05ce1": {
-   "id": "65c6803d6ccb4e90facbfeb4c2c05ce1",
-   "company": "BCE Inc",
-   "role": "Seasonal Retail Sales Associate, Kingsway Garden Mall",
-   "location": "Edmonton"
-  },
-  "4ae3e5fda8bdabbf66ef13541c70e043": {
-   "id": "4ae3e5fda8bdabbf66ef13541c70e043",
-   "company": "BCE Inc",
-   "role": "Retail Sales Associate, Londonderry Mall",
-   "location": "Edmonton"
-  },
-  "7e921a8761bef4c94fbe2b30c88c3c94": {
-   "id": "7e921a8761bef4c94fbe2b30c88c3c94",
-   "company": "BCE Inc",
-   "role": "Retail Sales Associate, Gander Mall",
-   "location": "Gander"
-  },
-  "33f026fe674ac726ae86b1274820a0b9": {
-   "id": "33f026fe674ac726ae86b1274820a0b9",
-   "company": "BCE Inc",
-   "role": "Seasonal Retail Sales Associate, Centre Valleyfield",
-   "location": "Valleyfield"
-  },
-  "fe3191af0550cb0ffad28dfe5accbf33": {
-   "id": "fe3191af0550cb0ffad28dfe5accbf33",
-   "company": "BCE Inc",
-   "role": "Retail Sales Associate , Espace Saint Georges",
-   "location": "Saint-Georges"
-  },
-  "442c9d895d93bec613e4ba6124b30db1": {
-   "id": "442c9d895d93bec613e4ba6124b30db1",
-   "company": "BCE Inc",
-   "role": "Seasonal Retail Sales Associate, Grand Prairie",
-   "location": "Grande Prairie"
-  },
-  "92296a2902a9c2d197c5e0de46bf407c": {
-   "id": "92296a2902a9c2d197c5e0de46bf407c",
-   "company": "BCE Inc",
-   "role": "Seasonal Retail Sales Associate, Smartcentres Chatham, Non-mgmt",
-   "location": "Chatham-Kent"
+  "3be12e3ba6fa773578b32b97532c6d96": {
+   "id": "3be12e3ba6fa773578b32b97532c6d96",
+   "company": "CIBC",
+   "role": "Administrative Assistant-bilingual",
+   "location": "Montreal"
   },
   "2b8c5e745dd6557de29a1c3345372a92": {
    "id": "2b8c5e745dd6557de29a1c3345372a92",
@@ -4004,11 +4034,29 @@
    "role": "Cppu Program Support",
    "location": "Vancouver"
   },
+  "c1f5f836e2154f994aecd2e23fb81f37": {
+   "id": "c1f5f836e2154f994aecd2e23fb81f37",
+   "company": "Metrolinx",
+   "role": "Project Coordinator, Lakeshore West Drury Burloak Long Branch",
+   "location": "Canada"
+  },
+  "35e331a1717ec2b1e47d4c09eda10ec2": {
+   "id": "35e331a1717ec2b1e47d4c09eda10ec2",
+   "company": "460",
+   "role": "Operations Coordinator",
+   "location": "Alberta"
+  },
   "e4ce836874ef0888dff20b2015a75d66": {
    "id": "e4ce836874ef0888dff20b2015a75d66",
    "company": "Farm Boy Inc.",
    "role": "Administrative Assistant",
    "location": "Toronto"
+  },
+  "a30659438aace3d705257ad2016ddf76": {
+   "id": "a30659438aace3d705257ad2016ddf76",
+   "company": "AtkinsRéalis",
+   "role": "Administrative Assistant",
+   "location": "Trail"
   },
   "3927a6ffb0433b8d77bc5c073da626ce": {
    "id": "3927a6ffb0433b8d77bc5c073da626ce",
@@ -4058,11 +4106,23 @@
    "role": "Administrative Assistant (15 Month Term)",
    "location": "Nova Scotia"
   },
+  "0265cf04c8c00d42ca2b1f4c105cec12": {
+   "id": "0265cf04c8c00d42ca2b1f4c105cec12",
+   "company": "Jobgether",
+   "role": "Billing Operations Associate",
+   "location": "Canada"
+  },
   "61827936a811f7aadb4f431dc25ad2cf": {
    "id": "61827936a811f7aadb4f431dc25ad2cf",
    "company": "ALSTOM TRANSPORT SA",
    "role": "Assistant(e) De Direction Et Relai Communication",
    "location": "La Pocatiere"
+  },
+  "6b83fd66b726f85ff006ea5609cfb5d7": {
+   "id": "6b83fd66b726f85ff006ea5609cfb5d7",
+   "company": "Metrolinx",
+   "role": "Executive Assistant, Scarborough Subway Extension",
+   "location": "Scarborough"
   },
   "fd49ea50b03318f457888b2c98cfa458": {
    "id": "fd49ea50b03318f457888b2c98cfa458",
@@ -4111,12 +4171,6 @@
    "company": "HealthCareers SK 2",
    "role": "Recreation Coordinator",
    "location": "Rosetown"
-  },
-  "3a8780350a8a44b7f933abbacd4c5048": {
-   "id": "3a8780350a8a44b7f933abbacd4c5048",
-   "company": "460",
-   "role": "Operations Coordinator",
-   "location": "British Columbia"
   },
   "4bdde8dee09b558a300d76e7aa466421": {
    "id": "4bdde8dee09b558a300d76e7aa466421",
@@ -4435,36 +4489,6 @@
    "company": "WSP in Canada",
    "role": "Project Administrative Assistant",
    "location": "Edmonton"
-  },
-  "1a94501a761b68d768825901740fdc12": {
-   "id": "1a94501a761b68d768825901740fdc12",
-   "company": "RBC",
-   "role": "2027 Capital Markets, Global Transaction Banking, Project Coordinator (12 Months)",
-   "location": "Toronto"
-  },
-  "d6959abd3385b96a13756c129cb33275": {
-   "id": "d6959abd3385b96a13756c129cb33275",
-   "company": "Jobgether",
-   "role": "Construction Project Operations Coordinator",
-   "location": "Canada"
-  },
-  "414e511f2c84e5c06a062357bcb97fb3": {
-   "id": "414e511f2c84e5c06a062357bcb97fb3",
-   "company": "Southern Health-Santé Sud",
-   "role": "Administrative Assistant (casual)",
-   "location": "Swan Lake"
-  },
-  "7cfa3cc7f6f157f4fe9be4e90700550a": {
-   "id": "7cfa3cc7f6f157f4fe9be4e90700550a",
-   "company": "The Salvation Army (Canada)",
-   "role": "Gender Equity Administrative Assistant (part-time)",
-   "location": "Toronto"
-  },
-  "34a4d0ddc7def682a3ac3176e8818051": {
-   "id": "34a4d0ddc7def682a3ac3176e8818051",
-   "company": "Lululemon",
-   "role": "Sample Operations Coordinator",
-   "location": "British Columbia"
   }
  }
 }

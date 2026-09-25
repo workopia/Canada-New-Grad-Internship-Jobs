@@ -7772,4 +7772,49 @@
 <tr><td>Dragonfly Shipping</td><td>Operations Coordinator (seasonal)</td><td>Ontario</td><td>2026-09-25</td></tr>
 <tr><td>The Salvation Army (Canada)</td><td>Christmas Kettle Coordinator - Temporary</td><td>Nelson</td><td>2026-09-25</td></tr>
 <tr><td>Nutrien Ltd</td><td>Specialist, Safety</td><td>Vanscoy</td><td>2026-09-25</td></tr>
+<tr><td>pgccT</td><td>Social Media & Digital Content Intern/co-op / Stage Ou Programme Coopératif En Médias Sociaux Et Contenu Numérique</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Connor, Clark & Lunn Financial Group (CC&L)</td><td>Intern, Retail Portfolio Operations</td><td>Vancouver</td><td>2026-09-25</td></tr>
+<tr><td>The Brattle Group</td><td>Energy Analyst Intern (economics) - Summer 2027</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Connor, Clark & Lunn Financial Group (CC&L)</td><td>Intern, Taxation</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Dialpad</td><td>Staff Software Engineer</td><td>Vancouver</td><td>2026-09-25</td></tr>
+<tr><td>City of Toronto</td><td>Health Information Analyst</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Staples Business</td><td>Accounting Analyst</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Citco</td><td>Risk Analyst</td><td>On</td><td>2026-09-25</td></tr>
+<tr><td>Metrolinx</td><td>Contract Compliance Officer</td><td>Canada</td><td>2026-09-25</td></tr>
+<tr><td>Commission de la construction du Quebec</td><td>Analyste Financier(ère) Sénior</td><td>Montreal</td><td>2026-09-25</td></tr>
+<tr><td>Miles HR</td><td>Accountant</td><td>Vancouver</td><td>2026-09-25</td></tr>
+<tr><td>Purolator</td><td>Fraud Analyst</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - 2e Respiratory Long Term Vent - Repost</td><td>Winnipeg</td><td>2026-09-25</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Nurse - Emergency Department</td><td>Nova Scotia</td><td>2026-09-25</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Nurses - Critical Care</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-09-25</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Nurse - Seeking Experienced Candidates</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-09-25</td></tr>
+<tr><td>Capital District Health Authority</td><td>Pharmacist - Seeking Experienced Candidates</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-09-25</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant - Medical B</td><td>Valley Regional Hospital</td><td>2026-09-25</td></tr>
+<tr><td>CONAM Management Corporation</td><td>Maintenance Technician</td><td>Roseville</td><td>2026-09-25</td></tr>
+<tr><td>Amentum Pr</td><td>Mechanical Maintenance Technician-2</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Grande Prairie</td><td>2026-09-25</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate</td><td>Vancouver</td><td>2026-09-25</td></tr>
+<tr><td>TELUS</td><td>Part Time Sales Representative (koodo) / Bramalea City Centre</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate (koodo) / Scarborough Town Centre</td><td>Scarborough</td><td>2026-09-25</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Plumbing/electrical Associate</td><td>Bouctouche</td><td>2026-09-25</td></tr>
+<tr><td>Pet Valu</td><td>Sales Associate</td><td>Cardston</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Smartcentres Chatham</td><td>Chatham-Kent</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate,place Du Royaume</td><td>Chicoutimi</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, New Sudbury Centre</td><td>Sudbury</td><td>2026-09-25</td></tr>
+<tr><td>Bell</td><td>Seasonal Retail Sales Associate, Timmins Square</td><td>Timmins</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Northgate Square</td><td>North Bay</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Lloydminster</td><td>Lloydminster</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Kingsway Garden Mall</td><td>Edmonton</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Londonderry Mall</td><td>Edmonton</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Gander Mall</td><td>Gander</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Centre Valleyfield</td><td>Valleyfield</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate , Espace Saint Georges</td><td>Saint-Georges</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Grand Prairie</td><td>Grande Prairie</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Smartcentres Chatham, Non-mgmt</td><td>Chatham-Kent</td><td>2026-09-25</td></tr>
+<tr><td>460</td><td>Operations Coordinator</td><td>British Columbia</td><td>2026-09-25</td></tr>
+<tr><td>RBC</td><td>2027 Capital Markets, Global Transaction Banking, Project Coordinator (12 Months)</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Jobgether</td><td>Construction Project Operations Coordinator</td><td>Canada</td><td>2026-09-25</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Administrative Assistant (casual)</td><td>Swan Lake</td><td>2026-09-25</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Gender Equity Administrative Assistant (part-time)</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Lululemon</td><td>Sample Operations Coordinator</td><td>British Columbia</td><td>2026-09-25</td></tr>
 </table>
