@@ -7709,4 +7709,67 @@
 <tr><td>Bell</td><td>Seasonal Retail Sales Associate, Park Royal</td><td>Vancouver</td><td>2026-09-24</td></tr>
 <tr><td>Bell</td><td>Retail Sales Associate, Robson St</td><td>Vancouver</td><td>2026-09-24</td></tr>
 <tr><td>CIBC US</td><td>Administrative Assistant</td><td>London</td><td>2026-09-24</td></tr>
+<tr><td>Sonova Group</td><td>Hearing Care Professional Intern</td><td>Canada</td><td>2026-09-25</td></tr>
+<tr><td>Mackenzie Investments</td><td>Winter Intern 2027 - Business Systems Intern - Productivity Apps Pod</td><td>Greater Toronto Area</td><td>2026-09-25</td></tr>
+<tr><td>MadeGoodFoods-Canada</td><td>R&d Co-op</td><td>2233 Sheppard Ave W</td><td>2026-09-25</td></tr>
+<tr><td>TÜV SÜD</td><td>Product Safety Intern 1</td><td>Ontario</td><td>2026-09-25</td></tr>
+<tr><td>Rocket Lab Corporation</td><td>Business Development Intern Spring 2027</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Rocket Lab Corporation</td><td>Business Development Intern Summer 2027</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>RBC</td><td>Commercial Banking Advisor Intern</td><td>Vancouver</td><td>2026-09-25</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Summer Intern 2027 - Infrastructure Equity Internship</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Pall Corporation</td><td>R&d Formulation Co-op</td><td>Vancouver</td><td>2026-09-25</td></tr>
+<tr><td>iA Financial Group</td><td>Intern – Artificial Intelligence, Automation And Operational Efficiency</td><td>Quebec</td><td>2026-09-25</td></tr>
+<tr><td>Alayacare</td><td>Intern, Fullstack Developer (python) - Winter Semester 2027</td><td>Montreal</td><td>2026-09-25</td></tr>
+<tr><td>Volvo Group</td><td>Stagiaire Procédés Électrique</td><td>Sainte-Claire</td><td>2026-09-25</td></tr>
+<tr><td>TD Bank</td><td>Governance & Control Intern/co-op (winter 2027)</td><td>Montreal</td><td>2026-09-25</td></tr>
+<tr><td>TD Bank</td><td>Governance & Control Analyst Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>TD Bank</td><td>Td Insurance Private Client Advice Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>TD Bank</td><td>Td Insurance Governance & Control Strategy & Transformation Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>TD Bank</td><td>L&h Product Management Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>TD Bank</td><td>Gi Product And Underwriting Strategy Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>TD Bank</td><td>Affinity Market Group, Sales Enablement Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Bmo Harris Bank N.A</td><td>Structured Solutions And Nonlinear Etfs Intern, Winter 2027 (co-op/internship) - 4 Months</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Genetec</td><td>Applications Pour Les Stages D'hiver / Applications For Winter Internship</td><td>Montreal</td><td>2026-09-25</td></tr>
+<tr><td>Kiewit Corporation</td><td>Safety Intern - Kiewit Energy Canada (summer 2027)</td><td>Calgary</td><td>2026-09-25</td></tr>
+<tr><td>Kiewit Corporation</td><td>Safety Intern - Western Canada District (summer 2027)</td><td>Vancouver</td><td>2026-09-25</td></tr>
+<tr><td>Bank of Montreal</td><td>Analyst, Full Stack Engineer</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Canadian Tire</td><td>Category Business Analyst - Party City</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>British Standards Institution / BSI Group</td><td>Associate Auditor (contract) Iso 9001/14001/45001 Auditors</td><td>Canada</td><td>2026-09-25</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant - Medical Telemetry</td><td>Aberdeen Hospital</td><td>2026-09-25</td></tr>
+<tr><td>Capital District Health Authority</td><td>Pharmacy Practice Assistant - Public Health</td><td>Central Zone</td><td>2026-09-25</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant - Medical Unit</td><td>Northern Zone</td><td>2026-09-25</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Residential Care Worker</td><td>Glencairn</td><td>2026-09-25</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Withdrawal Management Services Support Worker</td><td>Yellowknife</td><td>2026-09-25</td></tr>
+<tr><td>McGill University</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-09-25</td></tr>
+<tr><td>McGill University</td><td>Research Assistant - Sgi (sustainable Africa)</td><td>Montreal</td><td>2026-09-25</td></tr>
+<tr><td>Alliance UniChem IP Ltd</td><td>Field & Infusion Nurse (rn)</td><td>Cranbrook</td><td>2026-09-25</td></tr>
+<tr><td>ParaMed</td><td>Registered Nurse Palliative</td><td>Paramed</td><td>2026-09-25</td></tr>
+<tr><td>ParaMed</td><td>Swan Or Iiwcc Wound Care Nurse</td><td>Canada</td><td>2026-09-25</td></tr>
+<tr><td>University of British Columbia</td><td>Greenhouse Research Asst/tech 3</td><td>Vancouver</td><td>2026-09-25</td></tr>
+<tr><td>University of British Columbia</td><td>Diabetes Clinical Research Coordinator (dcrc)</td><td>Vancouver</td><td>2026-09-25</td></tr>
+<tr><td>University of British Columbia</td><td>Greenhouse And Field Research Assistant</td><td>Vancouver</td><td>2026-09-25</td></tr>
+<tr><td>Johnson & Johnson</td><td>Ingénieur(e) De Service Terrain Associé(e) (contrat À Durée Déterminée)</td><td>Montreal</td><td>2026-09-25</td></tr>
+<tr><td>Johnson & Johnson UK</td><td>Ingénieur(e) De Service Terrain Associé(e) (contrat À Durée Déterminée)</td><td>Montreal</td><td>2026-09-25</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Kitchen Inspection Suppression Technician</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Desjardins</td><td>Advisory Agent, Member And Client Experience</td><td>Amqui</td><td>2026-09-25</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Fleurimont</td><td>2026-09-25</td></tr>
+<tr><td>The William Carter Company</td><td>Sales Associate</td><td>Timmins</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Oakville Place</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Mill Woods Town Centre</td><td>Edmonton</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, St. Albert</td><td>Edmonton</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Dryden</td><td>Dryden</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Bathurst</td><td>Bathurst</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Bridgeview Plaza</td><td>Miramichi</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Random Square Mall</td><td>Clarenville</td><td>2026-09-25</td></tr>
+<tr><td>Bell</td><td>Seasonal Retail Sales Associate, Gander Mall</td><td>Gander</td><td>2026-09-25</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Centre Eaton</td><td>Montreal</td><td>2026-09-25</td></tr>
+<tr><td>Bell</td><td>Seasonal Retail Sales Associate, Galeries De Hull</td><td>Ottawa</td><td>2026-09-25</td></tr>
+<tr><td>Aecon Group</td><td>Co-op, Project Coordinator</td><td>Ohsweken</td><td>2026-09-25</td></tr>
+<tr><td>Aecon Group</td><td>Co-op, Project Controls Coordinator</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Humanify</td><td>Adjoint Administratif/adjointe Administratif</td><td>Thetford</td><td>2026-09-25</td></tr>
+<tr><td>Ownr</td><td>Account Specialist</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Copeland (Emerson)</td><td>Administrative Assistant</td><td>Brantford</td><td>2026-09-25</td></tr>
+<tr><td>Dragonfly Shipping</td><td>Operations Coordinator (seasonal)</td><td>Ontario</td><td>2026-09-25</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Christmas Kettle Coordinator - Temporary</td><td>Nelson</td><td>2026-09-25</td></tr>
+<tr><td>Nutrien Ltd</td><td>Specialist, Safety</td><td>Vanscoy</td><td>2026-09-25</td></tr>
 </table>
