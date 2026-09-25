@@ -7817,4 +7817,30 @@
 <tr><td>Southern Health-Santé Sud</td><td>Administrative Assistant (casual)</td><td>Swan Lake</td><td>2026-09-25</td></tr>
 <tr><td>The Salvation Army (Canada)</td><td>Gender Equity Administrative Assistant (part-time)</td><td>Toronto</td><td>2026-09-25</td></tr>
 <tr><td>Lululemon</td><td>Sample Operations Coordinator</td><td>British Columbia</td><td>2026-09-25</td></tr>
+<tr><td>PCL Constructors Inc</td><td>Marketing & Communications Student</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>John Hancock</td><td>Winter Co-op 2027 - Ai (12 Months)</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>ARC Resources Ltd.</td><td>Enablement And Reporting Summer Student</td><td>Calgary</td><td>2026-09-25</td></tr>
+<tr><td>PCL Constructors Inc</td><td>Engineering/technical Student</td><td>Montreal</td><td>2026-09-25</td></tr>
+<tr><td>Mattermost</td><td>Staff Full Stack Engineer</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Staples Inc.</td><td>Accounting Analyst</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Staples Canada</td><td>Accounting Analyst</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>Saltcoats</td><td>2026-09-25</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Cardiology Input Unit -5a/6a/pru</td><td>Winnipeg</td><td>2026-09-25</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Pharmacist-pharmacien Ne</td><td>Notre Dame De Lourdes</td><td>2026-09-25</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Hemodialysis</td><td>Winnipeg</td><td>2026-09-25</td></tr>
+<tr><td>Pet Valu</td><td>Sales Associate</td><td>Vancouver</td><td>2026-09-25</td></tr>
+<tr><td>Homesense</td><td>Retail Store Associate Part Time Seasonal Homesense - Taunton Gardens</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Retail Store Associate Temporary Winners- 534 Southgate Mall</td><td>Edmonton</td><td>2026-09-25</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Full Time</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Future Opportunities</td><td>Parry Sound</td><td>2026-09-25</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis For Future Opportunities In Gta Area</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>Jobgether</td><td>Customer Success Coordinator</td><td>Canada</td><td>2026-09-25</td></tr>
+<tr><td>Oakley</td><td>Sales Associate</td><td>Edmonton</td><td>2026-09-25</td></tr>
+<tr><td>Kent</td><td>Plumbing/electrical Associate</td><td>Bouctouche</td><td>2026-09-25</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Recreation Coordinator</td><td>Rosetown</td><td>2026-09-25</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Administrative Assistant</td><td>Lloydminster</td><td>2026-09-25</td></tr>
+<tr><td>Jobgether</td><td>Project Reporting & Governance Coordinator</td><td>Canada</td><td>2026-09-25</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Capital Markets, Global Transaction Banking, Project Coordinator (12 Months)</td><td>Toronto</td><td>2026-09-25</td></tr>
+<tr><td>WSP</td><td>Project Administrative Assistant</td><td>Edmonton</td><td>2026-09-25</td></tr>
+<tr><td>WSP in Canada</td><td>Project Administrative Assistant</td><td>Edmonton</td><td>2026-09-25</td></tr>
 </table>
