@@ -7881,4 +7881,32 @@
 <tr><td>CBC/Radio-Canada</td><td>Administrative Assistant, Administration (french Services) (on Site)</td><td>Montreal</td><td>2026-09-26</td></tr>
 <tr><td>Intelcom / Dragonfly</td><td>Operations Coordinator</td><td>Saskatchewan</td><td>2026-09-26</td></tr>
 <tr><td>City of Toronto</td><td>Standards Coordinator</td><td>North York</td><td>2026-09-26</td></tr>
+<tr><td>Mackenzie Investments</td><td>Winter Intern 2027 - Value Delivery Office</td><td>Greater Toronto Area</td><td>2026-09-26</td></tr>
+<tr><td>Ryan Companies</td><td>Summer 2027 Tax Consulting Intern - Canada</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>Intelcom</td><td>Occupational Health And Safety Intern</td><td>Quebec</td><td>2026-09-26</td></tr>
+<tr><td>AltaGas</td><td>Altagas - 2027 Intern, Asset Management</td><td>Calgary</td><td>2026-09-26</td></tr>
+<tr><td>AltaGas</td><td>Altagas - 2027 Midstream Finance Co-op Student</td><td>Calgary</td><td>2026-09-26</td></tr>
+<tr><td>RYAN</td><td>Summer 2027 Tax Consulting Intern - Canada</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>BDO Canada</td><td>Co-op Or Intern, Business Analysis & Quality Assurance (january 2027)</td><td>Ottawa</td><td>2026-09-26</td></tr>
+<tr><td>Workday</td><td>Workday Intern Cohort 2026 (canada)</td><td>Vancouver</td><td>2026-09-26</td></tr>
+<tr><td>Aimco</td><td>Student, Enterprise Risk Management (fall 2026)</td><td>Edmonton</td><td>2026-09-26</td></tr>
+<tr><td>Fivetran</td><td>Staff Software Engineer, Fullstack</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>Jobgether</td><td>Frontend Developer, Intermediate</td><td>Canada</td><td>2026-09-26</td></tr>
+<tr><td>Speechify</td><td>Software Engineer, Platform - Vancouver, Canada</td><td>Vancouver</td><td>2026-09-26</td></tr>
+<tr><td>TD Bank</td><td>Business Insights & Analytics Co-op/intern Winter 2027</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nursing Assistant - Labor & Delivery</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Surgery - N2east</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Family Medicine</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Operating Room</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Lodge 2 A&r</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Home Care Attendant</td><td>Altona</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Medicine E6</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>PAE/Amentum</td><td>Mechanical Maintenance Technician-1</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>Dollar Tree Canada</td><td>Customer Service Associate</td><td>St. Paul</td><td>2026-09-26</td></tr>
+<tr><td>Dollar Tree Canada</td><td>Customer Service Associate I</td><td>Grande Prairie</td><td>2026-09-26</td></tr>
+<tr><td>Best Buy Canada</td><td>Mobile Sales Associate (seasonal)</td><td>Conestoga Mall</td><td>2026-09-26</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Edmonton, Ab</td><td>Edmonton</td><td>2026-09-26</td></tr>
+<tr><td>Bmousbenefits</td><td>Associate, Internal Sales, Intermediary Distribution</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>RBC Dominion Securities</td><td>Administrative Assistant</td><td>Greater Sudbury</td><td>2026-09-26</td></tr>
+<tr><td>Alstom</td><td>Electrification Project Coordinator Intern (fall 2026)</td><td>Toronto</td><td>2026-09-26</td></tr>
 </table>
