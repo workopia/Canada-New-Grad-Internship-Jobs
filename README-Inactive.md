@@ -7843,4 +7843,42 @@
 <tr><td>RBC (Royal Bank of Canada)</td><td>2027 Capital Markets, Global Transaction Banking, Project Coordinator (12 Months)</td><td>Toronto</td><td>2026-09-25</td></tr>
 <tr><td>WSP</td><td>Project Administrative Assistant</td><td>Edmonton</td><td>2026-09-25</td></tr>
 <tr><td>WSP in Canada</td><td>Project Administrative Assistant</td><td>Edmonton</td><td>2026-09-25</td></tr>
+<tr><td>GE Aerospace</td><td>Stagiaire Qualité (stage Débutant En Janvier 2027)</td><td>Saint</td><td>2026-09-26</td></tr>
+<tr><td>Jobgether</td><td>Staff Software Engineer, Backend</td><td>Canada</td><td>2026-09-26</td></tr>
+<tr><td>Ontario Teachers' Pension Plan Board</td><td>Investment Analyst, Infrastructure & Natural Resources</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>FDM Group</td><td>Risk, Regulation And Compliance Practice</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>Connor, Clark & Lunn Financial Group (CC&L)</td><td>Analyst, Investment Insights</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>City of Toronto</td><td>Financial Analyst Accounting Services</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>ParaMed</td><td>Personal Support Worker</td><td>Elliot Lake +4</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Psychiatric Nurse/ Registered Nurse (n2) -py2 Psychealth Gtu</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Shared Health</td><td>General Duty Nurse (n2) - Medicine</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Shared Health</td><td>General Duty Nurse (n2) - Women's Health Relief Team</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Medicine</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Ophthalmology</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>St. Boniface Hospital</td><td>Registered Nurse (n2) - Renal Resource Team - Repost</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse 2 - Concordia Place</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Urgent Care - Vgh</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Outpatient Day Surgery</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Child Health Float Pool</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - E5 Medicine Clinical Teaching Unit</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - As6 Medicine Clinical Teaching Unit</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>St. Boniface Hospital</td><td>Registered Nurse (n2) - Cardiac Surgery Inpatient Unit</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - E4 Family Medicine/clinical Assessment</td><td>Winnipeg</td><td>2026-09-26</td></tr>
+<tr><td>Amentum Pr</td><td>Mechanical Maintenance Technician-1</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>Amentum Pr</td><td>General Maintenance Technician Ii</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>PAE/Amentum</td><td>General Maintenance Technician Ii</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>PAE/Amentum</td><td>Mechanical Maintenance Technician-2</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit -act</td><td>Montreal</td><td>2026-09-26</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Warehouse Associated Ii - Part Time On Call</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>Saputo Inc.</td><td>Préposé, Entrepôt Ii</td><td>St</td><td>2026-09-26</td></tr>
+<tr><td>TOMMY HILFIGER</td><td>Temporary Sales Associate - Part-time</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Retail Store Associate Temporary Marshalls - Markville</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Retail Store Associate Part Time Winners – Bolton Square</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Part-time Retail Associate (warehouse) - Homesense Woodland Hills</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Retail Associate Seasonal Part Time/winners - College Park</td><td>Toronto</td><td>2026-09-26</td></tr>
+<tr><td>Alstom</td><td>Responsable Planning Projet</td><td>La Pocatiere</td><td>2026-09-26</td></tr>
+<tr><td>Alstom</td><td>Assistant(e) De Direction Et Relai Communication</td><td>La Pocatiere</td><td>2026-09-26</td></tr>
+<tr><td>CBC/Radio-Canada</td><td>Administrative Assistant, Administration (french Services) (on Site)</td><td>Montreal</td><td>2026-09-26</td></tr>
+<tr><td>Intelcom / Dragonfly</td><td>Operations Coordinator</td><td>Saskatchewan</td><td>2026-09-26</td></tr>
+<tr><td>City of Toronto</td><td>Standards Coordinator</td><td>North York</td><td>2026-09-26</td></tr>
 </table>
