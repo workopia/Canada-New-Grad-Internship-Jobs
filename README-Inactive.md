@@ -7987,4 +7987,38 @@
 <tr><td>acden</td><td>Accounts &amp; Operations Coordinator</td><td>Fort McMurray</td><td>2026-09-27</td></tr>
 <tr><td>University Health Network</td><td>Administrative Assistant Ii, General</td><td>Toronto</td><td>2026-09-27</td></tr>
 <tr><td>Province of Nova Scotia</td><td>Administrative Assistant (secretary 2)</td><td>PORT HAWKESBURY</td><td>2026-09-27</td></tr>
+<tr><td>Turner Construction Co.</td><td>Safety Co-op / Internship / January 2027</td><td>Vancouver</td><td>2026-09-27</td></tr>
+<tr><td>Turner Construction Co.</td><td>Project Coordinator Co-op / Internship / January 2027</td><td>Vancouver</td><td>2026-09-27</td></tr>
+<tr><td>J.D. Irving, Limited</td><td>Forestry Operations Intern - Summer 2027</td><td>Northern New Brunswick</td><td>2026-09-27</td></tr>
+<tr><td>Willis Towers Watson</td><td>Early Careers: Affinity Actuarial Internship – Winter, Summer Or Fall 2027 – 4-8 Month Co-op - Toronto Or Montreal</td><td>Toronto</td><td>2026-09-27</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>Early Careers: Affinity Actuarial Internship – Winter, Summer Or Fall 2027 – 4-8 Month Co-op - Toronto Or Montreal</td><td>Toronto</td><td>2026-09-27</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Data Insights</td><td>Canada</td><td>2026-09-27</td></tr>
+<tr><td>RBC</td><td>Service Associate, Operations</td><td>Toronto</td><td>2026-09-27</td></tr>
+<tr><td>Reinsurance Group of America</td><td>Analyste En Actuariat, Tarification / Pricing Actuarial Analyst</td><td>Montreal</td><td>2026-09-27</td></tr>
+<tr><td>Fidelity Canada</td><td>Student, Financial Analysis (8-month Term Starting Winter 27)</td><td>Toronto</td><td>2026-09-27</td></tr>
+<tr><td>Fidelity Canada</td><td>Student, Business Analysis (winter 2027)</td><td>Toronto</td><td>2026-09-27</td></tr>
+<tr><td>Canadian Tire</td><td>Jr161828 Financial Analyst Student, Forecasting (4 Months) - Winter 2027</td><td>Toronto</td><td>2026-09-27</td></tr>
+<tr><td>Jobgether</td><td>Investment Specialist - Bmo Private Bank Operation</td><td>Canada</td><td>2026-09-27</td></tr>
+<tr><td>Chartwell Retirement Residences</td><td>Guest Attendant</td><td>Lasalle</td><td>2026-09-27</td></tr>
+<tr><td>Midtown</td><td>Technicien De Maintenance/ Maintenance Associate</td><td>Montreal</td><td>2026-09-27</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Automation Technologist</td><td>Alberta</td><td>2026-09-27</td></tr>
+<tr><td>Medcan</td><td>Facilities Attendant</td><td>Toronto</td><td>2026-09-27</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate</td><td>Edmonton</td><td>2026-09-27</td></tr>
+<tr><td>The William Carter Company</td><td>Sales Associate</td><td>Ab</td><td>2026-09-27</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Montreal</td><td>2026-09-27</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Courtenay</td><td>2026-09-27</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Mayflower Mall</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Exploits Valley Mall</td><td>Grand Falls-Windsor</td><td>2026-09-27</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Bathurst Mall</td><td>Bathurst</td><td>2026-09-27</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Sales Associate</td><td>Melfort</td><td>2026-09-27</td></tr>
+<tr><td>The Salvation Army</td><td>Community Recycling Associate</td><td>Toronto</td><td>2026-09-27</td></tr>
+<tr><td>Dixon Electric</td><td>Warehouse Associate</td><td>Timmins</td><td>2026-09-27</td></tr>
+<tr><td>Robertson Electric Wholesale</td><td>Warehouse Associate</td><td>Toronto</td><td>2026-09-27</td></tr>
+<tr><td>Aecon Group</td><td>Co-op, Commissioning Coordinator</td><td>Toronto</td><td>2026-09-27</td></tr>
+<tr><td>TJX Companies</td><td>Directeur/directrice Adjoint(e) Homesense Place Du Saguenay</td><td>Chicoutimi</td><td>2026-09-27</td></tr>
+<tr><td>TJX Companies</td><td>Directeur/directrice Adjoint(e) De Magasin Winners Place Montréal Trust</td><td>Montreal</td><td>2026-09-27</td></tr>
+<tr><td>TJX Companies</td><td>Directeur/directrice Adjoint(e) De Magasin Winners Place Newman</td><td>LaSalle</td><td>2026-09-27</td></tr>
+<tr><td>TJX Companies</td><td>Directeur/ Directrice Adjoint(e) De Magasin Winners - Mégacentre De Mascouche</td><td>Montreal</td><td>2026-09-27</td></tr>
+<tr><td>TJX Companies</td><td>Directeur / Directrice Adjoint(e) De Magasin Winners - Fairview Pointe-claire</td><td>Montreal</td><td>2026-09-27</td></tr>
+<tr><td>Homesense</td><td>Directeur / Directrice Adjoint(e) De Magasin Homesense - Mégacentre De Mascouche</td><td>Montreal</td><td>2026-09-27</td></tr>
 </table>
