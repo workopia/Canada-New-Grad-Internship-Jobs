@@ -8064,4 +8064,5 @@
 <tr><td>IWK Health</td><td>Administrative Assistant Iii, Eye Care Clinic/team</td><td>Halifax</td><td>2026-09-28</td></tr>
 <tr><td>University of British Columbia</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-09-28</td></tr>
 <tr><td>University of British Columbia</td><td>Research Coordinator, Cedrn & Spsn</td><td>Vancouver</td><td>2026-09-28</td></tr>
+<tr><td>Winners</td><td>Retail Store Associate Part Time Winners</td><td>Edmonton</td><td>2026-09-28</td></tr>
 </table>
