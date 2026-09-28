@@ -8021,4 +8021,47 @@
 <tr><td>TJX Companies</td><td>Directeur/ Directrice Adjoint(e) De Magasin Winners - Mégacentre De Mascouche</td><td>Montreal</td><td>2026-09-27</td></tr>
 <tr><td>TJX Companies</td><td>Directeur / Directrice Adjoint(e) De Magasin Winners - Fairview Pointe-claire</td><td>Montreal</td><td>2026-09-27</td></tr>
 <tr><td>Homesense</td><td>Directeur / Directrice Adjoint(e) De Magasin Homesense - Mégacentre De Mascouche</td><td>Montreal</td><td>2026-09-27</td></tr>
+<tr><td>Ghd</td><td>Hiring Day Canada / On</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Research & Development Co-op</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>Mondelēz International</td><td>Taste The Future - Join Our Talent Community</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>Jobgether</td><td>Web Frontend Engineer - Js, Css, React, Flutter</td><td>Canada</td><td>2026-09-28</td></tr>
+<tr><td>Jobgether</td><td>Microservices Engineer</td><td>Canada</td><td>2026-09-28</td></tr>
+<tr><td>Jobgether</td><td>Junior Ubuntu Software Engineer</td><td>Canada</td><td>2026-09-28</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Ai Agents</td><td>Canada</td><td>2026-09-28</td></tr>
+<tr><td>Citi</td><td>Functions - Internal Audit, Summer Analyst - Mississauga, On 2027</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>Kyndryl</td><td>Consult Associate Partner Insurance</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>Kyndryl</td><td>Consult Associate Partner Banking</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>University Health Network</td><td>Pharmacy Technician - Tg Inpatient Operations</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Shelter Support Worker</td><td>On</td><td>2026-09-28</td></tr>
+<tr><td>Cogir Senior Living</td><td>Psw- Casual</td><td>Westney Gardens</td><td>2026-09-28</td></tr>
+<tr><td>Overwaitea Food Group Ltd Partnership</td><td>Pharmacist</td><td>Prince George</td><td>2026-09-28</td></tr>
+<tr><td>TELUS</td><td>Pharmacist</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>TELUS</td><td>Pharmacy Assistant</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>TELUS</td><td>Registered Pharmacy Technician</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>ParaMed</td><td>Rn</td><td>Leamington</td><td>2026-09-28</td></tr>
+<tr><td>ParaMed</td><td>Rpn</td><td>Leamington</td><td>2026-09-28</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Guest Attendant (part Time) - Trillium Court Retirement</td><td>Trillium Court</td><td>2026-09-28</td></tr>
+<tr><td>Lakeview Recovery Community</td><td>Lakeview Recovery Community - Support Care Worker</td><td>Gunn</td><td>2026-09-28</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Mecanicien D'entretien Industriel</td><td>Montreal</td><td>2026-09-28</td></tr>
+<tr><td>Raytheon Australia</td><td>Technicien Contrôles Et Accessoires Électriques</td><td>Montreal</td><td>2026-09-28</td></tr>
+<tr><td>GFL Environmental Inc.</td><td>310t Mechanic, Fleet Maintenance</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>GFL Environmental</td><td>310t Mechanic, Fleet Maintenance</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>Parkbridge</td><td>Maintenance Technician</td><td>Edmonton</td><td>2026-09-28</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Montreal</td><td>2026-09-28</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Verdun (full-time, 37.5h/week)</td><td>Montreal</td><td>2026-09-28</td></tr>
+<tr><td>Bailey Nelson</td><td>Part-time Sales Associate/eyewear Stylist - Kitsilano</td><td>Vancouver</td><td>2026-09-28</td></tr>
+<tr><td>W Brisbane</td><td>Guest Service Support Expert</td><td>Kelowna</td><td>2026-09-28</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate (koodo) / Scarborough Town Centre</td><td>Scarborough</td><td>2026-09-28</td></tr>
+<tr><td>TELUS</td><td>Part Time Sales Representative (koodo) / Bramalea City Centre</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate / Galeries D'anjou / Seasonal</td><td>Montreal</td><td>2026-09-28</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate (seasonal) / Telus Oshawa Centre</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate (koodo) / Markville Mall (seasonal)</td><td>Toronto</td><td>2026-09-28</td></tr>
+<tr><td>Giant Tiger</td><td>Softgoods Associate (full-time)</td><td>Montreal</td><td>2026-09-28</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Part Time</td><td>Edmonton</td><td>2026-09-28</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retails Sales Associate, Fairview</td><td>North York</td><td>2026-09-28</td></tr>
+<tr><td>WSP</td><td>Administrative Assistant</td><td>Edmonton</td><td>2026-09-28</td></tr>
+<tr><td>Hudbay Minerals Inc.</td><td>Project Coordinator</td><td>Princeton</td><td>2026-09-28</td></tr>
+<tr><td>IWK Health</td><td>Administrative Assistant Iii, Eye Care Clinic/team</td><td>Halifax</td><td>2026-09-28</td></tr>
+<tr><td>University of British Columbia</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-09-28</td></tr>
+<tr><td>University of British Columbia</td><td>Research Coordinator, Cedrn & Spsn</td><td>Vancouver</td><td>2026-09-28</td></tr>
 </table>
