@@ -8102,4 +8102,5 @@
 <tr><td>CIBC US</td><td>Administrative Assistant</td><td>Regina</td><td>2026-09-29</td></tr>
 <tr><td>PERI GmbH</td><td>Coordonnateur Des Opérations</td><td>Canada</td><td>2026-09-29</td></tr>
 <tr><td>Dragonfly Shipping</td><td>Operations Coordinator</td><td>Newfoundland</td><td>2026-09-29</td></tr>
+<tr><td>Hitachi Rail Canada Inc.</td><td>Alm Scripting & Reporting Intern</td><td>Scarborough</td><td>2026-09-29</td></tr>
 </table>
