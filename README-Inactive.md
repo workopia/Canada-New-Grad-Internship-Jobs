@@ -8065,4 +8065,41 @@
 <tr><td>University of British Columbia</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-09-28</td></tr>
 <tr><td>University of British Columbia</td><td>Research Coordinator, Cedrn & Spsn</td><td>Vancouver</td><td>2026-09-28</td></tr>
 <tr><td>Winners</td><td>Retail Store Associate Part Time Winners</td><td>Edmonton</td><td>2026-09-28</td></tr>
+<tr><td>Investment Management Corporation of Ontario</td><td>Intern, Public Markets Operations</td><td>Toronto</td><td>2026-09-29</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Clinical Extern</td><td>Toronto</td><td>2026-09-29</td></tr>
+<tr><td>Alpine Aerotech</td><td>Information Systems Technician</td><td>Kelowna</td><td>2026-09-29</td></tr>
+<tr><td>National General Holdings Corp</td><td>Analyst - Operational Reporting Enablement</td><td>Canadian Head Office</td><td>2026-09-29</td></tr>
+<tr><td>Jobgether</td><td>Customer Operations Analyst</td><td>Canada</td><td>2026-09-29</td></tr>
+<tr><td>University Health Network</td><td>Financial Analyst Ii</td><td>Toronto</td><td>2026-09-29</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Pharmacy Technician</td><td>Melfort</td><td>2026-09-29</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Personal Support Worker (psw) - Part Time (pt) - York</td><td>York</td><td>2026-09-29</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Personal Support Worker (psw) - Part-time (pt) - Kapuskasing</td><td>Kapuskasing</td><td>2026-09-29</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Registered Nurse</td><td>Kamsack</td><td>2026-09-29</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant - Long Term Care</td><td>Camp Hill</td><td>2026-09-29</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant - Medical A</td><td>Valley Regional Hospital</td><td>2026-09-29</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Technicien En Instrumentation / Instrumentation Technician</td><td>Montreal</td><td>2026-09-29</td></tr>
+<tr><td>Sephora Canada</td><td>Membre Du Personnel Saisonnier</td><td>La Salle</td><td>2026-09-29</td></tr>
+<tr><td>LensCrafters</td><td>Sales Associate</td><td>Montreal</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Sales Associate</td><td>Vancouver</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Sales Associate</td><td>Edmonton</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>P/t Seasonal Retail Sales Associate - Adidas Sherway Gardens, 2067, Ontario, Ca</td><td>Ontario</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Retail Store Sales Associate - Scarborough Sp, 2064, Toronto 1</td><td>Scarborough</td><td>2026-09-29</td></tr>
+<tr><td>Best Buy Canada</td><td>Associé(e) Saisonnier(ère) Des Ventes Au Détail</td><td>Centreville</td><td>2026-09-29</td></tr>
+<tr><td>Four Rivers Co-op</td><td>Farm & Ranch Customer Service Associate</td><td>Prince George</td><td>2026-09-29</td></tr>
+<tr><td>Pet Valu</td><td>Sales Associate</td><td>Edmonton</td><td>2026-09-29</td></tr>
+<tr><td>Winners</td><td>Retail Store Associate Temporary Part Time Winners - Summerside</td><td>Edmonton</td><td>2026-09-29</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Prince George</td><td>2026-09-29</td></tr>
+<tr><td>GoodLife Fitness Centres Inc</td><td>Sales (fitness Advisor) - Burnaby Metrotown</td><td>Vancouver</td><td>2026-09-29</td></tr>
+<tr><td>Kate Spade New York</td><td>Temporary Associate</td><td>Toronto</td><td>2026-09-29</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate Iii</td><td>Toronto</td><td>2026-09-29</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Associate</td><td>Toronto</td><td>2026-09-29</td></tr>
+<tr><td>LensCrafters</td><td>Student Optician-toronto, On-lenscrafters</td><td>Toronto</td><td>2026-09-29</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Retail Store Associate Temporary Winners - Bathurst College Centre</td><td>Toronto</td><td>2026-09-29</td></tr>
+<tr><td>Bass Pro</td><td>Part Time Firearms Sales</td><td>Toronto</td><td>2026-09-29</td></tr>
+<tr><td>Jobgether</td><td>Customer Support Specialist, Infinity</td><td>Canada</td><td>2026-09-29</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Spanish And/or Japanese Language Skills An Asset</td><td>Vancouver</td><td>2026-09-29</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate - Verdun (full-time, 37.5h/week)</td><td>Montreal</td><td>2026-09-29</td></tr>
+<tr><td>CIBC US</td><td>Administrative Assistant</td><td>Regina</td><td>2026-09-29</td></tr>
+<tr><td>PERI GmbH</td><td>Coordonnateur Des Opérations</td><td>Canada</td><td>2026-09-29</td></tr>
+<tr><td>Dragonfly Shipping</td><td>Operations Coordinator</td><td>Newfoundland</td><td>2026-09-29</td></tr>
 </table>
