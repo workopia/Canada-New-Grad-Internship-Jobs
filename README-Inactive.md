@@ -8222,4 +8222,7 @@
 <tr><td>Aecon U.S.</td><td>Project Coordinator</td><td>Toronto</td><td>2026-09-30</td></tr>
 <tr><td>Aecon U.S.</td><td>Project Coordinator, Co-op (kpc)</td><td>Toronto</td><td>2026-09-30</td></tr>
 <tr><td>Molson Coors</td><td>Crm Deployment Coordinator</td><td>Toronto</td><td>2026-09-30</td></tr>
+<tr><td>ACE Liquor Discounter</td><td>Sales Associate</td><td>Edmonton</td><td>2026-09-30</td></tr>
+<tr><td>JDI</td><td>Freight Flow Associate</td><td>Bathurst</td><td>2026-09-30</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Freight Flow Associate</td><td>Bathurst</td><td>2026-09-30</td></tr>
 </table>
