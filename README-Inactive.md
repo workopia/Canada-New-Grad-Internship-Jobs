@@ -8225,4 +8225,95 @@
 <tr><td>ACE Liquor Discounter</td><td>Sales Associate</td><td>Edmonton</td><td>2026-09-30</td></tr>
 <tr><td>JDI</td><td>Freight Flow Associate</td><td>Bathurst</td><td>2026-09-30</td></tr>
 <tr><td>JDI / Midland Transport</td><td>Freight Flow Associate</td><td>Bathurst</td><td>2026-09-30</td></tr>
+<tr><td>AstraZeneca</td><td>Hematology Marketing Intern (12-month Contract)</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>BGIS</td><td>Internship - Sourcing Analyst (4-month Contract)</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>Retirement World</td><td>Client Advisor Intern</td><td>Kawartha Lakes</td><td>2026-10-01</td></tr>
+<tr><td>TC Energy</td><td>Intern, Corporate Secretarial & Finance Law</td><td>Calgary</td><td>2026-10-01</td></tr>
+<tr><td>TC Energy</td><td>Intern, Market Risk Reporting</td><td>Calgary</td><td>2026-10-01</td></tr>
+<tr><td>TC Energy</td><td>Intern, Communications</td><td>Calgary</td><td>2026-10-01</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Stage - Banquets, Mi-février À Août, (h/f/d)</td><td>Montebello</td><td>2026-10-01</td></tr>
+<tr><td>GFT Technologies Canada Inc</td><td>Desarrollador/a Java Microservicios</td><td>Canada</td><td>2026-10-01</td></tr>
+<tr><td>Watts Water Technologies</td><td>Plumbing/hvac Technical Support Specialist</td><td>Vernon</td><td>2026-10-01</td></tr>
+<tr><td>Alorica</td><td>Service À La Clientèle Bilingue Soutien Technique Travail À Domicile / Remote French Bilingual Customer Service - Tech Support</td><td>Canada</td><td>2026-10-01</td></tr>
+<tr><td>Cadence Design Systems</td><td>Software Engineer (circuit Analysis, Eda Frameworks, Ai Agents)</td><td>Vancouver</td><td>2026-10-01</td></tr>
+<tr><td>Jobgether</td><td>Data Analyst - Marvel Strike Force</td><td>Canada</td><td>2026-10-01</td></tr>
+<tr><td>Jobgether</td><td>Data Analyst</td><td>Canada</td><td>2026-10-01</td></tr>
+<tr><td>Valtech</td><td>Data Scientist Google Adk</td><td>Ontario +1</td><td>2026-10-01</td></tr>
+<tr><td>Aecon Group</td><td>Analyst, Business</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Conseiller (chef D'équipe), Fusions Et Acquisitions (montréal)</td><td>Montreal</td><td>2026-10-01</td></tr>
+<tr><td>LCBO</td><td>Financial Analyst (financial Reporting & Policy) (sec/con)</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>Ventura Foods LLC</td><td>Quality Assurance Audit Supervisor</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>Jobgether</td><td>Analyst, Origination And Business Development</td><td>Canada</td><td>2026-10-01</td></tr>
+<tr><td>Jobgether</td><td>Analyst Cash Accounting</td><td>Canada</td><td>2026-10-01</td></tr>
+<tr><td>Willis Towers Watson</td><td>Health & Benefits Analyst</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>Health & Benefits Analyst</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>ParaMed</td><td>Personal Support Worker</td><td>Canada</td><td>2026-10-01</td></tr>
+<tr><td>CHEO</td><td>Registered Practical Nurse, Mental Health - Permanent Part-time (0.7)</td><td>Ottawa</td><td>2026-10-01</td></tr>
+<tr><td>Halton Region</td><td>Registered Nurse (casual)</td><td>Guelph</td><td>2026-10-01</td></tr>
+<tr><td>Extendicare</td><td>Registered Nurse (rn) - Casual - Extendicare Scarborough</td><td>Scarborough</td><td>2026-10-01</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Registered Practical Nurse (rpn) Part Time - The Village On The Ridge</td><td>Village On The Ridge</td><td>2026-10-01</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Registered Practical Nurse (rpn) - Part Time - Northridge Ltc</td><td>Northridge</td><td>2026-10-01</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Personal Support Worker - Part Time) - The Village On The Ridge Retirement</td><td>Village On The Ridge</td><td>2026-10-01</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Care Aide- Casual- Extendicare Athabasca</td><td>Athabasca</td><td>2026-10-01</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Pharmacy Technician - Pharmacy Services</td><td>Central Zone</td><td>2026-10-01</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Registered Nurse General Duty Nurse</td><td>Balcarres</td><td>2026-10-01</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Public Health Nurse</td><td>Langenburg</td><td>2026-10-01</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Continuing Care Assistant</td><td>Goodsoil</td><td>2026-10-01</td></tr>
+<tr><td>Prairie Sky Co-op</td><td>Pharmacist</td><td>Weyburn</td><td>2026-10-01</td></tr>
+<tr><td>Cummins Inc.</td><td>Heavy Equipment Technician (afternoon Shift)</td><td>Edmonton</td><td>2026-10-01</td></tr>
+<tr><td>Desjardins</td><td>Advisory Agent Member And Client Experience</td><td>JonquièRe</td><td>2026-10-01</td></tr>
+<tr><td>Ace Liquor Discounter</td><td>Sales Associate</td><td>Edmonton</td><td>2026-10-01</td></tr>
+<tr><td>Pet Valu</td><td>Sales Associate</td><td>Grande Prairie</td><td>2026-10-01</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Sales Associate</td><td>Edmonton</td><td>2026-10-01</td></tr>
+<tr><td>Sunglass Hut</td><td>Sales Associate</td><td>Sudbury</td><td>2026-10-01</td></tr>
+<tr><td>adidas AG</td><td>P/t Seasonal Retail Sales Associate - Adidas Sherway Gardens, 2067, Ontario, Ca</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>adidas AG</td><td>Retail Store Sales Associate - Scarborough Sp, 2064, Toronto 1</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>adidas AG</td><td>Store Sales Associate - Adidas The Well Retail Store (#2044)</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>LOVISA</td><td>Vendeur(euse) En Cdd 15h - Fêtes De Fin D'année</td><td>Villeneuve</td><td>2026-10-01</td></tr>
+<tr><td>Estée Lauder Companies</td><td>Beauty Advisor/artist Freelancer/on-call - Estée Lauder Companies - Sudbury, On</td><td>Sudbury</td><td>2026-10-01</td></tr>
+<tr><td>Best Buy Canada</td><td>Associé(e) Saisonnier(ère) Des Ventes Au Détail</td><td>Anjou</td><td>2026-10-01</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Dairy Frozen Associate</td><td>Edmonton</td><td>2026-10-01</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Distribution Centre Team Associate - Operations Ii Part-time Afternoons Friday, Saturday, Sunday And Monday 3pm To 11:30pm</td><td>Cornwall</td><td>2026-10-01</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Over-the-counter Associate</td><td>Edmonton</td><td>2026-10-01</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Customer Service Desk Associate</td><td>Prince George</td><td>2026-10-01</td></tr>
+<tr><td>TJX Companies</td><td>70240 - Associé/associée</td><td>Montreal</td><td>2026-10-01</td></tr>
+<tr><td>TJX Companies</td><td>Retail Store Associate Temporary Winners/homesense</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>Sephora Canada</td><td>Membre Du Personnel Saisonnier</td><td>Saguenay</td><td>2026-10-01</td></tr>
+<tr><td>Kate Spade New York</td><td>Temporary Associate</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>CB2</td><td>Operations Associate, C&b</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Grande Prairie</td><td>2026-10-01</td></tr>
+<tr><td>Staples Inc.</td><td>Technology/furniture Sales Associate</td><td>Corner Brook</td><td>2026-10-01</td></tr>
+<tr><td>Staples Retail</td><td>Technology/furniture Sales Associate</td><td>Corner Brook</td><td>2026-10-01</td></tr>
+<tr><td>Staples Canada</td><td>Technology/furniture Sales Associate</td><td>Corner Brook</td><td>2026-10-01</td></tr>
+<tr><td>Staples Business</td><td>Technology/furniture Sales Associate</td><td>Corner Brook</td><td>2026-10-01</td></tr>
+<tr><td>Staples Inc.</td><td>Sales Associate</td><td>Slave Lake</td><td>2026-10-01</td></tr>
+<tr><td>BAILEY NELSON</td><td>Part-time Sales Associate/eyewear Stylist - Downtown Calgary</td><td>Calgary</td><td>2026-10-01</td></tr>
+<tr><td>Staples Business</td><td>Associé Des Ventes</td><td>Vaudreuil</td><td>2026-10-01</td></tr>
+<tr><td>Staples Inc.</td><td>Associé Des Ventes</td><td>Vaudreuil</td><td>2026-10-01</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Guest Experience Expert</td><td>Edmonton</td><td>2026-10-01</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate (seasonal) / Vaughan Mills</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>Homesense</td><td>Seasonal Retail Store Associate Part Time Homesense - Medicine Hat Mall</td><td>Medicine Hat</td><td>2026-10-01</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Lachenaie</td><td>2026-10-01</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Yonge Eglinton Centre</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>Circle K</td><td>Assistant(e) Gérant(e) -act</td><td>Beaupré</td><td>2026-10-01</td></tr>
+<tr><td>EllisDon Corporation</td><td>Quality Coordinator</td><td>Ontario</td><td>2026-10-01</td></tr>
+<tr><td>Aecon Group</td><td>Assistant Coordinator, Planning Co-op</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>Aecon Group</td><td>Co-op, Project Controls Coordinator</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>Aecon Group</td><td>Co-op, Commissioning Coordinator</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>Beedie</td><td>Development Coordinator</td><td>Toronto</td><td>2026-10-01</td></tr>
+<tr><td>TELUS</td><td>Administrative Associate/receptionist - Clinic</td><td>Montreal</td><td>2026-10-01</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Customer Services Coordinator</td><td>Ottawa</td><td>2026-10-01</td></tr>
+<tr><td>Bison</td><td>Corporate Services Administrator</td><td>Winnipeg</td><td>2026-10-01</td></tr>
+<tr><td>Marriott International</td><td>Banquet Administrative Assistant</td><td>Edmonton</td><td>2026-10-01</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Directeur/directrice Adjoint(e) De Magasin Marshalls</td><td>Montreal</td><td>2026-10-01</td></tr>
+<tr><td>Alamos Gold</td><td>Planner, Project</td><td>Lynn Lake</td><td>2026-10-01</td></tr>
+<tr><td>Mycineplex</td><td>Coordonnateur(trice) Marketing Bilingue / Bilingual Marketing Coordinator</td><td>Montreal</td><td>2026-10-01</td></tr>
+<tr><td>Magrath Dental</td><td>Administrative Assistant - Magrath Dental</td><td>Edmonton</td><td>2026-10-01</td></tr>
+<tr><td>Graham</td><td>Project Coordinator - Industrial Oilsands</td><td>Fort McMurray +1</td><td>2026-10-01</td></tr>
+<tr><td>Demant AS</td><td>Project Administrator</td><td>North York</td><td>2026-10-01</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Administrative Assistant</td><td>Rosthern</td><td>2026-10-01</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Banquet Administrative Assistant</td><td>Edmonton</td><td>2026-10-01</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Banquet Administrative Assistant</td><td>Edmonton</td><td>2026-10-01</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Administrative Assistant 2</td><td>Winnipeg</td><td>2026-10-01</td></tr>
+<tr><td>PCL Constructors Inc</td><td>Administrative Assistant</td><td>Edmonton</td><td>2026-10-01</td></tr>
 </table>
