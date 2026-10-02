@@ -8316,4 +8316,47 @@
 <tr><td>St. Regis Hotels & Resorts</td><td>Banquet Administrative Assistant</td><td>Edmonton</td><td>2026-10-01</td></tr>
 <tr><td>Winnipeg Regional Health Authority</td><td>Administrative Assistant 2</td><td>Winnipeg</td><td>2026-10-01</td></tr>
 <tr><td>PCL Constructors Inc</td><td>Administrative Assistant</td><td>Edmonton</td><td>2026-10-01</td></tr>
+<tr><td>Roche</td><td>Strategic Communications Intern</td><td>Toronto</td><td>2026-10-02</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Ingénierie De Projet / Internship – Winter 2027 – Project Engineering</td><td>Montreal</td><td>2026-10-02</td></tr>
+<tr><td>Haleon</td><td>Pain Portfolio Marketing Intern (12-month Internship)</td><td>Toronto</td><td>2026-10-02</td></tr>
+<tr><td>AltaGas</td><td>Altagas - 2027 Commercial Optimization Co-op Student</td><td>Calgary</td><td>2026-10-02</td></tr>
+<tr><td>Entrust</td><td>Intern – Software Development - 8 Months - Hybrid Ottawa</td><td>Ottawa</td><td>2026-10-02</td></tr>
+<tr><td>University of British Columbia</td><td>Research Assistant (pre-doc Intern)</td><td>Vancouver</td><td>2026-10-02</td></tr>
+<tr><td>Ford Credit Canada</td><td>Bilingual (english & French) Dealer Services Analyst</td><td>Toronto</td><td>2026-10-02</td></tr>
+<tr><td>Metrolinx</td><td>Co-op Student, Fraud & Forensics</td><td>Canada</td><td>2026-10-02</td></tr>
+<tr><td>Charles River Associates</td><td>(2027 Bachelor's/master's Graduates) Management Advisory Analyst/associate (energy)</td><td>Toronto</td><td>2026-10-02</td></tr>
+<tr><td>Retirement World</td><td>Financing Specialist</td><td>Montreal</td><td>2026-10-02</td></tr>
+<tr><td>Jobgether</td><td>Junior Compliance Officer</td><td>Canada</td><td>2026-10-02</td></tr>
+<tr><td>ParaMed</td><td>Personal Support Worker</td><td>Geraldton +5</td><td>2026-10-02</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Malignant Hematology Day Unit</td><td>Toronto</td><td>2026-10-02</td></tr>
+<tr><td>University Health Network</td><td>Personal Support Worker</td><td>Toronto</td><td>2026-10-02</td></tr>
+<tr><td>University Health Network</td><td>Personal Support Worker - Cardiovascular Surgery & Cardiac Short Stay</td><td>Toronto</td><td>2026-10-02</td></tr>
+<tr><td>University Health Network</td><td>Pharmacy Technician - Pm</td><td>Toronto</td><td>2026-10-02</td></tr>
+<tr><td>Overwaitea Food Group Ltd Partnership</td><td>Registered Pharmacy Technician</td><td>King Edward</td><td>2026-10-02</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Pharmacy Technician - Temporary Full Time</td><td>Newmarket ON</td><td>2026-10-02</td></tr>
+<tr><td>GFL Environmental</td><td>Maintenance Technician - Afternoon (433a Licensed)</td><td>Toronto</td><td>2026-10-02</td></tr>
+<tr><td>Pratt & Whitney</td><td>Electrotechnicien D'entretien Des Equipements</td><td>Montreal</td><td>2026-10-02</td></tr>
+<tr><td>RTX</td><td>Electrotechnicien D'entretien Des Equipements</td><td>Montreal</td><td>2026-10-02</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate / Southgate</td><td>Edmonton</td><td>2026-10-02</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate / West Edmonton Mall</td><td>Edmonton</td><td>2026-10-02</td></tr>
+<tr><td>Dollar Tree Canada</td><td>Customer Service Associate I</td><td>Grand Bend</td><td>2026-10-02</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Random Sq Mall</td><td>Clarenville</td><td>2026-10-02</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Medicine Hat Mall</td><td>Medicine Hat</td><td>2026-10-02</td></tr>
+<tr><td>Bell</td><td>Seasonal Retail Sales Associate, Mail Champlain</td><td>Montreal</td><td>2026-10-02</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Sales Associate, Dryden</td><td>Dryden</td><td>2026-10-02</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Tamarack Centre</td><td>Cranbrook</td><td>2026-10-02</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Peter Pond Shopping Centre</td><td>Fort McMurray</td><td>2026-10-02</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Orchard Park Mall</td><td>Kelowna</td><td>2026-10-02</td></tr>
+<tr><td>H&M</td><td>H&m Associé.e Aux Ventes</td><td>Montreal</td><td>2026-10-02</td></tr>
+<tr><td>Alamos Gold</td><td>Warehouse Coordinator (ug)</td><td>Island Gold Mine</td><td>2026-10-02</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Eyecare Sales Associate</td><td>North York</td><td>2026-10-02</td></tr>
+<tr><td>LensCrafters</td><td>Eyecare Sales Associate</td><td>North York</td><td>2026-10-02</td></tr>
+<tr><td>LensCrafters</td><td>Sales Associate</td><td>Toronto</td><td>2026-10-02</td></tr>
+<tr><td>adidas AG</td><td>Retail Seasonal Store Sales Associate I - Adidas Vaughan Mills, 2022, Vaughan, Canada</td><td>Toronto</td><td>2026-10-02</td></tr>
+<tr><td>Medavie</td><td>Administrative Assistant (15 Month Term)</td><td>Nova Scotia</td><td>2026-10-02</td></tr>
+<tr><td>Jobgether</td><td>Billing Operations Associate</td><td>Canada</td><td>2026-10-02</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Assistant(e) De Direction Et Relai Communication</td><td>La Pocatiere</td><td>2026-10-02</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Recreation Coordinator</td><td>Prince Albert</td><td>2026-10-02</td></tr>
+<tr><td>Metrolinx</td><td>Executive Assistant, Scarborough Subway Extension</td><td>Scarborough</td><td>2026-10-02</td></tr>
+<tr><td>BGIS</td><td>Property Services Coordinator</td><td>Ab</td><td>2026-10-02</td></tr>
 </table>
