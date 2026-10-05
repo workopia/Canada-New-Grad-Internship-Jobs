@@ -8715,4 +8715,104 @@
 <tr><td>Maître Carré</td><td>Coordonnateur.trice Marketing Et Contenu</td><td>Montreal</td><td>2026-10-04</td></tr>
 <tr><td>Capital District Health Authority</td><td>Research Project Coordinator Analyst - Cancer Care - Department Of Research</td><td>Central Zone</td><td>2026-10-04</td></tr>
 <tr><td>University Health Network</td><td>Administrative Assistant Ii - Medical, Arthritis Program Low Back</td><td>Toronto</td><td>2026-10-04</td></tr>
+<tr><td>SILHRMS</td><td>Co-op Student - Construction (winter 2027)</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Roche UK</td><td>2027 Winter Internship - External Quality System Intern</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Haven Studios</td><td>Stagiaire En Conception Technique</td><td>Quebec</td><td>2026-10-05</td></tr>
+<tr><td>RBC</td><td>Client Advisor Intern</td><td>Saguenay</td><td>2026-10-05</td></tr>
+<tr><td>standardbio.fr</td><td>Marketing Intern</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Administration Des Contrats, Analyse Des Ventes Et Marketing / Internship - Winter 2027 - Contract Administration, Sales Analysis & Marketing</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>Banklife</td><td>Summer Intern 2027 - Esg & Sustainable Finance Intern</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Voyager</td><td>2027 Accounting / Finance Intern</td><td>Long Beach</td><td>2026-10-05</td></tr>
+<tr><td>Extreme Networks</td><td>Multimedia Project Management - Intern</td><td>Thornhill</td><td>2026-10-05</td></tr>
+<tr><td>Syngenta Canada</td><td>Technical Field Intern</td><td>Calgary</td><td>2026-10-05</td></tr>
+<tr><td>House of Commons of Canada Chambre des communes du Canada</td><td>Page De La Chambre Des Communes</td><td>Ottawa</td><td>2026-10-05</td></tr>
+<tr><td>Halliburton</td><td>Software Engineer - Early Career - Landmark</td><td>Calgary</td><td>2026-10-05</td></tr>
+<tr><td>Unity Technologies</td><td>Graphics Engineer, Vulkan</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>Express Scripts Canada</td><td>It Service Desk Analyst - Express Scripts Canada</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>RBC Borealis</td><td>Machine Learning Software Engineer Ii</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>FLIR Systems</td><td>Linux Acquisition Software Development</td><td>Ottawa</td><td>2026-10-05</td></tr>
+<tr><td>Scarborough Health Network (SHN)</td><td>Business Intelligence Developer, Enterprise Analytics</td><td>Canada</td><td>2026-10-05</td></tr>
+<tr><td>BCE Inc</td><td>2027 Graduate Program - Corporate Strategy, Value Creation & Business Transformation Analyst</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>City of Toronto</td><td>Business Management Analyst</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Jobgether</td><td>Financial Analyst - Technology</td><td>Canada</td><td>2026-10-05</td></tr>
+<tr><td>LCBO</td><td>Process Analyst (secondment/contract)</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Reporting & Analytics Specialist, 1 Year Contract</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Vancity</td><td>Automation Analyst, Business Insights And Reporting (12-month Contract)</td><td>Vancity Centre +2</td><td>2026-10-05</td></tr>
+<tr><td>Trillium Health Partners</td><td>Pharmacist (temporary Full-time) - Cvh Pharmacy</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Trillium Health Partners</td><td>Pharmacist (temporary Full-time) - 1g Medicine/emergency</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>McGill University</td><td>Animal Care Assistant B-5</td><td>Canada</td><td>2026-10-05</td></tr>
+<tr><td>Centre of Genomics and Policy</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Registered Nurse (rn) - Casual - New Orchard Lodge</td><td>Ottawa</td><td>2026-10-05</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Personal Support Worker - Unscheduled Part Time - Countryside</td><td>Axm</td><td>2026-10-05</td></tr>
+<tr><td>Flint Group GmbH</td><td>Maintenance Technician - Montreal</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>Pratt & Whitney</td><td>Technicien Contrôles Et Accessoires Électriques</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>Hudbay Minerals Inc.</td><td>Industrial Mechanic/millwright</td><td>Snow Lake</td><td>2026-10-05</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Full-time Retail Associate: Etobicoke, On</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Aurora, On</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Oakville, Ontario</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Markham, On</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Richmond Hill, On</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Brampton, On</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Oshawa, On</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Summerside, Pe</td><td>Edmonton</td><td>2026-10-05</td></tr>
+<tr><td>GoodLife Fitness Centres Inc</td><td>Sales (fitness Advisor) - Calgary Trinity Hills At Olympic Park</td><td>Calgary</td><td>2026-10-05</td></tr>
+<tr><td>Sunbelt Rentals</td><td>Yard Associate</td><td>Hubert</td><td>2026-10-05</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Temporary Sales Associate</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Temporary Support Associate</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Pointe-Aux-Trembles</td><td>2026-10-05</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate</td><td>Scarborough</td><td>2026-10-05</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Sault Ste Marie</td><td>2026-10-05</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate</td><td>Penticton</td><td>2026-10-05</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Campbell River</td><td>Campbell River</td><td>2026-10-05</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Monkland & Melrose</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Korean And/or Mandarin Language Skills An Asset</td><td>Vancouver</td><td>2026-10-05</td></tr>
+<tr><td>Apotex Inc.</td><td>Technician, Warehouse</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>KITH</td><td>Customer Experience Associate</td><td>Vancouver</td><td>2026-10-05</td></tr>
+<tr><td>Wild Fork Foods</td><td>Jbs Usa Careers - Retail Store Associate</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>JYSK Canada</td><td>Collègue Aux Ventes</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Guest Service Agent (part Time)</td><td>Edmonton</td><td>2026-10-05</td></tr>
+<tr><td>Ao Ds</td><td>Virtual Client Services Associate</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Health Science North</td><td>Customer Service Associate</td><td>Canada</td><td>2026-10-05</td></tr>
+<tr><td>LensCrafters</td><td>Sales Associate</td><td>Vancouver</td><td>2026-10-05</td></tr>
+<tr><td>Dollar Tree Canada</td><td>Customer Service Associate I</td><td>North York</td><td>2026-10-05</td></tr>
+<tr><td>Dollar Tree Canada</td><td>Customer Service Associate</td><td>Winnipeg</td><td>2026-10-05</td></tr>
+<tr><td>Richemont</td><td>Boutique Assistant (long-term Temporary Assignment) - Toronto Yorkdale</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Winners</td><td>Retail Store Associate Part Time (temporary) Winners - Richmond Hill</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Winners</td><td>Seasonal Retail Store Associate Part Time Winners, Yonge And Sheppard</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>GoodLife Fitness Centres Inc</td><td>Sales Fitness Advisor - Fort Saskatchewan Southpoint Centre</td><td>Edmonton</td><td>2026-10-05</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Calgary</td><td>2026-10-05</td></tr>
+<tr><td>Komatsu</td><td>Warehouse Shipper-receiver- Detour Lake Mine</td><td>Timmins</td><td>2026-10-05</td></tr>
+<tr><td>Coach</td><td>Temporary Sales Associate</td><td>Ville Mont</td><td>2026-10-05</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Sales Associate</td><td>Alberta</td><td>2026-10-05</td></tr>
+<tr><td>TD Bank</td><td>Private Trust Client Service Associate - Indigenous Trust Services (its)</td><td>Vancouver</td><td>2026-10-05</td></tr>
+<tr><td>Match Retail</td><td>Part-time Sales Associate - Kelowna</td><td>Kelowna</td><td>2026-10-05</td></tr>
+<tr><td>Match Retail</td><td>Part-time Sales Associate</td><td>Vancouver</td><td>2026-10-05</td></tr>
+<tr><td>Alo Yoga</td><td>Operations Associate (full-time) - Toronto Eaton Centre</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Staples Inc.</td><td>Sales Associate</td><td>Lloydminster</td><td>2026-10-05</td></tr>
+<tr><td>BAILEY NELSON</td><td>Part-time Sales Associate/eyewear Stylist - Toronto Eaton Centre</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Staples Inc.</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Staples Retail</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>La Senza</td><td>Sales Associate</td><td>Vernon</td><td>2026-10-05</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle -act</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service Clientèle Stage -act</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit -act</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle Nuit</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle De Jour -act</td><td>Montreal</td><td>2026-10-05</td></tr>
+<tr><td>JYSK Canada</td><td>Warehouse Colleague</td><td>Prince George</td><td>2026-10-05</td></tr>
+<tr><td>HelloFresh</td><td>Warehouse Associate I</td><td>Nisku</td><td>2026-10-05</td></tr>
+<tr><td>Knix</td><td>Seasonal Sales Associate (queen West)</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Anthropologie</td><td>Anthropologie Seasonal Sales Associate</td><td>Edmonton</td><td>2026-10-05</td></tr>
+<tr><td>Lush</td><td>Seasonal Ambassador - West Edmonton Mall</td><td>Edmonton</td><td>2026-10-05</td></tr>
+<tr><td>Aubainerie</td><td>Conseiller(ère) À La Vente Et Caissier(ère) (temps Plein)</td><td>Ottawa</td><td>2026-10-05</td></tr>
+<tr><td>Aubainerie</td><td>Conseiller(ère) À La Vente Et Caissier(ère) (temps Partiel)</td><td>Ottawa</td><td>2026-10-05</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Sales Associate Casual</td><td>Vancouver</td><td>2026-10-05</td></tr>
+<tr><td>City of Toronto</td><td>Project Coordinator</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>City of Toronto</td><td>Construction Coordinator</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>City of Toronto</td><td>Administrative Assistant 1</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>WSP</td><td>Administrative Assistant</td><td>Calgary</td><td>2026-10-05</td></tr>
+<tr><td>City of Toronto</td><td>Standards Coordinator</td><td>North York</td><td>2026-10-05</td></tr>
+<tr><td>AltaGas</td><td>Altagas - E&i Maintenance Coordinator, Reef</td><td>Prince Rupert</td><td>2026-10-05</td></tr>
+<tr><td>EllisDon Corporation</td><td>Pre-construction & Pursuits Coordinator</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>EllisDon Corporation</td><td>Hoist Coordinator</td><td>Toronto</td><td>2026-10-05</td></tr>
 </table>
