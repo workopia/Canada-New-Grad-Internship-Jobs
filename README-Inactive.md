@@ -8815,4 +8815,31 @@
 <tr><td>AltaGas</td><td>Altagas - E&i Maintenance Coordinator, Reef</td><td>Prince Rupert</td><td>2026-10-05</td></tr>
 <tr><td>EllisDon Corporation</td><td>Pre-construction & Pursuits Coordinator</td><td>Toronto</td><td>2026-10-05</td></tr>
 <tr><td>EllisDon Corporation</td><td>Hoist Coordinator</td><td>Toronto</td><td>2026-10-05</td></tr>
+<tr><td>Ericsson</td><td>Software Developer Co-op</td><td>Ottawa</td><td>2026-10-06</td></tr>
+<tr><td>TÜV SÜD</td><td>Product Safety Intern 1</td><td>Ontario</td><td>2026-10-06</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Software Developer Aerospace Control Systems & Web Applications</td><td>Toronto</td><td>2026-10-06</td></tr>
+<tr><td>Ggeedu</td><td>Stagiaire Qualité (stage Débutant En Janvier 2027)</td><td>Saint</td><td>2026-10-06</td></tr>
+<tr><td>ABB Inc</td><td>Administration/secretarial Intern</td><td>Quebec</td><td>2026-10-06</td></tr>
+<tr><td>CDW Corporation</td><td>Cyber Security Analyst (l2)</td><td>Toronto</td><td>2026-10-06</td></tr>
+<tr><td>Unity Technologies</td><td>Software Engineer</td><td>Montreal</td><td>2026-10-06</td></tr>
+<tr><td>Unity Technologies</td><td>Développeur(se) Graphique, Web Graphics / Graphics Developer, Web Graphics</td><td>Montreal</td><td>2026-10-06</td></tr>
+<tr><td>Simpro Software Pty Ltd</td><td>Applied Ai Engineer</td><td>Montreal</td><td>2026-10-06</td></tr>
+<tr><td>Equisoft</td><td>Agent Ai Engineer (temp)</td><td>Montreal</td><td>2026-10-06</td></tr>
+<tr><td>TELUS</td><td>Bilingual Pharmacy Trainer - Business Analyst Ii</td><td>Montreal</td><td>2026-10-06</td></tr>
+<tr><td>Welltower</td><td>Property Accountant, Sho Accounting</td><td>Toronto</td><td>2026-10-06</td></tr>
+<tr><td>Regional Municipality of Wood Buffalo</td><td>Bylaw Enforcement Officer - Fort Chipewyan</td><td>Fort Chipewyan</td><td>2026-10-06</td></tr>
+<tr><td>University of British Columbia</td><td>Sea Around Us Research Assistant</td><td>Vancouver</td><td>2026-10-06</td></tr>
+<tr><td>extendicarepeterborough</td><td>Registered Nurse - Casual - Bonnyville</td><td>Bonnyville</td><td>2026-10-06</td></tr>
+<tr><td>extendicarepeterborough</td><td>Psw</td><td>Assist</td><td>2026-10-06</td></tr>
+<tr><td>Jobgether</td><td>Clinical Support Nurse</td><td>Canada</td><td>2026-10-06</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse C - Primary Care Nurse</td><td>Sandy Bay</td><td>2026-10-06</td></tr>
+<tr><td>Trillium Health Partners</td><td>Pharmacist (temporary Full-time) - Nicu And Paediatrics</td><td>Toronto</td><td>2026-10-06</td></tr>
+<tr><td>U-Haul</td><td>Preventive Maintenance Technician</td><td>Toronto</td><td>2026-10-06</td></tr>
+<tr><td>CBC/Radio-Canada</td><td>Supervising Maintenance Technician (t & I) (on-site)</td><td>Montreal</td><td>2026-10-06</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Winnipeg West</td><td>2026-10-06</td></tr>
+<tr><td>Calvin Klein</td><td>Temporary Sales Associate - Part-time</td><td>Toronto</td><td>2026-10-06</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Full Time Retail Associate Optical: Spruce Grove, Ab</td><td>Edmonton</td><td>2026-10-06</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Edmonton, Ab</td><td>Edmonton</td><td>2026-10-06</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Edmonton, Alberta</td><td>Edmonton</td><td>2026-10-06</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Etobicoke, On</td><td>Toronto</td><td>2026-10-06</td></tr>
 </table>
