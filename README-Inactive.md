@@ -9015,4 +9015,89 @@
 <tr><td>HealthCareers SK 2</td><td>Recreation Coordinator</td><td>Herbert</td><td>2026-10-08</td></tr>
 <tr><td>Anglophone South School District</td><td>Asd-s - Casual School Administrative Assistant - St. Stephen Education Centre</td><td>St. Stephen</td><td>2026-10-08</td></tr>
 <tr><td>BGIS</td><td>Project Coordinator</td><td>Toronto</td><td>2026-10-08</td></tr>
+<tr><td>RBC</td><td>Client Advisor Intern – Mandarin/cantonese</td><td>Ottawa</td><td>2026-10-09</td></tr>
+<tr><td>RBC</td><td>Banking Advisor Intern - Squamish Branch</td><td>Vancouver</td><td>2026-10-09</td></tr>
+<tr><td>Coty</td><td>Operational Trade Marketing Intern</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Cenovus</td><td>Student, Land & Joint Venture, Calgary (may 2027)</td><td>Calgary</td><td>2026-10-09</td></tr>
+<tr><td>Ardian</td><td>Secondaries & Primaries Intern – January 2026 I Montreal</td><td>Montreal</td><td>2026-10-09</td></tr>
+<tr><td>OMERS Administration Corporation</td><td>Student, Indirect Tax (winter 2027, 4 Months)</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>OMERS Administration Corporation</td><td>Student, Ai Enablement & Adoption Specialist (winter 2027, 8 Months) - Toronto</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Rio Tinto</td><td>Intern-expression Of Interest / All Disciplines</td><td>Labrador City</td><td>2026-10-09</td></tr>
+<tr><td>Rio Tinto</td><td>Finance, Banque De Candidature / Finance, Expression Of Interest</td><td>Montreal</td><td>2026-10-09</td></tr>
+<tr><td>Autodesk</td><td>Intern, Product Management (winter 2027)</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>TC Energy</td><td>Intern, Canada Safety</td><td>Calgary</td><td>2026-10-09</td></tr>
+<tr><td>Nozominetworks</td><td>Technical Support Engineer</td><td>Canada</td><td>2026-10-09</td></tr>
+<tr><td>Alayacare</td><td>Fullstack Developer (python) - Platform Team</td><td>Montreal</td><td>2026-10-09</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer I, Frontend (upfunnel)</td><td>Canada</td><td>2026-10-09</td></tr>
+<tr><td>Jobgether</td><td>Bilingual Product Support Analyst</td><td>Canada</td><td>2026-10-09</td></tr>
+<tr><td>Fivetran</td><td>Software Engineer Ii</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Desjardins</td><td>Ml/llm And Generative Artificial Intelligence (genai) Specialist</td><td>Montreal</td><td>2026-10-09</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Advisor, Group Retirement Savings Business Intelligence</td><td>Montreal</td><td>2026-10-09</td></tr>
+<tr><td>Desjardins</td><td>Advisor, Group Retirement Savings Business Intelligence</td><td>Montreal</td><td>2026-10-09</td></tr>
+<tr><td>Imperial Oil</td><td>Uda Business Analyst - Students Seeking Opportunities</td><td>Calgary</td><td>2026-10-09</td></tr>
+<tr><td>Whirlpool Corporation</td><td>Commercial Finance Analyst</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Alberta Blue Cross</td><td>Collections, Reporting, & Investigation Officer – Claims Audit & Investigations Services</td><td>Canada</td><td>2026-10-09</td></tr>
+<tr><td>NERA Economic Consulting</td><td>Actuarial Analyst – 2026 & 2027 New Grads - Montreal</td><td>Montreal</td><td>2026-10-09</td></tr>
+<tr><td>Aimco</td><td>Student, Business Analyst, Application Delivery (winter 2027)</td><td>Edmonton</td><td>2026-10-09</td></tr>
+<tr><td>Centre of Genomics and Policy</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-10-09</td></tr>
+<tr><td>Ethos Veterinary Health</td><td>Registered Veterinary Technician</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Registered Nurse Aap</td><td>Weyburn</td><td>2026-10-09</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Registered Nurse</td><td>Prince Albert</td><td>2026-10-09</td></tr>
+<tr><td>Cupar & District Nursing Home Inc.</td><td>Nurse B - Registered Nurse</td><td>Cupar</td><td>2026-10-09</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse A - Primary Health Care</td><td>Estevan</td><td>2026-10-09</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Mccall 3rd Fl (part-time)</td><td>Queensway Health Centre</td><td>2026-10-09</td></tr>
+<tr><td>North Wellington Health Care</td><td>Registered Nurse (pdh) #2026-228</td><td>Palmerston</td><td>2026-10-09</td></tr>
+<tr><td>Groves Memorial Community Hospital</td><td>Registered Nurse - Medicine (gmch) #2026-224</td><td>Guelph</td><td>2026-10-09</td></tr>
+<tr><td>Groves Memorial Community Hospital</td><td>Registered Nurse - Medicine (gmch) #2026-223</td><td>Guelph</td><td>2026-10-09</td></tr>
+<tr><td>O-I</td><td>Électrotechnicien</td><td>Montreal</td><td>2026-10-09</td></tr>
+<tr><td>Wabtec Corporation</td><td>Field Service & Technical Advising Specialist</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Ferrovial SE</td><td>Webber - Road Technician - Infrastructure Management</td><td>Carlsbad Springs</td><td>2026-10-09</td></tr>
+<tr><td>WASH</td><td>Service Technician</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>On</td><td>2026-10-09</td></tr>
+<tr><td>Desjardins</td><td>Advisory Agent, Member And Client Experience</td><td>Ontario</td><td>2026-10-09</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Vancouver</td><td>2026-10-09</td></tr>
+<tr><td>Arc'teryx Equipment</td><td>Product Guide - Seasonal</td><td>Vancouver</td><td>2026-10-09</td></tr>
+<tr><td>Best Buy Canada</td><td>Mobile Sales Associate (seasonal)</td><td>Calgary</td><td>2026-10-09</td></tr>
+<tr><td>Bass Pro</td><td>Seasonal Part Time Camo Clothing</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>GoodLife Fitness Centres Inc</td><td>Sales (fitness Advisor) - Newmarket York Town Square</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Au Service À La Clientèle - Comptoir Postal -act</td><td>Montreal</td><td>2026-10-09</td></tr>
+<tr><td>Sysco - Food service, distributors & wholesalers</td><td>Warehouse</td><td>Buckhead</td><td>2026-10-09</td></tr>
+<tr><td>Cardinal Health</td><td>Student Warehouse Associate</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>QE Home / Quilts Etc</td><td>Sales Associate</td><td>Whitehorse</td><td>2026-10-09</td></tr>
+<tr><td>BAILEY NELSON</td><td>Part-time Sales Associate/eyewear Stylist - Park Royal</td><td>Vancouver</td><td>2026-10-09</td></tr>
+<tr><td>Marken, UPS Healthcare Precision Logistics</td><td>Evening Warehouse Associate</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Allstate</td><td>Allstate Sales Agent Trainee</td><td>Canadian Head Office</td><td>2026-10-09</td></tr>
+<tr><td>Lush</td><td>Seasonal Ambassador - Kingsway Garden</td><td>Edmonton</td><td>2026-10-09</td></tr>
+<tr><td>H&M</td><td>Sales Associate</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Throwbackpacks</td><td>Temporary Sales Associate - Part-time</td><td>Rocky View</td><td>2026-10-09</td></tr>
+<tr><td>Smcp</td><td>Retail Sales Associate, Sandro, Sherway Gardens</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Knix</td><td>Seasonal Sales Associate (newmarket)</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>JYSK Canada</td><td>Sales Colleague</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Calvin Klein</td><td>Associé(e) Aux Ventes Temporaire - Temps Partiel</td><td>Lachenaie</td><td>2026-10-09</td></tr>
+<tr><td>Performance Food Group</td><td>Afternoon Warehouse Associate Full Case Freezer</td><td>CM Toronto</td><td>2026-10-09</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate (koodo) / Scarborough Town Centre</td><td>Scarborough</td><td>2026-10-09</td></tr>
+<tr><td>Pradagroup</td><td>Client Advisor, Miu Miu Vancouver Holt Renfrew</td><td>Vancouver</td><td>2026-10-09</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Bc</td><td>2026-10-09</td></tr>
+<tr><td>Staples Canada</td><td>Associé Des Ventes</td><td>L'Ile</td><td>2026-10-09</td></tr>
+<tr><td>Sunglass Hut</td><td>Sales Associate</td><td>Montreal</td><td>2026-10-09</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Pine Centre</td><td>Prince George</td><td>2026-10-09</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, 1117 Canyon St.</td><td>Creston</td><td>2026-10-09</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Truro Mall</td><td>Truro</td><td>2026-10-09</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Parkland Mall Sk</td><td>Yorkton</td><td>2026-10-09</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Les Galeries Montagnaises</td><td>Sept-ÎLes</td><td>2026-10-09</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Merivale</td><td>Search Jobs By Location</td><td>2026-10-09</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Brooks</td><td>Brooks</td><td>2026-10-09</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Carrefour Du Nord-ouest</td><td>Val-D'Or</td><td>2026-10-09</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Sales Associate, Dryden</td><td>Dryden</td><td>2026-10-09</td></tr>
+<tr><td>Circle K</td><td>Assistant(e) Gérant(e) -act</td><td>Chicoutimi</td><td>2026-10-09</td></tr>
+<tr><td>Alberta Motor Association</td><td>Administrative Support - Life & Health-3</td><td>Ab</td><td>2026-10-09</td></tr>
+<tr><td>Aecon Group</td><td>Assistant Coordinator, Planning Co-op</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Aecon Group</td><td>Project Coordinator</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Aecon Group</td><td>Quality Coordinator -contract</td><td>Tiverton</td><td>2026-10-09</td></tr>
+<tr><td>Aecon Group</td><td>Project Coordinator, Co-op</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>Aecon Group</td><td>Co-op, Project Coordinator</td><td>Ohsweken</td><td>2026-10-09</td></tr>
+<tr><td>Aecon Group</td><td>Coordinator, Project</td><td>Scarborough</td><td>2026-10-09</td></tr>
+<tr><td>Aecon Group</td><td>Co-op, Project Controls Coordinator</td><td>Toronto</td><td>2026-10-09</td></tr>
+<tr><td>uwaterloo.ca</td><td>Financial Coordinator</td><td>Kitchener</td><td>2026-10-09</td></tr>
+<tr><td>University of British Columbia</td><td>Orca Administrative Coordinator</td><td>Vancouver</td><td>2026-10-09</td></tr>
 </table>
