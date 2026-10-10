@@ -9100,4 +9100,43 @@
 <tr><td>Aecon Group</td><td>Co-op, Project Controls Coordinator</td><td>Toronto</td><td>2026-10-09</td></tr>
 <tr><td>uwaterloo.ca</td><td>Financial Coordinator</td><td>Kitchener</td><td>2026-10-09</td></tr>
 <tr><td>University of British Columbia</td><td>Orca Administrative Coordinator</td><td>Vancouver</td><td>2026-10-09</td></tr>
+<tr><td>Retirement World</td><td>Relationship Manager Business Markets Intern</td><td>Stellarton</td><td>2026-10-10</td></tr>
+<tr><td>Bombardier</td><td>Intern, Government And Industry Affairs (winter 2027)</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>Bombardier</td><td>Intern, In Program Management, Budget & Governance (winter 2027)</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>Bombardier</td><td>Intern, Program/project Control - Industrialization And Planning (winter 2027)</td><td>Toronto</td><td>2026-10-10</td></tr>
+<tr><td>Bombardier</td><td>Intern, Organizational Learning (winter 2027)</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>Bombardier</td><td>Intern, Human Business Partner (winter 2027)</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>Bombardier</td><td>Intern, Contracts & Legal Services (winter 2027)</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>Cna Employees' Health Plan Trust</td><td>Technology Intern (transformation- 12 M Contract)</td><td>Toronto</td><td>2026-10-10</td></tr>
+<tr><td>TC Energy</td><td>Intern, Regulatory Facilities</td><td>Calgary</td><td>2026-10-10</td></tr>
+<tr><td>Aecon U.S.</td><td>Stagiaire En Construction - Automne</td><td>Rechercher Par Lieu De Travail Rechercher Par Code Postal Rechercher Par Lieu De Travail</td><td>2026-10-10</td></tr>
+<tr><td>The Heist</td><td>Motion Design Intern - The Heist (3-month Contract, Potential For Full-time)</td><td>Toronto</td><td>2026-10-10</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage – Hiver 2027 - Coordination Des Projets De Recherche Collaboratifs Et Amelioration Du Processus De Gestion Des Technologies / Internship – Winter 2027 - Collaborative Research Projects Coordination & Technology Management Process Improvement</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>Vidéotron</td><td>Stagiaire Informatique (centre Vidéotron - Québec)</td><td>Quebec</td><td>2026-10-10</td></tr>
+<tr><td>Bombardier</td><td>Intern, Electromechanical Ewis Design (ewis) (winter 2027)</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>Intact Financial Corporation</td><td>It User Support I</td><td>Toronto</td><td>2026-10-10</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Ml/llm And Generative Artificial Intelligence (genai) Specialist</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>Banklife</td><td>Business Analyst</td><td>Toronto</td><td>2026-10-10</td></tr>
+<tr><td>Two Circles</td><td>Business Analyst</td><td>Vancouver</td><td>2026-10-10</td></tr>
+<tr><td>Connor, Clark & Lunn Financial Group (CC&L)</td><td>Business Process Analyst, Process Automation</td><td>Vancouver</td><td>2026-10-10</td></tr>
+<tr><td>Jobgether</td><td>Ria Operations Support (part-time)</td><td>Canada</td><td>2026-10-10</td></tr>
+<tr><td>Jobgether</td><td>Linguistic Quality Auditor – Ipa Phonetic Transcription Review</td><td>Canada</td><td>2026-10-10</td></tr>
+<tr><td>International SOS</td><td>Registered Nurse</td><td>Edmonton</td><td>2026-10-10</td></tr>
+<tr><td>International SOS</td><td>Occupational Health Nurse</td><td>Prince George</td><td>2026-10-10</td></tr>
+<tr><td>Ethos Veterinary Health</td><td>Registered Veterinary Technician, Emergency</td><td>Toronto</td><td>2026-10-10</td></tr>
+<tr><td>Ibstock</td><td>Warehouse Associate/sorterpm</td><td>Toronto</td><td>2026-10-10</td></tr>
+<tr><td>Winners</td><td>Retail Store Associate Temporary Part Time Winners 208</td><td>Toronto</td><td>2026-10-10</td></tr>
+<tr><td>Winners</td><td>Associé / Associée De Magasin Temps Partiel Winners - Griffintown</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>Tailored Brands, Inc.</td><td>Retail Sales Associate Part Time</td><td>Scarborough</td><td>2026-10-10</td></tr>
+<tr><td>Mackenzie Investments</td><td>District Sales Associate</td><td>Vancouver</td><td>2026-10-10</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Deux Montagne (part-time, 15h/week)</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Mandarin And/or Cantonese Language Skills An Asset</td><td>Vancouver</td><td>2026-10-10</td></tr>
+<tr><td>Intelcom Group</td><td>Operations Coordinator</td><td>New Richmond</td><td>2026-10-10</td></tr>
+<tr><td>Dragonfly Shipping</td><td>Operations Coordinator</td><td>Nova Scotia</td><td>2026-10-10</td></tr>
+<tr><td>RBC Dominion Securities</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-10-10</td></tr>
+<tr><td>Intelcom / Dragonfly</td><td>Operations Coordinator</td><td>Alberta</td><td>2026-10-10</td></tr>
+<tr><td>Bombardier</td><td>(contract) Administrative Assistant - Legal Services</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>Bombardier</td><td>Executive Assistant, Quality</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>Bombardier</td><td>Executive Assistant</td><td>Montreal</td><td>2026-10-10</td></tr>
+<tr><td>Bombardier</td><td>Coordinator, Program / Project Control</td><td>Montreal</td><td>2026-10-10</td></tr>
 </table>
