@@ -9267,4 +9267,77 @@
 <tr><td>Turcotte 1989 Inc.</td><td>Adjoint.e De Direction / Administration & Comptabilité</td><td>Quebec</td><td>2026-10-11</td></tr>
 <tr><td>Vans</td><td>Vans: Superviseur - Quartier Dix30</td><td>Canada</td><td>2026-10-11</td></tr>
 <tr><td>Bombardier</td><td>Analyst, Quality Assurance Coordinator</td><td>Montreal</td><td>2026-10-11</td></tr>
+<tr><td>BCE Inc</td><td>2027 Intern Program , Business Transformation - Future Opportunities</td><td>Montreal</td><td>2026-10-12</td></tr>
+<tr><td>BCE Inc</td><td>Investment Analyst Intern</td><td>Montreal</td><td>2026-10-12</td></tr>
+<tr><td>Southwire Company</td><td>Marketing Intern</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Operations Intern</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Kiewit Corporation</td><td>Structural Intern - Eastern Canada Region - Winter 2027</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Retirement World</td><td>Banking Advisor Intern</td><td>Cornwall</td><td>2026-10-12</td></tr>
+<tr><td>Electronic Arts</td><td>Finance Intern, Ea Ventures - Summer 2027</td><td>Vancouver</td><td>2026-10-12</td></tr>
+<tr><td>Hydro One Inc</td><td>University Co-op Student - Corporate Real Estate - 12 Months - Winter 2027 - Markham</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Hydro One Inc</td><td>University Co-op Student - Strategic Finance - 12 Months - Winter 2027 - Toronto</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Altera</td><td>High Level Synthesis Engineer - Intern</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Bombardier</td><td>Intern, Supply Chain (new Development Programs) (winter 2027)</td><td>Montreal</td><td>2026-10-12</td></tr>
+<tr><td>Bombardier</td><td>Intern, Planning Global (winter 2027)</td><td>Montreal</td><td>2026-10-12</td></tr>
+<tr><td>Bombardier</td><td>Intern, Operations (winter 2027)</td><td>Montreal</td><td>2026-10-12</td></tr>
+<tr><td>Bombardier</td><td>Intern, Global Planning (winter 2027)</td><td>Montreal</td><td>2026-10-12</td></tr>
+<tr><td>Bombardier</td><td>Intern, Government Affairs (winter 2027)</td><td>Montreal</td><td>2026-10-12</td></tr>
+<tr><td>Bombardier</td><td>Intern, Vendor Management Coordinator Toronto (winter 2027)</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Bombardier</td><td>Intern, Central Planning (winter 2027)</td><td>Montreal</td><td>2026-10-12</td></tr>
+<tr><td>Google</td><td>Graphics Software Developer, Chrome</td><td>Montreal</td><td>2026-10-12</td></tr>
+<tr><td>Retirement World</td><td>Associate, Global Markets Supervision</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Registered Nurse - Clinical Resource Team (crt)</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse- (full-time) Mh 2c Cardiology</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Cicu</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>University Health Network</td><td>Pharmacy Technician - Multi-site Ip</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Personal Support Worker (psw) - Part-time (pt) - Kapuskasing</td><td>Kapuskasing</td><td>2026-10-12</td></tr>
+<tr><td>TELUS</td><td>Pharmacist</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Halton Region</td><td>Registered Nurse (casual)</td><td>Guelph</td><td>2026-10-12</td></tr>
+<tr><td>City of Ottawa</td><td>Personal Support Worker - Cas Pool</td><td>Ottawa</td><td>2026-10-12</td></tr>
+<tr><td>City of Toronto</td><td>Registered Nurse Ltc</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Youth Care Worker</td><td>Sk</td><td>2026-10-12</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Respite Support Worker</td><td>On</td><td>2026-10-12</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Front Desk Support Worker</td><td>Fort St. John</td><td>2026-10-12</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Front Desk Support Worker (part-time - Night Shift)</td><td>Fort St. John</td><td>2026-10-12</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>New Graduate Guarantee (ngg) Registered Nurse (rn) - Cv Surgery</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Capital District Health Authority</td><td>Pharmacist - Seeking Experienced Candidates</td><td>Various Sites And Community-Based Locations Throughout Nova Scotia</td><td>2026-10-12</td></tr>
+<tr><td>Nova Scotia Health</td><td>Care Team Assistant - Long Term Care</td><td>Camp Hill</td><td>2026-10-12</td></tr>
+<tr><td>Capital District Health Authority</td><td>Pharmacist - Pharmacy Services</td><td>South Shore Regional Hospital</td><td>2026-10-12</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Pharmacy Technician - Pharmacy Services</td><td>South Shore Regional Hospital</td><td>2026-10-12</td></tr>
+<tr><td>Nova Scotia Health</td><td>Registered Nurse - Seeking Experienced Candidates</td><td>Nova Scotia</td><td>2026-10-12</td></tr>
+<tr><td>Nova Scotia Health</td><td>Registered Nurse - Emergency Department</td><td>Nova Scotia</td><td>2026-10-12</td></tr>
+<tr><td>Capital District Health Authority</td><td>Registered Nurse - Critical Care</td><td>Nova Scotia</td><td>2026-10-12</td></tr>
+<tr><td>Capital District Health Authority</td><td>Care Team Assistant</td><td>Central Zone</td><td>2026-10-12</td></tr>
+<tr><td>Extendicarecedarsvilla</td><td>Registered Practical Nurse (rpn) - Casual - Medex</td><td>On</td><td>2026-10-12</td></tr>
+<tr><td>Extendicarecedarsvilla</td><td>Health Care Aide (hca) - Full Time (ft) - Poseidon Care Centre</td><td>Manitoba</td><td>2026-10-12</td></tr>
+<tr><td>Oak Valley Health</td><td>Registered Practical Nurse (cupe) (3), Medicine And Transitional Bed Unit - Full Time Regular - Markham Stouffville Hospital</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>EllisDon Corporation</td><td>Registered Nurse</td><td>Calgary</td><td>2026-10-12</td></tr>
+<tr><td>McGill University</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-10-12</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Rn</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Community Living Essex County</td><td>Ptii Sw - Kingsville</td><td>Kingsville</td><td>2026-10-12</td></tr>
+<tr><td>CHEO</td><td>Job Share, Registered Nurse, Inpatient Medicine – Permanent Part-time (0.5)</td><td>Ottawa</td><td>2026-10-12</td></tr>
+<tr><td>Yee Hong</td><td>Personal Support Worker (temporary Part-time Day Shift)</td><td>Scarborough</td><td>2026-10-12</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>High Prairie</td><td>2026-10-12</td></tr>
+<tr><td>TOMMY HILFIGER</td><td>Temporary Sales Associate - Part-time</td><td>On</td><td>2026-10-12</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis For Future Opportunities In Brampton</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>Sephora USA Inc</td><td>Membre Du Personnel Saisonnier</td><td>Montreal</td><td>2026-10-12</td></tr>
+<tr><td>Estée Lauder</td><td>Seasonal Beauty Advisor Pt The Cosmetic Company Store Edmonton Airport</td><td>Edmonton</td><td>2026-10-12</td></tr>
+<tr><td>Estée Lauder</td><td>Beauty Advisor/artist Sales Associate</td><td>On</td><td>2026-10-12</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Bramalea City Centre</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Centre Reg. Manicouagan</td><td>Baie-Comeau</td><td>2026-10-12</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Hillside Shopping Centre, Future Opportunities</td><td>Search Jobs By Location</td><td>2026-10-12</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Banff</td><td>Banff</td><td>2026-10-12</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Oshawa Centre 1</td><td>Toronto</td><td>2026-10-12</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Metropolis At Metrotown</td><td>Vancouver</td><td>2026-10-12</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Richmond Centre</td><td>Vancouver</td><td>2026-10-12</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Skeena Mall</td><td>Terrace</td><td>2026-10-12</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Bridgewater</td><td>Bridgewater</td><td>2026-10-12</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Warehouse Associate</td><td>Melfort</td><td>2026-10-12</td></tr>
+<tr><td>Emploisahearst</td><td>Sales Associate</td><td>Prince George</td><td>2026-10-12</td></tr>
+<tr><td>Trek Bikes</td><td>Sales Associate</td><td>Vancouver</td><td>2026-10-12</td></tr>
+<tr><td>Carter's, Inc.</td><td>Associe Aux Ventes</td><td>Montreal</td><td>2026-10-12</td></tr>
+<tr><td>Jobgether</td><td>Finance & Administrative Operations Coordinator</td><td>Canada</td><td>2026-10-12</td></tr>
+<tr><td>Demant AS</td><td>Project Administrator</td><td>North York</td><td>2026-10-12</td></tr>
+<tr><td>Komatsu</td><td>Administrative Assistant</td><td>Alberta</td><td>2026-10-12</td></tr>
+<tr><td>CIBC</td><td>Administrative Assistant Co-op, Halifax, Ns - Winter 2027</td><td>Halifax</td><td>2026-10-12</td></tr>
 </table>
