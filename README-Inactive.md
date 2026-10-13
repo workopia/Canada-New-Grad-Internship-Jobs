@@ -9340,4 +9340,14 @@
 <tr><td>Demant AS</td><td>Project Administrator</td><td>North York</td><td>2026-10-12</td></tr>
 <tr><td>Komatsu</td><td>Administrative Assistant</td><td>Alberta</td><td>2026-10-12</td></tr>
 <tr><td>CIBC</td><td>Administrative Assistant Co-op, Halifax, Ns - Winter 2027</td><td>Halifax</td><td>2026-10-12</td></tr>
+<tr><td>BCE Inc</td><td>2027 Intern Program, Technology Innovation - Future Opportunities</td><td>Montreal</td><td>2026-10-13</td></tr>
+<tr><td>IX Solutions Ltd</td><td>Business Analyst</td><td>Calgary</td><td>2026-10-13</td></tr>
+<tr><td>Centre of Genomics and Policy</td><td>Graduate Research Project Assistant</td><td>Montreal</td><td>2026-10-13</td></tr>
+<tr><td>University Health Network</td><td>Veterinary Technician</td><td>Toronto</td><td>2026-10-13</td></tr>
+<tr><td>Black & McDonald Limited</td><td>Class B Refrigeration Operator</td><td>Toronto</td><td>2026-10-13</td></tr>
+<tr><td>Petco</td><td>Sales Associate</td><td>0577</td><td>2026-10-13</td></tr>
+<tr><td>Samsonite</td><td>Toronto Premium Outlet Halton Hills - Mandarin Speaking Sales Associate Pt 20-29 Hours</td><td>Toronto</td><td>2026-10-13</td></tr>
+<tr><td>BAILEY NELSON</td><td>Part-time Sales Associate/eyewear Stylist - Kitsilano</td><td>Vancouver</td><td>2026-10-13</td></tr>
+<tr><td>Fccfac</td><td>Customer Service Centre Specialist</td><td>Regina</td><td>2026-10-13</td></tr>
+<tr><td>Beneva</td><td>Administrative Assistant</td><td>Quebec</td><td>2026-10-13</td></tr>
 </table>

@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-12",
+ "asOf": "2026-10-13",
  "count": 820,
  "jobs": {
   "789460": {
@@ -12,6 +12,12 @@
    "id": "43816467",
    "company": "Vale",
    "role": "Treasury & Corporate Finance Co-op Student",
+   "location": "Toronto"
+  },
+  "3486fedcd89afb048f9dd48b0c1b124e": {
+   "id": "3486fedcd89afb048f9dd48b0c1b124e",
+   "company": "Manulife",
+   "role": "Winter Co-op 2027 - Business Technology",
    "location": "Toronto"
   },
   "21480540f7f81eb590dc51dd628ce2d0": {
@@ -487,12 +493,6 @@
    "company": "Sonova Group",
    "role": "Hearing Care Professional Intern",
    "location": "Canada"
-  },
-  "e5e01a6edf5a5eb7c2c308068aaa7d18": {
-   "id": "e5e01a6edf5a5eb7c2c308068aaa7d18",
-   "company": "BCE Inc",
-   "role": "2027 Intern Program, Technology Innovation - Future Opportunities",
-   "location": "Montreal"
   },
   "5469c73b7c4e8faf24bf42ed79ee18a2": {
    "id": "5469c73b7c4e8faf24bf42ed79ee18a2",
@@ -2522,6 +2522,12 @@
    "role": "Market Risk Associate Rotational Program",
    "location": "Toronto"
   },
+  "888155a1f2ebe18e08f8b54aea6a692f": {
+   "id": "888155a1f2ebe18e08f8b54aea6a692f",
+   "company": "Service New Brunswick",
+   "role": "Asset Management Analyst",
+   "location": "Fredericton"
+  },
   "a75eb54b2306097ed703a0d2aa5710ef": {
    "id": "a75eb54b2306097ed703a0d2aa5710ef",
    "company": "Swiss Re",
@@ -2996,11 +3002,17 @@
    "role": "Chef D'équipe Au Sein De Notre Groupe Services D'actuariat Pour Les Régimes De Retraite",
    "location": "Montreal"
   },
-  "e9d4a1239a8c063e22dacafb60b7d93f": {
-   "id": "e9d4a1239a8c063e22dacafb60b7d93f",
-   "company": "IX Solutions Ltd",
-   "role": "Business Analyst",
-   "location": "Calgary"
+  "d1a963c55702061f4f9ecc749adcfa88": {
+   "id": "d1a963c55702061f4f9ecc749adcfa88",
+   "company": "City of Ottawa",
+   "role": "Shelter Support Worker - Cas Pool",
+   "location": "Ottawa"
+  },
+  "278d7b1c42c8ee4b8b94a2f9144c0bbe": {
+   "id": "278d7b1c42c8ee4b8b94a2f9144c0bbe",
+   "company": "City of Ottawa",
+   "role": "Shelter Support Worker",
+   "location": "Ottawa"
   },
   "15a65cae16456da70fa7fd9255688207": {
    "id": "15a65cae16456da70fa7fd9255688207",
@@ -3470,16 +3482,10 @@
    "role": "Pharmacist",
    "location": "Toronto"
   },
-  "738de153f917bdf3fa7489b03d313d76": {
-   "id": "738de153f917bdf3fa7489b03d313d76",
-   "company": "Centre of Genomics and Policy",
-   "role": "Graduate Research Project Assistant",
-   "location": "Montreal"
-  },
-  "eda02866c2d66e2bb1306d31bfc1df70": {
-   "id": "eda02866c2d66e2bb1306d31bfc1df70",
-   "company": "University Health Network",
-   "role": "Veterinary Technician",
+  "08d63c909cdd80d07de3c747f8f93467": {
+   "id": "08d63c909cdd80d07de3c747f8f93467",
+   "company": "Unknown Manufacturing",
+   "role": "Wtc Field Technician",
    "location": "Toronto"
   },
   "33d00ceffff8db4bbb7b95e7d6a88abc": {
@@ -3956,11 +3962,23 @@
    "role": "Technicien(ne) En Bâtiment / Building Operator",
    "location": "Montreal"
   },
-  "541778a97c5601": {
-   "id": "541778a97c5601",
-   "company": "Black & McDonald Limited",
-   "role": "Class B Refrigeration Operator",
-   "location": "Toronto"
+  "3878d210fe5306d559a5622d5b12e4f1": {
+   "id": "3878d210fe5306d559a5622d5b12e4f1",
+   "company": "Estée Lauder",
+   "role": "Beauty Advisor - Seasonal Pt - The Cosmetic Company Store - Premium Outlet - Edmonton, Ab",
+   "location": "Edmonton"
+  },
+  "553c17d2677d0ce4ad18eaba0788503b": {
+   "id": "553c17d2677d0ce4ad18eaba0788503b",
+   "company": "Bass Pro",
+   "role": "Seasonal Events Associate- Fixed Term",
+   "location": "Edmonton"
+  },
+  "5a0b582b22578829eac08f542eecd098": {
+   "id": "5a0b582b22578829eac08f542eecd098",
+   "company": "Petco",
+   "role": "Sales Associate",
+   "location": "0577"
   },
   "13b99eec43c00e38ce070d7e99dc9025": {
    "id": "13b99eec43c00e38ce070d7e99dc9025",
@@ -4009,12 +4027,6 @@
    "company": "7-Eleven",
    "role": "Warehouse Associate (part Time)",
    "location": "Toronto"
-  },
-  "7ca4b09b445dc9d3ecd76cdc025f0006": {
-   "id": "7ca4b09b445dc9d3ecd76cdc025f0006",
-   "company": "Petco",
-   "role": "Sales Associate",
-   "location": "0577"
   },
   "929d64d29fab32a5dbcd2efa21c740cf": {
    "id": "929d64d29fab32a5dbcd2efa21c740cf",
@@ -4430,17 +4442,17 @@
    "role": "Part-time Sales Associate/eyewear Stylist - The Beach",
    "location": "Toronto"
   },
-  "f0c89ad40c5ae6126920ac420dc15251": {
-   "id": "f0c89ad40c5ae6126920ac420dc15251",
-   "company": "Samsonite",
-   "role": "Toronto Premium Outlet Halton Hills - Mandarin Speaking Sales Associate Pt 20-29 Hours",
-   "location": "Toronto"
+  "81881f56d2a156740fbae9e0b8dff1b4": {
+   "id": "81881f56d2a156740fbae9e0b8dff1b4",
+   "company": "Government Of The Province Of Alberta",
+   "role": "Administrative Assistant",
+   "location": "Calgary"
   },
-  "62a3b10853ab1be536c8e197b5de04bf": {
-   "id": "62a3b10853ab1be536c8e197b5de04bf",
-   "company": "BAILEY NELSON",
-   "role": "Part-time Sales Associate/eyewear Stylist - Kitsilano",
-   "location": "Vancouver"
+  "b11ea644b2dfe2fa26aef18a63793637": {
+   "id": "b11ea644b2dfe2fa26aef18a63793637",
+   "company": "Hatch Ltd",
+   "role": "Project Controller Student",
+   "location": "Toronto"
   },
   "641d44648b5eea7e4923dd8a8969ae71": {
    "id": "641d44648b5eea7e4923dd8a8969ae71",
@@ -4909,18 +4921,6 @@
    "company": "City of Toronto",
    "role": "Quality Improvement Specialist",
    "location": "Toronto"
-  },
-  "c4fa1367ca29a0b3bff82f6b150fa735": {
-   "id": "c4fa1367ca29a0b3bff82f6b150fa735",
-   "company": "Fccfac",
-   "role": "Customer Service Centre Specialist",
-   "location": "Regina"
-  },
-  "b8b2252c7ed24e632555fd8f7abf662d": {
-   "id": "b8b2252c7ed24e632555fd8f7abf662d",
-   "company": "Beneva",
-   "role": "Administrative Assistant",
-   "location": "Quebec"
   }
  }
 }
