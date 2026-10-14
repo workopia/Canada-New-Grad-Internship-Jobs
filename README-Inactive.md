@@ -9350,4 +9350,50 @@
 <tr><td>BAILEY NELSON</td><td>Part-time Sales Associate/eyewear Stylist - Kitsilano</td><td>Vancouver</td><td>2026-10-13</td></tr>
 <tr><td>Fccfac</td><td>Customer Service Centre Specialist</td><td>Regina</td><td>2026-10-13</td></tr>
 <tr><td>Beneva</td><td>Administrative Assistant</td><td>Quebec</td><td>2026-10-13</td></tr>
+<tr><td>Sonova Group</td><td>Hearing Care Professional Intern</td><td>Canada</td><td>2026-10-14</td></tr>
+<tr><td>Coalition</td><td>Frontend Engineer, Underwriting</td><td>Any Location</td><td>2026-10-14</td></tr>
+<tr><td>Parsons Corp.</td><td>Associate Engineer - Mto</td><td>ON</td><td>2026-10-14</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Analyste De Donnees, Services Pieces De Rechange / Data Analyst, Spare Parts Services</td><td>Montreal</td><td>2026-10-14</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Conseiller (chef D'équipe), Fusions Et Acquisitions (montréal)</td><td>Montreal</td><td>2026-10-14</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Chef D'équipe Au Sein De Notre Groupe Services D'actuariat Pour Les Régimes De Retraite</td><td>Montreal</td><td>2026-10-14</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Shelter Support Worker-relief</td><td>On</td><td>2026-10-14</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Shelter Support Worker Women's</td><td>On</td><td>2026-10-14</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Seasonal Warehouse Support Worker</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>Scarborough Health Network Foundation</td><td>Registered Nurse - Oncology Clinic (cen) (external)</td><td>Centenary</td><td>2026-10-14</td></tr>
+<tr><td>Hennick Humber Hospital</td><td>Pharmacist</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Services Worker</td><td>Langenburg</td><td>2026-10-14</td></tr>
+<tr><td>Plains All American Pipeline</td><td>Pipeline Technician</td><td>Slave Lake</td><td>2026-10-14</td></tr>
+<tr><td>BCE Inc</td><td>Field Service Technician - Montreal Bts / Bst</td><td>Montreal</td><td>2026-10-14</td></tr>
+<tr><td>JLL</td><td>Technicien(ne) En Bâtiment / Building Operator</td><td>Montreal</td><td>2026-10-14</td></tr>
+<tr><td>Sephora USA Inc</td><td>Membre Du Personnel Saisonnier</td><td>Montreal</td><td>2026-10-14</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Full Time</td><td>Edmonton</td><td>2026-10-14</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor - Part Time</td><td>Edmonton</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Consumables Associate</td><td>Edmonton</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>Overnight Associate- Part Time</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Self Checkout Attendant</td><td>Kamloops</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Meat Associate</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Overnight Associate Temporary - Contract Ends April 12, 2027</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>Customer Service Desk Associate</td><td>Kemptville</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Associé, Équipe De L’alimentation Et Des Produits Consommables</td><td>Montreal</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Customer Service Desk Associate</td><td>Peace River</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Associé Des Rayons De La Mode</td><td>Montreal</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Distribution Centre Team Associate - Quality Assurance Iii</td><td>Maple</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Distribution Centre Team Associate - Operations - Hvdc Associates Only - Ft Shift Change - Wed To Sat (8:00am - 6:30pm)</td><td>Rocky View</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Dairy Frozen Associate (overnight)</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Associé, Viande</td><td>Montreal</td><td>2026-10-14</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Associé, Marchandise Générale</td><td>Montreal</td><td>2026-10-14</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Transport Service Associate - Pt Committed</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>Southlake Regional Health Centre</td><td>Hospitality Service Associate - Pt Committed</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Full Time Retail Associate (optical): Edmonton, Ab</td><td>Edmonton</td><td>2026-10-14</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Part Time Retail Associate (optical): Richmond Hill, On</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate</td><td>Kelowna</td><td>2026-10-14</td></tr>
+<tr><td>Ibstock</td><td>Warehouse Associate/sorterpm</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>Jobsinhearst</td><td>Sales Associate</td><td>Cranbrook</td><td>2026-10-14</td></tr>
+<tr><td>JDI</td><td>Paint Associate - Part Time</td><td>Fredericton</td><td>2026-10-14</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Paint Associate</td><td>Edmonton</td><td>2026-10-14</td></tr>
+<tr><td>JDI</td><td>Paint Associate</td><td>Edmonton</td><td>2026-10-14</td></tr>
+<tr><td>BAILEY NELSON</td><td>Part-time Sales Associate/eyewear Stylist - Riverside</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>BAILEY NELSON</td><td>Part-time Sales Associate/eyewear Stylist - The Beach</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>Retirement World</td><td>Administrative Assistant</td><td>Timmins</td><td>2026-10-14</td></tr>
+<tr><td>City of Toronto</td><td>Quality Improvement Specialist</td><td>Toronto</td><td>2026-10-14</td></tr>
 </table>
