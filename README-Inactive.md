@@ -9396,4 +9396,5 @@
 <tr><td>BAILEY NELSON</td><td>Part-time Sales Associate/eyewear Stylist - The Beach</td><td>Toronto</td><td>2026-10-14</td></tr>
 <tr><td>Retirement World</td><td>Administrative Assistant</td><td>Timmins</td><td>2026-10-14</td></tr>
 <tr><td>City of Toronto</td><td>Quality Improvement Specialist</td><td>Toronto</td><td>2026-10-14</td></tr>
+<tr><td>Newell Brands</td><td>2027 Newell Brands Intern- Finance</td><td>Sandy Springs +3</td><td>2026-10-14</td></tr>
 </table>

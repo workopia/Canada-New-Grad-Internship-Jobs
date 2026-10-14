@@ -12,8 +12,8 @@
   "as_of": "2026-10-14",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 23907,
-  "generated_at": "2026-10-14T00:04:33.664Z"
+  "country_live_total": 20735,
+  "generated_at": "2026-10-14T11:58:24.394Z"
  },
  "categories": [
   {
@@ -875,6 +875,23 @@
   },
   {
    "salary_display": null,
+   "id": "dd3f8a0231959fdf91a968fd9217c1d3",
+   "source": "Workopia",
+   "company_name": "ICAO",
+   "company_hi_slug": "icao",
+   "title": "Internship – Digital Marketing & Communications Capacity Development And Implementation Bureau (cdi)",
+   "location": "Montreal",
+   "skills": "Digital content creati, Social media managemen",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-08T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/dd3f8a0231959fdf91a968fd9217c1d3",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
    "id": "73e89b4dbcbe3a0e0dec2fcfe4740645",
    "source": "Workopia",
    "company_name": "Epic Games",
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-10-05T13:49:18.381Z",
    "active": true,
    "url": "https://workopia.io/jobs/21ff86087db18feb7c85f8ad2b0132dd",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "15f38e94cbb5c25ea370c71c2c7e7d87",
-   "source": "Workopia",
-   "company_name": "Newell Brands",
-   "company_hi_slug": "newell-brands",
-   "title": "2027 Newell Brands Intern- Finance",
-   "location": "Sandy Springs +3",
-   "skills": "financial analysis and, forecasting and planni",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-10-05T09:28:04.039Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/15f38e94cbb5c25ea370c71c2c7e7d87",
    "category": "grad",
    "tier": "Intern"
   },
