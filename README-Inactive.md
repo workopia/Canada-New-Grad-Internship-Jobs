@@ -9686,4 +9686,62 @@
 <tr><td>University of British Columbia</td><td>Administrative Assistant</td><td>Vancouver</td><td>2026-10-16</td></tr>
 <tr><td>Capital District Health Authority</td><td>Research Project Coordinator Analyst - Cancer Care - Department Of Research</td><td>Central Zone</td><td>2026-10-16</td></tr>
 <tr><td>Hudbay Minerals Inc</td><td>Sustainability Specialist</td><td>Princeton</td><td>2026-10-16</td></tr>
+<tr><td>Retirement World</td><td>Client Advisor Intern</td><td>New Tecumseth</td><td>2026-10-17</td></tr>
+<tr><td>Epic Games</td><td>Machine Learning Intern</td><td>Montreal</td><td>2026-10-17</td></tr>
+<tr><td>Beta Cae</td><td>C-ge-230 - Stagiaire En Conception De Formation</td><td>Montreal</td><td>2026-10-17</td></tr>
+<tr><td>Going Digital Health Inc</td><td>Health Informatics Intern</td><td>Alberta +2</td><td>2026-10-17</td></tr>
+<tr><td>AltaGas</td><td>Altagas - 2027 Transportation Intern</td><td>Calgary</td><td>2026-10-17</td></tr>
+<tr><td>Mackenzie Investments</td><td>Winter Intern 2027 - Tax &amp; Estate Planning</td><td>Montreal</td><td>2026-10-17</td></tr>
+<tr><td>Hatch Ltd</td><td>Digital Marketing Student</td><td>Toronto</td><td>2026-10-17</td></tr>
+<tr><td>Hatch Ltd</td><td>Advisory Analyst - Internship / Management Consulting</td><td>Toronto</td><td>2026-10-17</td></tr>
+<tr><td>BDO Canada</td><td>Co-op Or Intern, Assurance (fall 2027) Gta Offices</td><td>Toronto</td><td>2026-10-17</td></tr>
+<tr><td>McKesson Corporation</td><td>Stagiaire Développeur(se) Full Stack Java / Java Developer Intern - Hiver/winter 2027</td><td>Quebec</td><td>2026-10-17</td></tr>
+<tr><td>McKesson Corporation</td><td>Stagiaire En Automatisation De L'assurance Qualité / Qa Automation Intern - Hiver/winter 2027</td><td>Quebec</td><td>2026-10-17</td></tr>
+<tr><td>McKesson Corporation</td><td>Stagiaire Développeur(se) En Distribution Pharmaceutique - Developper Pharmaceutical Distirbution - Winter Intern</td><td>Quebec</td><td>2026-10-17</td></tr>
+<tr><td>EPX</td><td>Intern, Backend Software Engineer - Team Interstellar - Winter 2027</td><td>Toronto</td><td>2026-10-17</td></tr>
+<tr><td>Retirement World</td><td>2027 Winter Student Opportunities Rbc Borealis - Ai Data Analyst - 8 Months</td><td>Toronto</td><td>2026-10-17</td></tr>
+<tr><td>Genetec</td><td>Spécialiste Pratiques Gestion Produits / Product Management Practice Specialist</td><td>Montreal</td><td>2026-10-17</td></tr>
+<tr><td>Circle K</td><td>Analyste, Comptabilité Magasin (remplacement Congé Maternité)</td><td>Montreal</td><td>2026-10-17</td></tr>
+<tr><td>Circle K</td><td>Analyst, Store Accounting (maternity Leave Replacement)</td><td>Montreal</td><td>2026-10-17</td></tr>
+<tr><td>Mark Anthony Brands Inc.</td><td>Vineyard Business Analyst</td><td>Mission Hill Family Est</td><td>2026-10-17</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Emergency - Repost</td><td>Winkler</td><td>2026-10-17</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Pharmacist-pharmacien Ne</td><td>Notre Dame De Lourdes</td><td>2026-10-17</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Intensive Care Med/surg - Repost</td><td>Winnipeg</td><td>2026-10-17</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Infirmier Ère Autorisé E - Repost</td><td>Notre Dame De Lourdes</td><td>2026-10-17</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - As6 Medicine Clinical Teaching Unit - Repost</td><td>Winnipeg</td><td>2026-10-17</td></tr>
+<tr><td>St. Boniface Hospital</td><td>Registered Nurse (n2) - Specialty Resource Team - Repost</td><td>Winnipeg</td><td>2026-10-17</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Acute Cardiac Care Unit (accu) - Repost</td><td>Winnipeg</td><td>2026-10-17</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Hemodialysis</td><td>Winnipeg</td><td>2026-10-17</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Surgical/obstetrics - Repost</td><td>Portage La Prairie</td><td>2026-10-17</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Emergency/infirmier.ère Autorisé.e - Urgences - Repost</td><td>St. Pierre-Jolys</td><td>2026-10-17</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Pharmacist</td><td>Winkler</td><td>2026-10-17</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Rn- Emergency-urgences Acute/er- Repost</td><td>St. Pierre-Jolys</td><td>2026-10-17</td></tr>
+<tr><td>Sealed Air</td><td>Technical Service Representative - Field Service Engineer - Autobag</td><td>Toronto</td><td>2026-10-17</td></tr>
+<tr><td>SLB (Schlumberger)</td><td>Mechanical Technician</td><td>Clairmont</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Burnaby Main, Burnaby Bc (18.75hrs/week)</td><td>Vancouver</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Algonquin Square, Sudbury, On (30 Hours/week)</td><td>Sudbury</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Port Elgin (18.75 Hours/week)</td><td>Port Elgin</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Lawrence & Bathurst, Toronto, On (18.75 Hours/week)</td><td>North York</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Whitehorse, Yt (26.25 Hours/week)</td><td>Whitehorse</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Park Royal Shopping Centre, West Vancouver Bc (18.75hrs/week)</td><td>Vancouver</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Burnaby Main, Burnaby Bc (15hrs/week)</td><td>Vancouver</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Burnaby North, Burnaby Bc (15hrs/week)</td><td>Vancouver</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Alderbridge Place, Richmond, Bc (18.75hours/week)</td><td>Vancouver</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Westwood Mall Branch (15 Hours/week)</td><td>Toronto</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Shaughnessy, Port Coquitlam Bc (30hrs/week)</td><td>Vancouver</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Shaughnessy, Port Coquitlam Bc (18.75hrs/week)</td><td>Vancouver</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associé(e) Au Service À La Clientèle - Boulevard Des Sources, Ddo, Québec (15 H/semaine)</td><td>Montreal</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Sources Blvd, Ddo Qc (15h/week)</td><td>Montreal</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - 49th Avenue & Elliot Street, Vancouver, Bc(30hours/week)</td><td>Vancouver</td><td>2026-10-17</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Macleod Centre Branch, Ab (18.75 Hours/week)</td><td>Calgary</td><td>2026-10-17</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Associé / Associée De Détail Temps Partiel Winners - Plaza Chateauguay</td><td>Montreal</td><td>2026-10-17</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Associé/associée De Magasin Temps Partiel Winners/homesense-place Versailles</td><td>Montreal</td><td>2026-10-17</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Retail Store Associate Part Time Temporary Winners</td><td>Edmonton</td><td>2026-10-17</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Retail Associate Seasonal Part Time/winners - College Park</td><td>Toronto</td><td>2026-10-17</td></tr>
+<tr><td>Allstate Corporation</td><td>Allstate Sales Agent Trainee</td><td>Canadian Head Office</td><td>2026-10-17</td></tr>
+<tr><td>Wolseley UK</td><td>Warehouse Associate (woodbridge, On)</td><td>Woodbridge</td><td>2026-10-17</td></tr>
+<tr><td>Uni Select Inc</td><td>Inventory Clerk (temporary 6 Months)</td><td>Toronto</td><td>2026-10-17</td></tr>
+<tr><td>EllisDon Corporation</td><td>Icat, Project Coordinator</td><td>Toronto</td><td>2026-10-17</td></tr>
+<tr><td>TruStage</td><td>Executive Assistant - Bilingual French (hybrid: On, Canada Only)</td><td>Ontario</td><td>2026-10-17</td></tr>
+<tr><td>Aecon Group</td><td>Co-op, Commissioning Coordinator</td><td>Toronto</td><td>2026-10-17</td></tr>
 </table>
