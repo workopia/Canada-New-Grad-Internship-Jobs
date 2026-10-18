@@ -9744,4 +9744,188 @@
 <tr><td>EllisDon Corporation</td><td>Icat, Project Coordinator</td><td>Toronto</td><td>2026-10-17</td></tr>
 <tr><td>TruStage</td><td>Executive Assistant - Bilingual French (hybrid: On, Canada Only)</td><td>Ontario</td><td>2026-10-17</td></tr>
 <tr><td>Aecon Group</td><td>Co-op, Commissioning Coordinator</td><td>Toronto</td><td>2026-10-17</td></tr>
+<tr><td>Bombardier</td><td>Intern, Strategy And Governance, Operations Support (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Analyst Quality Assurance (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Government And Industry Affairs (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Supply Chain (data Insights And Profitability), (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Digital Transformation (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Methods (winter 2027)</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Operations Council (winter 2027)</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Planning Challenger (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Talent Acquisition (winter, 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Government And Industry Public Affairs (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Global Expansion (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Legal Counsel (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Materials And Processes (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Materials And Processes (m&p) (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, In Technical Publications, Production Planning/analyst (winter, 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Business Analyst (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, In Technical Publications Support & Business Process Automation (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Data Management Analyst (winter 2027)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Intern, Program Management - Program Development Npd (winter 2027)</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>ABB Ltd</td><td>Human Resources Intern - Winter 2027</td><td>Saint</td><td>2026-10-18</td></tr>
+<tr><td>Retirement World</td><td>Relationship Manager Business Markets Intern</td><td>Bathurst</td><td>2026-10-18</td></tr>
+<tr><td>Banklife</td><td>Summer Intern 2027 - Product Management & Risk Technology</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Banklife</td><td>Summer Intern 2027 - Gwam Financial Planning & Analysis</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Economical Insurance</td><td>Catastrophe Claims Co-op - Winter 2027 Co-op/intern</td><td>Unknown</td><td>2026-10-18</td></tr>
+<tr><td>JDI</td><td>Corporate Quality Co-op Student - Winter 2027 (8-month Term)</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Corporate Quality Co-op Student - Winter 2027 (8-month Term)</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Développement Logiciel Avancé, Méthodes Numériques / Internship - Winter 2027 - Advanced Software Development, Numerical Methods</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Electronic Arts</td><td>Game Designer Intern - Summer 2027 (apex Legends)</td><td>Vancouver</td><td>2026-10-18</td></tr>
+<tr><td>Canadian Broadcasting Corporation</td><td>Cbc News Journalism Internship Program - Winter 2027</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Amazon</td><td>Operations Finance (OFRP) Intern - Summer 2027, Amazon Finance Rotational Program (AFRP)</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>GSK plc</td><td>Marketing Associate Intern, Severe Asthma & Nasal Polyps - Mississauga Or Montreal</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>PCL Constructors Inc</td><td>Marketing & Communications Student</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Axis Communications</td><td>Marketing Intern, Canada</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>BMO</td><td>Wealth Investorline Associate, Winter 2027 (co-op/internship) - 4 Months</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>TD SYNNEX Accessboard</td><td>Canada / Winter 2027 Internship Program / Canada / Programme De Stage D'hiver 2027</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>John Hancock</td><td>Summer Intern 2027 - Business Operations & Executive Reporting Co-op</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Membre Equipe Des Engrenages De Transmission / Internship - Winter 2027 - Member Of The Transmission Gear Team</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Jobgether</td><td>Full-stack Engineer, Ai Platform</td><td>Canada</td><td>2026-10-18</td></tr>
+<tr><td>Netomi</td><td>Sde Ii Frontend</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Jobgether</td><td>Digital Support Analyst</td><td>Ontario</td><td>2026-10-18</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Ai/ml</td><td>Canada</td><td>2026-10-18</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Data Products & Ai Applications</td><td>Canada</td><td>2026-10-18</td></tr>
+<tr><td>Corporation of The Town of Whitby, The</td><td>Part-time Fitness Programmer</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Splunk</td><td>Software Developer Full Stack / Backend Ii (full Time) - Canada</td><td>Vancouver</td><td>2026-10-18</td></tr>
+<tr><td>Intact Insurance</td><td>Security Analyst Ii - Pen Tests</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Analyste De Données, Services De Pièces De Rechange / Internship - Winter 2027 - Data Analyst, Spare Parts Services</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Analyst, Data Quality & Governance</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Financial Analyst, Engineering</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Financial Analyst, Procurement Finance</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Financial Analyst, Bombardier Toronto Site</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>CIBC US</td><td>Market Data Analyst, Market Data Solutions</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Aecon U.S.</td><td>Analyst, Business</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Harris</td><td>Financial Analyst</td><td>Ontario</td><td>2026-10-18</td></tr>
+<tr><td>City of Toronto</td><td>Energy Management Analyst</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Desjardins</td><td>Desjardins Business Centre Careers</td><td>Richelieu-Yamaska</td><td>2026-10-18</td></tr>
+<tr><td>Desjardins</td><td>Team Leader, Management Support And Expertise Support</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>University of British Columbia</td><td>Financial Analyst</td><td>Kelowna</td><td>2026-10-18</td></tr>
+<tr><td>Jobgether</td><td>Spécialiste Bilingue, Services Bancaires Aux Entreprises</td><td>Canada</td><td>2026-10-18</td></tr>
+<tr><td>Sysco</td><td>Delivery Service Centre Analyst</td><td>Canada</td><td>2026-10-18</td></tr>
+<tr><td>Hennick Humber Hospital</td><td>Registered Nurse, 11 East &amp; West Inpatient Surgery</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Humber River Health</td><td>Registered Nurse, 10 East &amp; West Inpatient Surgery</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>North Bay Regional Health Centre</td><td>Registered Nurse, Emergency Department</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Humber River Health</td><td>Registered Nurse - Medical Day Care</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Humber River Health</td><td>Registered Nurse Mother Baby Unit</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Humber River Health</td><td>Student Nurse Extern - Critical Care 6 West</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Humber River Health</td><td>Registered Nurse Nicu</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Humber River Health</td><td>Resource Nurse, Inpatient Cardiology</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Humber River Health</td><td>Registered Nurse, Emergency Department</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Hennick Humber Hospital</td><td>Pharmacist</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Hennick Humber Hospital</td><td>Registered Practical Nurse Cardiology</td><td>North Bay</td><td>2026-10-18</td></tr>
+<tr><td>Sienna Senior Living</td><td>Personal Support Worker/ Permanent Casual</td><td>Woodbridge</td><td>2026-10-18</td></tr>
+<tr><td>Sienna Senior Living</td><td>Personal Support Worker - Permanent Part Time Unscheduled Days, Evenings And Weekends</td><td>North Bay</td><td>2026-10-18</td></tr>
+<tr><td>Sienna Senior Living</td><td>Personal Support Worker / Permanent Part-time Day</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Sienna Senior Living</td><td>Personal Support Worker - Temporary Part Time - Evening</td><td>Scarborough</td><td>2026-10-18</td></tr>
+<tr><td>Sienna Senior Living</td><td>Care Support Assistant Un - Temporary Part Time Days ( 6 Months)</td><td>Scarborough</td><td>2026-10-18</td></tr>
+<tr><td>Nashvillesecurityjob</td><td>(can) Pharmacy Assistant</td><td>Fredericton</td><td>2026-10-18</td></tr>
+<tr><td>ParaMed</td><td>Personal Support Worker</td><td>Paramed</td><td>2026-10-18</td></tr>
+<tr><td>Extendicare The Meadows</td><td>Casual Care Aide Extendicare St. Paul</td><td>St Paul</td><td>2026-10-18</td></tr>
+<tr><td>techaroundworld Canada</td><td>Part-time Registered Practical Nurse (rpn) - 7 Am To 3 Pm</td><td>Valley Stream</td><td>2026-10-18</td></tr>
+<tr><td>McGill University</td><td>Undergraduate Research Assistant (théorêt)</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Sienna Senior Living</td><td>Personal Support Worker Temporary / Part-time Night</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Sienna Senior Living</td><td>Registered Nurse / Casual</td><td>London</td><td>2026-10-18</td></tr>
+<tr><td>Walmartdataventures</td><td>(can) Pharmacy Assistant</td><td>Truro</td><td>2026-10-18</td></tr>
+<tr><td>Extendicare The Meadows</td><td>Health Care Aide (hca) - Part Time (pt) - Bonnyville</td><td>Bonnyville</td><td>2026-10-18</td></tr>
+<tr><td>Whcrecruit</td><td>Registered Nurse (lmh) #2026-235</td><td>Mount Forest</td><td>2026-10-18</td></tr>
+<tr><td>Saskatchewan Health Authority (SHA)</td><td>Nurse A - Registered Nurse General Duty Nurse</td><td>Kelvington</td><td>2026-10-18</td></tr>
+<tr><td>Saskatchewan Health Authority (SHA)</td><td>Continuing Care Assistant</td><td>Wolseley</td><td>2026-10-18</td></tr>
+<tr><td>City of Ottawa</td><td>Shelter Support Worker - Cas Pool</td><td>Ottawa</td><td>2026-10-18</td></tr>
+<tr><td>City of Ottawa</td><td>Shelter Support Worker</td><td>Ottawa</td><td>2026-10-18</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Repost</td><td>Carman</td><td>2026-10-18</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Emergency - Repost</td><td>Winnipeg</td><td>2026-10-18</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - A4 South Urology Vascular - Repost</td><td>Winnipeg</td><td>2026-10-18</td></tr>
+<tr><td>St. Boniface Hospital</td><td>Registered Nurse (n2) - Renal Resource Team - Repost</td><td>Winnipeg</td><td>2026-10-18</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Home Care Attendant</td><td>Starbuck</td><td>2026-10-18</td></tr>
+<tr><td>Southern Health-Santé Sud</td><td>Registered Nurse - Infirmier Ère Autorisé E - Repost</td><td>Notre Dame De Lourdes</td><td>2026-10-18</td></tr>
+<tr><td>Meaty Meats Inc</td><td>Maintenance Associate 1</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Bombardier</td><td>Technician, Mechanical Maintenance</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Alamos Gold</td><td>Reliability Technician / Engineer (specialist)</td><td>Young</td><td>2026-10-18</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Overnight Maintenance Technician</td><td>Whistler</td><td>2026-10-18</td></tr>
+<tr><td>Likewize</td><td>Mobile Repair Technician</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Cogir Senior Living</td><td>Maintenance Assistant - Part Time</td><td>Windsor Park</td><td>2026-10-18</td></tr>
+<tr><td>Owens Corning</td><td>Électrotechnicien(ne) & Instrumentation</td><td>Valleyfield</td><td>2026-10-18</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Controls Service Technician</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Dematic Corporation</td><td>Resident Maintenance Technician</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Penta Tmr Inc</td><td>Maintenance Technician</td><td>Glencoe</td><td>2026-10-18</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Japanese Language Skill An Asset</td><td>Vancouver</td><td>2026-10-18</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Cantonese And/or Korean Language Skills An Asset</td><td>Vancouver</td><td>2026-10-18</td></tr>
+<tr><td>Intact Financial</td><td>Associate, Sales And Customer Service (january)</td><td>Vancouver</td><td>2026-10-18</td></tr>
+<tr><td>TOMMY HILFIGER</td><td>Temporary Sales Associate - Part-time</td><td>Canada</td><td>2026-10-18</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Nestle Ltd</td><td>Associé·e Aux Ventes (temps Partiel) - Anjou</td><td>Anjou</td><td>2026-10-18</td></tr>
+<tr><td>Foot Locker</td><td>Full Time Sales Associate</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (part Time) - Reitmans</td><td>Edmonton</td><td>2026-10-18</td></tr>
+<tr><td>Explore RH Careers</td><td>Client Services Associate</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Le Carrefour Rimouski</td><td>Rimouski</td><td>2026-10-18</td></tr>
+<tr><td>Walmart Canada</td><td>(can) Meat Associate</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Nashvillesecurityjob</td><td>(can) Préposé Au Stockage Et Aux Chariots</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Walmart</td><td>(can) Associé, Équipe De L’alimentation Et Des Produits Consommables</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Nashvillesecurityjob</td><td>Health And Beauty Team Associate</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Walmart Canada</td><td>(can) Self Checkout Attendant</td><td>Gander</td><td>2026-10-18</td></tr>
+<tr><td>Walmart Canada</td><td>(can) Fashion Associate</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Walmart Canada</td><td>(can) Customer Service Desk Associate</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate</td><td>North York</td><td>2026-10-18</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retails Sales Associate, Fairview</td><td>North York</td><td>2026-10-18</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Fort Saskatchewan</td><td>Edmonton</td><td>2026-10-18</td></tr>
+<tr><td>Virgin Plus</td><td>Retail Sales Associate, Carrefour St-georges</td><td>Saint-Georges</td><td>2026-10-18</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Tc Square Mall</td><td>Carbonear</td><td>2026-10-18</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, The Promenade</td><td>Thornhill</td><td>2026-10-18</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Scarborough Town Centre</td><td>Scarborough</td><td>2026-10-18</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Vaughan Mills</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>BCE Inc</td><td>Hiring Event October 15, Galeries De La Capitale</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Best Buy Canada</td><td>Mobile Sales Associate (full Time)</td><td>Calgary</td><td>2026-10-18</td></tr>
+<tr><td>Shangri-La Group</td><td>Service Associate - Concierge</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Wine and Beyond</td><td>Sales Associate</td><td>Calgary</td><td>2026-10-18</td></tr>
+<tr><td>Liquor Depot</td><td>Sales Associate</td><td>Calgary</td><td>2026-10-18</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Michaels</td><td>Service Team (seasonal)</td><td>Calgary</td><td>2026-10-18</td></tr>
+<tr><td>Estée Lauder</td><td>Beauty Advisor - Mac - Freelance/oncall-brampton, Ontario</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service Clientèle Stage -act</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Coach</td><td>Sales Support Associate I</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Support Associate I</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Kate Spade New York</td><td>Temporary Sales Associate-5</td><td>Alberta</td><td>2026-10-18</td></tr>
+<tr><td>Coach</td><td>Temporary Sales Associate-1</td><td>Vancouver</td><td>2026-10-18</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate Ii</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate Iii</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Smithers Branch, Smithers, Bc (22.50 Hours/week)</td><td>Smithers</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Campbell River Bc (18.75hrs/week)</td><td>Campbell River</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Yonge & St. Clair, Toronto, On (22.5 Hours/week)</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Broadview & Gerrard (chinese-speaking, 15.00 Hours/week)</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Southland Mall, Winkler, Mb (15 Hours/week)</td><td>Winkler</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Cobden, On (18.75 Hours)</td><td>Cobden</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Mulberry Centre, Burnaby Bc (30hrs/week)</td><td>Vancouver</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Fernie, Bc (18.75 Hours/week)</td><td>Fernie</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Pembroke, On, 12 Months Contract (22.5 Hours Per Week)</td><td>Pembroke</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Blind River, On (18.75 Hours/week)</td><td>Blind River</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Petawawa, On (18.75 Hours/week)</td><td>Petawawa</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Cranbrook Street & 6th Street North, Cranbrook, Bc (15 Hours/week)</td><td>Cranbrook</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - West Kelowna, Bc (18.75 Hours/week) Contract</td><td>Kelowna</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Rama Branch (22.5 Hours/week)</td><td>Rama</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate, Part-time - Pilot Sound Branch, Edmonton, Ab (11.25 Hours/week)</td><td>Edmonton</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate, Part-time - Vermilion, Ab (30 Hours/week)</td><td>Vermilion +1</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Boucherville, Qc - 7.5 Hours/week</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associé.e, Expérience Client - Boucherville, Qc - 7.5 Heures/semaine</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Lougheed Town Centre, Burnaby Bc (11.25hrs/week)</td><td>Vancouver</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate-polo Park Shopping Centre, Winnipeg, Mb, 3months Contract(30 Hours/wk)</td><td>Winnipeg</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - River District, Vancouver Bc (26.25hrs/week)</td><td>Vancouver</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - The Pas, Mb (30 Hours/week)</td><td>Opaskwayak</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Bathurst & Steeles, Thornhill, On (26.25 Hours/week)</td><td>North York</td><td>2026-10-18</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Lawrence & Bathurst, Toronto, On (26.25 Hours/week)</td><td>North York</td><td>2026-10-18</td></tr>
+<tr><td>CIBC US</td><td>Administrative Assistant</td><td>Regina</td><td>2026-10-18</td></tr>
+<tr><td>EllisDon Corporation</td><td>Community Relations Coordinator</td><td>Regina</td><td>2026-10-18</td></tr>
+<tr><td>EllisDon</td><td>Pre-construction & Pursuits Coordinator</td><td>Mississauga Office</td><td>2026-10-18</td></tr>
+<tr><td>EllisDon Corporation</td><td>Project Coordinator - Icat</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>EllisDon Corporation</td><td>Project Administrator</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>EllisDon Corporation</td><td>Development Coordinator</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Jobgether</td><td>People Operations Coordinator</td><td>Canada</td><td>2026-10-18</td></tr>
+<tr><td>Canem</td><td>Student Project Coordinator</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Christmas Admin Assistant</td><td>Saskatoon</td><td>2026-10-18</td></tr>
+<tr><td>Primerica</td><td>Marketing Coordinator</td><td>Toronto</td><td>2026-10-18</td></tr>
+<tr><td>Guillevin International Company Inc</td><td>Administrative Associate</td><td>Whitehorse</td><td>2026-10-18</td></tr>
+<tr><td>Rio Tinto</td><td>Adjoint(e) Exécutif(ve) / Executive Assistant</td><td>Montreal</td><td>2026-10-18</td></tr>
+<tr><td>Nova Scotia Liquor Corporation</td><td>Administrative Coordinator - Retail Operations</td><td>Halifax</td><td>2026-10-18</td></tr>
 </table>
