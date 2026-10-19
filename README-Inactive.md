@@ -9928,4 +9928,97 @@
 <tr><td>Guillevin International Company Inc</td><td>Administrative Associate</td><td>Whitehorse</td><td>2026-10-18</td></tr>
 <tr><td>Rio Tinto</td><td>Adjoint(e) Exécutif(ve) / Executive Assistant</td><td>Montreal</td><td>2026-10-18</td></tr>
 <tr><td>Nova Scotia Liquor Corporation</td><td>Administrative Coordinator - Retail Operations</td><td>Halifax</td><td>2026-10-18</td></tr>
+<tr><td>Retirement World</td><td>Client Advisor Intern</td><td>Vancouver</td><td>2026-10-19</td></tr>
+<tr><td>J.D. Irving, Limited</td><td>Forestry Operations Intern - Summer 2027</td><td>Saint</td><td>2026-10-19</td></tr>
+<tr><td>JDI / Midland Transport</td><td>Forestry Operations Intern - Summer 2027</td><td>Saint</td><td>2026-10-19</td></tr>
+<tr><td>Manulife</td><td>Winter Co-op 2027 - Business Technology</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Thunderbird</td><td>Product Manager Intern</td><td>Vancouver</td><td>2026-10-19</td></tr>
+<tr><td>GE Vernova</td><td>Stagiaire Projet Qualité</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>TD Bank</td><td>Intern/ Co-op Winter 2027</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>StrategyCorp Inc.</td><td>Internship / Winter 2027</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>CAE Inc</td><td>C-fin-275 Software Engineering Intern, Ai, Automation And Business Intelligence</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>Canada Infrastructure Bank</td><td>Analyst, Investments Internship (indigenous Internship Program)</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Bombardier</td><td>Internship Employee Communications (winter 2027)</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>Bombardier</td><td>Intern, Executive-level Project Management (winter 2027)</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>Bombardier</td><td>Intern, Human Resources Business Partner (winter 2027)</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>Bombardier</td><td>Intern, Supply Chain (systems) (winter 2027)</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Learning Services Specialist - Assurance - 18 Month Contract</td><td>Canada</td><td>2026-10-19</td></tr>
+<tr><td>Simulator</td><td>C-ge-055 – Développeur Logiciel [système D’exploitation & Configuration]</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>Grafana Labs</td><td>Staff Backend Engineer - Analytics / Canada / Remote</td><td>Canada</td><td>2026-10-19</td></tr>
+<tr><td>Capco</td><td>Web Ui Engineer</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Bell Canada</td><td>Data Scientist Ii</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Scarborough Health Network Foundation</td><td>Emergency Department Data Reporting Analyst</td><td>Centenary Hospital</td><td>2026-10-19</td></tr>
+<tr><td>Four Seasons Hotels & Resorts</td><td>Analyst, Data Strategy</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Retirement World</td><td>Associate, Operations Ii</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Hydro One Inc</td><td>University Co-op Student - Key Accounts Business Analyst - Winter 2027 - Toronto</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Liberty Utilities Co</td><td>Accountant Ii</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>TJX Canada</td><td>Financial Analyst</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>TD Ameritrade</td><td>Specialized Finance Analyst</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technologist, North Shore Animal Hospital</td><td>Vancouver</td><td>2026-10-19</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technologist, Highlands Animal Hospital</td><td>Vancouver</td><td>2026-10-19</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technician, Er, Vancouver Animal Emergency And Referral Centre</td><td>Vancouver</td><td>2026-10-19</td></tr>
+<tr><td>VCA, Inc</td><td>Registered Veterinary Technician, Emergency (icu) , 404 Veterinary Emergency And Referral Hospital</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technician, Emergency (casual) - 404 Veterinary Emergency And Referral Hospital</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technician, Specialty, Mississauga Oakville Veterinary Emergency & Specialty Hospital</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technician, Western Canada Veterinary Eye Specialists</td><td>Vancouver</td><td>2026-10-19</td></tr>
+<tr><td>VCA, Inc</td><td>Registered Veterinary Technologist, Calgary North Animal Hospital</td><td>Calgary</td><td>2026-10-19</td></tr>
+<tr><td>Humber River Health</td><td>Registered Nurse 7 West Cardiology</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Humber River Health</td><td>Registered Nurse, 11 East &amp; West Inpatient Surgery</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Humber River Health</td><td>Pharmacist</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Humber River Health</td><td>Registered Practical Nurse Cardiology</td><td>North Bay</td><td>2026-10-19</td></tr>
+<tr><td>North Bay Regional Health Centre</td><td>Registered Nurse Mother Baby Unit</td><td>Wilson</td><td>2026-10-19</td></tr>
+<tr><td>Black & McDonald Limited</td><td>Maintenance Mechanic - Handyperson</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Best Buy Canada</td><td>Repair Technician</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>GoodLife Fitness Centres Inc</td><td>Service Technician - Equipment - Thornhill</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>TD SYNNEX Accessboard</td><td>Maintenance Tech I – Technicien(ne) De Maintenance Ilities I</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>RTX (Raytheon Technologies)</td><td>Mécanicien D'entretien Industriel</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>Essowners</td><td>Maintenance - Level I</td><td>Lindell Beach</td><td>2026-10-19</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Edmonton</td><td>2026-10-19</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Alderbridge Place, Richmond, Bc (18.75hours/week)</td><td>Vancouver</td><td>2026-10-19</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - 510 Burrard Street, Vancouver, Bc</td><td>Vancouver</td><td>2026-10-19</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Temporary Associate</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Wlmqhght</td><td>Deli Bakery Team Associate</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Walmart Canada</td><td>(can) Fashion Associate</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>Calvin Klein</td><td>Temporary Sales Associate - Part-time</td><td>Canada</td><td>2026-10-19</td></tr>
+<tr><td>Lennox International</td><td>Counter Sales Associate</td><td>Edmonton</td><td>2026-10-19</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate (seasonal) / Telus Oshawa Centre</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate (koodo) / Markville Mall (seasonal)</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate / Southgate</td><td>Edmonton</td><td>2026-10-19</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate / West Edmonton Mall</td><td>Edmonton</td><td>2026-10-19</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate / Markville Shopping Centre / Seasonal</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate / Hillcrest Shopping Centre / Seasonal</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>TELUS</td><td>Retail Support Associate / Square One Mall</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>IKEA UK</td><td>Sales Co-worker Ii - Bedroom Pt</td><td>Calgary</td><td>2026-10-19</td></tr>
+<tr><td>IKEA UK</td><td>Collaborateur.trice Expérience Client, Chariots</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>United Trimen</td><td>Warehouse Order Selector</td><td>North York</td><td>2026-10-19</td></tr>
+<tr><td>Walmart Canada</td><td>(can) Dairy Frozen Associate</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Associé, Équipe De L’alimentation Et Des Produits Consommables</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>Urban Outfitters</td><td>Anthropologie Seasonal Sales Associate</td><td>Ottawa</td><td>2026-10-19</td></tr>
+<tr><td>Wine and Beyond</td><td>Sales Associate</td><td>Calgary</td><td>2026-10-19</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>Match Retail</td><td>Part-time Sales Associate</td><td>Charlottetown</td><td>2026-10-19</td></tr>
+<tr><td>GoodLife Fitness Centres Inc</td><td>Sales (fitness Advisor) - Brampton Mclaughlin Corners West</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>GoodLife Fitness Centres Inc</td><td>Sales (fitness Advisor) - Toronto Richmond And Bathurst</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Associé / Associée De Magasin De Détails</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>Winners</td><td>Retail Store Associate Part Time - Winners 346</td><td>Edmonton</td><td>2026-10-19</td></tr>
+<tr><td>Marshalls</td><td>Retail Store Associate Part Time Marshalls/homesense - Manning Town Centre</td><td>Edmonton</td><td>2026-10-19</td></tr>
+<tr><td>Retirement World</td><td>Service Associate</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Mtl Mont Royal</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Mtl Mount Royal</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>TD Bank Group</td><td>Pia Client Service Associate</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate</td><td>Chesterville</td><td>2026-10-19</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate- Fixed Term Contract</td><td>Cranbrook</td><td>2026-10-19</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Quispamsis</td><td>Quispamsis</td><td>2026-10-19</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Sherbrooke & Claremont</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - St. Bruno (part-time, 15h/week)</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>TD Bank Group</td><td>Customer Experience Associate - Mtl, Queen-mary</td><td>Montreal</td><td>2026-10-19</td></tr>
+<tr><td>460</td><td>Operations Coordinator</td><td>British Columbia</td><td>2026-10-19</td></tr>
+<tr><td>dragonflyshipping.ca</td><td>Operations Coordinator</td><td>Ontario</td><td>2026-10-19</td></tr>
+<tr><td>University Health Network</td><td>Administrative Assistant I - Neuromuscular/neurology</td><td>Toronto</td><td>2026-10-19</td></tr>
+<tr><td>CHEO</td><td>Administrative Assistant, Neonatology And Pediatric Critical Care - Permanent Full-time (1.0)</td><td>Ottawa</td><td>2026-10-19</td></tr>
+<tr><td>University of British Columbia</td><td>Administrative Coordinator</td><td>Vancouver</td><td>2026-10-19</td></tr>
+<tr><td>CIBC US</td><td>Estate Planning Assistant</td><td>Edmonton</td><td>2026-10-19</td></tr>
+<tr><td>HUB International</td><td>Administrative Associate</td><td>Jasper</td><td>2026-10-19</td></tr>
+<tr><td>EllisDon Corporation</td><td>Quality Coordinator</td><td>Ontario</td><td>2026-10-19</td></tr>
 </table>
