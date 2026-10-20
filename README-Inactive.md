@@ -10021,4 +10021,93 @@
 <tr><td>CIBC US</td><td>Estate Planning Assistant</td><td>Edmonton</td><td>2026-10-19</td></tr>
 <tr><td>HUB International</td><td>Administrative Associate</td><td>Jasper</td><td>2026-10-19</td></tr>
 <tr><td>EllisDon Corporation</td><td>Quality Coordinator</td><td>Ontario</td><td>2026-10-19</td></tr>
+<tr><td>Banklife</td><td>Summer Intern 2027 - Esg & Sustainable Finance Intern</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>Ryan Companies</td><td>Summer 2027 Tax Consulting Intern - Canada</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>BHP Group Ltd</td><td>Gis Summer Student, Potash / Talent Pool</td><td>Saskatchewan</td><td>2026-10-20</td></tr>
+<tr><td>EXFO Inc</td><td>Stagiaire - Instrumentation</td><td>Quebec</td><td>2026-10-20</td></tr>
+<tr><td>Lactalis Group</td><td>R&amp;d Product Development Internship - 8 Months</td><td>Ingleside</td><td>2026-10-20</td></tr>
+<tr><td>GROWMARK Inc</td><td>Growmark Exploring Agriculture Admin Intern (summer 2027) - Central Ontario Fs - Drayton, On</td><td>Drayton</td><td>2026-10-20</td></tr>
+<tr><td>Electronic Arts</td><td>Vfx Intern</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>Altera</td><td>Fpga Ip Design Engineer - Intern</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>Marvell</td><td>Dsp & Systems Architecture Intern</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>Wasserman</td><td>Intern, Creator Partnerships</td><td>Can</td><td>2026-10-20</td></tr>
+<tr><td>CMHC</td><td>Summer 2027 Indigenous Internship Program</td><td>Ottawa</td><td>2026-10-20</td></tr>
+<tr><td>RTX Corporation</td><td>Stage - Hiver 2027 - Stagiaire En Ressources Humaines / Internship - Winter 2027 - Human Resources Internship</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Molson Coors Beverage</td><td>Brewery Operations Intern</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Molson Coors Beverage</td><td>Brewery Operations Intern - Ehs</td><td>Fraser Valley</td><td>2026-10-20</td></tr>
+<tr><td>Molson Coors Beverage</td><td>Brewery Ops Intern - Technical Services</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>Molson Coors Beverage</td><td>Brewery Operations Intern - Packaging</td><td>Fraser Valley</td><td>2026-10-20</td></tr>
+<tr><td>Molson Coors Beverage</td><td>Brewery Operations Intern - Quality</td><td>Fraser Valley</td><td>2026-10-20</td></tr>
+<tr><td>Molson Coors Beverage</td><td>Marketing Intern</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>DMA Inc</td><td>Canada Sales Tax Intern - Summer 2027</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>Alstom</td><td>Stagiaire - Configuration Et Gestion Des Changements</td><td>Saint-Bruno</td><td>2026-10-20</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Velocity - Corporate Security Internship/co-op - Winter 2027</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Stagiaire Assurance Qualité</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>GE Vernova Hitachi Nuclear Energy</td><td>Ge Vernova Nuclear Ehs Intern - 12 Month Co-op</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Indigenous Training Internship Program</td><td>Kincardine</td><td>2026-10-20</td></tr>
+<tr><td>Canadian Broadcasting Corporation</td><td>Cbc News Summer Scholarship</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>AltaGas</td><td>Altagas - 2027 Community And Indigenous Relations Intern</td><td>Prince Rupert</td><td>2026-10-20</td></tr>
+<tr><td>12</td><td>Assurance Intern - Winter 2027</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>Humber River Health</td><td>Pharmacist Intern</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>ABB Inc</td><td>Environment, Health & Safety Intern - Winter 2027</td><td>Quebec</td><td>2026-10-20</td></tr>
+<tr><td>Hitachi Vantara</td><td>Stagiaire En Maintenance/ Maintenance Intern</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Saatchi & Saatchi</td><td>Paid Search Intern</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>Hitachi Rail Canada Inc.</td><td>Project Management Intern (winter 2027, 8months)</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>Hitachi Vantara</td><td>Stagiaire En Administration - Hiver 2027 / Administration Intern - Winter 2027</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Hitachi Vantara</td><td>Stagiaire En Administration - Été 2027 / Administrative Intern – Summer 2027</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Hitachi Rail Canada Inc.</td><td>Project Management Intern (winter 2027, 12months)</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>THE·TEAM</td><td>Intern, Creative Strategy</td><td>Can</td><td>2026-10-20</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Gestion Et Analyse De Données Clients / Internship - Winter 2027 - Customer Master Data Analysis And Management</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>ProCogia</td><td>Sales Representative Intern</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>TV SD</td><td>Product Safety Intern 1</td><td>Ontario</td><td>2026-10-20</td></tr>
+<tr><td>Bombardier</td><td>Intern, Cabin Electrical Systems Integration (winter 2027)</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Bombardier</td><td>Intern, Industrial Engineering And Operations Support (winter 2027)</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Bombardier</td><td>Intern, In Cabin Electrical Systems Integration And Test (winter 2027)</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Bombardier</td><td>Intern, Materials & Processes Engineering (winter 2027)</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Desjardins</td><td>Technical Support Agent</td><td>Saint</td><td>2026-10-20</td></tr>
+<tr><td>Sophos</td><td>Threat Analyst 1</td><td>Canada</td><td>2026-10-20</td></tr>
+<tr><td>Toronto Marlies</td><td>Data Scientist</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>TD Bank</td><td>Data Scientist Ii</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>Onepoint</td><td>Développeur(se) Ia (python / Ia-ml)</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Regional Municipality of Wood Buffalo</td><td>Data Analyst</td><td>Fort McMurray</td><td>2026-10-20</td></tr>
+<tr><td>City of Toronto</td><td>Business Management Analyst</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technician, Lawrence Veterinary Clinic</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technician, Emergency, Mississauga Oakville Veterinary Emergency & Specialty Hospital</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technologist, Emergency, Guardian Veterinary Centre</td><td>Edmonton</td><td>2026-10-20</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technologist, Emergency, Calgary Animal Referral & Emergency Centre</td><td>Calgary</td><td>2026-10-20</td></tr>
+<tr><td>S.A.</td><td>Technicien Résident Région Sherbrooke</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>S.A.</td><td>Field Technician</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Walmart Canada</td><td>(can) Meat Associate</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Wlmqhght</td><td>(can) Customer Service Desk Associate</td><td>Cap</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate, Regional Opportunities - Vancouver Island</td><td>Vancouver Island</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate, Part-time - Barrhead, Ab (18.75 Hours/week)</td><td>Barrhead</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Westmorland, Saint John, Nb (26.25 Hours / Week)</td><td>Westmorland</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Whitehorse, Yt (26.25 Hours/week)</td><td>Whitehorse</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - The Pas, Mb (30 Hours/week)</td><td>The Pas</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Timmins - Business Banking Centre (26.25 Hours/week)</td><td>Timmins</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Smithers Branch, Smithers, Bc (22.50 Hours/week)</td><td>Smithers</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Sources Blvd, Ddo Qc (15h/week)</td><td>Ddo Qc</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Regent &amp; Priestman, Fredericton, Nb (30 Hours / Week)</td><td>Fredericton</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Port Elgin (18.75 Hours/week)</td><td>Port Elgin</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Penticton, Bc (15 Hours/week)</td><td>Penticton</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Petawawa, On (18.75 Hours/week)</td><td>Petawawa</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Rama Branch (22.5 Hours/week)</td><td>Rama</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Boucherville, Qc - 7.5 Hours/week</td><td>Montreal</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Yonge &amp; St. Clair, Toronto, On (22.5 Hours/week)</td><td>Toronto</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - River District, Vancouver Bc (26.25hrs/week)</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Shaughnessy, Port Coquitlam Bc (18.75hrs/week)</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Shaughnessy, Port Coquitlam Bc (30hrs/week)</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Mulberry Centre, Burnaby Bc (30hrs/week)</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Park Royal Shopping Centre, West Vancouver Bc (18.75hrs/week)</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Lougheed Town Centre, Burnaby Bc (11.25hrs/week)</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Burnaby North, Burnaby Bc (15hrs/week)</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Granville &amp; 12th, Vancouver, Bc(18.75hours/week)</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Burnaby Main, Burnaby Bc (18.75hrs/week)</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Burnaby Main, Burnaby Bc (15hrs/week)</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate-polo Park Shopping Centre, Winnipeg, Mb, 3months Contract(30 Hours/wk)</td><td>Winnipeg</td><td>2026-10-20</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - 49th Avenue &amp; Elliot Street, Vancouver, Bc(30hours/week)</td><td>Vancouver</td><td>2026-10-20</td></tr>
+<tr><td>Aston Carter</td><td>Administrative Assistant</td><td>Calgary</td><td>2026-10-20</td></tr>
+<tr><td>Intelcom / Dragonfly</td><td>Operations Coordinator</td><td>British Columbia</td><td>2026-10-20</td></tr>
+<tr><td>Intelcom</td><td>Operations Coordinator (seasonal)</td><td>Ontario</td><td>2026-10-20</td></tr>
+<tr><td>Dragonfly Shipping</td><td>Operations Coordinator</td><td>Newfoundland</td><td>2026-10-20</td></tr>
 </table>
