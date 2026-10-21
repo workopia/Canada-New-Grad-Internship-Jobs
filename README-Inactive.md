@@ -10110,4 +10110,115 @@
 <tr><td>Intelcom / Dragonfly</td><td>Operations Coordinator</td><td>British Columbia</td><td>2026-10-20</td></tr>
 <tr><td>Intelcom</td><td>Operations Coordinator (seasonal)</td><td>Ontario</td><td>2026-10-20</td></tr>
 <tr><td>Dragonfly Shipping</td><td>Operations Coordinator</td><td>Newfoundland</td><td>2026-10-20</td></tr>
+<tr><td>Real Time Executives Inc</td><td>Stage - Hiver 2027 - Support Aux Programmes Des Gap / Internship - Winter 2027 - Apu Programs Support</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Gestionnaire De La Clientèle / Internship - Winter 2027 - Customer Manager</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Service Technique Des Accessoires Moteurs / Internship - Winter 2027 - Engine Controls & Accessories Technical Services</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Environment, Health & Safety Co-op Student</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027- Stagiaire Dessinateur(trice)/intégrateur(trice) – Définition De Produit / Internship - Winter 2027 - Draftperson / Integrator Intern - Product Definition</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Support Aux Opérations, Département Des Accessoires / Internship - Winter 2027 - Technical Support, Accessories Department</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Logistique Et Gestion D’approvisionnement / Internship - Winter 2027 - Logistics And Material Management</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Ventes Globales / Internship - Winter 2027 - Global Sales</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Ingénierie De Services / Internship - Winter 2027 - Customer Engineering</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Communication / Internship - Winter 2027- Communication</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Genie De La Fabrication / Internship - Winter 2027 - Manufacturing Engineering,</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Real Time Executives Inc</td><td>Stage - Hiver 2027 - Développement D’indicateurs De Performance Et Gestion Des Processus Et Projets / Internship - Winter 2027- Development Of Performance Indicators And Process And Project Management</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Internship – Winter – Draftsperson, Product Definition</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Internship - Winter 2027 - Compressor Drafting Intern</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Retirement World</td><td>Client Advisor Intern</td><td>Kawartha Lakes</td><td>2026-10-21</td></tr>
+<tr><td>RBC</td><td>Banking Advisor Intern</td><td>Dawson Creek</td><td>2026-10-21</td></tr>
+<tr><td>Colliers Macaulay Nicolls Inc</td><td>Intern</td><td>Edmonton</td><td>2026-10-21</td></tr>
+<tr><td>Aston Carter</td><td>Office Support Specialist</td><td>Acheson</td><td>2026-10-21</td></tr>
+<tr><td>LumiQ</td><td>Gtm Engineer</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Jobgether</td><td>Client Support Specialist - Fund Accounting</td><td>Canada</td><td>2026-10-21</td></tr>
+<tr><td>Evident Canada</td><td>Concepteur Logiciel C++ Sénior</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Westinghouse Air Brake Technologies</td><td>Concepteur Logiciel C++ Sénior</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Jobgether</td><td>Applied Ai Engineer</td><td>Canada</td><td>2026-10-21</td></tr>
+<tr><td>Jobgether</td><td>It Risk And Compliance Analyst</td><td>Canada</td><td>2026-10-21</td></tr>
+<tr><td>Staples Canada</td><td>Accounting Analyst (contract)</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Whirlpool</td><td>Commercial Finance Analyst</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Emergency</td><td>Winnipeg</td><td>2026-10-21</td></tr>
+<tr><td>Wlmqhght</td><td>Pharmacy Assistant</td><td>(Can) On Hamilton 01128 Wm Supercenter</td><td>2026-10-21</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Women's Health Mother Baby Unit</td><td>Winnipeg</td><td>2026-10-21</td></tr>
+<tr><td>Bayshore HealthCare</td><td>Registered Nurse</td><td>Atikokan</td><td>2026-10-21</td></tr>
+<tr><td>Health Science North</td><td>Personal Support Worker</td><td>Sudbury</td><td>2026-10-21</td></tr>
+<tr><td>City of Toronto</td><td>Veterinary Technician 1</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Humber River Health</td><td>Registered Nurse, 11 East &amp; West Inpatient Surgery</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Shelter Support Worker</td><td>On</td><td>2026-10-21</td></tr>
+<tr><td>Chartwell Retirement Residences</td><td>Guest Attendant</td><td>Thornhill</td><td>2026-10-21</td></tr>
+<tr><td>McGill University</td><td>Research Assistant 1</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>McGill University</td><td>Research Assistant 2</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technician, Nuclear Medicine, Carp Road Animal Hospital</td><td>Ottawa</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Overnight Veterinary Technician, Er, Mississauga Oakville Veterinary Emergency & Specialty Hospital</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Registered Veterinary Technologist, Marda Loop Animal Hospital</td><td>Calgary</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Registered Veterinary Technologist, Er, Calgary Animal Referral & Emergency Centre</td><td>Calgary</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technologist, Como Lake Animal Hospital</td><td>Vancouver</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technologist, Lynn Valley Animal Hospital</td><td>Vancouver</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technician, Er/icu, Central Victoria Veterinary Hospital</td><td>Victoria</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technologist, Specialty, Central Victoria Veterinary Hospital</td><td>Victoria</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technologist, Surgery, Central Victoria Veterinary Hospital</td><td>Victoria</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Rehabilitation Technician, Rehabilitation And Sports Therapy, Central Victoria Veterinary Hospital</td><td>Victoria</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Registered Veterinary Technologist, Landing Animal Hospital</td><td>Calgary</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Mixed Animal Registered Veterinary Technologist, Animal Care Centre Of Strathmore</td><td>Calgary</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Registered Veterinary Technician, Dentistry, Alta Vista Specialty & Emergency Veterinary Centre</td><td>Ottawa</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technician (icu), Alta Vista Specialty & Emergency Veterinary Centre</td><td>Ottawa</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technician Emergency, Alta Vista Specialty & Emergency Veterinary Centre</td><td>Ottawa</td><td>2026-10-21</td></tr>
+<tr><td>VCA, Inc</td><td>Veterinary Technologist (signing Bonus), Applecross Veterinary Hospital</td><td>Nanaimo</td><td>2026-10-21</td></tr>
+<tr><td>Parkbridge</td><td>Maintenance Technician</td><td>Edmonton</td><td>2026-10-21</td></tr>
+<tr><td>CAE</td><td>Simulator Technician - Cmlu</td><td>Comox</td><td>2026-10-21</td></tr>
+<tr><td>Owens-Illinois</td><td>Électrotechnicien</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>S.A.</td><td>Shop Technician</td><td>Saint-Augustin</td><td>2026-10-21</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Temporary Sales Associate</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Temporary Sales Associate</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Yellowknife</td><td>2026-10-21</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Park Royal</td><td>Vancouver</td><td>2026-10-21</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Smartcentres Chatham, Non-mgmt</td><td>Chatham-Kent</td><td>2026-10-21</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Riviere Du Loup</td><td>RivièRe-Du-Loup</td><td>2026-10-21</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Square One</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Vaughan Mills</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Giant Tiger</td><td>Softgoods Associate (part-time)</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>The Salvation Army (Canada)</td><td>Casual Sales Associate</td><td>West Kelowna</td><td>2026-10-21</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Advisory Agent, Member And Client Experience</td><td>Saint</td><td>2026-10-21</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Warehouse Intern (12-month Contract)</td><td>Guelph</td><td>2026-10-21</td></tr>
+<tr><td>University of British Columbia</td><td>Sales Associate - Subway (auxiliary)</td><td>Vancouver</td><td>2026-10-21</td></tr>
+<tr><td>Bass Pro</td><td>Seasonal Home & Gift Associate</td><td>Edmonton</td><td>2026-10-21</td></tr>
+<tr><td>Bass Pro</td><td>Seasonal Events Associate</td><td>Edmonton</td><td>2026-10-21</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Fixed Term Contract</td><td>Calgary</td><td>2026-10-21</td></tr>
+<tr><td>Levis Media</td><td>Yorkdale - Part Time Stylist</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Levis Media</td><td>Seasonal Store Sales Associate, Levi's®, Yorkdale Shopping Centre, Toronto, On</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Wallaceburg</td><td>2026-10-21</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Gander</td><td>Gander</td><td>2026-10-21</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Kirkland</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>TD</td><td>Journée Des Emplois Étudiants 2026, Collège Ahuntsic- October 21 2026 - Future Opportunities - Customer Experience Associate</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate (spanish Language Skill An Asset)</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Mandarin Language Skills An Asset</td><td>Vancouver</td><td>2026-10-21</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Spanish Language Skills An Asset</td><td>Vancouver</td><td>2026-10-21</td></tr>
+<tr><td>Interactive Brokers Group, Inc.</td><td>Client Services Associate I</td><td>Vancouver</td><td>2026-10-21</td></tr>
+<tr><td>Colliers Macaulay Nicolls Inc</td><td>Sales Associate</td><td>Vancouver</td><td>2026-10-21</td></tr>
+<tr><td>Colliers Macaulay Nicolls Inc</td><td>Associate</td><td>Edmonton</td><td>2026-10-21</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Sales Associate - Temp - Tommy Hilfiger</td><td>North York</td><td>2026-10-21</td></tr>
+<tr><td>Calvin Klein</td><td>Sales Associate - Part-time - Calvin Klein</td><td>Vancouver</td><td>2026-10-21</td></tr>
+<tr><td>376</td><td>Sales Associate - Part-time</td><td>Edmonton</td><td>2026-10-21</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Associé(e) Aux Ventes - Temps Partiel</td><td>Vaudreuil</td><td>2026-10-21</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Sales Associate - Part-time</td><td>Cookstown</td><td>2026-10-21</td></tr>
+<tr><td>Wlmqhght</td><td>(can) Fashion Associate ( Open Availability)</td><td>Edmonton</td><td>2026-10-21</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate</td><td>Calgary</td><td>2026-10-21</td></tr>
+<tr><td>Michael Kors</td><td>Pt Sales Associate, Michael Kors - Markville</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Emploisahearst</td><td>Sales Associate</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Walmart Canada</td><td>(can) Self Checkout Attendant</td><td>Alma</td><td>2026-10-21</td></tr>
+<tr><td>Wlmqhght</td><td>(can) Fashion Associate</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Sephora</td><td>Beauty Advisor - Part Time</td><td>Edmonton</td><td>2026-10-21</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Case Coordinator</td><td>Winnipeg</td><td>2026-10-21</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - Toronto Plaza</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Circle K</td><td>Assistant(e) Gérant(e) -act</td><td>Baie-Comeau</td><td>2026-10-21</td></tr>
+<tr><td>Veolia / North America</td><td>Co-Op Process Coordinator</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Menzies Aviation LATAM</td><td>Administrateur De Station - Station Admin - Yul</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Kinectrics</td><td>Internal Project Controls Pey Student (summer 2027)</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Green Infrastructure Partners</td><td>Project Coordinator</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Ernst & Young</td><td>Audit Admin Assistant - Assurance</td><td>Toronto</td><td>2026-10-21</td></tr>
+<tr><td>Carter's, Inc.</td><td>Assistant-gerant De Magasin</td><td>Montreal</td><td>2026-10-21</td></tr>
+<tr><td>Bombardier</td><td>Administrative Assistant</td><td>Montreal</td><td>2026-10-21</td></tr>
 </table>
