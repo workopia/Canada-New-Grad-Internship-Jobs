@@ -10738,4 +10738,73 @@
 <tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - Edmonton</td><td>Edmonton</td><td>2026-10-25</td></tr>
 <tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - St John's</td><td>St John'S</td><td>2026-10-25</td></tr>
 <tr><td>The Bank of Nova Scotia</td><td>Scotiamcleod Administrative Associate - Markham</td><td>Toronto</td><td>2026-10-25</td></tr>
+<tr><td>Mlse</td><td>Corporate Communications Intern</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Mlse</td><td>Basketball & Franchise Operations Intern</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Mlse</td><td>Pr & Hockey Operations Intern</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Mlse</td><td>Live Events Intern</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Mlse</td><td>Premium & Vip Experiences Intern</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Mlse</td><td>Global Partnerships Marketing Intern</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Mlse</td><td>Integrated Commercial Marketing Intern</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>WSP</td><td>Stagiaire, Génie Mécanique</td><td>Montreal</td><td>2026-10-26</td></tr>
+<tr><td>Capitalonecareers Com Ph</td><td>Intern, Full Stack Software Engineer - Team Pickle - Winter 2027</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Capital One Canada</td><td>Intern, Full Stack Software Engineer - Team Pickle - Winter 2027</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Jobgether</td><td>Full Stack Software Engineer - Ai-first (</td><td>Canada</td><td>2026-10-26</td></tr>
+<tr><td>Jobgether</td><td>Développeur(euse) Backend Sénior</td><td>Canada</td><td>2026-10-26</td></tr>
+<tr><td>ILSC EDUCATION GROUP</td><td>It Support Auxiliary</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>ESET</td><td>Développeur Logiciel En Support À La Recherche Sur Les Menaces / Threat Research Software Engineer (m/f/n)</td><td>Montreal</td><td>2026-10-26</td></tr>
+<tr><td>Remitly</td><td>Software Development Engineer Ii (sde2) – Customer Data Platform</td><td>Vancouver</td><td>2026-10-26</td></tr>
+<tr><td>Remitly</td><td>Ai Native Software Engineer Ii</td><td>Vancouver</td><td>2026-10-26</td></tr>
+<tr><td>Quest Software</td><td>Ai Software Engineer - Identity Recovery (canada)</td><td>Canada</td><td>2026-10-26</td></tr>
+<tr><td>7shifts</td><td>Ai Workflow Engineer</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Retirement World</td><td>Staff Data Scientist - (global Security)</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Teledyne Technologies Incorporated</td><td>Développeur(se) Logiciel Ia/software Designer Sherlock Ai</td><td>Montreal</td><td>2026-10-26</td></tr>
+<tr><td>Reinsurance Group of America</td><td>Actuarial Student - Structured Finance</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Reinsurance Group of America</td><td>Actuarial Student - Emea Inforce Management</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Swiss Re</td><td>Pricing Actuary (hybrid, 80 - 100%)</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>CIBC US</td><td>Associate, Business Analytics</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>TD Bank</td><td>It Support Analyst Iv</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Wawanesa Mutual Insurance</td><td>Actuarial Expert - Pricing Modeling</td><td>Montreal</td><td>2026-10-26</td></tr>
+<tr><td>University Health Network</td><td>Veterinary Technician</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Sienna Senior Living</td><td>Personal Support Worker /permanent Casual</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Sienna Senior Living</td><td>Registered Nurse /permanent Casual</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Sienna Senior Living</td><td>Registered Nurse /temporary Full Time / Days</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>University Health Network</td><td>Personal Support Worker - Complex Continuing Care</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>University Health Network</td><td>Personal Support Worker - Brain Program</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Sienna Senior Living</td><td>Personal Support Worker- Temporary Part Time</td><td>North York</td><td>2026-10-26</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>University Health Network</td><td>Personal Support Worker - Medical Radiation Inpatient Oncology</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>University Health Network</td><td>Personal Support Worker</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>University Health Network</td><td>Personal Support Worker - Multi Organ Transplant</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>University Health Network</td><td>Pharmacy Technician</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Maintenance Services Worker</td><td>Wakaw</td><td>2026-10-26</td></tr>
+<tr><td>NORS, S.A</td><td>Field Technician</td><td>Montreal</td><td>2026-10-26</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Dundas &amp; Trafalgar (30 Hours/week)</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Brooklin Tc (15 Hours/week)</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Dufry AG</td><td>Df Temporary Sales Associate</td><td>Calgary</td><td>2026-10-26</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit -act</td><td>Montreal</td><td>2026-10-26</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle -act</td><td>Roberval</td><td>2026-10-26</td></tr>
+<tr><td>Winners</td><td>Associé / Associée De Magasin Temps Partiel Winners/homesense - Place Longueuil</td><td>Montreal</td><td>2026-10-26</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Temporary Part Time Retail Associates</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Salmon Arm</td><td>2026-10-26</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Truro</td><td>Truro</td><td>2026-10-26</td></tr>
+<tr><td>Wolseley Canada</td><td>Counter Sales Associate</td><td>Canmore</td><td>2026-10-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Laval Main Branch, Laval, Qc (11.25h/week)</td><td>Montreal</td><td>2026-10-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Dundas & Trafalgar (30 Hours/week)</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Bovaird & Highway 10 Branch (22.5 Hours/week)</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Brooklin Tc (15 Hours/week)</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Steeles & Silverstar (18.75 Hours/week)</td><td>Scarborough</td><td>2026-10-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Whistler Bc (15hrs/week)</td><td>Whistler</td><td>2026-10-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Queen Mary (18.75 Hours/week)</td><td>Montreal</td><td>2026-10-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associé Expérience Client - Queen Mary (18.75 Heures/semaine)</td><td>Montreal</td><td>2026-10-26</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Yaletown, Vancouver, Bc(30hours/week)</td><td>Vancouver</td><td>2026-10-26</td></tr>
+<tr><td>Sunbelt Rentals</td><td>Yard Associate</td><td>Kelowna Bc V</td><td>2026-10-26</td></tr>
+<tr><td>Gibson Engineering</td><td>Warehouse Representative</td><td>4171</td><td>2026-10-26</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Sudbury</td><td>2026-10-26</td></tr>
+<tr><td>Alamos Gold</td><td>Projects Administration Assistant</td><td>Lynn Lake</td><td>2026-10-26</td></tr>
+<tr><td>CIBC US</td><td>Administrative Assistant</td><td>Saskatoon</td><td>2026-10-26</td></tr>
+<tr><td>CIBC US</td><td>Market Administrative Assistant</td><td>White Rock</td><td>2026-10-26</td></tr>
+<tr><td>Extendicare The Meadows</td><td>Infrastructure Coordinator</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Nestle Ltd</td><td>Administrative Assistant</td><td>North York</td><td>2026-10-26</td></tr>
+<tr><td>University Health Network</td><td>Administrative Assistant I</td><td>Toronto</td><td>2026-10-26</td></tr>
+<tr><td>Under Armour</td><td>Store Supervisor (maternity Coverage) - 6 Months</td><td>Vaughan Mills</td><td>2026-10-26</td></tr>
 </table>
