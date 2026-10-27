@@ -10807,4 +10807,26 @@
 <tr><td>Nestle Ltd</td><td>Administrative Assistant</td><td>North York</td><td>2026-10-26</td></tr>
 <tr><td>University Health Network</td><td>Administrative Assistant I</td><td>Toronto</td><td>2026-10-26</td></tr>
 <tr><td>Under Armour</td><td>Store Supervisor (maternity Coverage) - 6 Months</td><td>Vaughan Mills</td><td>2026-10-26</td></tr>
+<tr><td>Kinaxis</td><td>Intern Cloud Developer, Platform Engineering</td><td>Ottawa</td><td>2026-10-27</td></tr>
+<tr><td>Mlse</td><td>Global Partnerships Media Integration Intern</td><td>Toronto</td><td>2026-10-27</td></tr>
+<tr><td>Capitalonecareers Com Ph</td><td>Intern, Backend Software Engineer - Team Interstellar - Winter 2027</td><td>Toronto</td><td>2026-10-27</td></tr>
+<tr><td>Weber Shandwick</td><td>Analyst, Data Science</td><td>Toronto</td><td>2026-10-27</td></tr>
+<tr><td>RGA</td><td>Actuarial Student - Emea Inforce Management</td><td>Toronto</td><td>2026-10-27</td></tr>
+<tr><td>Service New Brunswick</td><td>Asset Management Analyst</td><td>Fredericton</td><td>2026-10-27</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse - Repost</td><td>Winnipeg</td><td>2026-10-27</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nursing Assistant - Repost</td><td>Winnipeg</td><td>2026-10-27</td></tr>
+<tr><td>Sienna Senior Living</td><td>Personal Support Worker Temporary / Part-time Evening</td><td>Toronto</td><td>2026-10-27</td></tr>
+<tr><td>Colliers International</td><td>Maintenance Technician</td><td>Toronto</td><td>2026-10-27</td></tr>
+<tr><td>Tricon Residential</td><td>Maintenance Technician - The Spoke</td><td>Toronto</td><td>2026-10-27</td></tr>
+<tr><td>ALS</td><td>Maintenance Technician</td><td>Sudbury</td><td>2026-10-27</td></tr>
+<tr><td>Tailored Brands, Inc.</td><td>Retail Sales Associate Part Time</td><td>Toronto</td><td>2026-10-27</td></tr>
+<tr><td>Dollar Tree Canada</td><td>Customer Service Associate I</td><td>Yorkton</td><td>2026-10-27</td></tr>
+<tr><td>Dollar Tree</td><td>Customer Service Associate I</td><td>Vancouver</td><td>2026-10-27</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Tsawwassen, Delta Bc (15hrs/week)</td><td>Canada</td><td>2026-10-27</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Yaletown, Vancouver, Bc(30hours/week)</td><td>Canada</td><td>2026-10-27</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Whistler Bc (15hrs/week)</td><td>Whistler</td><td>2026-10-27</td></tr>
+<tr><td>Scotiabank</td><td>Scotiamcleod Administrative Associate - Markham</td><td>Toronto</td><td>2026-10-27</td></tr>
+<tr><td>Scotiabank</td><td>Scotiamcleod Administrative Associate - Victoria</td><td>Victoria</td><td>2026-10-27</td></tr>
+<tr><td>Scotiabank</td><td>Administrative Associate - Hamilton</td><td>Brantford</td><td>2026-10-27</td></tr>
+<tr><td>Bird Construction</td><td>Student Project Coordinator</td><td>Kelowna</td><td>2026-10-27</td></tr>
 </table>
