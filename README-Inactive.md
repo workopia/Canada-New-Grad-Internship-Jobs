@@ -11441,4 +11441,35 @@
 <tr><td>Ibstock</td><td>Administrative Assistant</td><td>Saint Jerome</td><td>2026-11-01</td></tr>
 <tr><td>U-Haul</td><td>Marketing Executive Assistant</td><td>Toronto</td><td>2026-11-01</td></tr>
 <tr><td>Ontario Power Generation Inc</td><td>It Project Coordinator</td><td>Toronto</td><td>2026-11-01</td></tr>
+<tr><td>Eaton</td><td>Intern, Field Service Representative (4/8 Months) - Ottawa, On</td><td>Ottawa</td><td>2026-11-02</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse Ii</td><td>Cartwright</td><td>2026-11-02</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nursing Assistant</td><td>Winnipeg</td><td>2026-11-02</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Home Care Attendant</td><td>Deloraine</td><td>2026-11-02</td></tr>
+<tr><td>Saskatchewan Health Authority (SHA)</td><td>Continuing Care Assistant</td><td>Kerrobert</td><td>2026-11-02</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Emergency</td><td>Winnipeg</td><td>2026-11-02</td></tr>
+<tr><td>North Bay Regional Health Centre</td><td>Registered Nurse, 10 East &amp; West Inpatient Surgery</td><td>Toronto</td><td>2026-11-02</td></tr>
+<tr><td>techaroundworld Canada</td><td>Part-time Registered Practical Nurse (rpn) - 7 Am To 3 Pm</td><td>Prince Of Wales</td><td>2026-11-02</td></tr>
+<tr><td>Bayshore HealthCare</td><td>RPN/LPN</td><td>Charlottetown</td><td>2026-11-02</td></tr>
+<tr><td>Saskatchewan Health Authority (SHA)</td><td>Nurse A Registered Nurse</td><td>Meadow Lake</td><td>2026-11-02</td></tr>
+<tr><td>Saskatchewan Health Authority (SHA)</td><td>Nurse B - Public Health Nurse</td><td>Ile-A-La-Crosse</td><td>2026-11-02</td></tr>
+<tr><td>Saskatchewan Health Authority</td><td>Nurse A - Registered Nurse General Duty Nurse - Sha-cypress Reg Hosp-integrated Nursing Unit</td><td>Swift Current</td><td>2026-11-02</td></tr>
+<tr><td>Bayshore HealthCare</td><td>Personal Support Worker</td><td>Toronto</td><td>2026-11-02</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Maintenance Ii</td><td>Ste. Rose Du Lac</td><td>2026-11-02</td></tr>
+<tr><td>Saskatchewan Health Authority (SHA)</td><td>Maintenance Services Worker</td><td>Cabri</td><td>2026-11-02</td></tr>
+<tr><td>NOV</td><td>Maintenance Technician</td><td>Nisku</td><td>2026-11-02</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Toronto</td><td>2026-11-02</td></tr>
+<tr><td>LOVISA</td><td>Retail Sales Associates- Bramalea</td><td>Bramalea</td><td>2026-11-02</td></tr>
+<tr><td>LOVISA</td><td>Retail Sales Associate- Square One</td><td>Square One</td><td>2026-11-02</td></tr>
+<tr><td>United Parcel Service</td><td>Early Morning Warehouse Associate</td><td>Toronto</td><td>2026-11-02</td></tr>
+<tr><td>United Parcel Service</td><td>Warehouse Associate</td><td>Guelph</td><td>2026-11-02</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Greater Toronto Area</td><td>Toronto</td><td>2026-11-02</td></tr>
+<tr><td>Estée Lauder</td><td>Beauty Advisor/artist Freelancer/on-call - Jo Malone London - West Edmonton Mall - Edmonton Ab</td><td>Edmonton</td><td>2026-11-02</td></tr>
+<tr><td>Estée Lauder</td><td>Beauty Advisor (freelance/on-call) - Jo Malone London - Pt Seasonal - Pacific Centre, Vancouver, Bc</td><td>Vancouver</td><td>2026-11-02</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Sales Associate</td><td>Rocky View</td><td>2026-11-02</td></tr>
+<tr><td>Circle K</td><td>Préposé Service À La Clientèle De Nuit -act</td><td>Chicoutimi</td><td>2026-11-02</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service Clientèle Stage -act</td><td>Port-Cartier</td><td>2026-11-02</td></tr>
+<tr><td>LOVISA</td><td>Retail Sales Associates</td><td>Nb</td><td>2026-11-02</td></tr>
+<tr><td>NewBalance</td><td>Retail Sales Associate (pt)</td><td>Nbis Chinook Centre</td><td>2026-11-02</td></tr>
+<tr><td>Match Retail</td><td>Part-time Sales Associate</td><td>Leaside</td><td>2026-11-02</td></tr>
+<tr><td>SARATECH CONSTRUCTION PTE. LTD.</td><td>ADMINISTRATIVE ASSISTANT</td><td>Kitchener</td><td>2026-11-02</td></tr>
 </table>
