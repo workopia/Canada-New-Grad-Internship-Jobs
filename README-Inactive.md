@@ -11692,4 +11692,113 @@
 <tr><td>The Salvation Army (Canada)</td><td>Christmas Kettle Coordinator - Temporary</td><td>Nelson</td><td>2026-11-04</td></tr>
 <tr><td>McGill Sport Medicine Clinic</td><td>Assistant Vice-president, Research Strategy And Services</td><td>James Admin</td><td>2026-11-04</td></tr>
 <tr><td>ParaMed</td><td>Part-time Administrative Assistant</td><td>Kenora</td><td>2026-11-04</td></tr>
+<tr><td>McKesson Corporation</td><td>Associate Marketing Specialist Intern – Winter 2027 / Stagiaire Associé En Marketing - Hiver 2026</td><td>Quebec</td><td>2026-11-05</td></tr>
+<tr><td>GIRO</td><td>Hiver 2027 - Stagiaire En Acquisition De Talents</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>Ferrero LADM</td><td>Marketing Intern, Nutella</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>SEMCO Energy Gas Company</td><td>Altagas - 2027 Sustainability Intern</td><td>Calgary</td><td>2026-11-05</td></tr>
+<tr><td>SILHRMS</td><td>Stagiaire, Civil</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>TMX Group of Companies</td><td>Project Analyst Intern</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Raytheon Australia</td><td>Internship - Winter 2027 - Engineering Student</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Industrialisation / Internship - Winter 2027 - Industrialization Production Readiness</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>Mercedes-Benz</td><td>Cyber Security Intern</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stagiaire Hiver 2027 - Sante-securite Au Travail / Internship Winter 2027 - Workplace Health And Safety</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>Amazon</td><td>Customer Acquisition Representative Intern – Summer 2027 (CAN)</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>SBDINC</td><td>Licensing Intern (jan-sept 2027)</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, Web Frameworks</td><td>Vancouver</td><td>2026-11-05</td></tr>
+<tr><td>Google</td><td>Graphics Software Developer, Chrome</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>Jobgether</td><td>Application Programmer</td><td>Canada</td><td>2026-11-05</td></tr>
+<tr><td>Magic The Gathering</td><td>Programmeur·euse D'interfaces</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>Schneider Electric</td><td>Technical Expert L3 - Customer Care</td><td>British Columbia</td><td>2026-11-05</td></tr>
+<tr><td>CRP Informationssysteme GmbH</td><td>(remote) Support Analyst</td><td>British Columbia</td><td>2026-11-05</td></tr>
+<tr><td>Jobgether</td><td>Support Software Engineer</td><td>Canada</td><td>2026-11-05</td></tr>
+<tr><td>TheCignaGroup LLC</td><td>Analyste, Soutien Technique - Bilingual It Service Desk Analyst - Express Scripts Canada</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Banklife</td><td>Agentic Engineer, Innovation</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>TD Ameritrade</td><td>Business Insights Analyst Ii</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>Sonepar Group</td><td>Spécialiste En Intelligence Artificielle (ia)</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Fraud Detection Analyst</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>British Standards Institution / BSI Group</td><td>Aerospace Auditor (as9100)</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Desjardins</td><td>Team Leader, Management Support And Expertise Support</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>SILHRMS</td><td>Business Analyst Ti Junior</td><td>LéVesque Ouest</td><td>2026-11-05</td></tr>
+<tr><td>British Standards Institution / BSI Group</td><td>Third-party Iso 27001 Auditor</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Vancity</td><td>Associate Investment Analyst</td><td>Vancity Centre</td><td>2026-11-05</td></tr>
+<tr><td>Loblaw Companies Ltd</td><td>Analyst, Product Information Management - Co-op Student</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Pharmacy Assistant</td><td>Kelowna</td><td>2026-11-05</td></tr>
+<tr><td>Extendicare Holyrood</td><td>Registered Nurse (rn) - Casual - Tuxedo Villa</td><td>Winnipeg</td><td>2026-11-05</td></tr>
+<tr><td>TELUS</td><td>Registered Pharmacy Technician</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Nashvillesecurityjob</td><td>(can) Pharmacy Assistant</td><td>Kindersley</td><td>2026-11-05</td></tr>
+<tr><td>Nashvillesecurityjob</td><td>(can) Regulated Pharmacy Technician</td><td>New Minas</td><td>2026-11-05</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Obstetrics, Gynecology And Neonatology Resource Team -nicu Specific - Repost</td><td>Winnipeg</td><td>2026-11-05</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nursing Assistant (unit Clerk Assistant) - Repost</td><td>Winnipeg</td><td>2026-11-05</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Central Relief Team - Infirmière Autorisée (n2) - Équipe Centrale De Relève</td><td>Winnipeg</td><td>2026-11-05</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nursing Assistant (uca)</td><td>Winnipeg</td><td>2026-11-05</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Hemodialysis</td><td>Winnipeg</td><td>2026-11-05</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Registered Nurse (n2) - Post Natal Unit</td><td>Winnipeg</td><td>2026-11-05</td></tr>
+<tr><td>Prairie Mountain Health</td><td>Nurse Ii</td><td>Grandview</td><td>2026-11-05</td></tr>
+<tr><td>Halton Region</td><td>Personal Support Worker</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Christmas Toy Support Worker</td><td>Yarmouth</td><td>2026-11-05</td></tr>
+<tr><td>The Salvation Army Canada and Bermuda</td><td>Personal Support Worker</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Sienna Senior Living</td><td>Personal Support Worker /permanent Casual</td><td>Mississauga</td><td>2026-11-05</td></tr>
+<tr><td>William Osler Health System</td><td>Pharmacy Technician – Pharmacy</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>ParaMed</td><td>Registered Nurse (rn)</td><td>Paramed</td><td>2026-11-05</td></tr>
+<tr><td>Yee Hong</td><td>Personal Support Worker</td><td>Scarborough Mcnicoll</td><td>2026-11-05</td></tr>
+<tr><td>University of British Columbia</td><td>Research Assistant/technician 3</td><td>Vancouver</td><td>2026-11-05</td></tr>
+<tr><td>NorQuest College</td><td>Instructor, Practical Nurse For Internationally Educated Nurses</td><td>Unknown</td><td>2026-11-05</td></tr>
+<tr><td>Sienna Senior Living</td><td>Personal Support Worker / Temporary Part Time /evening</td><td>North York</td><td>2026-11-05</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Pharmacy Assistant- Part Time</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Junior Achievement</td><td>Ingénieur(e) De Service Terrain Associé(e) (contrat À Durée Déterminée)</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>Wlmqhght</td><td>(can) Electronics Associate</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>Lactalis Group</td><td>Électromécanicien(ne)</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>Alberta Oil and Gas</td><td>Maintenance Technician</td><td>Edmonton</td><td>2026-11-05</td></tr>
+<tr><td>Agfa</td><td>Mechanical Technician</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Ledcor</td><td>Aircraft Maintenance Engineer M1/m2 - Resident Or Rotational - Yzf</td><td>Yellowknife</td><td>2026-11-05</td></tr>
+<tr><td>Stanley Black & Decker</td><td>Dewalt Factory Service Technician</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>SEGULA Technologies</td><td>Technicien de maintenance mécanique</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>Dollar Tree Canada</td><td>Customer Service Associate I</td><td>North Battleford</td><td>2026-11-05</td></tr>
+<tr><td>United Parcel Service</td><td>Warehouse Associate - Evening Shift</td><td>Ft. Erie</td><td>2026-11-05</td></tr>
+<tr><td>Cardinal Health</td><td>Warehouse Associate</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate</td><td>Little Current</td><td>2026-11-05</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Future Opportunities</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Tailored Brands, Inc.</td><td>Retail Sales Associate Part Time</td><td>616 Gardiner'S Road</td><td>2026-11-05</td></tr>
+<tr><td>Walmart Inc</td><td>Fashion Associate</td><td>Edmonton</td><td>2026-11-05</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Distribution Centre Team Associate - Operations Ii - Hvdc 6081 Pt > Ft Opportunity (thur To Sun 5:00pm-3:30am)</td><td>Rocky View</td><td>2026-11-05</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Distribution Centre Team Associate - Operations Ii - Hvdc Associates Only - Pt Shift Change - Mon To Wed (5:00pm - 3:30am)</td><td>No.44 Rocky View</td><td>2026-11-05</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Distribution Centre Team Associate - Operations Ii - Hvdc 6081 Ft Shift Change - Wed To Sat (5:00pm-3:30am)</td><td>Rocky View</td><td>2026-11-05</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Associé Des Rayons De La Mode</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>Walmart Inc</td><td>Self Checkout Attendant</td><td>Edmonton</td><td>2026-11-05</td></tr>
+<tr><td>TOMMY HILFIGER</td><td>Temporary Sales Associate - Part-time</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Winnipeg (Northgate)</td><td>2026-11-05</td></tr>
+<tr><td>Smcp</td><td>Retail Seasonal Sales Associate, Pt, Sandro, Royalmount, Montreal</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Mississauga &amp; Sandalwood (15 Hours/week)</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Mississauga &amp; Sandalwood (11.25 Hours/week)</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (part Time) - Greenlane Centre</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Co-op 2</td><td>Gas Bar Attendant I - Esgb</td><td>Edmonton</td><td>2026-11-05</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Riviere-du-loup</td><td>RivièRe-Du-Loup</td><td>2026-11-05</td></tr>
+<tr><td>Lush</td><td>Seasonal Ambassador - St Laurent Shopping Centre</td><td>Ottawa</td><td>2026-11-05</td></tr>
+<tr><td>Wesco</td><td>Warehouse Associate</td><td>Colborne</td><td>2026-11-05</td></tr>
+<tr><td>Ace Liquor Discounter</td><td>Sales Associate</td><td>Ace Liquor Discounter Hebert</td><td>2026-11-05</td></tr>
+<tr><td>Wine and Beyond</td><td>Sales Associate</td><td>Calgary</td><td>2026-11-05</td></tr>
+<tr><td>Tiffany & Co</td><td>Client Advisor, Full-time, Vancouver Oakridge Park</td><td>Vancouver</td><td>2026-11-05</td></tr>
+<tr><td>Tiffany & Co</td><td>Client Advisor, Part-time, Vancouver Oakridge Park</td><td>Vancouver</td><td>2026-11-05</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Self Checkout Attendant</td><td>Estevan</td><td>2026-11-05</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate/ Edmonton Outlet / Part Time / $17 Per Hour</td><td>Edmonton</td><td>2026-11-05</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate / Market Mall / Part Time- Fixed Term / $17 Per Hour</td><td>Calgary</td><td>2026-11-05</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate/ West Edmonton Mall / Full Time / $17 Per Hour</td><td>Edmonton</td><td>2026-11-05</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate/ Kingsway / Part Time / $17 Per Hour</td><td>Edmonton</td><td>2026-11-05</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate/ Pine Centre / Part Time / $20 Per Hour</td><td>Prince George</td><td>2026-11-05</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate/ New Sudbury / Full Time-fixed Term / $20 Per Hour</td><td>Sudbury</td><td>2026-11-05</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate/ Charlottetown / Full Time / $17.30 Per Hour</td><td>Charlottetown</td><td>2026-11-05</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate / Crossiron Mills / Full Time / $17 Per Hour</td><td>Rocky View</td><td>2026-11-05</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate/ Aberdeen / Full Time / $20 Per Hour</td><td>Kamloops</td><td>2026-11-05</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate / Brandon / Part Time / $17 Per Hour</td><td>Brandon</td><td>2026-11-05</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate / Londonderry / Full Time- Fixed Term / $17 Per Hour</td><td>Edmonton</td><td>2026-11-05</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate/ Vaughan Mills / Full Time / $20 Per Hour</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Circle K</td><td>Assistant(e) Gérant(e) -act</td><td>Saint-FéLicien</td><td>2026-11-05</td></tr>
+<tr><td>Intelcom Group</td><td>Operations Coordinator</td><td>Nova Scotia</td><td>2026-11-05</td></tr>
+<tr><td>RBC Dominion Securities</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>Epic Games</td><td>Executive Assistant</td><td>Montreal</td><td>2026-11-05</td></tr>
+<tr><td>City of Toronto</td><td>Administrative Assistant 2</td><td>Toronto</td><td>2026-11-05</td></tr>
+<tr><td>PepsiCo Inc</td><td>Adjoint(e) Administratif(ive)</td><td>Chicoutimi</td><td>2026-11-05</td></tr>
+<tr><td>Loblaw Companies Ltd</td><td>Assistant-gérant de département</td><td>Sept-Iles</td><td>2026-11-05</td></tr>
+<tr><td>dentalcorp.ca</td><td>Administrative Assistant - Deep River Dental</td><td>Deep River</td><td>2026-11-05</td></tr>
+<tr><td>West Market Dental</td><td>Administrative Assistant / Hygiene Coordinator - West Market Dental</td><td>Calgary</td><td>2026-11-05</td></tr>
 </table>
