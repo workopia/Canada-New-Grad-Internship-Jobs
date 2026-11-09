@@ -12203,4 +12203,44 @@
 <tr><td>Metrolinx</td><td>Executive Assistant</td><td>Toronto</td><td>2026-11-08</td></tr>
 <tr><td>CGI</td><td>Marketing And Communications Administrative Coordinator</td><td>Montreal</td><td>2026-11-08</td></tr>
 <tr><td>United Parcel Service</td><td>International Admin Assistant Ii</td><td>Calgary</td><td>2026-11-08</td></tr>
+<tr><td>TD Ameritrade</td><td>Cyber Security Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>Toast</td><td>Software Engineer Ii, Earnings</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>Intact Financial</td><td>Data Analyst I – 4-month Internship/coop (winter 2027)</td><td>Montreal</td><td>2026-11-09</td></tr>
+<tr><td>Intact Financial</td><td>Data Scientist I – 4-month Internship/co-op (winter 2027)</td><td>Montreal</td><td>2026-11-09</td></tr>
+<tr><td>Intact Financial</td><td>Ai Developer – 4-month Internship/co-op (winter 2027)</td><td>Montreal</td><td>2026-11-09</td></tr>
+<tr><td>TD Bank</td><td>Data Science Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>TD Ameritrade</td><td>Data Science Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>TD Bank</td><td>Ai2 Data Science Co-op (winter 2027)</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>TD Ameritrade</td><td>Ai2 Data Science Co-op (winter 2027)</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>Capital One Auto Finance</td><td>Intern, Data Scientist - Winter 2027</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>capitalonecareers.ca</td><td>Intern, Data Scientist - Winter 2027</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>Canadian Broadcasting Corporation</td><td>Ai Architect (t & I) (telework/hybrid)</td><td>Montreal</td><td>2026-11-09</td></tr>
+<tr><td>TD Bank</td><td>Tdi Actuarial Intern/co-op (winter 2027)</td><td>Montreal</td><td>2026-11-09</td></tr>
+<tr><td>TD Insurance</td><td>Tdi Actuarial Intern/co-op (winter 2027)</td><td>Montreal</td><td>2026-11-09</td></tr>
+<tr><td>TD Bank</td><td>Risk Management - Corporate Operational Risk Management Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>iA Financial Group</td><td>Actuarial Intern, Financial Results & Performance (winter 2027)</td><td>Montreal</td><td>2026-11-09</td></tr>
+<tr><td>TD Ameritrade</td><td>Market Risk Associate Rotational Program</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>General Duty Nurse (n2) - Women's Float Team</td><td>Winnipeg</td><td>2026-11-09</td></tr>
+<tr><td>Chartwell Retirement Residences</td><td>Guest Attendant</td><td>Maple</td><td>2026-11-09</td></tr>
+<tr><td>Co-op 2</td><td>Pharmacy Assistant</td><td>Meadow Lake</td><td>2026-11-09</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Mccall 3rd Fl (temporary Part-time)</td><td>Ontario</td><td>2026-11-09</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse - Mccall 2nd Fl (temporary Part-time)</td><td>On</td><td>2026-11-09</td></tr>
+<tr><td>HealthCareers SK 2</td><td>Nurse B - Registered Nurse</td><td>Swift Current</td><td>2026-11-09</td></tr>
+<tr><td>Trillium Health Partners</td><td>Registered Nurse / Temporary Part Time / Cvh / Paediatric Unit</td><td>On</td><td>2026-11-09</td></tr>
+<tr><td>Cargill</td><td>Registered Nurse</td><td>Calgary</td><td>2026-11-09</td></tr>
+<tr><td>Honeywell 3</td><td>Intern Bachelors Field Service Technician</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>Pet Valu</td><td>Full Time Sales Associate (store 3273 - Calgary Lakeview)</td><td>Calgary</td><td>2026-11-09</td></tr>
+<tr><td>Pet Valu</td><td>Part Time Sales Associate (store 3273 - Calgary Lakeview)</td><td>Calgary</td><td>2026-11-09</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Mandarin Language Skills An Asset</td><td>Vancouver</td><td>2026-11-09</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Spanish Language Skills An Asset</td><td>Vancouver</td><td>2026-11-09</td></tr>
+<tr><td>TD Ameritrade</td><td>Customer Experience Associate - Korean Language Skills And Asset</td><td>Vancouver</td><td>2026-11-09</td></tr>
+<tr><td>Best Buy Express</td><td>Seasonal Retail Sales Associate, Carrefour St-georges</td><td>Saint-Georges</td><td>2026-11-09</td></tr>
+<tr><td>BCE Inc</td><td>Seasonal Retail Sales Associate, Scarborough Town Centre</td><td>Scarborough</td><td>2026-11-09</td></tr>
+<tr><td>Walmart Canada</td><td>(can) Associé, Marchandise Générale</td><td>Montreal</td><td>2026-11-09</td></tr>
+<tr><td>Walmart</td><td>(can) Associé, Équipe De La Boulangerie Et De La Charcuterie</td><td>Montreal</td><td>2026-11-09</td></tr>
+<tr><td>Nashvillesecurityjob</td><td>(can) Electronics Associate (temp. 6 Months)</td><td>Scarborough</td><td>2026-11-09</td></tr>
+<tr><td>Walmart Canada</td><td>(can) Self Checkout Attendant</td><td>Vancouver</td><td>2026-11-09</td></tr>
+<tr><td>Walmart Canada</td><td>Dairy Frozen Associate</td><td>Edmonton</td><td>2026-11-09</td></tr>
+<tr><td>Walmart Canada</td><td>(can) Fashion Associate Evening Shift</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>Veolia / North America</td><td>Co-Op Process Coordinator</td><td>Toronto</td><td>2026-11-09</td></tr>
 </table>
