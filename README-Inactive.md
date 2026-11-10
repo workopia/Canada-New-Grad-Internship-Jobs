@@ -12243,4 +12243,61 @@
 <tr><td>Walmart Canada</td><td>Dairy Frozen Associate</td><td>Edmonton</td><td>2026-11-09</td></tr>
 <tr><td>Walmart Canada</td><td>(can) Fashion Associate Evening Shift</td><td>Toronto</td><td>2026-11-09</td></tr>
 <tr><td>Veolia / North America</td><td>Co-Op Process Coordinator</td><td>Toronto</td><td>2026-11-09</td></tr>
+<tr><td>Qualcomm</td><td>Fy27 Intern - Silicon Validation Internship - Canada (16 Months)</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Sonova</td><td>Hearing Care Professional Intern</td><td>Canada</td><td>2026-11-10</td></tr>
+<tr><td>Qualcomm</td><td>Fy27 Intern - Pal Firmware Development Internship - Canada (16 Months)</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Qualcomm</td><td>Fy27 Intern - Camera Systems Internship - Canada (16 Months)</td><td>Vancouver</td><td>2026-11-10</td></tr>
+<tr><td>Qualcomm</td><td>Fy27 Intern - Camera Hw Asic Verification Intern - Canada (12 Or 16 Months)</td><td>Vancouver</td><td>2026-11-10</td></tr>
+<tr><td>Kiewit Corporation</td><td>Structural Design Coordinator Intern - Kiewit Power Engineering</td><td>Calgary</td><td>2026-11-10</td></tr>
+<tr><td>Rsmcanada</td><td>Assurance Intern - Summer 2027</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Altera Corporation</td><td>Fpga Development Tools - Intern</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>GFT Technologies Canada Inc</td><td>Azure Cloud Operations & Application Support Specialist</td><td>B</td><td>2026-11-10</td></tr>
+<tr><td>Bmwofsalem</td><td>Workforce Analyst, Winter 2027 (co-op/internship) - 8 Months</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>BMO</td><td>Workforce Analyst, Winter 2027 (co-op/internship) - 8 Months</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>TD</td><td>Data Analyst Intern/co-op​ (winter 2027)</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>TD Ameritrade</td><td>Data Analyst Intern/co-op​ (winter 2027)</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>BMO</td><td>Actuarial Analyst, Pricing, Winter 2027 (co-op/internship) - 4 Months</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2027 Winter - Grm, Credit Risk Analyst Intern (8 Months)</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2027 Winter - Grm, Credit Risk Analyst Intern (8 Months)</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Analyste Financier En Ingénierie (power Bi) / Internship - Winter 2027 - Engineering Finance Analyst (power Bi)</td><td>Montreal</td><td>2026-11-10</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage Hiver 2027 - Analyste Financier - Trésorerie / Internship Winter 2027 - Finance Analyst - Treasury</td><td>Montreal</td><td>2026-11-10</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Analyste En Comptabilité Financière / Internship - Winter 2027 - Financial Accounting Analyst</td><td>Montreal</td><td>2026-11-10</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage - Hiver 2027 - Analyste En Intelligence D’affaires Et Gouvernance / Internship - Winter 2027 - Business Intelligence And Governance Analyst</td><td>Montreal</td><td>2026-11-10</td></tr>
+<tr><td>Pratt & Whitney Canada</td><td>Stage- Hiver 2027- Analyste D'affaires, Strategie Et Developpement Des Affaires / Internship - Winter 2027 -business Analyst, Strategy And Business Development</td><td>Montreal</td><td>2026-11-10</td></tr>
+<tr><td>TELUS Health</td><td>Actuarial Analyst - New Grad</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>Business Analyst, Rbc Amplify 2027, Halifax</td><td>Halifax</td><td>2026-11-10</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>Analyste D’entreprise, Rbc Amplifie 2027, Montréal / Business Analyst, Rbc Amplify 2027, Montreal</td><td>Montreal</td><td>2026-11-10</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Alternative Level Of Care</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Gim Cardiology</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Progressive And Geriatric Rehabilitation Unit</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Oak Valley Health</td><td>Patient Support Assistant, (cupe) Transitional Care Unit, Full Time - Markham Stouffville Hospital</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Health Science North</td><td>Personal Support Worker</td><td>Sudbury</td><td>2026-11-10</td></tr>
+<tr><td>ParaMed</td><td>Nurse (rpn/rn)</td><td>Paramed</td><td>2026-11-10</td></tr>
+<tr><td>North Bay Regional Health Centre</td><td>Pharmacist</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Marmon Group</td><td>Maintenance Mechanic 1</td><td>Woodbridge</td><td>2026-11-10</td></tr>
+<tr><td>Vestas</td><td>Degelis Technicien·ne En Éolien Ii Technician Ii Dégelis, Qc Queb</td><td>DéGelis</td><td>2026-11-10</td></tr>
+<tr><td>Honeywell International Inc.</td><td>Intern Bachelors Field Service Technician</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Throwbackpacks</td><td>Temporary Sales Associate - Part-time</td><td>Scarborough</td><td>2026-11-10</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Kelowna</td><td>2026-11-10</td></tr>
+<tr><td>Walmart Canada</td><td>(can) Customer Service Desk Associate</td><td>Estevan</td><td>2026-11-10</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Edmonton</td><td>2026-11-10</td></tr>
+<tr><td>Circle K</td><td>Préposé(e) Service À La Clientèle -act</td><td>Store</td><td>2026-11-10</td></tr>
+<tr><td>Desjardins General Insurance</td><td>Advisory Agent, Member And Client Experience</td><td>Caisse Desjardins De Bellechasse</td><td>2026-11-10</td></tr>
+<tr><td>Sundial Growers Inc.</td><td>Sales Associate</td><td>Calgary</td><td>2026-11-10</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate / Regent Mall / Part Time / $17 Per Hour</td><td>Fredericton</td><td>2026-11-10</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Temporary Fashion Associate - Heartland Town Center</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Apotex Inc.</td><td>Officer, Warehouse & Logistic</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Mahogany Branch, Ab (30 Hours/week) Contract- May, 2027</td><td>Mahogany Branch</td><td>2026-11-10</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Orchard Place, Kelowna, Bc (15 Hours/week)</td><td>Kelowna</td><td>2026-11-10</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Niagara &amp; Thorold, Welland (22.5 Hours/week)</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Markham Town Square (30 Hours/week)</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>Dyson</td><td>In-store Dyson Expert</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>GoodLife Fitness Centres Inc</td><td>Sales (fitness Advisor) - Fredericton Uptown Centre</td><td>Fredericton</td><td>2026-11-10</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Temporary Fashion Associate - Square One</td><td>Toronto</td><td>2026-11-10</td></tr>
+<tr><td>CIBC</td><td>Client Engagement Associate</td><td>Kitimat</td><td>2026-11-10</td></tr>
+<tr><td>CIBC</td><td>Client Engagement Associate [hourly]</td><td>Treherne</td><td>2026-11-10</td></tr>
+<tr><td>Emploisahearst</td><td>Sales Associate</td><td>Creston</td><td>2026-11-10</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Case Coordinator</td><td>Winnipeg</td><td>2026-11-10</td></tr>
+<tr><td>leHACK</td><td>Coordonnateur(trice) Exécutif Et Administratif / Executive & Administrative Coordinator</td><td>Montreal</td><td>2026-11-10</td></tr>
+<tr><td>Teck Resources Ltd</td><td>Program Planner (contract)</td><td>Vancouver</td><td>2026-11-10</td></tr>
 </table>
