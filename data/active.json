@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-15",
- "count": 826,
+ "asOf": "2026-11-16",
+ "count": 823,
  "jobs": {
   "43816467": {
    "id": "43816467",
@@ -108,6 +108,12 @@
    "id": "0acc2e59e4ee07a107563716dfdf51a5",
    "company": "Avanade",
    "role": "Winter Internship - Canada 2027",
+   "location": "Toronto"
+  },
+  "f6f1ac131a5909bc067b850d3becaf91": {
+   "id": "f6f1ac131a5909bc067b850d3becaf91",
+   "company": "Apple",
+   "role": "Apple Music Intern",
    "location": "Toronto"
   },
   "db3e0306bccaaac1fa0224e47244eb95": {
@@ -481,12 +487,6 @@
    "company": "HDR",
    "role": "Structural Co-op (winter 2027)",
    "location": "Vancouver"
-  },
-  "84dd5b4c110e0839b9a3e740c0721c8d": {
-   "id": "84dd5b4c110e0839b9a3e740c0721c8d",
-   "company": "Lockheed Martin Aeronautics",
-   "role": "Systems Engineering - Intern",
-   "location": "Palmdale"
   },
   "436cee6aa7c8d138ab81782ff2233310": {
    "id": "436cee6aa7c8d138ab81782ff2233310",
@@ -1052,6 +1052,12 @@
    "role": "Software Development Engineer, Early Career - 2026",
    "location": "Vancouver"
   },
+  "c43757d5c2067f887b9464d66bbfa2fe": {
+   "id": "c43757d5c2067f887b9464d66bbfa2fe",
+   "company": "SpaceX",
+   "role": "Full Stack Software Engineer (starlink)",
+   "location": "Palo Alto"
+  },
   "8b4ea982aa985b0e8efcc8a57fef0c0d": {
    "id": "8b4ea982aa985b0e8efcc8a57fef0c0d",
    "company": "Unity Technologies",
@@ -1526,12 +1532,6 @@
    "role": "Backend Engineer, Solving",
    "location": "Canada"
   },
-  "14cbf6edb4905119fce477e897d61490": {
-   "id": "14cbf6edb4905119fce477e897d61490",
-   "company": "Jobgether",
-   "role": "Staff Backend Software Engineer",
-   "location": "Canada"
-  },
   "6896e3d1e5eb88bb66de6ffe06612407": {
    "id": "6896e3d1e5eb88bb66de6ffe06612407",
    "company": "frontpage",
@@ -1699,6 +1699,12 @@
    "company": "Discover",
    "role": "Associate, Data Scientist - New Grad, 2027 Start",
    "location": "Toronto"
+  },
+  "0041aacd48495057c501279e07ad6e94": {
+   "id": "0041aacd48495057c501279e07ad6e94",
+   "company": "Aecon U.S.",
+   "role": "Data Analyst",
+   "location": "Toronto +1"
   },
   "27380b4d7fdc2d74bae344af9dbb0272": {
    "id": "27380b4d7fdc2d74bae344af9dbb0272",
@@ -2174,12 +2180,6 @@
    "role": "Data Scientist, Global Aml Transaction Monitoring",
    "location": "Toronto"
   },
-  "e699a21f92f4ebf90f68771360cd4019": {
-   "id": "e699a21f92f4ebf90f68771360cd4019",
-   "company": "GHGSat",
-   "role": "Data Scientist",
-   "location": "Montreal"
-  },
   "02ef75c64c83daffb2b9dc0555d3c03b": {
    "id": "02ef75c64c83daffb2b9dc0555d3c03b",
    "company": "Alstom",
@@ -2438,12 +2438,6 @@
    "role": "Lh Actuarial Analyst Intern/co-op (winter 2027)",
    "location": "Toronto"
   },
-  "0bab7870dd403e31ae6972f17c655e53": {
-   "id": "0bab7870dd403e31ae6972f17c655e53",
-   "company": "CIBC US",
-   "role": "Business Analyst, Controllership- (winter 2027 Co-op)",
-   "location": "Toronto"
-  },
   "a4ea0d54c3650e7258088a972bea7c5d": {
    "id": "a4ea0d54c3650e7258088a972bea7c5d",
    "company": "IBM",
@@ -2538,18 +2532,6 @@
    "id": "909c025ca5bb0b022ab7cd75cbd6813e",
    "company": "Openfarminc",
    "role": "Financial Analyst – New Graduate",
-   "location": "Toronto"
-  },
-  "0ee5479bb5b8821ecdf02907042877f8": {
-   "id": "0ee5479bb5b8821ecdf02907042877f8",
-   "company": "BDO",
-   "role": "Business Analyst , Data & Analytics - New Grad (january 2027)",
-   "location": "Toronto"
-  },
-  "2e34347f610e38892f4779836884e705": {
-   "id": "2e34347f610e38892f4779836884e705",
-   "company": "Bmo Harris Bank N.A",
-   "role": "Senior Analyst, Non Trading Market Risk (new Or Recent Graduate Opportunity) Immediate Start Date",
    "location": "Toronto"
   },
   "f3cc506fcf2b02d4762d7104e7339d13": {
@@ -3038,6 +3020,12 @@
    "role": "Business Advisor - Vaughan Market, On",
    "location": "Woodbridge"
   },
+  "a7fd864336f4ba64dcc5d756dd1fb4f2": {
+   "id": "a7fd864336f4ba64dcc5d756dd1fb4f2",
+   "company": "Prairie Sky Co-op",
+   "role": "Pharmacist",
+   "location": "Weyburn"
+  },
   "9efb2f073461314281222a54c2e2a87d": {
    "id": "9efb2f073461314281222a54c2e2a87d",
    "company": "Capital District Health Authority",
@@ -3512,11 +3500,11 @@
    "role": "Pharmacist - Pharmacy",
    "location": "Shasta"
   },
-  "4bcf0a639ad8a6d27da348ebe4b95145": {
-   "id": "4bcf0a639ad8a6d27da348ebe4b95145",
-   "company": "Walmartpr",
-   "role": "(can) Pharmacy Assistant",
-   "location": "Edson"
+  "afcfcb43e15de557ea4f531fb39a3754": {
+   "id": "afcfcb43e15de557ea4f531fb39a3754",
+   "company": "Walmart Inc",
+   "role": "(can) Electronics Associate",
+   "location": "Peace River"
   },
   "f8368951b2c586a0fe6db97a9b6344ab": {
    "id": "f8368951b2c586a0fe6db97a9b6344ab",
@@ -3920,12 +3908,6 @@
    "role": "Field Service Engineer - Automation",
    "location": "Montreal"
   },
-  "9eb60fec702e4ca1f24de05c1eba6315": {
-   "id": "9eb60fec702e4ca1f24de05c1eba6315",
-   "company": "Walmart Inc",
-   "role": "(can) Electronics Associate",
-   "location": "Pembroke"
-  },
   "d64b873e899137c1d16dd489e69f698e": {
    "id": "d64b873e899137c1d16dd489e69f698e",
    "company": "Saskatchewan Health Authority (SHA)",
@@ -3997,6 +3979,78 @@
    "company": "Kerry",
    "role": "Mécanicien(ne) de machines fixes-classe 4B",
    "location": "Ste-Claire"
+  },
+  "a4c699764d15a77bf4912d83318750b3": {
+   "id": "a4c699764d15a77bf4912d83318750b3",
+   "company": "Throwbackpacks",
+   "role": "Temporary Sales Associate - Part-time",
+   "location": "Toronto"
+  },
+  "e74fcea4bafcf7aa0047b338b9aca633": {
+   "id": "e74fcea4bafcf7aa0047b338b9aca633",
+   "company": "TJX Australia (TK Maxx)",
+   "role": "Retail Store Associate Part Time Seasonal Homesense Durham Centre",
+   "location": "Toronto"
+  },
+  "c3bd6c265230b84961eb8db3e17c1647": {
+   "id": "c3bd6c265230b84961eb8db3e17c1647",
+   "company": "Lowe's Companies Inc",
+   "role": "Full Time - Sales Associate - Plumbing - Opening",
+   "location": "Chino Hills"
+  },
+  "07ad9dc16e5b3b4a7d22349e74e75d01": {
+   "id": "07ad9dc16e5b3b4a7d22349e74e75d01",
+   "company": "Lowe's Companies Inc",
+   "role": "Full Time - Sales Associate - Inside Lawn & Garden - Closing",
+   "location": "Huntington Beach"
+  },
+  "0c379485e6e162b2ed2cbe4c7b3d874e": {
+   "id": "0c379485e6e162b2ed2cbe4c7b3d874e",
+   "company": "Jobsinhearst",
+   "role": "Sales Associate",
+   "location": "Kamloops"
+  },
+  "b63ab027ff3795c6e5dae9869ef90284": {
+   "id": "b63ab027ff3795c6e5dae9869ef90284",
+   "company": "Staples Business",
+   "role": "Sales Associate-print&services",
+   "location": "Toronto"
+  },
+  "7080574bdc5f43df1ac52335c4d3c6ed": {
+   "id": "7080574bdc5f43df1ac52335c4d3c6ed",
+   "company": "Staples Business",
+   "role": "Sales Associate",
+   "location": "Toronto"
+  },
+  "b994d15b350615624027f2b40ebab313": {
+   "id": "b994d15b350615624027f2b40ebab313",
+   "company": "Best Buy Canada",
+   "role": "Associé(e) Aux Ventes - Mobile (temps Partiel) / Mobile Sales Associate (part Time)",
+   "location": "Canada"
+  },
+  "89faaccc28b329a11784bf0f257a15d5": {
+   "id": "89faaccc28b329a11784bf0f257a15d5",
+   "company": "Walmart Inc",
+   "role": "(can) Associé, Équipe De La Boulangerie Et De La Charcuterie",
+   "location": "Montreal"
+  },
+  "b90f7ef010399a80ae395dd4d0b6fcec": {
+   "id": "b90f7ef010399a80ae395dd4d0b6fcec",
+   "company": "Walmart Inc",
+   "role": "(can) Associé, Équipe Des Activités De Protection Des Biens",
+   "location": "Montreal"
+  },
+  "b0cc9ecbe5846a1e0f940d81bc6a0f44": {
+   "id": "b0cc9ecbe5846a1e0f940d81bc6a0f44",
+   "company": "Walmart Inc",
+   "role": "(can) Self Checkout Attendant",
+   "location": "Drayton Valley"
+  },
+  "5040fb939bcf6fd26ad5120e08ff7501": {
+   "id": "5040fb939bcf6fd26ad5120e08ff7501",
+   "company": "Walmart Inc",
+   "role": "Deli Bakery Team Associate",
+   "location": "Toronto"
   },
   "0afe7193baeb931d32aa3f8018cea00e": {
    "id": "0afe7193baeb931d32aa3f8018cea00e",
@@ -4106,12 +4160,6 @@
    "role": "(can) Dairy Frozen Associate",
    "location": "Toronto"
   },
-  "b201256ba137f6cfb291508019eb0f8f": {
-   "id": "b201256ba137f6cfb291508019eb0f8f",
-   "company": "Walmart Inc",
-   "role": "(can) Self Checkout Attendant",
-   "location": "Antigonish"
-  },
   "7a8fe1244bbc7604a37260e20dc01803": {
    "id": "7a8fe1244bbc7604a37260e20dc01803",
    "company": "Walmart Inc",
@@ -4124,18 +4172,6 @@
    "role": "Customer Experience Associate - Inviting Applicants Who Identify As First Nation (status And Non-status) Inuit, And Métis",
    "location": "Toronto"
   },
-  "cb8ef443bf5f3440ddbf98e88a6fac41": {
-   "id": "cb8ef443bf5f3440ddbf98e88a6fac41",
-   "company": "Staples Business",
-   "role": "Sales Associate",
-   "location": "Fort McMurray +1"
-  },
-  "459466445023356e51f502df18165082": {
-   "id": "459466445023356e51f502df18165082",
-   "company": "Staples Business",
-   "role": "Sales Associate-print&services",
-   "location": "Edmonton"
-  },
   "845cf0267a092e6917361608db67e229": {
    "id": "845cf0267a092e6917361608db67e229",
    "company": "Cardinal Health",
@@ -4147,12 +4183,6 @@
    "company": "RCL - Reitmans Canada Ltd/Ltée",
    "role": "Temporary Fashion Associate - Square One",
    "location": "Toronto"
-  },
-  "98ba8780801c874f8218b61f0a6957ef": {
-   "id": "98ba8780801c874f8218b61f0a6957ef",
-   "company": "Throwbackpacks",
-   "role": "Temporary Sales Associate - Part-time",
-   "location": "Ottawa +1"
   },
   "214b8b991e67cb7e8e89addd272d7fb1": {
    "id": "214b8b991e67cb7e8e89addd272d7fb1",
@@ -4430,53 +4460,11 @@
    "role": "Sales Associate-print&services",
    "location": "Edmonton"
   },
-  "ec04f648a7a57303bda75141502833e0": {
-   "id": "ec04f648a7a57303bda75141502833e0",
-   "company": "Michael Hill Jeweller",
-   "role": "Sales Associate / Prairie Mall / Part Time / $17 Per Hour",
-   "location": "Grand Prairie"
-  },
-  "67d26a6b82cc66b3d72c58641e68a02e": {
-   "id": "67d26a6b82cc66b3d72c58641e68a02e",
-   "company": "Carter's, Inc.",
-   "role": "Associe Aux Ventes",
-   "location": "Montreal"
-  },
-  "e294ffd452f106aa567e18fb1ca50bb7": {
-   "id": "e294ffd452f106aa567e18fb1ca50bb7",
-   "company": "JYSK Canada",
-   "role": "Collègue Aux Ventes",
-   "location": "Montreal"
-  },
-  "52a0e189efed06dc4a03d17a4550d1ae": {
-   "id": "52a0e189efed06dc4a03d17a4550d1ae",
-   "company": "Cintas Corporation",
-   "role": "Warehouse Associate - Loader/unloader - 3rd Shift",
+  "a2b34d2b02ab2b440aaa47a0b0a5a2f5": {
+   "id": "a2b34d2b02ab2b440aaa47a0b0a5a2f5",
+   "company": "Town of Richmond Hill",
+   "role": "Richmond Hill Administrative Assistant Members Of Council On L4b 3p4",
    "location": "Toronto"
-  },
-  "70c3a374fe6546e679563382f0226a7d": {
-   "id": "70c3a374fe6546e679563382f0226a7d",
-   "company": "Rogers Communications Inc",
-   "role": "Warehouse Associate-day",
-   "location": "Toronto"
-  },
-  "82fb634b0e5a8b77d47eb555ee639c2a": {
-   "id": "82fb634b0e5a8b77d47eb555ee639c2a",
-   "company": "iA Financial Group",
-   "role": "Sales Associate, Investments Individual Savings And Retirement (vancouver)",
-   "location": "Vancouver"
-  },
-  "b7c756f7c906db2b6de46f7156cc2763": {
-   "id": "b7c756f7c906db2b6de46f7156cc2763",
-   "company": "RCL - Reitmans Canada Ltd/Ltée",
-   "role": "Fashion Associate (part Time) - Mayfield Common",
-   "location": "Edmonton"
-  },
-  "e89cc23dc5e6df9e606a7ac9773c2d25": {
-   "id": "e89cc23dc5e6df9e606a7ac9773c2d25",
-   "company": "Ao Ds",
-   "role": "Work From Home - Client Relations Associate",
-   "location": "Vancouver"
   },
   "11245a6044034a7ba33199ff3712b3a5": {
    "id": "11245a6044034a7ba33199ff3712b3a5",
@@ -4603,6 +4591,12 @@
    "company": "Health Science North",
    "role": "Administrative Secretary",
    "location": "Sudbury +2"
+  },
+  "975b1cf63ac4690c53438b58c0659190": {
+   "id": "975b1cf63ac4690c53438b58c0659190",
+   "company": "UN Women",
+   "role": "Administrative Associate",
+   "location": "Montreal"
   },
   "c896deba664d1ff932da8dc366699de9": {
    "id": "c896deba664d1ff932da8dc366699de9",
@@ -4944,18 +4938,6 @@
    "id": "19324d6ca3ef1563733b40cae6eb04bf",
    "company": "Sun Life",
    "role": "Executive Assistant, Regulatory Office",
-   "location": "Toronto"
-  },
-  "52bd61f4360be933bec27f3a9385655d": {
-   "id": "52bd61f4360be933bec27f3a9385655d",
-   "company": "Brock University",
-   "role": "Administrative Assistant, Faculty Of Social Sciences",
-   "location": "St Catharines"
-  },
-  "fafd9c9c4733a0957ac078480932bb80": {
-   "id": "fafd9c9c4733a0957ac078480932bb80",
-   "company": "Alstom",
-   "role": "Vie - Project Coordinator",
    "location": "Toronto"
   }
  }

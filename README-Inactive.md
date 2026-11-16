@@ -12989,4 +12989,26 @@
 <tr><td>PwC Sweden</td><td>Administrative Assistant</td><td>London</td><td>2026-11-15</td></tr>
 <tr><td>Marketers on Demand</td><td>Project Coordinator</td><td>Scarborough</td><td>2026-11-15</td></tr>
 <tr><td>University Health Network</td><td>Data Coordinator</td><td>Toronto</td><td>2026-11-15</td></tr>
+<tr><td>Lockheed Martin Aeronautics</td><td>Systems Engineering - Intern</td><td>Palmdale</td><td>2026-11-16</td></tr>
+<tr><td>Jobgether</td><td>Staff Backend Software Engineer</td><td>Canada</td><td>2026-11-16</td></tr>
+<tr><td>GHGSat</td><td>Data Scientist</td><td>Montreal</td><td>2026-11-16</td></tr>
+<tr><td>CIBC US</td><td>Business Analyst, Controllership- (winter 2027 Co-op)</td><td>Toronto</td><td>2026-11-16</td></tr>
+<tr><td>BDO</td><td>Business Analyst , Data & Analytics - New Grad (january 2027)</td><td>Toronto</td><td>2026-11-16</td></tr>
+<tr><td>Bmo Harris Bank N.A</td><td>Senior Analyst, Non Trading Market Risk (new Or Recent Graduate Opportunity) Immediate Start Date</td><td>Toronto</td><td>2026-11-16</td></tr>
+<tr><td>Walmartpr</td><td>(can) Pharmacy Assistant</td><td>Edson</td><td>2026-11-16</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Electronics Associate</td><td>Pembroke</td><td>2026-11-16</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Self Checkout Attendant</td><td>Antigonish</td><td>2026-11-16</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate</td><td>Fort McMurray +1</td><td>2026-11-16</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate-print&services</td><td>Edmonton</td><td>2026-11-16</td></tr>
+<tr><td>Throwbackpacks</td><td>Temporary Sales Associate - Part-time</td><td>Ottawa +1</td><td>2026-11-16</td></tr>
+<tr><td>Michael Hill Jeweller</td><td>Sales Associate / Prairie Mall / Part Time / $17 Per Hour</td><td>Grand Prairie</td><td>2026-11-16</td></tr>
+<tr><td>Carter's, Inc.</td><td>Associe Aux Ventes</td><td>Montreal</td><td>2026-11-16</td></tr>
+<tr><td>JYSK Canada</td><td>Collègue Aux Ventes</td><td>Montreal</td><td>2026-11-16</td></tr>
+<tr><td>Cintas Corporation</td><td>Warehouse Associate - Loader/unloader - 3rd Shift</td><td>Toronto</td><td>2026-11-16</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Warehouse Associate-day</td><td>Toronto</td><td>2026-11-16</td></tr>
+<tr><td>iA Financial Group</td><td>Sales Associate, Investments Individual Savings And Retirement (vancouver)</td><td>Vancouver</td><td>2026-11-16</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Fashion Associate (part Time) - Mayfield Common</td><td>Edmonton</td><td>2026-11-16</td></tr>
+<tr><td>Ao Ds</td><td>Work From Home - Client Relations Associate</td><td>Vancouver</td><td>2026-11-16</td></tr>
+<tr><td>Brock University</td><td>Administrative Assistant, Faculty Of Social Sciences</td><td>St Catharines</td><td>2026-11-16</td></tr>
+<tr><td>Alstom</td><td>Vie - Project Coordinator</td><td>Toronto</td><td>2026-11-16</td></tr>
 </table>
