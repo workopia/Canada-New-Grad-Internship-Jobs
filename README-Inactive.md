@@ -13011,4 +13011,35 @@
 <tr><td>Ao Ds</td><td>Work From Home - Client Relations Associate</td><td>Vancouver</td><td>2026-11-16</td></tr>
 <tr><td>Brock University</td><td>Administrative Assistant, Faculty Of Social Sciences</td><td>St Catharines</td><td>2026-11-16</td></tr>
 <tr><td>Alstom</td><td>Vie - Project Coordinator</td><td>Toronto</td><td>2026-11-16</td></tr>
+<tr><td>Stripe</td><td>Software Engineer, Early Career — Immediate Start</td><td>Toronto</td><td>2026-11-17</td></tr>
+<tr><td>Jobgether</td><td>Payment Support Specialist</td><td>Canada</td><td>2026-11-17</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer, Solving</td><td>Canada</td><td>2026-11-17</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Automation Engineer</td><td>Canada</td><td>2026-11-17</td></tr>
+<tr><td>Retirement World</td><td>Data Scientist, Global Aml Transaction Monitoring</td><td>Toronto</td><td>2026-11-17</td></tr>
+<tr><td>Metrolinx</td><td>Co-op Student, Fraud & Forensics</td><td>Canada</td><td>2026-11-17</td></tr>
+<tr><td>TD Bank</td><td>Lh Actuarial Analyst Intern/co-op (winter 2027)</td><td>Toronto</td><td>2026-11-17</td></tr>
+<tr><td>Yee Hong</td><td>Personal Support Worker</td><td>Scarborough Mcnicoll</td><td>2026-11-17</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Inpatient Cardiology</td><td>Toronto +1</td><td>2026-11-17</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Pocu/pacu</td><td>Toronto</td><td>2026-11-17</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - General Internal Medicine</td><td>Toronto</td><td>2026-11-17</td></tr>
+<tr><td>Yee Hong</td><td>Registered Practical Nurse (temporary Part-time, Evening Shift)</td><td>Scarborough Finch</td><td>2026-11-17</td></tr>
+<tr><td>Yee Hong</td><td>Home Support Worker (opseu)-gta</td><td>Scarborough Finch</td><td>2026-11-17</td></tr>
+<tr><td>MBK Senior Living</td><td>Medication Technician - Ft Am</td><td>Ft Am</td><td>2026-11-17</td></tr>
+<tr><td>MBK Senior Living</td><td>Caregiver Full-time Am - Memory Care</td><td>Ca</td><td>2026-11-17</td></tr>
+<tr><td>MBK Senior Living</td><td>Caregiver Pt Pm - Memory Care</td><td>CA</td><td>2026-11-17</td></tr>
+<tr><td>CAMH</td><td>Pharmacist - Pharmacy Services</td><td>Toronto</td><td>2026-11-17</td></tr>
+<tr><td>Prime Healthcare</td><td>Pharmacist - Pharmacy</td><td>Shasta</td><td>2026-11-17</td></tr>
+<tr><td>ArcelorMittal</td><td>Mécanicien(ne) Industriel - Usine De Saint-patrick</td><td>Montreal</td><td>2026-11-17</td></tr>
+<tr><td>Kerry</td><td>Mécanicien(ne) de machines fixes-classe 4B</td><td>Ste-Claire</td><td>2026-11-17</td></tr>
+<tr><td>TD</td><td>Customer Experience Associate - Cantonese Language Skills An Asset</td><td>Vancouver</td><td>2026-11-17</td></tr>
+<tr><td>TJX Companies</td><td>Associé / Associée De Magasin De Détail Temps Plein Winners/homesense Quartier Dix30 Brossard</td><td>Montreal</td><td>2026-11-17</td></tr>
+<tr><td>Lowe's</td><td>Full Time - Sales Associate - Plumbing - Opening</td><td>Chino Hills</td><td>2026-11-17</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate</td><td>Montreal</td><td>2026-11-17</td></tr>
+<tr><td>Behr Paint Company</td><td>Pro Sales Associate - Pointe-claire</td><td>Montreal</td><td>2026-11-17</td></tr>
+<tr><td>Behr Paint Company</td><td>Pro Sales Associate - Beaubien Ouest</td><td>Montreal</td><td>2026-11-17</td></tr>
+<tr><td>Behr Paint Company</td><td>Pro Sales Associate - Saint Henri</td><td>Montreal</td><td>2026-11-17</td></tr>
+<tr><td>Macy’s</td><td>Retail Sales Ambassador - Tailored Clothing, Newport Fashion Island - Full Time</td><td>Newport Beach</td><td>2026-11-17</td></tr>
+<tr><td>Macy’s</td><td>Retail Sales Associate - Womens Shoes, Plaza Bonita - Part Time</td><td>National City</td><td>2026-11-17</td></tr>
+<tr><td>Compass Group Canada</td><td>Game Day Retail Associate Part Time Seasonal</td><td>Edmonton</td><td>2026-11-17</td></tr>
+<tr><td>Staples Canada</td><td>Sales Associate-print&services</td><td>Edmonton</td><td>2026-11-17</td></tr>
 </table>
