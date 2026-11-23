@@ -13733,4 +13733,46 @@
 <tr><td>Unknown 394</td><td>Administrative Assistant</td><td>San Diego +1</td><td>2026-11-22</td></tr>
 <tr><td>Everforth Apex</td><td>Business Support and Administrative - Administrative Assistant 1</td><td>Vancouver +1</td><td>2026-11-22</td></tr>
 <tr><td>Winnipeg Regional Health Authority</td><td>Administrative Assistant 4 - Critical Care Program</td><td>Winnipeg</td><td>2026-11-22</td></tr>
+<tr><td>CIBC US</td><td>Internal Audit - Intern</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Analytical Operations Co-op</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>IBM</td><td>Enterprise Strategy Consultant Intern (January 2027 - 4 Months Term - Toronto, Ottawa)</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>IBM</td><td>Organizational Change Management Consultant Intern (January 2027 - 4 Months - Toronto)</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>IBM</td><td>IBM Payments Centre Strategy and Business Consultant Intern (January 2027 - 8 Months - Toronto)</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>Openfarminc</td><td>Financial Analyst – New Graduate</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>CIBC</td><td>Associate, Trade Finance - Global Transaction Banking</td><td>Toronto +1</td><td>2026-11-23</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Nurse Ii</td><td>Boissevain</td><td>2026-11-23</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Home Care Attendant</td><td>Beausejour</td><td>2026-11-23</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Mental Health Liaison Nurse- Nurse Iii</td><td>Swan River</td><td>2026-11-23</td></tr>
+<tr><td>McGill University</td><td>Graduate Student Research Assistant</td><td>Montreal</td><td>2026-11-23</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Staff Pharmacist</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>Sienna Senior Living</td><td>Personal Support Worker</td><td>Campbellford</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse Systemic Therapy</td><td>Toronto +1</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Pharmacy Technician - Multi-site Inpatient</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Inpatient Leukemia</td><td>Toronto +1</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Brain Program</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Pharmacy Technician - Inventory Services</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Pharmacy Technician - Clinical Trials Pm</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Endoscopy</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Pocu/pacu</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Cvicu</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Stroke/neuro</td><td>Toronto +1</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Registered Nurse - Complex Continuing Care</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>University Health Network</td><td>Client Care Attendant - Complex Continuing Care</td><td>Toronto +1</td><td>2026-11-23</td></tr>
+<tr><td>IWK Health</td><td>Care Team Assistant, 6 North Ambulatory Clinic</td><td>Halifax +2</td><td>2026-11-23</td></tr>
+<tr><td>Prime Healthcare</td><td>Registered Nurse (rn) - Med/surg</td><td>Shasta</td><td>2026-11-23</td></tr>
+<tr><td>Winnipeg Regional Health Authority</td><td>Maintenance Ii</td><td>Swan River</td><td>2026-11-23</td></tr>
+<tr><td>Albertsons</td><td>Maintenance Mechanic - Bread Plant</td><td>Commerce</td><td>2026-11-23</td></tr>
+<tr><td>Black & McDonald Limited</td><td>Jr. Hvac Maintenance Mechanic</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>TD Bank</td><td>Customer Experience Associate</td><td>Trenton</td><td>2026-11-23</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>Ab</td><td>2026-11-23</td></tr>
+<tr><td>Walmart Inc</td><td>(can) Self Checkout Attendant</td><td>Kamloops</td><td>2026-11-23</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - York Plaza, North York, On (26.25 Hours)</td><td>North York</td><td>2026-11-23</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Kingsway & Victoria, Vancouver, Bc(15hours/week)</td><td>Vancouver</td><td>2026-11-23</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Clayton Market, Bc(18.75hours/week)</td><td>Vancouver</td><td>2026-11-23</td></tr>
+<tr><td>BCE Inc</td><td>Retail Sales Associate, Riviere-du-loup</td><td>RivièRe-Du-Loup</td><td>2026-11-23</td></tr>
+<tr><td>UN Women</td><td>Administrative Associate</td><td>Montreal</td><td>2026-11-23</td></tr>
+<tr><td>Experis</td><td>Payroll Administrative Assistant</td><td>Little Canada</td><td>2026-11-23</td></tr>
+<tr><td>Mycineplex</td><td>Assistant-gérant À Temps Partiel - Cinéma Cineplex Odeon Brossard & Vip</td><td>Montreal</td><td>2026-11-23</td></tr>
+<tr><td>iA Private Wealth</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-11-23</td></tr>
 </table>
