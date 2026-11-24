@@ -13775,4 +13775,42 @@
 <tr><td>Experis</td><td>Payroll Administrative Assistant</td><td>Little Canada</td><td>2026-11-23</td></tr>
 <tr><td>Mycineplex</td><td>Assistant-gérant À Temps Partiel - Cinéma Cineplex Odeon Brossard & Vip</td><td>Montreal</td><td>2026-11-23</td></tr>
 <tr><td>iA Private Wealth</td><td>Administrative Assistant</td><td>Toronto</td><td>2026-11-23</td></tr>
+<tr><td>Grainger</td><td>Gcan Supplier Performance Analyst Intern</td><td>Thornhill +1</td><td>2026-11-24</td></tr>
+<tr><td>Grainger</td><td>Gcan Inventory Analyst Intern</td><td>Thornhill +1</td><td>2026-11-24</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, Permissions CX</td><td>Toronto</td><td>2026-11-24</td></tr>
+<tr><td>Texas Instruments Incorporated</td><td>Software Engineer – Quality Assurance</td><td>Toronto</td><td>2026-11-24</td></tr>
+<tr><td>BMO</td><td>Ai Engineer, Winter 2027 (co-op/internship) - 8 Months</td><td>Toronto</td><td>2026-11-24</td></tr>
+<tr><td>Advanced Micro Devices (AMD)</td><td>Generative Ai Engineer - Graphics</td><td>Austin +4</td><td>2026-11-24</td></tr>
+<tr><td>TD Bank</td><td>Data Scientist - Credit Risk (ath 5531)</td><td>Toronto</td><td>2026-11-24</td></tr>
+<tr><td>BMO</td><td>Actuarial Analyst, Winter 2027 (co-op/internship) - 4 Months</td><td>Toronto</td><td>2026-11-24</td></tr>
+<tr><td>Hydro Quebec</td><td>Analyste Fonctionnel I</td><td>Montreal</td><td>2026-11-24</td></tr>
+<tr><td>Brown & Brown</td><td>Insurance Operations Auditor</td><td>San Diego</td><td>2026-11-24</td></tr>
+<tr><td>Extendicare West Oak Village</td><td>Rpn</td><td>On</td><td>2026-11-24</td></tr>
+<tr><td>Extendicare West Oak Village</td><td>Personal Support Worker (psw) - Pt Zero Hrs - Ridgeview</td><td>Ridgeview</td><td>2026-11-24</td></tr>
+<tr><td>Extendicare West Oak Village</td><td>Personal Support Worker</td><td>On</td><td>2026-11-24</td></tr>
+<tr><td>UBC</td><td>Research Assistant</td><td>Vancouver</td><td>2026-11-24</td></tr>
+<tr><td>techaroundworld Canada</td><td>Assistant Cook Part Time (16 Hours Biweekly / 3pm-7pm)</td><td>Leaside</td><td>2026-11-24</td></tr>
+<tr><td>Herc Rentals Inc</td><td>Heavy Duty Field Service Mechanic</td><td>Toronto</td><td>2026-11-24</td></tr>
+<tr><td>Carter's, Inc.</td><td>Sales Associate</td><td>London (Wellington)</td><td>2026-11-24</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate</td><td>North York</td><td>2026-11-24</td></tr>
+<tr><td>CIBC US</td><td>Client Engagement Associate</td><td>Calgary</td><td>2026-11-24</td></tr>
+<tr><td>Staples Business</td><td>Sales Associate-print&services</td><td>Toronto</td><td>2026-11-24</td></tr>
+<tr><td>Sonepar Group</td><td>Warehouse Associate</td><td>Oceanside</td><td>2026-11-24</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Place Vertu</td><td>Montreal</td><td>2026-11-24</td></tr>
+<tr><td>Rogers Communications Inc</td><td>Sales Associate - Fido Bayshore</td><td>Ottawa</td><td>2026-11-24</td></tr>
+<tr><td>RCL - Reitmans Canada Ltd/Ltée</td><td>Temporary Fashion Associate - Oshawa Centre</td><td>Toronto</td><td>2026-11-24</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate, Part-time - Edson, Ab (18.75 Hours/week)</td><td>Edson</td><td>2026-11-24</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - York Plaza, North York, On (26.25 Hours)</td><td>North York</td><td>2026-11-24</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Hazeldean (15 Hours/week)</td><td>Hazeldean</td><td>2026-11-24</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Clayton Market, Bc(18.75hours/week)</td><td>Clayton</td><td>2026-11-24</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Laval, Qc (15 Hours/week)</td><td>Montreal</td><td>2026-11-24</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Kingsway &amp; Victoria, Vancouver, Bc(15hours/week)</td><td>Vancouver</td><td>2026-11-24</td></tr>
+<tr><td>Scotiabank</td><td>Customer Experience Associate - Ironwood Plaza, Richmond, Bc(30hours/week)</td><td>Vancouver</td><td>2026-11-24</td></tr>
+<tr><td>Ao Ds</td><td>Work From Home - Part-time Client Experience Associate</td><td>Vancouver</td><td>2026-11-24</td></tr>
+<tr><td>Performance Food Group</td><td>Warehouse Associate Full Case Part Time</td><td>Toronto</td><td>2026-11-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate, Part-time - Edson, Ab (18.75 Hours/week)</td><td>Edson</td><td>2026-11-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Ironwood Plaza, Richmond, Bc(30hours/week)</td><td>Vancouver</td><td>2026-11-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Associé.e, Expérience Client - Drummondville, Qc - 18.75 Heures/semaine</td><td>Drummondville +1</td><td>2026-11-24</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Customer Experience Associate - Tracadie-sheila, Nb (26.25 Hours / Week)</td><td>Tracadie-Sheila</td><td>2026-11-24</td></tr>
+<tr><td>Health Science North</td><td>Administrative Secretary</td><td>Sudbury +2</td><td>2026-11-24</td></tr>
 </table>
